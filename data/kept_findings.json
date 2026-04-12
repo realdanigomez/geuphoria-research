@@ -302,6 +302,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Get Online Coaching Clients with No Followers, No Ads, No Experience",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-12T16:03:09.501175",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for fitness coaches with limited resources—a primary struggle for coaches starting out or scaling without paid marketing budget.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -412,15 +422,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 30,
+    "niche_kept": 31,
     "niche_rejected": 50,
-    "niche_scanned": 80,
+    "niche_scanned": 81,
     "comp_kept": 11,
-    "comp_rejected": 70,
-    "comp_scanned": 81,
-    "last_scan": "2026-04-12T14:13:01.495634",
-    "total_kept": 41,
-    "total_rejected": 120,
+    "comp_rejected": 81,
+    "comp_scanned": 92,
+    "last_scan": "2026-04-12T16:05:24.658753",
+    "total_kept": 42,
+    "total_rejected": 131,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

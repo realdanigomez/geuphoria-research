@@ -599,13 +599,123 @@
       "status": "reject",
       "reason": "No specific competitive intelligence about fitness coaching strategies, offers, programs, or market positioning; only a generic philosophical concept title with a vague search reference.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Beginner Guide To Cold Outreach (this booked me 50,000+ meetings)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T16:04:13.343622",
+      "status": "reject",
+      "reason": "Title claims result metrics but content appears to be generic cold outreach tactics unrelated to fitness coaching business strategy, positioning, or market-specific approaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Beginner To Millionaire Guide in 2025 (22+ Hours)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T16:04:14.682206",
+      "status": "reject",
+      "reason": "Generic success course title with no specific details about fitness coaching business model, strategies, content approach, offers, programs, or audience growth tactics that would inform competitive analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "pov: 26 year old online entrepreneur opening an office in China",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:18.330066",
+      "status": "reject",
+      "reason": "No specific information about fitness coaching business models, strategies, content approaches, or competitive positioning. Generic entrepreneurship content about opening an office in China is not actionable competitive intelligence for fitness coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Systems \\u0026 Scaling Insights",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:19.246591",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence; requires actual content/findings about Daniel Dalen's strategies, offers, or positioning to be valuable",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Barcelona to Shanghai",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:20.485768",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only contains a search query with no data about coaching strategies, offers, content approaches, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "New Shanghai Office",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:21.796445",
+      "status": "reject",
+      "reason": "No competitive intelligence provided. Finding only mentions a Shanghai office location with no details about coaching strategies, content, programs, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Shots with the receptionist",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:23.168178",
+      "status": "reject",
+      "reason": "Contains no competitive intelligence; appears to be a personal social interaction unrelated to business strategy, coaching content, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Deep work \\u0026 Martial Arts",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:24.096764",
+      "status": "reject",
+      "reason": "Contains only a generic search query without any actual competitive intelligence about strategies, content, offers, programs, audience tactics, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Sam Ovens Hired Mark Dhamma For Coaching (And Maybe You Should Too?)",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:27.861399",
+      "status": "reject",
+      "reason": "Title is clickbait speculation without substantive details about business strategies, content approaches, programs, or market positioning that would inform competitive analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Mark got started",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:29.030487",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query with no data about strategies, offerings, positioning, or tactics",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Mark heard about me",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-12T16:04:30.031567",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only mentions a search query without details about strategies, offers, programs, positioning, or audience tactics",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 81,
+    "scanned": 92,
     "kept": 11,
-    "rejected": 70,
-    "last_scan": "2026-04-12T14:13:01.494257",
+    "rejected": 81,
+    "last_scan": "2026-04-12T16:05:24.657146",
     "platforms": [
       "YouTube",
       "Google",

@@ -689,13 +689,23 @@
       "status": "keep",
       "reason": "Addresses industry reputation damage and trainer quality issues, which directly impacts client acquisition, trust-building, and market positioning for online fitness coaches competing in a crowded space.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Online Coaching Clients with No Followers, No Ads, No Experience",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-12T16:03:09.501175",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for fitness coaches with limited resources—a primary struggle for coaches starting out or scaling without paid marketing budget.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 80,
-    "kept": 30,
+    "scanned": 81,
+    "kept": 31,
     "rejected": 50,
-    "last_scan": "2026-04-12T14:11:49.251761",
+    "last_scan": "2026-04-12T16:04:09.355364",
     "platforms": [
       "Reddit",
       "YouTube",
