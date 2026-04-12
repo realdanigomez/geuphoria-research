@@ -21,12 +21,17 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 psycopg2-binary
 
       - name: Run research scraper
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scraper.py
+
+      - name: Sync to cloud database
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: python sync_to_cloud.py
 
       - name: Commit results
         run: |
