@@ -102,6 +102,76 @@
     },
     {
       "source": "YouTube",
+      "title": "Why Online Fitness Coaches Struggle to Hit $10K-$40K Months (and the 2 Skills That Fix It)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-12T05:36:11.385815",
+      "status": "keep",
+      "reason": "Directly addresses income ceiling problems ($10K-$40K months) and identifies specific skill gaps causing failure—core pain point for scaling fitness coaches and essential for understanding their business obstacles.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to get clients as an online fitness coach using Instagram and Tiktok",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-12T05:36:22.908497",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific platform tactics (Instagram/TikTok), which is a primary income driver and struggle for online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to get your first 10 clients as an online fitness coach if you don't have a following #onlinefit",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-12T05:36:30.708546",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific milestone (first 10 clients) and constraint (no existing following), which is a core struggle for coaches starting out or bootstrapping their business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $1M Coaching Business | 4 SIMPLE Methods",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-12T05:36:42.187586",
+      "status": "keep",
+      "reason": "Directly addresses revenue scaling goals for coaching businesses, which is a primary pain point for fitness coaches seeking to grow beyond 6-figure income and understand business model methods.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Preventing Physical \\u0026 Emotional Burnout As A Trainer",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-12T05:36:45.720562",
+      "status": "keep",
+      "reason": "Directly addresses trainer burnout, a core pain point for online fitness coaches; content likely contains strategies to prevent burnout which impacts client retention, business sustainability, and coach longevity.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "BURNOUT in the GYM: How to Recognize it, Fix it \\u0026 Avoid It!",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-12T05:36:46.764152",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout—a core pain point for online fitness coaches—and promises recognition, solutions, and prevention strategies that could inform content on sustainable business practices and client retention.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mental / Physical Burnout signs",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-12T05:36:50.509630",
+      "status": "keep",
+      "reason": "Directly addresses burnout, a core pain point for online fitness coaches affecting retention, pricing power, and business sustainability. Understanding burnout signs enables coaches to identify when they need systems/delegation to scale.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -169,17 +239,67 @@
       "status": "keep",
       "reason": "Contains competitor strategy/content data",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Made $500k with a free skool group in the first 14 days",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T05:38:00.119693",
+      "status": "keep",
+      "reason": "Reveals specific monetization strategy and timeline for free community-based model, demonstrating rapid revenue generation tactics relevant to coaching business positioning and audience conversion methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to break past $30k-$100k/mo as an agency, coach or consultant",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T05:38:02.243223",
+      "status": "keep",
+      "reason": "Reveals competitor revenue positioning strategy and growth messaging for coaching businesses in $30k-$100k/mo range, indicating market segment tactics and positioning language used to attract coaches seeking scaling strategies",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Channel Pain Into Profit \\u0026 Scale To 10K/Month (Raw Q\\u0026A Advice)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T05:38:05.123728",
+      "status": "keep",
+      "reason": "Contains specific scaling strategy (10K/month revenue target), Q&A format reveals coaching business monetization tactics, and positioning of Charlie Morgan as a competitor in the fitness coaching space with audience growth insights.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "niche_kept": 10,
-    "niche_rejected": 11,
-    "niche_scanned": 21,
-    "comp_kept": 7,
-    "comp_rejected": 21,
-    "comp_scanned": 28,
-    "last_scan": "2026-04-12T05:09:36.134579",
-    "total_kept": 17,
-    "total_rejected": 32
+    "niche_kept": 17,
+    "niche_rejected": 36,
+    "niche_scanned": 53,
+    "comp_kept": 10,
+    "comp_rejected": 50,
+    "comp_scanned": 60,
+    "last_scan": "2026-04-12T05:38:50.179574",
+    "total_kept": 27,
+    "total_rejected": 86,
+    "ai_model": "claude-haiku-4-5",
+    "niche_platforms": [
+      "Reddit",
+      "YouTube",
+      "Google",
+      "LinkedIn",
+      "Quora",
+      "Medium",
+      "Twitter/X",
+      "Facebook",
+      "Skool",
+      "Instagram"
+    ],
+    "comp_platforms": [
+      "YouTube",
+      "Google",
+      "Reddit",
+      "LinkedIn",
+      "Twitter/X"
+    ]
   }
 }
