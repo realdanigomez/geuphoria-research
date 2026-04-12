@@ -439,13 +439,103 @@
       "status": "reject",
       "reason": "Search query alone provides no competitive intelligence; lacks any actual data about Charlie Morgan's coaching business, strategies, offers, programs, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I became #1 in a \\",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-12T10:26:09.286083",
+      "status": "reject",
+      "reason": "Title is incomplete and search query alone provides no specific competitive intelligence about strategies, content, offers, programs, or positioning. Requires actual content analysis to be valuable.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exit Interviews",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-12T10:26:10.202393",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence; lacks substantive data on strategies, offers, programs, or positioning details needed for analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scheduling Deep Work and Management Time",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T10:26:14.104243",
+      "status": "reject",
+      "reason": "Generic time management advice unrelated to fitness coaching business models, strategies, or competitive positioning. No specific intelligence about competitor offers, content approaches, or audience growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building Confidence in Sales Without Prior Results",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T10:26:15.235060",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about fitness coaching business models, strategies, content approaches, or market positioning provided. Title suggests sales coaching rather than fitness coaching context.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Viewing Business as a Video Game and Aiming for Billionaire Status",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T10:26:16.198667",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about fitness coaching business models, content strategies, offers, or audience growth tactics - only a generic business mindset concept unrelated to fitness coaching market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Closed Sam Ovens On High Performance Coaching (Funny Story)",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-12T10:26:21.938797",
+      "status": "reject",
+      "reason": "Title suggests anecdotal storytelling rather than systematic competitive intelligence about business models, strategies, content approaches, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-12T10:26:23.045669",
+      "status": "reject",
+      "reason": "Search query alone provides no substantive competitive intelligence; lacks data on actual strategies, content, offers, programs, or market positioning of Sam Ovens or competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Funny Story",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-12T10:26:24.117085",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided - only a search query name with no details about strategies, content, offers, programs, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Outro",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-12T10:26:25.247282",
+      "status": "reject",
+      "reason": "Generic search query with no substantive intelligence about competitor strategies, content, offers, programs, or positioning. Contains no details about business model, tactics, or market approach.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 65,
+    "scanned": 74,
     "kept": 11,
-    "rejected": 54,
-    "last_scan": "2026-04-12T08:12:12.496843",
+    "rejected": 63,
+    "last_scan": "2026-04-12T10:27:19.642537",
     "platforms": [
       "YouTube",
       "Google",

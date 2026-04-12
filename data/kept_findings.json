@@ -192,6 +192,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Why Most Nutrition Coaches Burnout (And How to Avoid It)",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-12T10:25:11.385417",
+      "status": "keep",
+      "reason": "Directly addresses burnout—a critical pain point for online fitness coaches—and implies solutions for retention and sustainability, which impacts business viability and scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -302,15 +312,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 19,
-    "niche_rejected": 38,
-    "niche_scanned": 57,
+    "niche_kept": 20,
+    "niche_rejected": 40,
+    "niche_scanned": 60,
     "comp_kept": 11,
-    "comp_rejected": 54,
-    "comp_scanned": 65,
-    "last_scan": "2026-04-12T08:12:12.498082",
-    "total_kept": 30,
-    "total_rejected": 92,
+    "comp_rejected": 63,
+    "comp_scanned": 74,
+    "last_scan": "2026-04-12T10:27:19.643824",
+    "total_kept": 31,
+    "total_rejected": 103,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
