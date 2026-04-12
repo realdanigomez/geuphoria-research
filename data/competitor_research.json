@@ -1,0 +1,80 @@
+{
+  "entries": [
+    {
+      "source": "YouTube",
+      "title": "Helping an Online Fitness Coach Get Customers Through Content",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-12T05:09:22.765172",
+      "status": "keep",
+      "reason": "Contains competitor strategy/content data",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Spent $10,000 on Charlie Morgan’s Course (My Results)",
+      "text": "Search: Charlie Morgan coaching",
+      "url": "",
+      "time": "2026-04-12T05:09:25.265050",
+      "status": "keep",
+      "reason": "Contains competitor strategy/content data",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I bought the course",
+      "text": "Search: Charlie Morgan coaching",
+      "url": "",
+      "time": "2026-04-12T05:09:25.265063",
+      "status": "keep",
+      "reason": "Contains competitor strategy/content data",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Course overview",
+      "text": "Search: Charlie Morgan coaching",
+      "url": "",
+      "time": "2026-04-12T05:09:25.265067",
+      "status": "keep",
+      "reason": "Contains competitor strategy/content data",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Problems with the course",
+      "text": "Search: Charlie Morgan coaching",
+      "url": "",
+      "time": "2026-04-12T05:09:25.265074",
+      "status": "keep",
+      "reason": "Contains competitor strategy/content data",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Should you get the course?",
+      "text": "Search: Charlie Morgan coaching",
+      "url": "",
+      "time": "2026-04-12T05:09:25.265081",
+      "status": "keep",
+      "reason": "Contains competitor strategy/content data",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How do you maintain growth",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T05:09:27.804117",
+      "status": "keep",
+      "reason": "Contains competitor strategy/content data",
+      "track": "competitor"
+    }
+  ],
+  "stats": {
+    "scanned": 28,
+    "kept": 7,
+    "rejected": 21,
+    "last_scan": "2026-04-12T05:09:36.134170"
+  }
+}
