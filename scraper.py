@@ -294,8 +294,23 @@ def run():
     # Twitter — competitor activity
     total_c += scrape_platform_google('Twitter/X', ['Alex Hormozi site:twitter.com fitness','coaching business site:x.com'], seen, comp, 'competitor')
 
+    # Quora — competitor discussions
+    total_c += scrape_platform_google('Quora', ['fitness coaching business mentor site:quora.com','online coaching program review site:quora.com'], seen, comp, 'competitor')
+
+    # Medium — competitor articles
+    total_c += scrape_platform_google('Medium', ['fitness business coaching site:medium.com','online coach scaling site:medium.com'], seen, comp, 'competitor')
+
+    # Facebook — competitor groups
+    total_c += scrape_platform_google('Facebook', ['fitness coaching business mentor site:facebook.com','online coach community site:facebook.com'], seen, comp, 'competitor')
+
+    # Instagram — competitor content
+    total_c += scrape_platform_google('Instagram', ['fitness business coach site:instagram.com','online coaching mentor site:instagram.com'], seen, comp, 'competitor')
+
+    # Skool — competitor communities
+    total_c += scrape_platform_google('Skool', ['fitness coaching site:skool.com','online coach community site:skool.com'], seen, comp, 'competitor')
+
     comp['stats']['last_scan'] = datetime.utcnow().isoformat()
-    comp['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X']
+    comp['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X','Quora','Medium','Facebook','Instagram','Skool']
     save_json(COMP_LOG, comp)
     print(f'Competitor: {total_c} new kept | Total: {comp["stats"]["kept"]} kept, {comp["stats"]["rejected"]} rejected')
 
