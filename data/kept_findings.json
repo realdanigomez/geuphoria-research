@@ -172,6 +172,26 @@
     },
     {
       "source": "YouTube",
+      "title": "Trainer Burnout – What’s Next?",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-12T08:10:07.140228",
+      "status": "keep",
+      "reason": "Directly addresses trainer burnout, a core pain point for online fitness coaches affecting retention, performance, and business sustainability. Understanding \"what's next\" implies solutions or outcomes relevant to scaling and preventing coach attrition.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Trainer Burnout - What's Next?",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-12T08:10:09.873961",
+      "status": "keep",
+      "reason": "Directly addresses trainer burnout—a critical pain point affecting retention, service quality, and business sustainability for online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -269,18 +289,28 @@
       "status": "keep",
       "reason": "Contains specific scaling strategy (10K/month revenue target), Q&A format reveals coaching business monetization tactics, and positioning of Charlie Morgan as a competitor in the fitness coaching space with audience growth insights.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Formula for a Profitable Fitness Business with Alex Hormozi",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-12T08:11:06.111028",
+      "status": "keep",
+      "reason": "Specific mentor (Alex Hormozi) known for fitness business monetization strategies; likely contains tactical insights on pricing models, offer structure, and profitability frameworks directly applicable to competitive positioning analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "niche_kept": 17,
-    "niche_rejected": 36,
-    "niche_scanned": 53,
-    "comp_kept": 10,
-    "comp_rejected": 50,
-    "comp_scanned": 60,
-    "last_scan": "2026-04-12T05:38:50.179574",
-    "total_kept": 27,
-    "total_rejected": 86,
+    "niche_kept": 19,
+    "niche_rejected": 38,
+    "niche_scanned": 57,
+    "comp_kept": 11,
+    "comp_rejected": 54,
+    "comp_scanned": 65,
+    "last_scan": "2026-04-12T08:12:12.498082",
+    "total_kept": 30,
+    "total_rejected": 92,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
@@ -299,7 +329,12 @@
       "Google",
       "Reddit",
       "LinkedIn",
-      "Twitter/X"
+      "Twitter/X",
+      "Quora",
+      "Medium",
+      "Facebook",
+      "Instagram",
+      "Skool"
     ]
   }
 }

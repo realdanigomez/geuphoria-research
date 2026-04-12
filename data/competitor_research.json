@@ -389,19 +389,74 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only a search query with no actual data about strategies, content, offers, programs, or positioning",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Formula for a Profitable Fitness Business with Alex Hormozi",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-12T08:11:06.111028",
+      "status": "keep",
+      "reason": "Specific mentor (Alex Hormozi) known for fitness business monetization strategies; likely contains tactical insights on pricing models, offer structure, and profitability frameworks directly applicable to competitive positioning analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Easiest Way To Get High Ticket Clients in 2025 (Imperium Mastermind Recording)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T08:11:09.768998",
+      "status": "reject",
+      "reason": "Title promises high-ticket client acquisition strategy but no actual content provided to verify specifics about tactics, positioning, or competitive approaches used by this competitor.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Past ANY Gatekeeper (Ninja Tips)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T08:11:10.637244",
+      "status": "reject",
+      "reason": "Generic gatekeeper advice unrelated to fitness coaching business models, strategies, or competitive positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "INTENTION",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T08:11:11.692738",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence; lacks data on Charlie Morgan's strategies, content, offers, programs, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "TONE",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T08:11:12.707018",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks any actual data about Charlie Morgan's coaching business, strategies, offers, programs, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 60,
-    "kept": 10,
-    "rejected": 50,
-    "last_scan": "2026-04-12T05:38:50.178715",
+    "scanned": 65,
+    "kept": 11,
+    "rejected": 54,
+    "last_scan": "2026-04-12T08:12:12.496843",
     "platforms": [
       "YouTube",
       "Google",
       "Reddit",
       "LinkedIn",
-      "Twitter/X"
+      "Twitter/X",
+      "Quora",
+      "Medium",
+      "Facebook",
+      "Instagram",
+      "Skool"
     ]
   }
 }
