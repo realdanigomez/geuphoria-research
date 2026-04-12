@@ -789,13 +789,133 @@
       "status": "reject",
       "reason": "No competitive intelligence about fitness coaching business models, strategies, content approaches, or market positioning. Generic article about luxury spending psychology unrelated to fitness coaching competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Spent $10,000 on Charlie Morgan’s Course (My Results)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T23:54:34.092282",
+      "status": "reject",
+      "reason": "Title suggests a review/testimonial but provides no specifics about Charlie Morgan's actual strategies, content structure, pricing model, audience tactics, or competitive positioning needed for business intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T23:54:35.142368",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks specific data about coaching business model, strategies, content, offers, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I bought the course",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T23:54:36.058870",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a generic title with a search query. Contains no details about strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Course overview",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T23:54:37.016208",
+      "status": "reject",
+      "reason": "Generic search query without specific competitive intelligence; no actual content, strategies, offers, or positioning details provided to analyze",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Experience",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T23:54:38.407699",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; vague reference to a person's experience without details on strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Problems with the course",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-12T23:54:39.358447",
+      "status": "reject",
+      "reason": "Generic complaint title with no specific details about competitor strategies, offers, content approaches, or business tactics that would inform competitive analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "pov: you're a 26 year old online entrepreneur living in dubai | vlog ep. 7",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T23:54:42.994733",
+      "status": "reject",
+      "reason": "Vlog content about lifestyle in Dubai does not contain specific competitive intelligence about fitness coaching business models, strategies, content approaches, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Flight to Dubai from Hong Kong",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T23:54:43.765107",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This is a flight booking result unrelated to fitness coaching business, mentors, strategies, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Touchdown in Dubai",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T23:54:44.723738",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence about strategies, content, offers, programs, or market positioning - requires actual findings about the competitor's business model or approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "First day in Dubai",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T23:54:45.891800",
+      "status": "reject",
+      "reason": "No competitive intelligence provided; only mentions a person's name and location without details about their business model, strategies, content, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Arriving at the apartment and working with Vince",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T23:54:46.960963",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; appears to be a personal anecdote or vlog content rather than strategic business, coaching methodology, offer structure, or market positioning information.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Thoughts and Future",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-12T23:54:47.930083",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query without findings, data, strategies, or details about competitors, their approaches, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 100,
+    "scanned": 112,
     "kept": 11,
-    "rejected": 89,
-    "last_scan": "2026-04-12T21:54:52.815331",
+    "rejected": 101,
+    "last_scan": "2026-04-12T23:55:44.995618",
     "platforms": [
       "YouTube",
       "Google",
