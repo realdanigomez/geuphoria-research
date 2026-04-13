@@ -68,6 +68,21 @@ for fname, track in [('niche_research.json', 'niche'), ('competitor_research.jso
     total += n
     print(f'  {track}: {n} new entries')
 
+# Update live stats with actual DB counts
+from datetime import datetime as _dt
+for track in ('niche', 'competitor', 'combined'):
+    cur.execute("SELECT COUNT(*) FROM scraper_entries WHERE track=%s", (track,))
+    count = cur.fetchone()[0]
+    cur.execute("SELECT COUNT(*) FROM scraper_entries")
+    total_all = cur.fetchone()[0]
+    live_stats = json.dumps({'total_entries': count, 'total_all_tracks': total_all, 'last_sync': _dt.utcnow().isoformat()})
+    cur.execute(
+        """INSERT INTO scraper_stats (track, stats, updated_at)
+           VALUES (%s, %s, NOW())
+           ON CONFLICT (track) DO UPDATE SET stats=EXCLUDED.stats, updated_at=NOW()""",
+        (track, live_stats)
+    )
+
 print(f'Cloud sync complete: {total} new entries pushed')
 cur.close()
 conn.close()
