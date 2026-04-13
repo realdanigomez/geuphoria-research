@@ -789,13 +789,53 @@
       "status": "reject",
       "reason": "Generic burnout topic lacks specific insights into fitness coaches' unique causes, solutions, or business impact; no actionable intelligence for coaching business problems",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Ways to Avoid Burnout In Your Fitness Coaching Biz",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-13T03:28:50.690794",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point (burnout) for online fitness coaches; likely contains strategies to improve business sustainability and retain coaching capacity.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Interview Coaching Prospects Carefully",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-13T03:28:51.895770",
+      "status": "reject",
+      "reason": "Contains generic coaching advice without specific data on fitness coach pain points, income models, client acquisition, or systems—lacks actionable intelligence relevant to online fitness coaching businesses.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Automate",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-13T03:28:52.809374",
+      "status": "reject",
+      "reason": "Generic search term without specific data, solutions, or insights about what causes burnout or how to address it for fitness coaches specifically",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pricing",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-13T03:28:53.774532",
+      "status": "reject",
+      "reason": "Generic pricing title with no specific insights about fitness coaches' pricing strategies, pain points, or how burnout relates to their pricing decisions—lacks actionable intelligence.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 90,
-    "kept": 34,
-    "rejected": 56,
-    "last_scan": "2026-04-12T23:54:29.449228",
+    "scanned": 94,
+    "kept": 35,
+    "rejected": 59,
+    "last_scan": "2026-04-13T03:29:49.567486",
     "platforms": [
       "Reddit",
       "YouTube",
