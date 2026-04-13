@@ -1,8 +1,9 @@
 name: 24/7 Research Scraper
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'
+  # Scraper moved to Railway (exact 30-min intervals, no GitHub throttling)
+  # schedule:
+  #   - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
