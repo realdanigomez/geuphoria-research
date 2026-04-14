@@ -469,6 +469,86 @@
       "status": "keep",
       "reason": "Contains direct evidence of high-ticket fitness coaching positioning and monetization strategy ($1M/year benchmark) that indicates market positioning and pricing architecture used by competitor mentors like Alex Hormozi.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-14T21:11:45.483005",
+      "status": "keep",
+      "reason": "Contains scaling strategies and frameworks from a recognized business mentor (Alex Hormozi) directly applicable to service business growth, which is the core model for fitness coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only Two Ways to Scale a Service Business",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-14T21:11:47.862928",
+      "status": "keep",
+      "reason": "Directly addresses core scaling methodology for service businesses, likely containing frameworks applicable to fitness coaching operations (pricing models, systematization, or offer structuring typical of Hormozi's content)",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-14T21:12:08.751738",
+      "status": "keep",
+      "reason": "Contains foundational rebuild strategy from proven operator; likely includes systematic approach to business reconstruction, positioning, and growth tactics applicable to coaching/service businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "13 Years Of Brutally Honest Business Advice in 90 Mins",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-14T21:12:57.954715",
+      "status": "keep",
+      "reason": "Likely contains systematized business frameworks from a recognized scaling expert; \"13 Years\" suggests consolidated lessons and \"Brutally Honest\" indicates practical, non-fluffy tactics applicable to coaching/service business models.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "13 Years of No BS Business Advice in 79 Mins",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-14T21:13:00.266267",
+      "status": "keep",
+      "reason": "Likely contains distilled business frameworks and scaling strategies from a recognized business mentor; 79-minute format suggests comprehensive coverage of systems and tactics applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 3 Fastest Ways I Know To Grow Any Business",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-14T21:13:04.197601",
+      "status": "keep",
+      "reason": "Title suggests specific growth frameworks from a known business mentor; likely contains actionable scaling strategies applicable to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 Years Of Brutally Honest Business Advice in 30 Mins",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-14T21:13:05.393798",
+      "status": "keep",
+      "reason": "Hormozi is a tier-1 business mentor with proven scaling frameworks (value ladders, offer design, sales systems); 30-min format likely contains condensed, actionable strategies applicable to coaching/service businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build Systems (so your business runs without you)",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-14T21:13:21.947730",
+      "status": "keep",
+      "reason": "Core business scaling principle directly applicable to coaching businesses; systems and automation are fundamental frameworks taught by Hormozi and similar mentors for moving from service delivery to scalable operations",
+      "track": "business"
     }
   ],
   "stats": {
@@ -476,11 +556,14 @@
     "niche_rejected": 59,
     "niche_scanned": 94,
     "comp_kept": 12,
-    "comp_rejected": 101,
-    "comp_scanned": 113,
-    "last_scan": "2026-04-13T03:30:55.065520",
-    "total_kept": 47,
-    "total_rejected": 160,
+    "comp_rejected": 107,
+    "comp_scanned": 119,
+    "biz_kept": 8,
+    "biz_rejected": 56,
+    "biz_scanned": 64,
+    "last_scan": "2026-04-14T21:13:44.385169",
+    "total_kept": 55,
+    "total_rejected": 222,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
@@ -505,6 +588,13 @@
       "Facebook",
       "Instagram",
       "Skool"
+    ],
+    "biz_platforms": [
+      "YouTube",
+      "Google",
+      "Reddit",
+      "LinkedIn",
+      "Twitter/X"
     ]
   }
 }

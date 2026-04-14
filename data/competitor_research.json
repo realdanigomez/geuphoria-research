@@ -919,13 +919,73 @@
       "status": "keep",
       "reason": "Contains direct evidence of high-ticket fitness coaching positioning and monetization strategy ($1M/year benchmark) that indicates market positioning and pricing architecture used by competitor mentors like Alex Hormozi.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "pov: you're a 26 year old online entrepreneur doing business in China \\u0026 Dubai",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-14T21:10:40.005879",
+      "status": "reject",
+      "reason": "This is a generic POV post about doing business in China & Dubai with no specific information about online fitness coaching strategies, content approaches, offers, or competitive positioning in the fitness industry.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Leaving Spain",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-14T21:10:40.880241",
+      "status": "reject",
+      "reason": "No competitive intelligence present. Finding is a personal travel post unrelated to online fitness coaching strategies, content, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Flying to Dubai",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-14T21:10:41.945879",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This is a travel post with a search query that lacks any information about coaching strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dubai Morning Run with Vince",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-14T21:10:43.017149",
+      "status": "reject",
+      "reason": "Contains only a vague search query reference with no actual competitive intelligence, strategies, offers, or actionable details about online fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Internal Team Sync",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-14T21:10:45.002763",
+      "status": "reject",
+      "reason": "No competitive intelligence provided. This is only a search query with no actual findings, strategies, content, offers, or market positioning data about competitors in the online fitness coaching space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Deep Work with Vince",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-14T21:10:46.659013",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence about strategies, content, offers, or tactics used by fitness coaches or competitors",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 113,
+    "scanned": 119,
     "kept": 12,
-    "rejected": 101,
-    "last_scan": "2026-04-13T03:30:55.064115",
+    "rejected": 107,
+    "last_scan": "2026-04-14T21:11:43.841348",
     "platforms": [
       "YouTube",
       "Google",
