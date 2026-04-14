@@ -19,7 +19,11 @@ os.makedirs(DATA_DIR, exist_ok=True)
 NICHE_LOG = os.path.join(DATA_DIR, 'niche_research.json')
 COMP_LOG = os.path.join(DATA_DIR, 'competitor_research.json')
 KEPT_FILE = os.path.join(DATA_DIR, 'kept_findings.json')
+USAGE_FILE = os.path.join(DATA_DIR, 'api_usage.json')
 API_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
+
+# Track actual token usage per run
+_run_usage = {'input_tokens': 0, 'output_tokens': 0, 'api_calls': 0}
 
 # ============================================================
 # HAIKU AI CLASSIFIER
@@ -58,7 +62,12 @@ Be strict. Only KEEP findings that contain specific, actionable intelligence."""
         }, timeout=15)
 
         if resp.status_code == 200:
-            result = resp.json()['content'][0]['text'].strip()
+            body = resp.json()
+            usage = body.get('usage', {})
+            _run_usage['input_tokens'] += usage.get('input_tokens', 0)
+            _run_usage['output_tokens'] += usage.get('output_tokens', 0)
+            _run_usage['api_calls'] += 1
+            result = body['content'][0]['text'].strip()
             if result.startswith('KEEP'):
                 return 'keep', result.split('|', 1)[1].strip() if '|' in result else 'Haiku: relevant'
             return 'reject', result.split('|', 1)[1].strip() if '|' in result else 'Haiku: not relevant'
@@ -120,6 +129,40 @@ def classify_local(title, text, track):
 # ============================================================
 # HELPERS
 # ============================================================
+
+def save_usage():
+    """Save actual API token usage, accumulating across runs."""
+    # Haiku pricing: $1.00/M input, $5.00/M output
+    INPUT_PRICE = 1.00 / 1_000_000
+    OUTPUT_PRICE = 5.00 / 1_000_000
+    usage = {}
+    if os.path.exists(USAGE_FILE):
+        try: usage = json.loads(open(USAGE_FILE, 'r', encoding='utf-8').read())
+        except: pass
+    usage['total_input_tokens'] = usage.get('total_input_tokens', 0) + _run_usage['input_tokens']
+    usage['total_output_tokens'] = usage.get('total_output_tokens', 0) + _run_usage['output_tokens']
+    usage['total_api_calls'] = usage.get('total_api_calls', 0) + _run_usage['api_calls']
+    usage['total_cost'] = round(
+        usage['total_input_tokens'] * INPUT_PRICE + usage['total_output_tokens'] * OUTPUT_PRICE, 6
+    )
+    usage['last_run'] = {
+        'time': datetime.utcnow().isoformat(),
+        'input_tokens': _run_usage['input_tokens'],
+        'output_tokens': _run_usage['output_tokens'],
+        'api_calls': _run_usage['api_calls'],
+        'cost': round(
+            _run_usage['input_tokens'] * INPUT_PRICE + _run_usage['output_tokens'] * OUTPUT_PRICE, 6
+        )
+    }
+    runs = usage.get('runs', [])
+    runs.append(usage['last_run'])
+    usage['runs'] = runs[-100:]
+    with open(USAGE_FILE, 'w', encoding='utf-8') as f:
+        json.dump(usage, f, indent=2)
+    print(f'API usage this run: {_run_usage["api_calls"]} calls, '
+          f'{_run_usage["input_tokens"]} in / {_run_usage["output_tokens"]} out, '
+          f'${usage["last_run"]["cost"]:.4f}')
+    print(f'API usage total: {usage["total_api_calls"]} calls, ${usage["total_cost"]:.4f}')
 
 def load_json(path):
     if os.path.exists(path):
@@ -333,6 +376,7 @@ def run():
     }
     save_json(KEPT_FILE, kept)
     save_seen(seen)
+    save_usage()
     print(f'\n=== Done. Total kept: {kept["stats"]["total_kept"]} | AI: {"Haiku" if API_KEY else "Local"} ===')
 
 if __name__ == '__main__':
