@@ -18,6 +18,7 @@ os.makedirs(DATA_DIR, exist_ok=True)
 
 NICHE_LOG = os.path.join(DATA_DIR, 'niche_research.json')
 COMP_LOG = os.path.join(DATA_DIR, 'competitor_research.json')
+BIZ_LOG = os.path.join(DATA_DIR, 'business_research.json')
 KEPT_FILE = os.path.join(DATA_DIR, 'kept_findings.json')
 USAGE_FILE = os.path.join(DATA_DIR, 'api_usage.json')
 API_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
@@ -38,7 +39,7 @@ def classify_with_haiku(title, text, track):
 
 TRACK: {track.upper()}
 
-{"NICHE TRACK: Classify if this is relevant to online fitness coaches — their pain points, struggles, goals, income, client acquisition, burnout, marketing, systems, scaling. We want to understand their problems deeply." if track == "niche" else "COMPETITOR TRACK: Classify if this contains useful competitive intelligence about fitness coaching business mentors, their strategies, content approaches, offers, programs, audience growth tactics, or market positioning."}
+{"NICHE TRACK: Classify if this is relevant to online fitness coaches — their pain points, struggles, goals, income, client acquisition, burnout, marketing, systems, scaling. We want to understand their problems deeply." if track == "niche" else "COMPETITOR TRACK: Classify if this contains useful competitive intelligence about people who specifically help online fitness coaches — their strategies, content approaches, offers, programs, audience growth tactics, or market positioning." if track == "competitor" else "BUSINESS TRACK: Classify if this contains useful business intelligence from general business mentors and channel business owners (like Alex Hormozi, Dan Martel, Sam Ovens). We want scaling strategies, business systems, marketing frameworks, and growth tactics that apply to any coaching/service business."}
 
 FINDING:
 Title: {title}
@@ -110,6 +111,17 @@ COMP_STRATEGY = ['strategy','funnel','offer','program','course','community','con
     'joint venture','affiliate','referral program','testimonial','case study','transformation',
     'before after','social proof','authority','positioning','niche down','ideal client avatar']
 
+BIZ_KEYWORDS = ['scale','scaling','systems','automation','delegate','hire','team','ceo',
+    'revenue','profit','margin','cash flow','business model','recurring revenue','mrr',
+    'saas','agency','service business','coaching business','consulting','high ticket',
+    'premium pricing','value ladder','ascension model','operations','sop','process',
+    'leverage','equity','exit','acquisition','portfolio','invest','compound',
+    'leadership','management','culture','vision','mission','brand','moat',
+    'marketing','sales','pipeline','conversion','retention','churn','lifetime value',
+    'content strategy','audience','distribution','platform','channel','organic',
+    'paid ads','media buying','creative','copy','hook','offer stack',
+    'mindset','discipline','focus','execution','momentum','growth','10x']
+
 def classify_local(title, text, track):
     combined = (title + ' ' + text).lower()
     if track == 'niche':
@@ -120,11 +132,16 @@ def classify_local(title, text, track):
         if score >= 2:
             return 'keep', f'Local score {score}: {pain} pain, {goal} goal, {identity} identity'
         return 'reject', f'Local score {score}: below threshold'
-    else:
+    elif track == 'competitor':
         strat = sum(1 for w in COMP_STRATEGY if w in combined)
         if strat >= 2:
             return 'keep', f'Local score {strat}: competitor strategy markers'
         return 'reject', f'Local score {strat}: below threshold'
+    else:
+        biz = sum(1 for w in BIZ_KEYWORDS if w in combined)
+        if biz >= 2:
+            return 'keep', f'Local score {biz}: business strategy markers'
+        return 'reject', f'Local score {biz}: below threshold'
 
 # ============================================================
 # HELPERS
@@ -357,22 +374,54 @@ def run():
     save_json(COMP_LOG, comp)
     print(f'Competitor: {total_c} new kept | Total: {comp["stats"]["kept"]} kept, {comp["stats"]["rejected"]} rejected')
 
-    # ---- SAVE COMBINED ----
+    # ---- TRACK 3: BUSINESS RESEARCH ----
+    print('\n--- TRACK 3: BUSINESS RESEARCH ---')
+    biz = load_json(BIZ_LOG)
+    total_b = 0
+
+    # YouTube — general business mentors
+    total_b += scrape_youtube(['Alex Hormozi business scaling','Dan Martel business systems','Sam Ovens consulting business','business owner scaling strategy','service business growth'], seen, biz, 'business')
+
+    # Google — business strategies
+    total_b += scrape_google(['coaching business scaling strategy 2026','service business automation systems','high ticket business growth'], seen, biz, 'business')
+
+    # Reddit — business discussions
+    total_b += scrape_reddit(['Entrepreneur','smallbusiness','sweatystartup'], [], seen, biz, 'business')
+
+    # LinkedIn — business content
+    total_b += scrape_platform_google('LinkedIn', ['coaching business scaling site:linkedin.com','service business growth site:linkedin.com'], seen, biz, 'business')
+
+    # Twitter — business mentors
+    total_b += scrape_platform_google('Twitter/X', ['Alex Hormozi site:twitter.com business','Dan Martel site:x.com business'], seen, biz, 'business')
+
+    # YouTube — more business channels
+    total_b += scrape_youtube(['Hormozi business advice','Martel SaaS playbook','business systems automation','coaching business operations'], seen, biz, 'business')
+
+    biz['stats']['last_scan'] = datetime.utcnow().isoformat()
+    biz['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X']
+    save_json(BIZ_LOG, biz)
+    print(f'Business: {total_b} new kept | Total: {biz["stats"]["kept"]} kept, {biz["stats"]["rejected"]} rejected')
+
+    # ---- SAVE COMBINED (all 3 tracks) ----
     kept = load_json(KEPT_FILE)
     all_kept = [e for e in niche.get('entries', []) if e.get('status') == 'keep']
     all_kept += [e for e in comp.get('entries', []) if e.get('status') == 'keep']
+    all_kept += [e for e in biz.get('entries', []) if e.get('status') == 'keep']
     kept['entries'] = all_kept[-500:]
     kept['stats'] = {
         'niche_kept': niche['stats']['kept'], 'niche_rejected': niche['stats']['rejected'],
         'niche_scanned': niche['stats']['scanned'],
         'comp_kept': comp['stats']['kept'], 'comp_rejected': comp['stats']['rejected'],
         'comp_scanned': comp['stats']['scanned'],
+        'biz_kept': biz['stats']['kept'], 'biz_rejected': biz['stats']['rejected'],
+        'biz_scanned': biz['stats']['scanned'],
         'last_scan': datetime.utcnow().isoformat(),
-        'total_kept': niche['stats']['kept'] + comp['stats']['kept'],
-        'total_rejected': niche['stats']['rejected'] + comp['stats']['rejected'],
+        'total_kept': niche['stats']['kept'] + comp['stats']['kept'] + biz['stats']['kept'],
+        'total_rejected': niche['stats']['rejected'] + comp['stats']['rejected'] + biz['stats']['rejected'],
         'ai_model': 'claude-haiku-4-5' if API_KEY else 'local-classifier',
         'niche_platforms': niche['stats'].get('platforms', []),
         'comp_platforms': comp['stats'].get('platforms', []),
+        'biz_platforms': biz['stats'].get('platforms', []),
     }
     save_json(KEPT_FILE, kept)
     save_seen(seen)
