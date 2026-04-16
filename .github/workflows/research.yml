@@ -1,6 +1,8 @@
 name: 24/7 Research Scraper
 
 on:
+  schedule:
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
