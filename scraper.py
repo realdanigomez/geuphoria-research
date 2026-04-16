@@ -328,9 +328,10 @@ def run():
 
     # Instagram via Google
     total_n += scrape_platform_google('Instagram', ['online fitness coach site:instagram.com','fitness coach tips site:instagram.com'], seen, niche, 'niche')
+    total_n += scrape_platform_google('TikTok', ['online fitness coach site:tiktok.com','fitness coach business tips site:tiktok.com'], seen, niche, 'niche')
 
     niche['stats']['last_scan'] = datetime.utcnow().isoformat()
-    niche['stats']['platforms'] = ['Reddit','YouTube','Google','LinkedIn','Quora','Medium','Twitter/X','Facebook','Skool','Instagram']
+    niche['stats']['platforms'] = ['Reddit','YouTube','Google','LinkedIn','Quora','Medium','Twitter/X','Facebook','Skool','Instagram','TikTok']
     save_json(NICHE_LOG, niche)
     print(f'Niche: {total_n} new kept | Total: {niche["stats"]["kept"]} kept, {niche["stats"]["rejected"]} rejected')
 
@@ -368,9 +369,10 @@ def run():
 
     # Skool — competitor communities
     total_c += scrape_platform_google('Skool', ['fitness coaching site:skool.com','online coach community site:skool.com'], seen, comp, 'competitor')
+    total_c += scrape_platform_google('TikTok', ['fitness coaching mentor site:tiktok.com','online coach business tips site:tiktok.com'], seen, comp, 'competitor')
 
     comp['stats']['last_scan'] = datetime.utcnow().isoformat()
-    comp['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X','Quora','Medium','Facebook','Instagram','Skool']
+    comp['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X','Quora','Medium','Facebook','Instagram','Skool','TikTok']
     save_json(COMP_LOG, comp)
     print(f'Competitor: {total_c} new kept | Total: {comp["stats"]["kept"]} kept, {comp["stats"]["rejected"]} rejected')
 
