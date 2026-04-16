@@ -639,13 +639,143 @@
       "status": "reject",
       "reason": "Title is generic without context; no evidence of specific scaling strategy, system, framework, or tactic applicable to coaching businesses",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 4 Ways To Scale A Service Business (PICK ONE)",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-16T19:40:42.793052",
+      "status": "keep",
+      "reason": "Directly addresses service business scaling strategies from a recognized business mentor, likely containing specific frameworks for choosing between scaling approaches applicable to fitness coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $1,000,000 Business for a Stranger in 26 Minutes",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-16T19:40:44.029748",
+      "status": "reject",
+      "reason": "Title alone suggests motivational content without evidence of specific scaling strategies, systems, or frameworks applicable to coaching/service businesses. Needs actual tactical intelligence to verify value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start a Business From Nothing (Thank Me Later)",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-16T19:41:17.887896",
+      "status": "reject",
+      "reason": "Title is generic clickbait; search query alone doesn't confirm the content contains specific scaling strategies, business systems, or marketing frameworks applicable to coaching/service businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $5,000,000 Business for a Stranger in 42 Mins",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-16T19:41:19.339971",
+      "status": "reject",
+      "reason": "Title alone lacks specificity on actual frameworks or tactics; without seeing the content details, this appears to be clickbait framing rather than substantive business systems or scaling strategies applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Automate Any Business With AI in 3 Steps (Beginner's Guide)",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:26.027940",
+      "status": "reject",
+      "reason": "Title promises automation framework but \"beginner's guide\" suggests generic AI overview rather than specific business systems, scaling strategies, or proven frameworks from established business mentors that apply to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What We're Covering",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:26.961550",
+      "status": "reject",
+      "reason": "Generic search query with no actual content, frameworks, or actionable strategies provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Common Mistakes with AI Implementation",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:28.576382",
+      "status": "reject",
+      "reason": "Title promises AI implementation guidance but no specific frameworks, scaling strategies, or actionable tactics provided—lacks concrete business systems or growth methodology applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Phase 1",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:29.852285",
+      "status": "reject",
+      "reason": "Search query alone without actual content, frameworks, or strategies provides no actionable business intelligence for scaling a coaching business",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Phase 2",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:34.004184",
+      "status": "reject",
+      "reason": "No specific content provided - only a search query title without frameworks, strategies, or actionable intelligence from established business mentors.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Phase 3",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:34.949294",
+      "status": "reject",
+      "reason": "Search term only without actual content, framework, or actionable strategy provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Action Plan",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:36.244401",
+      "status": "reject",
+      "reason": "Title is generic and vague; search query alone without content details provides no specific scaling strategies, frameworks, or actionable tactics applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business Process Automation: What We've Learned From 250 Projects",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-16T19:41:37.462188",
+      "status": "reject",
+      "reason": "Generic automation content lacks specific coaching/service business frameworks, scaling strategies, or proven tactics from established business mentors in the space.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Scale Your Coaching Business \\u0026 Implement Standard Operating Procedures (SOPs)",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-16T19:41:41.536771",
+      "status": "keep",
+      "reason": "Contains foundational scaling strategy (SOPs) directly applicable to coaching/service business operations, a core framework discussed by business mentors for systematizing growth",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 64,
-    "kept": 8,
-    "rejected": 56,
-    "last_scan": "2026-04-14T21:13:44.383825",
+    "scanned": 77,
+    "kept": 10,
+    "rejected": 67,
+    "last_scan": "2026-04-16T19:41:43.538309",
     "platforms": [
       "YouTube",
       "Google",

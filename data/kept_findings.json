@@ -472,6 +472,16 @@
     },
     {
       "source": "YouTube",
+      "title": "how I make $125k profit per month with a free skool group (low ticket upsells)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-16T19:39:25.979846",
+      "status": "keep",
+      "reason": "Contains specific monetization strategy (free Skool community with low-ticket upsells generating $125k/month) that directly applies to online fitness coaching business models and audience growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
       "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
       "text": "Search: Alex Hormozi business scaling",
       "url": "",
@@ -549,21 +559,41 @@
       "status": "keep",
       "reason": "Core business scaling principle directly applicable to coaching businesses; systems and automation are fundamental frameworks taught by Hormozi and similar mentors for moving from service delivery to scalable operations",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 4 Ways To Scale A Service Business (PICK ONE)",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-16T19:40:42.793052",
+      "status": "keep",
+      "reason": "Directly addresses service business scaling strategies from a recognized business mentor, likely containing specific frameworks for choosing between scaling approaches applicable to fitness coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Scale Your Coaching Business \\u0026 Implement Standard Operating Procedures (SOPs)",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-16T19:41:41.536771",
+      "status": "keep",
+      "reason": "Contains foundational scaling strategy (SOPs) directly applicable to coaching/service business operations, a core framework discussed by business mentors for systematizing growth",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 35,
     "niche_rejected": 59,
     "niche_scanned": 94,
-    "comp_kept": 12,
-    "comp_rejected": 107,
-    "comp_scanned": 119,
-    "biz_kept": 8,
-    "biz_rejected": 56,
-    "biz_scanned": 64,
-    "last_scan": "2026-04-14T21:13:44.385169",
-    "total_kept": 55,
-    "total_rejected": 222,
+    "comp_kept": 13,
+    "comp_rejected": 114,
+    "comp_scanned": 127,
+    "biz_kept": 10,
+    "biz_rejected": 67,
+    "biz_scanned": 77,
+    "last_scan": "2026-04-16T19:41:43.539773",
+    "total_kept": 58,
+    "total_rejected": 240,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
@@ -575,7 +605,8 @@
       "Twitter/X",
       "Facebook",
       "Skool",
-      "Instagram"
+      "Instagram",
+      "TikTok"
     ],
     "comp_platforms": [
       "YouTube",
@@ -587,7 +618,8 @@
       "Medium",
       "Facebook",
       "Instagram",
-      "Skool"
+      "Skool",
+      "TikTok"
     ],
     "biz_platforms": [
       "YouTube",

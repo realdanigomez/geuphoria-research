@@ -979,13 +979,93 @@
       "status": "reject",
       "reason": "Search query alone provides no competitive intelligence about strategies, content, offers, or tactics used by fitness coaches or competitors",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling an In-Person Personal Training Business",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-16T19:39:22.087691",
+      "status": "reject",
+      "reason": "This is about scaling in-person personal training businesses, not online fitness coaching. The business model, delivery method, and operational challenges are fundamentally different from the online coaching space and provide no actionable competitive intelligence for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "how I make $125k profit per month with a free skool group (low ticket upsells)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-16T19:39:25.979846",
+      "status": "keep",
+      "reason": "Contains specific monetization strategy (free Skool community with low-ticket upsells generating $125k/month) that directly applies to online fitness coaching business models and audience growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "TikTok",
+      "title": "Explaining Online Coaching to Over-50s: A Business Owner's ...",
+      "text": "Search: online coach business tips site:tiktok.com",
+      "url": "",
+      "time": "2026-04-16T19:40:31.870086",
+      "status": "reject",
+      "reason": "Search query result with no actual content shown; cannot assess if article contains relevant competitive intelligence about online fitness coaching strategies or tactics",
+      "track": "competitor"
+    },
+    {
+      "source": "TikTok",
+      "title": "If you want to succeed as an online coach you need to do 2 ...",
+      "text": "Search: online coach business tips site:tiktok.com",
+      "url": "",
+      "time": "2026-04-16T19:40:33.071783",
+      "status": "reject",
+      "reason": "This is only a search query, not actual competitive intelligence. It contains no strategies, content approaches, offers, programs, or tactics—just a TikTok search term and incomplete title.",
+      "track": "competitor"
+    },
+    {
+      "source": "TikTok",
+      "title": "Lessons Behind A 100K+ Cash Months⁣ ⁣ When I first ...",
+      "text": "Search: online coach business tips site:tiktok.com",
+      "url": "",
+      "time": "2026-04-16T19:40:34.255019",
+      "status": "reject",
+      "reason": "Title and search query alone provide no actual content details about competitor strategies, specific tactics, or positioning - appears to be just a search result link without substantive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "TikTok",
+      "title": "Comment “COACH” to scale your info business to $10K+ ...",
+      "text": "Search: online coach business tips site:tiktok.com",
+      "url": "",
+      "time": "2026-04-16T19:40:35.791887",
+      "status": "reject",
+      "reason": "Generic lead magnet tactic with no specific intelligence about fitness coaching strategies, content approaches, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "TikTok",
+      "title": "How I grew my online coaching business to multiple 5-figure ...",
+      "text": "Search: online coach business tips site:tiktok.com",
+      "url": "",
+      "time": "2026-04-16T19:40:36.791131",
+      "status": "reject",
+      "reason": "Search query only, no actual content or specific competitive intelligence provided about strategies, offers, or tactics",
+      "track": "competitor"
+    },
+    {
+      "source": "TikTok",
+      "title": "Stop focusing on the lowest paying avenue ...",
+      "text": "Search: online coach business tips site:tiktok.com",
+      "url": "",
+      "time": "2026-04-16T19:40:37.908149",
+      "status": "reject",
+      "reason": "This is a search query, not actual competitive intelligence. It contains no specific strategies, content approaches, offers, programs, or tactics from actual competitors.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 119,
-    "kept": 12,
-    "rejected": 107,
-    "last_scan": "2026-04-14T21:11:43.841348",
+    "scanned": 127,
+    "kept": 13,
+    "rejected": 114,
+    "last_scan": "2026-04-16T19:40:40.909619",
     "platforms": [
       "YouTube",
       "Google",
@@ -996,7 +1076,8 @@
       "Medium",
       "Facebook",
       "Instagram",
-      "Skool"
+      "Skool",
+      "TikTok"
     ]
   }
 }

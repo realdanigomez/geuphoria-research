@@ -835,7 +835,7 @@
     "scanned": 94,
     "kept": 35,
     "rejected": 59,
-    "last_scan": "2026-04-14T21:10:33.166625",
+    "last_scan": "2026-04-16T19:39:20.187835",
     "platforms": [
       "Reddit",
       "YouTube",
@@ -846,7 +846,8 @@
       "Twitter/X",
       "Facebook",
       "Skool",
-      "Instagram"
+      "Instagram",
+      "TikTok"
     ]
   }
 }
