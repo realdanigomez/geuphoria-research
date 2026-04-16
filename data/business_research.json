@@ -769,13 +769,103 @@
       "status": "keep",
       "reason": "Contains foundational scaling strategy (SOPs) directly applicable to coaching/service business operations, a core framework discussed by business mentors for systematizing growth",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business Was Hard Until I Understood These 4 Concepts",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-16T22:09:41.985875",
+      "status": "reject",
+      "reason": "Title is vague clickbait without specifics; need actual concepts/frameworks revealed (e.g., \"Value Stack,\" \"Sales Page Structure\") to assess actionability for coaching business scaling.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi Answers Your Questions (Ask Me Anything)",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-16T22:09:43.158708",
+      "status": "keep",
+      "reason": "AMA format likely contains specific scaling strategies, systems, and business frameworks directly from a proven coaching business operator, providing actionable intelligence for service business growth",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Me 47 minutes, And I'll Fix Your Small Business",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-16T22:09:44.115047",
+      "status": "reject",
+      "reason": "Title is clickbait promise without evidence of specific scaling strategies, systems, or frameworks detailed in the actual content provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Grow ANY Business FASTER (Masterclass)",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-16T22:09:45.091246",
+      "status": "keep",
+      "reason": "Title suggests scaling frameworks applicable across business models, likely contains specific growth tactics and systems from established coaching business mentor",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Investor Answers The Most Important Business Questions for 1 Hour",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-16T22:10:18.443848",
+      "status": "reject",
+      "reason": "Title alone suggests general Q&A format without indication of specific frameworks, systems, or tactics—likely surface-level advice rather than actionable business intelligence for scaling coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Ultimate SaaS Financial Guide with Mark MacLeod @ SurePath Capital",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-16T22:10:22.004686",
+      "status": "reject",
+      "reason": "SaaS financial guidance is not applicable to fitness coaching businesses; the content is industry-specific to software businesses rather than service/coaching scaling strategies.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What is a system",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-16T22:10:28.547927",
+      "status": "reject",
+      "reason": "Too vague and foundational. \"What is a system\" lacks specific scaling strategies, marketing frameworks, or growth tactics applicable to coaching businesses. This is generic educational content, not business intelligence from proven operators.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Example",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-16T22:10:29.838367",
+      "status": "reject",
+      "reason": "Haiku: not relevant",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Summary",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-16T22:10:30.848957",
+      "status": "reject",
+      "reason": "\"coaching business operations\" is a generic search query, not a finding containing specific business intelligence, frameworks, or actionable tactics",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 77,
-    "kept": 10,
-    "rejected": 67,
-    "last_scan": "2026-04-16T19:41:43.538309",
+    "scanned": 86,
+    "kept": 12,
+    "rejected": 74,
+    "last_scan": "2026-04-16T22:10:32.850402",
     "platforms": [
       "YouTube",
       "Google",
