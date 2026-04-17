@@ -889,13 +889,643 @@
       "status": "reject",
       "reason": "Title is vague clickbait without evidence of specific scaling strategies, systems, or frameworks; \"generational wealth\" advice is too broad and not necessarily applicable to coaching/service business models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens   How I Started A $20,000,000 Consulting Business   YouTube",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T05:16:57.828133",
+      "status": "reject",
+      "reason": "Title only with no detailed content provided - cannot verify if it contains specific, actionable scaling strategies or business systems without the actual transcript or detailed information from the video",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What would I do after my first client",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T05:16:58.879381",
+      "status": "reject",
+      "reason": "Title and search query lack substance; no specific business strategy, framework, or tactic is presented to evaluate for scalability or business systems applicability.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "HOW TO START A BUSINESS WITH NO 💰 IN 3 STEPS IN 2021",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T05:16:59.737658",
+      "status": "reject",
+      "reason": "Title suggests generic startup advice without specific scaling strategies, systems, or frameworks applicable to coaching/service businesses; likely motivational content rather than tactical business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens' First Real Business (21 Year Old Sam)",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T05:17:00.662227",
+      "status": "reject",
+      "reason": "Title indicates biographical content about Sam's early business rather than extractable frameworks, systems, or scaling strategies applicable to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "SMMA Vs Consulting",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T05:17:01.474213",
+      "status": "reject",
+      "reason": "No specific actionable intelligence provided - only a comparison title without frameworks, systems, or scaling tactics detailed in the finding text.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Should You Do If You Have No Sales? | Sam Ovens",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T05:17:02.312184",
+      "status": "keep",
+      "reason": "Contains actionable troubleshooting framework for zero-sales situations, a common scaling bottleneck in coaching/service businesses with directly applicable diagnostics and solutions",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Would Start a Business From Scratch (If I lost Everything)",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T05:17:03.527222",
+      "status": "keep",
+      "reason": "Foundational business rebuilding strategy from established mentor; likely contains systematic approach to launching coaching/service business with minimal resources, applicable scaling framework",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Reverse engineering",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T05:17:07.047527",
+      "status": "reject",
+      "reason": "Search query alone without actual content, frameworks, or actionable strategies provided - no specific scaling intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Strategy Alone Will Never Scale Your Business... These 6 Things WILL",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T05:17:07.798596",
+      "status": "keep",
+      "reason": "Promises specific scaling mechanisms beyond strategy (likely systems, operations, or execution frameworks applicable to coaching businesses)",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only Two Ways to Scale a Service Business",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T05:17:08.603298",
+      "status": "keep",
+      "reason": "Directly addresses scaling strategies for service businesses with a framework approach that applies to coaching/fitness coaching specifically; likely contains tactical systems relevant to the business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 4 Ways To Scale A Service Business (PICK ONE)",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T05:17:09.715658",
+      "status": "keep",
+      "reason": "Presents a clear framework reducing scaling complexity to 4 distinct paths, enabling quick strategic decision-making for service business owners evaluating growth options",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Best Advice to Small Business Owners",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T05:17:10.504056",
+      "status": "reject",
+      "reason": "Title and search query are too generic without evidence of specific scaling strategies, systems, or frameworks that would apply to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Warren Buffett CEO, Berkshire Hathaway",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T05:17:11.492434",
+      "status": "reject",
+      "reason": "Warren Buffett content focuses on investment philosophy and mega-cap company management, not coaching/service business scaling strategies, marketing frameworks, or growth tactics relevant to online fitness coaching operators.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Michael R. Bloomberg Founder Bloomberg LP and Bloomberg Philanthropies",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T05:17:12.379947",
+      "status": "reject",
+      "reason": "General biographical information about a Bloomberg founder lacks specific scaling strategies, systems, marketing frameworks, or growth tactics applicable to coaching/service businesses. No actionable business intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi SECRETS for Scaling an Agency to $100k/mo",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:15.750117",
+      "status": "keep",
+      "reason": "Likely contains specific scaling frameworks and revenue milestones applicable to service/coaching businesses, which directly matches the track criteria for growth tactics and business systems.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reason Agencies Can’t Break $100K",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:16.822130",
+      "status": "reject",
+      "reason": "Title suggests content about agency scaling barriers, but no specific frameworks, systems, or tactics are provided in the text to evaluate actionability",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Focus Lesson From Alex Hormozi",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:17.888998",
+      "status": "reject",
+      "reason": "Title alone lacks specifics; \"focus lesson\" is vague without concrete scaling strategies, frameworks, or tactical examples that could apply to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Dangerous Trap of Running Multiple Businesses",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:19.297672",
+      "status": "reject",
+      "reason": "Title suggests conceptual warning rather than specific scaling strategies, systems, or frameworks. Without seeing the actual content, a \"dangerous trap\" framing typically indicates cautionary narrative rather than actionable business intelligence applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The One Decision That Unlocked Massive Growth",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:20.628559",
+      "status": "reject",
+      "reason": "Title is generic clickbait without evidence of specific frameworks, systems, or tactics; search query alone doesn't confirm the content delivers substantive scaling strategies applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How One Offer Scaled an Agency to Six Figures",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:21.721458",
+      "status": "keep",
+      "reason": "Contains scaling methodology from recognized business mentor (Alex Hormozi) focused on offer strategy—a core framework applicable to coaching/service businesses for revenue acceleration.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Side Project Trap That Kills Momentum",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:22.703311",
+      "status": "reject",
+      "reason": "Title suggests motivational content about avoiding distractions rather than specific scaling strategies, systems, or frameworks applicable to coaching/service businesses. Needs concrete business intelligence to qualify.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Every “No” Protects Your Success",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:23.637432",
+      "status": "reject",
+      "reason": "Title is motivational platitude without specific scaling strategies, systems, or frameworks. No evidence the content contains actionable business tactics applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Hidden Cost of Saying Yes to Everything",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:17:24.699329",
+      "status": "reject",
+      "reason": "Title alone suggests general productivity advice rather than specific scaling strategies, systems, or marketing frameworks applicable to coaching/service businesses. Without the actual content details, likely lacks the business-specific tactical intelligence needed.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Grow Your Business SO Fast it Feels Like CHEATING",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:28.364334",
+      "status": "reject",
+      "reason": "Title is clickbait without evidence of specific frameworks, systems, or tactics. No actionable content provided to evaluate against business scaling intelligence standards.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:29.196389",
+      "status": "reject",
+      "reason": "Too vague and generic. No specific strategies, frameworks, or tactics provided - only a search query without substantive business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Focus on Cash",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:31.371866",
+      "status": "reject",
+      "reason": "Too vague and generic - lacks specific frameworks, tactics, or systems that apply to coaching/service business scaling. \"Focus on Cash\" without actionable methodology or business model detail is not useful business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Make People Feel Dumb",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:32.559725",
+      "status": "reject",
+      "reason": "Title alone lacks specific business intelligence; \"make people feel dumb\" is vague and doesn't indicate concrete scaling strategies, systems, or frameworks applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a Marketing System",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:33.447497",
+      "status": "reject",
+      "reason": "Title is generic without specific frameworks, tactics, or systems; text provides no actionable intelligence, business model insights, or scaling strategies applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Audit Your Day",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:34.201340",
+      "status": "reject",
+      "reason": "Title is generic without specific business intelligence; content appears to be a search query rather than actionable framework or strategy applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Rebuild Your Calendar",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:35.237884",
+      "status": "reject",
+      "reason": "Title alone lacks specifics on scaling strategies, systems, or frameworks; no evidence of actionable business intelligence from established mentors or applicable growth tactics for coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Delete the freaking bottlenecks",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:36.534874",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate specific frameworks or tactics; no concrete strategy, system, or growth intelligence demonstrated in the provided text",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Replace yourself",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:37.486874",
+      "status": "reject",
+      "reason": "Title alone lacks specific frameworks, tactics, or systems; no actionable intelligence evident without substantive content detail on replacement/delegation strategy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Increase talent velocity",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:38.599328",
+      "status": "reject",
+      "reason": "Title lacks specificity and text contains only a generic search term with no actionable business strategy, framework, or scaling tactic explained.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pay for the blueprint",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:39.727480",
+      "status": "reject",
+      "reason": "Title is vague with no specific framework or tactic mentioned; content appears to be a search query rather than actual business intelligence or strategy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Resolve your retention",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:40.926225",
+      "status": "reject",
+      "reason": "Title is vague with no specific strategies, tactics, or frameworks mentioned. Content appears to be a search term rather than substantive business intelligence on retention systems or mechanics.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stay in your zone of genius",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:41.914590",
+      "status": "reject",
+      "reason": "lacks specific tactics or frameworks; \"zone of genius\" is generic personal development advice without scaling strategies, systems, or growth mechanics applicable to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "11 Ways to Grow a Service Business So Fast It Feels Illegal",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:42.980877",
+      "status": "keep",
+      "reason": "Contains scaling frameworks and growth tactics directly applicable to coaching/service businesses, likely featuring proven strategies from the business mentor archetype referenced",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scale A Service Business",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T05:17:44.621514",
+      "status": "reject",
+      "reason": "Title and search query are too generic without specific strategies, frameworks, or tactics detailed in the actual content to evaluate for actionable business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build Systems (with AI) to ACTUALLY Achieve Your Goals",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T05:17:48.397197",
+      "status": "reject",
+      "reason": "Title promises systems and AI but search query alone doesn't confirm actual tactical content from Dan Martel on scaling/marketing frameworks—needs transcript/summary to verify specific actionable intelligence for coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a Business That Runs Itself",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T05:17:49.706455",
+      "status": "reject",
+      "reason": "Title alone suggests general business philosophy without evidence of specific, actionable scaling strategies, systems frameworks, or growth tactics for coaching/service businesses. The search query indicates content retrieval rather than substantive finding documentation.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a Business From $0 to $1M (the easy way)",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T05:17:50.971397",
+      "status": "reject",
+      "reason": "Title is clickbait without evidence of specific, actionable systems. Search query alone doesn't confirm the content contains detailed scaling strategies or business frameworks applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business Model",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T05:17:51.957405",
+      "status": "reject",
+      "reason": "Search query alone without actual content, frameworks, or specific strategies provided - no actionable business intelligence present",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Find a Huge Pain",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T05:17:52.757782",
+      "status": "reject",
+      "reason": "No specific business intelligence provided; title alone lacks actionable frameworks, systems, or tactics applicable to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Start with the problem",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T05:18:17.956331",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable business intelligence; lacks specific frameworks, strategies, or tactics applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get into the market",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T05:18:18.797310",
+      "status": "reject",
+      "reason": "Contains only a search query without actual content, frameworks, strategies, or actionable intelligence about scaling coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a prototype",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T05:18:19.838856",
+      "status": "reject",
+      "reason": "vague reference without specific framework or actionable tactics; \"build a prototype\" is generic advice not tied to scaling strategies or business systems for coaching/service businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Validate",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T05:18:21.069425",
+      "status": "reject",
+      "reason": "Search query alone without actual content, playbook details, or actionable frameworks. No specific business intelligence, scaling strategies, or applicable tactics provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build MVP",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T05:18:22.335360",
+      "status": "reject",
+      "reason": "No specific intelligence provided - only a search query without actual content, frameworks, or actionable tactics from the referenced playbook",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Collect Customer Feedback",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T05:18:23.406782",
+      "status": "reject",
+      "reason": "Title alone provides no specific intelligence; \"Martel SaaS playbook\" search reference suggests source material wasn't included, making it impossible to assess actionable framework or scaling strategy content.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 2. Pick a \\",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-17T05:18:27.420241",
+      "status": "reject",
+      "reason": "Title is incomplete and text only contains a generic search term with no actual insight, framework, or actionable strategy provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What is a business process?",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-17T05:18:28.558200",
+      "status": "reject",
+      "reason": "Too foundational and generic; lacks specific scaling strategies, marketing frameworks, or growth tactics applicable to coaching/service businesses. A definition of business processes without actionable implementation guidance does not meet the threshold for business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 3. Clarify actions",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-17T05:18:29.357123",
+      "status": "reject",
+      "reason": "Contains only a search query without any actual content, frameworks, strategies, or actionable intelligence from business mentors.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 4. Start Delegation by assigning an area",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-17T05:18:31.170959",
+      "status": "reject",
+      "reason": "Too vague and lacks specific framework or tactics; \"assigning an area\" without detailed delegation strategy, systems design, or scaling methodology doesn't provide actionable business intelligence for coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How do I assign an area in my business to someone?",
+      "text": "Search: business systems automation",
+      "url": "",
+      "time": "2026-04-17T05:18:32.294213",
+      "status": "reject",
+      "reason": "Contains a question but no actual answer, strategy, or framework about delegation, systems, or scaling - just a search query with no substantive business intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $1M Coaching Business | 4 SIMPLE Methods",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T05:18:35.768649",
+      "status": "keep",
+      "reason": "Likely contains scaling frameworks and operational systems for reaching $1M revenue milestone, directly applicable to coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Automate Your Online Coaching Business Before 2026",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T05:18:36.706338",
+      "status": "reject",
+      "reason": "Title suggests automation content but search query \"coaching business operations\" indicates generic operational information rather than specific scaling strategies, systems, or frameworks from established business mentors.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to scale a coaching business to $100k/mo organically",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T05:18:37.624880",
+      "status": "keep",
+      "reason": "Directly addresses scaling tactics and revenue targets relevant to coaching business growth, likely contains operational frameworks and organic acquisition strategies applicable across service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I spent $50,000 on a business coach so you don’t have to",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T05:18:38.541943",
+      "status": "reject",
+      "reason": "Title promises value but provides no actual framework, system, or tactic - appears to be clickbait without demonstrating specific scaling strategies or business intelligence applicable to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T05:18:39.383199",
+      "status": "reject",
+      "reason": "Generic search query with no actual content, frameworks, or actionable strategies present",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Remove the Blindfold",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T05:18:40.525755",
+      "status": "reject",
+      "reason": "Title alone provides no specific strategy, framework, or tactic. \"Remove the Blindfold\" is vague without concrete business intelligence about scaling, systems, marketing, or operations that would apply to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Ideal Week",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T05:18:42.399020",
+      "status": "reject",
+      "reason": "Title alone is too vague without specific frameworks, systems, or tactics. \"The Ideal Week\" could be generic productivity advice rather than business-specific scaling strategy or operational system for coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Progress Way Faster Than Anyone Else",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T05:18:46.027263",
+      "status": "reject",
+      "reason": "Title is generic motivational content; no indication of specific business systems, scaling strategies, or frameworks applicable to coaching/service businesses. Search query alone doesn't confirm presence of actionable business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T05:18:46.944783",
+      "status": "keep",
+      "reason": "Contains scaling methodology from established business mentor likely covering systems, positioning, and growth tactics applicable to fitness coaching businesses",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 89,
-    "kept": 13,
-    "rejected": 76,
-    "last_scan": "2026-04-17T04:51:19.783052",
+    "scanned": 152,
+    "kept": 24,
+    "rejected": 128,
+    "last_scan": "2026-04-17T05:18:48.946373",
     "platforms": [
       "YouTube",
       "Google",
