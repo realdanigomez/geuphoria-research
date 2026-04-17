@@ -1699,13 +1699,63 @@
       "status": "reject",
       "reason": "Too vague and broad - \"live calls\" is a generic feature without specific insight into coaches' actual pain points, struggles, or business challenges. No actionable intelligence about their problems.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Never Burnout on Exercise Again",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T20:09:48.605120",
+      "status": "reject",
+      "reason": "Generic wellness advice about personal exercise habits, not about coaching business operations, client management, or professional burnout specific to fitness coaches' business model.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Professional Athletes",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T20:09:49.626954",
+      "status": "reject",
+      "reason": "Generic topic about professional athletes lacks specific insight into online fitness coaches' actual pain points, struggles, or business challenges; doesn't address their unique problems with client acquisition, marketing, systems, or scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "DeLo Weeks",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T20:09:51.100735",
+      "status": "keep",
+      "reason": "Directly addresses a primary pain point for online fitness coaches (burnout), indicating research into mental health, sustainability, and retention challenges that affect business viability and scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stuck in a Rut",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T20:09:52.457235",
+      "status": "keep",
+      "reason": "Directly addresses burnout—a critical pain point for fitness coaches affecting retention, quality of service delivery, and business sustainability; understanding burnout patterns enables content around prevention strategies, systems design, and scaling without sacrificing wellbeing.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Warm Up Rule",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T20:09:54.643439",
+      "status": "reject",
+      "reason": "Contains generic fitness content about warm-up exercises, not intelligence about online fitness coaches' business problems, pain points, or operations.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 181,
-    "kept": 57,
-    "rejected": 124,
-    "last_scan": "2026-04-17T19:28:17.237491",
+    "scanned": 186,
+    "kept": 59,
+    "rejected": 127,
+    "last_scan": "2026-04-17T20:10:58.979165",
     "platforms": [
       "Reddit",
       "YouTube",
