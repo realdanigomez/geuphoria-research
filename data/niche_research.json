@@ -1649,13 +1649,63 @@
       "status": "reject",
       "reason": "The title is clickbait without substance; the search query alone doesn't indicate the content addresses specific coach pain points, business metrics, or actionable intelligence about their actual struggles.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Avoid Trainer Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T17:37:23.191036",
+      "status": "keep",
+      "reason": "Directly addresses trainer burnout, a core pain point for online fitness coaches affecting retention, service quality, and business sustainability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Teach to Sell",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T17:37:30.585226",
+      "status": "reject",
+      "reason": "Generic business advice without specific application to fitness coaching, client acquisition, marketing systems, or identified pain points of online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Perfect Client Pipeline",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T17:37:31.596136",
+      "status": "reject",
+      "reason": "Too generic and lacks specifics about fitness coaches' actual pain points, client acquisition methods, or scaling challenges unique to online fitness coaching",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Perfect Community",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T17:37:32.667319",
+      "status": "reject",
+      "reason": "Too generic and broad - lacks specific insights into online fitness coaches' actual pain points, systems, or business challenges needed for actionable intelligence.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Live Calls",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T17:37:33.750921",
+      "status": "reject",
+      "reason": "Too vague and broad - \"live calls\" is a generic feature without specific insight into coaches' actual pain points, struggles, or business challenges. No actionable intelligence about their problems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 176,
-    "kept": 56,
-    "rejected": 120,
-    "last_scan": "2026-04-17T17:28:15.059598",
+    "scanned": 181,
+    "kept": 57,
+    "rejected": 124,
+    "last_scan": "2026-04-17T17:38:38.541014",
     "platforms": [
       "Reddit",
       "YouTube",
