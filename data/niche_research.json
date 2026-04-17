@@ -1429,13 +1429,23 @@
       "status": "reject",
       "reason": "Contains generic motivational content about starting a coaching business, but lacks specific pain points, struggles, or actionable intelligence about the challenges online fitness coaches face",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only Course You Need To Be An Online Trainer",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-17T10:27:00.524715",
+      "status": "reject",
+      "reason": "Generic clickbait title with no specific insights into actual pain points, struggles, or solutions that online fitness coaches face; lacks actionable data about their real problems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 154,
+    "scanned": 155,
     "kept": 51,
-    "rejected": 103,
-    "last_scan": "2026-04-17T09:28:04.432382",
+    "rejected": 104,
+    "last_scan": "2026-04-17T10:28:07.181928",
     "platforms": [
       "Reddit",
       "YouTube",

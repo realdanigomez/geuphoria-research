@@ -1989,13 +1989,33 @@
       "status": "reject",
       "reason": "Contains only a search query name with no actual competitive intelligence, strategies, content approaches, offers, or market positioning data about online fitness coaching competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to get your first 10 clients as an online fitness coach if you don't have a following #onlinefit",
+      "text": "Search: fitness coaching program launch",
+      "url": "",
+      "time": "2026-04-17T10:28:15.544617",
+      "status": "keep",
+      "reason": "Contains specific client acquisition strategy for online fitness coaches launching without existing audience, directly applicable to competitor positioning and market entry tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Using Voice Notes Over DMs for Better Responses",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T10:28:27.697613",
+      "status": "reject",
+      "reason": "This is a generic communication tactic (voice notes vs DMs) not specific to fitness coaching strategy, positioning, offers, or audience growth tactics of competitors in the online fitness coaching space.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 220,
-    "kept": 14,
-    "rejected": 206,
-    "last_scan": "2026-04-17T09:29:25.079113",
+    "scanned": 222,
+    "kept": 15,
+    "rejected": 207,
+    "last_scan": "2026-04-17T10:29:29.398048",
     "platforms": [
       "YouTube",
       "Google",
