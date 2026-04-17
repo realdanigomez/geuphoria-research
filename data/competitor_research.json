@@ -1969,13 +1969,33 @@
       "status": "reject",
       "reason": "Generic search query with no competitive intelligence, strategies, content approaches, offers, programs, or audience growth tactics documented.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Gratitude",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T09:28:17.197353",
+      "status": "reject",
+      "reason": "No competitive intelligence provided; only a search query name without any data about strategies, content, offers, programs, or tactics of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Know your",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T09:28:18.201790",
+      "status": "reject",
+      "reason": "Contains only a search query name with no actual competitive intelligence, strategies, content approaches, offers, or market positioning data about online fitness coaching competitors.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 218,
+    "scanned": 220,
     "kept": 14,
-    "rejected": 204,
-    "last_scan": "2026-04-17T08:29:21.246828",
+    "rejected": 206,
+    "last_scan": "2026-04-17T09:29:25.079113",
     "platforms": [
       "YouTube",
       "Google",
