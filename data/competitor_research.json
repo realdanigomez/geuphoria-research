@@ -2329,13 +2329,53 @@
       "status": "reject",
       "reason": "Generic AI skill-building content unrelated to online fitness coaching business models, strategies, or competitive positioning in the fitness industry.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Taught 100 Kids How to Make More Money Than Their Parents",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T17:28:25.644829",
+      "status": "reject",
+      "reason": "This is about teaching kids financial literacy/entrepreneurship, not about online fitness coaching strategies, content approaches, or market positioning for fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Audit your beliefs",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T17:28:26.864256",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. \"Audit your beliefs\" is a generic self-help concept with no details about Dan Martel's coaching strategies, offers, programs, or market positioning that would inform competitive analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Two types of beliefs",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T17:28:28.038658",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query name without details about strategies, content, offers, programs, or market positioning of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The most valuable lesson",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T17:28:29.553092",
+      "status": "reject",
+      "reason": "Contains only a search query without any actual competitive intelligence, strategies, content approaches, offers, or market positioning data about fitness coaching competitors.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 254,
+    "scanned": 258,
     "kept": 15,
-    "rejected": 239,
-    "last_scan": "2026-04-17T16:29:34.377912",
+    "rejected": 243,
+    "last_scan": "2026-04-17T17:29:40.129091",
     "platforms": [
       "YouTube",
       "Google",
