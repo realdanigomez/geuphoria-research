@@ -1439,13 +1439,23 @@
       "status": "reject",
       "reason": "Generic clickbait title with no specific insights into actual pain points, struggles, or solutions that online fitness coaches face; lacks actionable data about their real problems.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to close more sales and grow your fitness coaching business",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-17T10:38:53.047503",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and revenue growth, core pain points for online fitness coaches scaling their businesses",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 155,
-    "kept": 51,
+    "scanned": 156,
+    "kept": 52,
     "rejected": 104,
-    "last_scan": "2026-04-17T10:28:07.181928",
+    "last_scan": "2026-04-17T10:39:56.402707",
     "platforms": [
       "Reddit",
       "YouTube",

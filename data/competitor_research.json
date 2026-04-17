@@ -2009,13 +2009,153 @@
       "status": "reject",
       "reason": "This is a generic communication tactic (voice notes vs DMs) not specific to fitness coaching strategy, positioning, offers, or audience growth tactics of competitors in the online fitness coaching space.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "a full day with a 27 year old online entrepreneur in china",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:08.318683",
+      "status": "reject",
+      "reason": "Vague general lifestyle content about an entrepreneur with no specific information about fitness coaching strategies, programs, offers, or competitive positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overview of the Day",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:09.488836",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks any information about strategies, content, offers, programs, or tactics from actual competitors in the fitness coaching space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Car ride",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:10.476670",
+      "status": "reject",
+      "reason": "No competitive intelligence provided - only shows a search query name without any information about strategies, content, offers, programs, or positioning of online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Reintroducing myself",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:11.631720",
+      "status": "reject",
+      "reason": "No competitive intelligence provided; only a search query with no actual competitor information, strategies, offers, or content approaches included.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I schedule my day",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:12.523521",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This is a generic personal productivity topic with no information about fitness coaching strategies, offers, content approaches, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Arrived at Beijing airport",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:13.502921",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This is a travel log entry with a generic search query that provides no information about competitor strategies, content, offers, programs, or audience growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Having fun while traveling",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:14.751681",
+      "status": "reject",
+      "reason": "Contains only a search query name with no substantive information about competitor strategies, content, offers, programs, or tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sharing some knowledge",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:15.521464",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual competitive intelligence, strategies, offers, or market positioning information about online fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Arrived at Guangzhou airport",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:17.068279",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This appears to be a personal travel note with an unrelated search query. Contains no information about fitness coaching strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "On the way to the hotel",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:18.131593",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable competitive intelligence about strategies, content, offers, programs, or tactics used by online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Are you a YouTuber?",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:19.252185",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query with no data about strategies, content approaches, offers, programs, or market positioning of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Team calls and work",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:20.523064",
+      "status": "reject",
+      "reason": "No competitive intelligence provided; only shows a search query with no data about strategies, content, offers, programs, or market positioning of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Wrapping up work",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:21.704170",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual competitive intelligence, strategies, content, offers, or market positioning information about online fitness coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tell stories",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T10:40:25.332850",
+      "status": "reject",
+      "reason": "No actionable competitive intelligence provided. Only mentions a name and generic advice about storytelling without details about strategies, offers, programs, or tactics used by fitness coaching competitors.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 222,
+    "scanned": 236,
     "kept": 15,
-    "rejected": 207,
-    "last_scan": "2026-04-17T10:29:29.398048",
+    "rejected": 221,
+    "last_scan": "2026-04-17T10:41:28.678471",
     "platforms": [
       "YouTube",
       "Google",

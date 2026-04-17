@@ -1999,13 +1999,93 @@
       "status": "reject",
       "reason": "This is a tactical tool tutorial, not strategic business intelligence. It lacks frameworks, scaling principles, or growth strategies applicable to coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping E-Commerce Business Owners Scale",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T10:41:33.169371",
+      "status": "reject",
+      "reason": "Title suggests e-commerce scaling content, not coaching/service business models; search query alone doesn't confirm presence of actionable frameworks applicable to fitness coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Custom Gaming Tables",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T10:41:34.271846",
+      "status": "reject",
+      "reason": "This is a product listing unrelated to business scaling, coaching strategies, or service business frameworks. No mentorship content or actionable business intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Direct Response E-Commerce",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T10:41:35.537938",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate content exists; no specific scaling strategy, system, or framework demonstrated in the provided text to validate usefulness for coaching/service business application.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hair Extension Wholesale \\u0026 Salon",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T10:41:36.402928",
+      "status": "reject",
+      "reason": "Content is about hair extension retail/wholesale operations, not business scaling frameworks or strategies applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "️Will's Journey into HVAC Ownership",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T10:41:40.272113",
+      "status": "reject",
+      "reason": "HVAC business ownership lacks applicable frameworks for coaching/service business scaling; industry-specific operational content without transferable business systems or marketing strategies relevant to fitness coaching.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Navigating Market Competition and Growth",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T10:41:41.620094",
+      "status": "reject",
+      "reason": "Title is generic with no evidence of specific scaling strategies, frameworks, or tactics. The search query alone doesn't confirm the content contains actionable business intelligence from established mentors.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $3,000,000 Business for a Stranger in 57 Mins",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T10:42:15.667978",
+      "status": "keep",
+      "reason": "Likely contains specific scaling strategies and business system frameworks from a recognized business mentor (Hormozi) applicable to service/coaching businesses, with concrete results demonstrating practical methodology.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "58 Mins of Advice That Will Blow Up Your Business",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T10:42:17.263060",
+      "status": "reject",
+      "reason": "Title is clickbait with no specific frameworks or tactics disclosed; search query alone doesn't confirm content contains actionable business systems or scaling strategies applicable to coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 200,
-    "kept": 30,
-    "rejected": 170,
-    "last_scan": "2026-04-17T10:30:27.892059",
+    "scanned": 208,
+    "kept": 31,
+    "rejected": 177,
+    "last_scan": "2026-04-17T10:42:24.456652",
     "platforms": [
       "YouTube",
       "Google",
