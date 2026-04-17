@@ -2319,13 +2319,23 @@
       "status": "reject",
       "reason": "Search query alone provides no substantive competitive intelligence about coaching strategies, content approaches, offers, programs, or market positioning without actual findings about Charlie Morgan's business model or tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Go From ChatGPT Beginner to Pro in 2026",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T16:28:23.137220",
+      "status": "reject",
+      "reason": "Generic AI skill-building content unrelated to online fitness coaching business models, strategies, or competitive positioning in the fitness industry.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 253,
+    "scanned": 254,
     "kept": 15,
-    "rejected": 238,
-    "last_scan": "2026-04-17T15:29:43.976780",
+    "rejected": 239,
+    "last_scan": "2026-04-17T16:29:34.377912",
     "platforms": [
       "YouTube",
       "Google",

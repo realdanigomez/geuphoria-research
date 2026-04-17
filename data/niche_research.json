@@ -1639,13 +1639,23 @@
       "status": "reject",
       "reason": "Generic fitness content for consumers, not intelligence about online coaches' business challenges, marketing strategies, or operational pain points",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is An Online Fitness Coach ACTUALLY Worth It??",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-17T16:27:11.429207",
+      "status": "reject",
+      "reason": "The title is clickbait without substance; the search query alone doesn't indicate the content addresses specific coach pain points, business metrics, or actionable intelligence about their actual struggles.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 175,
+    "scanned": 176,
     "kept": 56,
-    "rejected": 119,
-    "last_scan": "2026-04-17T15:28:24.375033",
+    "rejected": 120,
+    "last_scan": "2026-04-17T16:28:15.227175",
     "platforms": [
       "Reddit",
       "YouTube",
