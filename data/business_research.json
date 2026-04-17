@@ -1759,13 +1759,53 @@
       "status": "reject",
       "reason": "Search query alone without content does not contain actionable business intelligence, frameworks, or scaling strategies applicable to coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "competitive mode",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T06:59:28.697392",
+      "status": "reject",
+      "reason": "Search query alone without actual content, frameworks, or specific scaling strategies. No actionable business intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Is the Problem",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T06:59:37.497718",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, strategies, or frameworks provided - lacks specific, actionable business intelligence needed for coaching business scaling.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Do you need an LLC if you are a Coach? #Askalawyer",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T07:00:11.470214",
+      "status": "reject",
+      "reason": "Legal structure advice is operational compliance, not scaling strategy or growth tactics applicable to coaching/service businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Start A High Profit Online Coaching Business in 2026 (Masterclass) | #TheDept Ep. 53",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T07:00:12.643650",
+      "status": "keep",
+      "reason": "Masterclass format likely contains structured scaling strategies and operational frameworks applicable to coaching business models, fitting the mentor-style business intelligence criteria",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 176,
-    "kept": 27,
-    "rejected": 149,
-    "last_scan": "2026-04-17T06:17:19.825329",
+    "scanned": 180,
+    "kept": 28,
+    "rejected": 152,
+    "last_scan": "2026-04-17T07:00:14.645392",
     "platforms": [
       "YouTube",
       "Google",

@@ -1319,13 +1319,103 @@
       "status": "reject",
       "reason": "Promotional content lacking substantive research on actual pain points; \"struggling\" search term suggests interest in problems but title indicates sales funnel rather than genuine insight into coach struggles",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to make 6 Figures as a Personal Trainer",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T06:56:46.374236",
+      "status": "reject",
+      "reason": "Generic clickbait title with no specific insights about online coaches' actual pain points, systems, or scaling challenges; \"business tips\" search suggests surface-level content unlikely to contain actionable intelligence for the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Examples of Revenue Streams",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T06:56:47.410570",
+      "status": "reject",
+      "reason": "Too generic and broad; lacks specific information about fitness coaches' actual pain points, revenue challenges, or actionable strategies for their business model.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tell Your Story",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T06:56:48.696875",
+      "status": "reject",
+      "reason": "Too generic and lacks specificity about fitness coaching challenges, business mechanics, or pain points; \"tell your story\" is surface-level advice without addressing concrete problems like client acquisition costs, retention rates, pricing strategies, or scaling systems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Promoting Your Business",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T06:56:50.066792",
+      "status": "reject",
+      "reason": "Too generic and broad - lacks specific insights into fitness coaches' actual pain points, struggles, or actionable strategies for their unique challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Brand Trainer University",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T06:56:51.187119",
+      "status": "reject",
+      "reason": "Generic course title with no evidence of specific pain points, strategies, or actionable insights for fitness coaches—appears to be a product promotion rather than research finding.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overall Feeling of Fatigue",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T06:56:59.951903",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout, a critical pain point affecting retention, pricing power, and business sustainability for online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sleeplessness / Restlessness",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T06:57:01.243457",
+      "status": "reject",
+      "reason": "Generic burnout topic without specific insights into fitness coach sleep issues, root causes, or solutions that would differentiate coaching business challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mild Depression",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T06:57:02.319446",
+      "status": "reject",
+      "reason": "Contains generic mental health content without specific insights into fitness coach burnout causes, symptoms, or solutions that would inform business strategy or operations.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Higher Resting Heart Rate",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-17T06:57:03.596216",
+      "status": "reject",
+      "reason": "Generic health topic without specific insights into fitness coach business operations, pain points, or challenges. Does not address coach-specific issues like client acquisition, marketing, systems, or scaling.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 143,
-    "kept": 50,
-    "rejected": 93,
-    "last_scan": "2026-04-17T06:14:52.741922",
+    "scanned": 152,
+    "kept": 51,
+    "rejected": 101,
+    "last_scan": "2026-04-17T06:58:06.859632",
     "platforms": [
       "Reddit",
       "YouTube",
