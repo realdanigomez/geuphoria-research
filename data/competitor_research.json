@@ -2269,13 +2269,43 @@
       "status": "reject",
       "reason": "This is a general lifestyle/entrepreneurship content piece about balancing business and travel. It lacks specific intelligence about online fitness coaching strategies, content approaches, offers, programs, or audience growth tactics that would be actionable for fitness coaching competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Process of Solving the Problem",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-17T14:45:34.689245",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks actual competitor data, strategies, offers, or market positioning details needed for analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Consultative Method",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-17T14:45:35.521269",
+      "status": "reject",
+      "reason": "Contains only a search query without any actual competitive intelligence, strategies, or data about fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Do Not Automate What You Should Systematize",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-17T14:45:36.650946",
+      "status": "reject",
+      "reason": "Contains only a generic business principle about automation vs. systematization with no specific competitive intelligence about fitness coaching strategies, offers, positioning, or audience growth tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 248,
+    "scanned": 251,
     "kept": 15,
-    "rejected": 233,
-    "last_scan": "2026-04-17T14:29:34.860972",
+    "rejected": 236,
+    "last_scan": "2026-04-17T14:46:48.513865",
     "platforms": [
       "YouTube",
       "Google",
