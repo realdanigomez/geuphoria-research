@@ -2409,13 +2409,33 @@
       "status": "reject",
       "reason": "Contains only a generic blog post title with no specific competitive intelligence about coaching strategies, content approaches, offers, programs, or audience tactics. The search query alone provides no actionable data.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Trained w/ Alex Hormozi in His HQ Home Gym!",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-17T19:28:24.518892",
+      "status": "reject",
+      "reason": "This is a personal experience video about training with Alex Hormozi, not competitive intelligence about his coaching strategies, business model, content approach, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Full Body Workout in the Ultimate Home Gym",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-17T19:28:25.474218",
+      "status": "reject",
+      "reason": "Generic workout content with no competitive intelligence about coaching strategies, business models, audience growth tactics, or market positioning of fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 262,
+    "scanned": 264,
     "kept": 15,
-    "rejected": 247,
-    "last_scan": "2026-04-17T18:29:37.295878",
+    "rejected": 249,
+    "last_scan": "2026-04-17T19:29:38.108402",
     "platforms": [
       "YouTube",
       "Google",
