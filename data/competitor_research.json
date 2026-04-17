@@ -1949,13 +1949,33 @@
       "status": "reject",
       "reason": "Generic search query with no competitive intelligence data; no strategies, content approaches, offers, programs, or audience tactics documented.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Speak Like A Top 1% CEO",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T07:58:13.772157",
+      "status": "reject",
+      "reason": "This is generic CEO communication advice with no specific relevance to online fitness coaching strategies, offers, audience growth, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro Summary",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T07:58:14.862988",
+      "status": "reject",
+      "reason": "Generic search query with no competitive intelligence, strategies, content approaches, offers, programs, or audience growth tactics documented.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 216,
+    "scanned": 218,
     "kept": 14,
-    "rejected": 202,
-    "last_scan": "2026-04-17T06:59:24.463224",
+    "rejected": 204,
+    "last_scan": "2026-04-17T07:59:22.617645",
     "platforms": [
       "YouTube",
       "Google",
