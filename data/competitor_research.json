@@ -2449,13 +2449,83 @@
       "status": "reject",
       "reason": "Title promises broad advice but search query alone provides no specific competitive intelligence about strategies, content approaches, offers, programs, or audience growth tactics that online fitness coaches use.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "4 Business Lessons I Learned From My BILLIONAIRE Mentor",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T23:28:31.960959",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about online fitness coaching strategies, content approaches, offers, or market positioning. Generic business mentorship content lacks actionable tactics relevant to fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro Summary",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T23:28:32.923756",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks actual data about Charlie Morgan's strategies, content, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lesson 1 Second Order Consequences",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T23:28:34.184937",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about online fitness coaching strategies, content approaches, offers, or audience growth tactics. Only a generic lesson title with a name search, lacking actionable details about competitor positioning or methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Chess Example",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T23:28:35.142515",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. Title and search query alone don't contain strategies, content approaches, offers, programs, audience tactics, or market positioning data about fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Generals Perspective",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T23:28:36.303091",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. \"Generals Perspective\" appears to be a generic title with only a search query name, lacking details about coaching strategies, content approaches, offers, programs, or audience growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Product",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T23:28:37.436814",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence about strategies, content, offers, programs, audience growth tactics, or market positioning—just a name with no substantive data about their business model or approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Systems",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T23:28:38.531146",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. The finding is just a search query name without any actual data, strategies, content approaches, offers, or market positioning details about Charlie Morgan or their coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 266,
+    "scanned": 273,
     "kept": 15,
-    "rejected": 251,
-    "last_scan": "2026-04-17T22:26:48.678599",
+    "rejected": 258,
+    "last_scan": "2026-04-17T23:29:54.814866",
     "platforms": [
       "YouTube",
       "Google",

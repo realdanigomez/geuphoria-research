@@ -2409,13 +2409,33 @@
       "status": "reject",
       "reason": "Title \"Personality\" with generic search term \"business owner scaling strategy\" contains no actual content, frameworks, or actionable tactics—appears to be placeholder or incomplete entry.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Grow ANY Business FASTER (Masterclass)",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T23:30:35.708240",
+      "status": "reject",
+      "reason": "Title is generic clickbait without evidence of specific scaling strategies, systems, or frameworks from established business mentors; \"masterclass\" claims require actual content proof showing concrete business intelligence applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Advice I Wish Someone Gave Me When I Was Broke",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T23:30:36.443702",
+      "status": "reject",
+      "reason": "Title suggests generic life advice rather than specific business scaling strategies, systems, or marketing frameworks applicable to coaching/service businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 241,
+    "scanned": 243,
     "kept": 33,
-    "rejected": 208,
-    "last_scan": "2026-04-17T22:27:34.904543",
+    "rejected": 210,
+    "last_scan": "2026-04-17T23:30:43.912427",
     "platforms": [
       "YouTube",
       "Google",
