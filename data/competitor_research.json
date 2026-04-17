@@ -1059,13 +1059,23 @@
       "status": "reject",
       "reason": "This is a search query, not actual competitive intelligence. It contains no specific strategies, content approaches, offers, programs, or tactics from actual competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "You'll NEVER Be Lazy Again After Watching This",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T04:49:26.895944",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. Title is clickbait without details on strategies, content approaches, offers, programs, or audience tactics used by fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 127,
+    "scanned": 128,
     "kept": 13,
-    "rejected": 114,
-    "last_scan": "2026-04-16T22:09:39.920012",
+    "rejected": 115,
+    "last_scan": "2026-04-17T04:50:32.904237",
     "platforms": [
       "YouTube",
       "Google",

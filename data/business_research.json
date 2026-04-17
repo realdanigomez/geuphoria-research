@@ -859,13 +859,43 @@
       "status": "reject",
       "reason": "\"coaching business operations\" is a generic search query, not a finding containing specific business intelligence, frameworks, or actionable tactics",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Scale Your Business with One Channel: A Step by Step Guide",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T04:50:34.577256",
+      "status": "keep",
+      "reason": "Contains scaling methodology from established business mentor (Alex Hormozi) with step-by-step framework applicable to coaching/service business growth through channel concentration strategy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "No BS Advice to Get Rich Like the 1%",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T04:51:08.556940",
+      "status": "reject",
+      "reason": "Title is clickbait without specific frameworks or tactics; search term alone doesn't confirm it contains scaling strategies, business systems, or marketing frameworks applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dangerously Honest Advice to Create Generational Wealth",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T04:51:09.688381",
+      "status": "reject",
+      "reason": "Title is vague clickbait without evidence of specific scaling strategies, systems, or frameworks; \"generational wealth\" advice is too broad and not necessarily applicable to coaching/service business models.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 86,
-    "kept": 12,
-    "rejected": 74,
-    "last_scan": "2026-04-16T22:10:32.850402",
+    "scanned": 89,
+    "kept": 13,
+    "rejected": 76,
+    "last_scan": "2026-04-17T04:51:19.783052",
     "platforms": [
       "YouTube",
       "Google",
