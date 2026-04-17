@@ -2219,13 +2219,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided. The finding only mentions a video exists but contains no details about strategies, content approaches, offers, programs, audience growth tactics, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Train Your Mind To Become a Millionaire",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T12:28:13.681970",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about online fitness coaching strategies, content approaches, offers, programs, or audience growth tactics. Generic self-help content about wealth mindset is not relevant to fitness coaching business models or positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 243,
+    "scanned": 244,
     "kept": 15,
-    "rejected": 228,
-    "last_scan": "2026-04-17T11:29:47.229032",
+    "rejected": 229,
+    "last_scan": "2026-04-17T12:29:25.025907",
     "platforms": [
       "YouTube",
       "Google",

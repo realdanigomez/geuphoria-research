@@ -2089,13 +2089,43 @@
       "status": "reject",
       "reason": "Too vague and generic. Contains no specific scaling strategies, systems, marketing frameworks, or growth tactics applicable to coaching/service businesses. Title alone doesn't demonstrate substantive business intelligence from established mentors.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch This If You Have a Service Business",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T12:30:07.503726",
+      "status": "reject",
+      "reason": "Title is generic clickbait with no indication of specific frameworks, systems, or actionable tactics; search query alone doesn't confirm actual content value or applicability to coaching/service business scaling.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T12:30:08.765801",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, advice, or framework provided - cannot evaluate business intelligence without substantive material",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Chiropractor",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T12:30:09.844484",
+      "status": "reject",
+      "reason": "No actual business advice or frameworks present; only a title and search query with no content about scaling strategies, systems, marketing, or growth tactics.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 209,
+    "scanned": 212,
     "kept": 31,
-    "rejected": 178,
-    "last_scan": "2026-04-17T11:30:32.976837",
+    "rejected": 181,
+    "last_scan": "2026-04-17T12:30:14.580567",
     "platforms": [
       "YouTube",
       "Google",
