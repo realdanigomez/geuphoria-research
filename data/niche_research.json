@@ -1409,13 +1409,33 @@
       "status": "reject",
       "reason": "Generic health topic without specific insights into fitness coach business operations, pain points, or challenges. Does not address coach-specific issues like client acquisition, marketing, systems, or scaling.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Solidify Business Foundations",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-04-17T08:26:53.945323",
+      "status": "reject",
+      "reason": "Too generic and vague - \"business foundations\" lacks specificity about fitness coaching problems, pain points, or actionable strategies relevant to the niche",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "HOW I STARTED MY COACHING BUSINESS | From Gym Girl To Online Fitness \\u0026 Nutrition Coach",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-17T08:27:03.307882",
+      "status": "reject",
+      "reason": "Contains generic motivational content about starting a coaching business, but lacks specific pain points, struggles, or actionable intelligence about the challenges online fitness coaches face",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 152,
+    "scanned": 154,
     "kept": 51,
-    "rejected": 101,
-    "last_scan": "2026-04-17T07:58:01.167056",
+    "rejected": 103,
+    "last_scan": "2026-04-17T08:28:03.676640",
     "platforms": [
       "Reddit",
       "YouTube",

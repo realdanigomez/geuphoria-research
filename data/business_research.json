@@ -1799,13 +1799,73 @@
       "status": "keep",
       "reason": "Masterclass format likely contains structured scaling strategies and operational frameworks applicable to coaching business models, fitting the mentor-style business intelligence criteria",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "13 Years of No BS Business Advice in 79 Mins",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T08:29:22.703000",
+      "status": "keep",
+      "reason": "Alex Hormozi content likely contains specific scaling frameworks, positioning strategies, and offer architecture tactics directly applicable to coaching business growth and revenue optimization.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a Marketing System",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T08:29:26.340817",
+      "status": "reject",
+      "reason": "Title alone lacks specificity; no actual framework, tactic, or system detail provided to extract actionable intelligence for scaling a coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Attribution Issue",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T08:29:30.832831",
+      "status": "reject",
+      "reason": "Title alone is insufficient to determine if content contains specific scaling strategies, systems, or frameworks; requires actual content review to assess actionable business intelligence value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Who Is the Right Customer",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T08:29:31.859520",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate specific tactics or frameworks; appears to be a generic overview without disclosed scaling strategies, systems, or actionable growth intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to grow an online course business that produces profits in all seasons, for a long-time.",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T08:29:38.064768",
+      "status": "reject",
+      "reason": "Title is generic without specifics; search query alone doesn't confirm the content contains actionable scaling strategies, systems, or frameworks applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "1-on-1 Executive Coaching Session Demo [UNEDITED]",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T08:30:06.633844",
+      "status": "reject",
+      "reason": "Demo session footage lacks systematic business frameworks, scaling strategies, or operational tactics applicable to coaching businesses. Raw coaching execution ≠ business intelligence for growth and systems.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 180,
-    "kept": 28,
-    "rejected": 152,
-    "last_scan": "2026-04-17T08:00:08.020085",
+    "scanned": 186,
+    "kept": 29,
+    "rejected": 157,
+    "last_scan": "2026-04-17T08:30:13.663576",
     "platforms": [
       "YouTube",
       "Google",
