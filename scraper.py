@@ -6,7 +6,7 @@ AI: Claude Haiku classifies each finding.
 Platforms: Reddit, YouTube, Google, LinkedIn, Quora, Medium, Twitter, Facebook, Skool, Instagram
 """
 
-import json, os, re, hashlib, time
+import json, os, re, random, hashlib, time
 from datetime import datetime
 from urllib.parse import quote_plus
 import requests
@@ -241,27 +241,33 @@ def scrape_reddit(subs, terms_unused, seen, log, track):
     return count
 
 def scrape_youtube(terms, seen, log, track):
-    """Search YouTube."""
+    """Search YouTube. Shuffle queries each run for content variety."""
     count = 0
-    for term in terms[:4]:
+    terms_pool = list(terms)
+    random.shuffle(terms_pool)
+    for term in terms_pool[:8]:  # 8 different queries per run (was 4)
         try:
             r = requests.get(f'https://www.youtube.com/results?search_query={quote_plus(term)}&sp=CAI', headers=HEADERS, timeout=15)
             if r.status_code != 200: continue
-            for title in re.findall(r'"title":\{"runs":\[\{"text":"([^"]+)"', r.text)[:8]:
+            for title in re.findall(r'"title":\{"runs":\[\{"text":"([^"]+)"', r.text)[:15]:  # 15 results (was 8)
                 count += add_finding(seen, log, 'YouTube', title, f'Search: {term}', '', track)
             time.sleep(2)
         except: pass
     return count
 
 def scrape_google(queries, seen, log, track):
-    """Search Google."""
+    """Search Google. Shuffle and rotate freshness window for variety."""
     count = 0
-    for q in queries[:3]:
+    queries_pool = list(queries)
+    random.shuffle(queries_pool)
+    # Rotate between past day (qdr:d) and past week (qdr:w) on each run for fresh + recent variety
+    freshness = random.choice(['qdr:d', 'qdr:w'])
+    for q in queries_pool[:6]:  # 6 queries per run (was 3)
         try:
-            r = requests.get(f'https://www.google.com/search?q={quote_plus(q)}&tbs=qdr:w', headers=HEADERS, timeout=15)
+            r = requests.get(f'https://www.google.com/search?q={quote_plus(q)}&tbs={freshness}', headers=HEADERS, timeout=15)
             if r.status_code != 200: continue
             soup = BeautifulSoup(r.text, 'html.parser')
-            for res in soup.select('h3')[:8]:
+            for res in soup.select('h3')[:12]:  # 12 results (was 8)
                 title = res.get_text()
                 if title: count += add_finding(seen, log, 'Google', title, f'Search: {q[:50]}', '', track)
             time.sleep(3)
@@ -269,9 +275,11 @@ def scrape_google(queries, seen, log, track):
     return count
 
 def scrape_platform_google(platform, queries, seen, log, track):
-    """Search a specific platform via Google."""
+    """Search a specific platform via Google. Shuffle for variety."""
     count = 0
-    for q in queries[:2]:
+    queries_pool = list(queries)
+    random.shuffle(queries_pool)
+    for q in queries_pool[:4]:
         try:
             r = requests.get(f'https://www.google.com/search?q={quote_plus(q)}&tbs=qdr:m', headers=HEADERS, timeout=15)
             if r.status_code != 200: continue
