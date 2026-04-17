@@ -1659,13 +1659,173 @@
       "status": "reject",
       "reason": "Generic sales training not specific to fitness coaching industry, competitors, or online fitness coach business models",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Gym",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:17.879924",
+      "status": "reject",
+      "reason": "Generic search query with no competitive intelligence about strategies, content, offers, or market positioning of fitness coaching competitors",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Smoothies",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:18.917233",
+      "status": "reject",
+      "reason": "Generic smoothie content with no competitive intelligence about online fitness coaching strategies, offers, or market positioning. Search mention of Sam Ovens is insufficient without actual analysis of his coaching approach or business model.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hockey Ball",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:20.071313",
+      "status": "reject",
+      "reason": "No competitive intelligence provided; only a search query name with no data about strategies, content, offers, programs, or market positioning of fitness coaches or competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cut it open",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:21.450635",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only mentions a person's name without details about their strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get your hair cut",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:22.503470",
+      "status": "reject",
+      "reason": "No competitive intelligence about online fitness coaching strategies, content, offers, or audience growth tactics. Only a tangential reference to a business coach unrelated to fitness industry.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Distractions",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:23.637031",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable competitive intelligence; lacks any information about strategies, content, offers, programs, or market positioning of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Meditation",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:25.018549",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This is a generic meditation title with only a name search query; contains no information about strategies, content, offers, programs, or market positioning of fitness coaches or coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exactly How to Start Online Fitness Coaching (it's easy)",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-17T05:58:31.575768",
+      "status": "reject",
+      "reason": "Generic title with no substantive details about competitor strategies, content approaches, offers, programs, or audience growth tactics; appears to be a search query rather than analyzed competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Story",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-17T05:58:32.658670",
+      "status": "reject",
+      "reason": "Contains only a page title and generic search term with no specific competitive intelligence about strategies, content, offers, programs, or tactics used by fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Unique Selling Proposition",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-17T05:58:33.584673",
+      "status": "reject",
+      "reason": "Contains only a generic search term with no actual competitive intelligence, strategy details, or specific information about how competitors operate or position themselves.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Money Maker VSL",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-17T05:58:34.728399",
+      "status": "reject",
+      "reason": "Contains only a vague VSL title and search term with no actual content, strategies, offers, or competitive intelligence about fitness coaching businesses or their approaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Master DMs to Convert High Ticket",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-17T05:58:36.015141",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. Title alone doesn't describe strategies, content approaches, offers, programs, or audience growth tactics used by fitness coaching competitors. Generic reference to \"high ticket\" DM conversion lacks actionable detail about how competitors actually operate.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hidden Mindset Shift",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-17T05:58:37.109631",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a vague title and search query without details about strategies, content, offers, programs, or tactics of actual competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build Systems (with AI) to ACTUALLY Achieve Your Goals",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:48.373576",
+      "status": "reject",
+      "reason": "Finding is about general goal-achievement systems with AI, not specific to online fitness coaching competitors, their strategies, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get SO Many Customers with AI it feels ILLEGAL",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:49.458227",
+      "status": "reject",
+      "reason": "Generic clickbait title with no specific tactics disclosed; searching a person's name is not competitive intelligence without actual strategy details about their coaching methods, offers, or audience growth approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start a 1-Person AI Business (With Zero Code)",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T05:58:50.766613",
+      "status": "reject",
+      "reason": "Generic AI business advice unrelated to fitness coaching industry, audience, or competitive strategies. No specific intelligence about fitness coaching competitors or their tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 187,
+    "scanned": 203,
     "kept": 14,
-    "rejected": 173,
-    "last_scan": "2026-04-17T05:16:56.082932",
+    "rejected": 189,
+    "last_scan": "2026-04-17T05:59:51.456058",
     "platforms": [
       "YouTube",
       "Google",

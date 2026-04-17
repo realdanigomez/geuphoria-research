@@ -1519,13 +1519,173 @@
       "status": "keep",
       "reason": "Contains scaling methodology from established business mentor likely covering systems, positioning, and growth tactics applicable to fitness coaching businesses",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Netflix's Recurring Revenue Tactics Can Scale Any Business",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:59:53.335213",
+      "status": "reject",
+      "reason": "Title promises Netflix revenue tactics but search result is just a name mention with no actual framework, system, or specific strategy detailed for application to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:59:54.464926",
+      "status": "reject",
+      "reason": "Search query alone without actual content or insights; no specific scaling strategies, systems, frameworks, or tactics present to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Consumption",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:59:55.277936",
+      "status": "reject",
+      "reason": "Search query alone without actual content, frameworks, or specific scaling strategies that can be applied to fitness coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Collateral",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:59:56.382943",
+      "status": "reject",
+      "reason": "Title alone is insufficient; no actual content provided to assess for specific scaling strategies, systems, or frameworks applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Control",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:59:57.434672",
+      "status": "reject",
+      "reason": "Title alone (\"Control\") provides no specific business intelligence, framework, or scaling strategy. The search query indicates intent but the finding contains no actual content, tactics, or insights to evaluate.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "enforceable",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-17T05:59:58.683017",
+      "status": "reject",
+      "reason": "Title alone (\"enforceable\") provides no business intelligence; search query indicates intent but no actual content/framework/tactic is present to evaluate for actionable scaling strategies.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T06:00:02.227413",
+      "status": "keep",
+      "reason": "Contains scaling frameworks and strategic approaches directly applicable to coaching/service businesses, likely offering systems and growth tactics from the target mentor archetype",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $1,000,000 Business for a Stranger in 26 Minutes",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T06:00:03.181337",
+      "status": "reject",
+      "reason": "Title suggests motivational content rather than specific, actionable scaling strategies. No evidence of frameworks, systems, or tactical intelligence applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business Overview",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T06:00:04.187804",
+      "status": "reject",
+      "reason": "Too vague and generic - \"business owner scaling strategy\" is a search query, not actual content with specific frameworks, tactics, or systems that can be applied to a fitness coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-17T06:00:08.667101",
+      "status": "keep",
+      "reason": "Title indicates specific scaling strategies for service businesses in 2026, likely containing tactical frameworks applicable to fitness coaching businesses (pricing models, client acquisition, systematization, or positioning strategies from established business mentors)",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "This is how I went from broke to $65 million by age 26 from my laptop.",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-17T06:00:12.179201",
+      "status": "reject",
+      "reason": "Title is clickbait without specific business systems or scaling strategies demonstrated; search query alone doesn't confirm the content contains actionable frameworks applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 6 Most Profitable AI Businesses to Start in 2026",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T06:00:16.499311",
+      "status": "reject",
+      "reason": "Title promises AI business ideas but search query indicates Dan Martel content on business systems; likelihood of misaligned/clickbait content rather than specific scaling strategies or frameworks applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $10M Solo AI Business (Zero Code)",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T06:00:17.958001",
+      "status": "reject",
+      "reason": "Title promises $10M scaling but search query alone doesn't confirm it contains concrete business systems, frameworks, or tactics applicable to coaching/service businesses—needs content verification to assess actual intelligence value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Grow Your Business SO Fast it Feels Like CHEATING",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T06:00:19.025839",
+      "status": "reject",
+      "reason": "Title is clickbait without evidence of specific, actionable systems or frameworks provided in the actual content referenced",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "14 Years of Marketing Advice in 35 Minutes",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T06:00:43.991310",
+      "status": "keep",
+      "reason": "Likely contains condensed marketing frameworks and scaling strategies from a recognized business mentor that apply directly to coaching/service business growth",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Coach (by asking questions) | Coaching Leaders | Winning By Design",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-17T06:00:53.020286",
+      "status": "reject",
+      "reason": "Title suggests coaching methodology rather than business scaling strategies; \"coaching leaders\" and \"winning by design\" indicate leadership/performance coaching content, not business operations or growth tactics for coaching businesses",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 152,
-    "kept": 24,
-    "rejected": 128,
-    "last_scan": "2026-04-17T05:18:48.946373",
+    "scanned": 168,
+    "kept": 27,
+    "rejected": 141,
+    "last_scan": "2026-04-17T06:00:55.022375",
     "platforms": [
       "YouTube",
       "Google",
