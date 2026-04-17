@@ -2429,13 +2429,23 @@
       "status": "reject",
       "reason": "Generic workout content with no competitive intelligence about coaching strategies, business models, audience growth tactics, or market positioning of fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "\\",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-17T21:28:26.311204",
+      "status": "reject",
+      "reason": "This is merely a search query with no actual competitive intelligence, strategy details, offer structure, or market positioning information about fitness coaches or their business approaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 264,
+    "scanned": 265,
     "kept": 15,
-    "rejected": 249,
-    "last_scan": "2026-04-17T20:59:35.211027",
+    "rejected": 250,
+    "last_scan": "2026-04-17T21:29:42.971419",
     "platforms": [
       "YouTube",
       "Google",

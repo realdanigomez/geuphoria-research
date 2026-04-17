@@ -1749,13 +1749,73 @@
       "status": "reject",
       "reason": "Contains generic fitness content about warm-up exercises, not intelligence about online fitness coaches' business problems, pain points, or operations.",
       "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Sonya McDonald On Five Things You Need To Create a ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-17T21:27:42.024950",
+      "status": "reject",
+      "reason": "Title is truncated and text provides no content details; cannot assess if it contains actionable intelligence about fitness coach pain points, business models, or scaling strategies.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Women In Wellness: Corry Matthews of Strength & Grace ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-17T21:27:43.211948",
+      "status": "reject",
+      "reason": "Generic interview/profile content with no specific insights into fitness coaches' pain points, business challenges, or actionable strategies for the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Fresh Founders: Heath Jones of Active & Ageless On The ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-17T21:27:44.280073",
+      "status": "reject",
+      "reason": "Title and excerpt lack specific details about fitness coaching business challenges, strategies, or operations; appears to be a generic founder interview without demonstrated relevance to coaches' pain points or business metrics.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Fitness Champions: Why & How Jennifer LaFrance Of ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-17T21:27:45.405850",
+      "status": "reject",
+      "reason": "Title only provides a name and vague reference without actionable insights into fitness coaches' specific pain points, struggles, systems, or scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "The Ultimate Beginner's Guide to Build Muscle",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-17T21:27:46.565483",
+      "status": "reject",
+      "reason": "This is a generic beginner's muscle-building guide for end-users, not a finding about fitness coaches' business problems, marketing strategies, systems, or pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Rahti Gorfien of Creative Calling Coaching On 5 Things ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-17T21:27:47.807878",
+      "status": "reject",
+      "reason": "Generic coaching advice not specific to fitness industry; no data on fitness coach pain points, business models, client acquisition, or scaling challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 186,
+    "scanned": 192,
     "kept": 59,
-    "rejected": 127,
-    "last_scan": "2026-04-17T20:58:18.105260",
+    "rejected": 133,
+    "last_scan": "2026-04-17T21:28:24.909804",
     "platforms": [
       "Reddit",
       "YouTube",
