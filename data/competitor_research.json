@@ -2149,13 +2149,83 @@
       "status": "reject",
       "reason": "No actionable competitive intelligence provided. Only mentions a name and generic advice about storytelling without details about strategies, offers, programs, or tactics used by fitness coaching competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Make it about them",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T11:28:20.187705",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided—only a search query name with no details about strategies, content, offers, programs, tactics, or market positioning of this competitor.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Have a primary question",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T11:28:21.302151",
+      "status": "reject",
+      "reason": "This is a search query with no accompanying analysis, data, or intelligence about competitor strategies, content approaches, offers, programs, or tactics. It's merely a name search without context or findings.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Collaboration and innovation driven by ownership",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T11:28:33.196931",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about online fitness coaching strategies, content approaches, offers, or market positioning. Only a search query name without substantive details about competitor tactics or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "every company needs a source of truth",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T11:28:35.271836",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks any data about strategies, content, offers, programs, or market positioning of competitors in online fitness coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How we use Notion to build our source of truth",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T11:28:39.069729",
+      "status": "reject",
+      "reason": "This is about Notion workflow management, not competitive intelligence about online fitness coaching strategies, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "End of the training",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T11:28:40.123956",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence about strategies, content, offers, programs, or tactics—just a name with no substantive data about their business approach or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Daniel ending the video with some extra knowledge",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-17T11:28:41.416778",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. The finding only mentions a video exists but contains no details about strategies, content approaches, offers, programs, audience growth tactics, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 236,
+    "scanned": 243,
     "kept": 15,
-    "rejected": 221,
-    "last_scan": "2026-04-17T10:41:28.678471",
+    "rejected": 228,
+    "last_scan": "2026-04-17T11:29:47.229032",
     "platforms": [
       "YouTube",
       "Google",

@@ -2079,13 +2079,23 @@
       "status": "reject",
       "reason": "Title is clickbait with no specific frameworks or tactics disclosed; search query alone doesn't confirm content contains actionable business systems or scaling strategies applicable to coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Adapting to Tariffs and Market Changes",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T11:29:51.473151",
+      "status": "reject",
+      "reason": "Too vague and generic. Contains no specific scaling strategies, systems, marketing frameworks, or growth tactics applicable to coaching/service businesses. Title alone doesn't demonstrate substantive business intelligence from established mentors.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 208,
+    "scanned": 209,
     "kept": 31,
-    "rejected": 177,
-    "last_scan": "2026-04-17T10:42:24.456652",
+    "rejected": 178,
+    "last_scan": "2026-04-17T11:30:32.976837",
     "platforms": [
       "YouTube",
       "Google",
