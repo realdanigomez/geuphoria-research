@@ -1679,13 +1679,93 @@
       "status": "reject",
       "reason": "Title suggests coaching methodology rather than business scaling strategies; \"coaching leaders\" and \"winning by design\" indicate leadership/performance coaching content, not business operations or growth tactics for coaching businesses",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Scale Your Business",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T06:16:29.395169",
+      "status": "reject",
+      "reason": "Title and search query are too generic with no specific strategies, systems, or frameworks demonstrated in the content provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Can I Scale",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T06:16:30.494229",
+      "status": "reject",
+      "reason": "Too vague and generic - contains only a search query with no actual content, frameworks, strategies, or actionable intelligence about scaling a business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Focus on Cash",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T06:16:36.748942",
+      "status": "reject",
+      "reason": "Title alone lacks specific actionable content; no concrete business systems, frameworks, or scaling strategies detailed in the excerpt provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Make People Feel Dumb",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-17T06:16:37.801113",
+      "status": "reject",
+      "reason": "Title alone lacks specific business intelligence; without seeing actual content, cannot verify if it contains scaling strategies, systems, or frameworks applicable to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Conditions for Success in Freemium",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T06:17:06.188528",
+      "status": "reject",
+      "reason": "\"Conditions for Success in Freemium\" is generic SaaS theory without specific scaling strategies, systems, or frameworks applicable to coaching/service businesses. Freemium models don't align with typical coaching business monetization and lacks actionable tactics from the referenced mentors.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The New Ways To Think about Fundraising",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T06:17:07.675069",
+      "status": "reject",
+      "reason": "Title suggests general fundraising advice rather than specific scaling strategies, systems, or marketing frameworks applicable to coaching/service businesses. \"New ways to think\" indicates conceptual content without demonstrated tactical implementation relevant to the business track.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Market Map",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T06:17:09.153268",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, frameworks, or actionable intelligence—only a reference to a resource that may or may not contain useful business strategies.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Conflict of Interest",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-17T06:17:10.086425",
+      "status": "reject",
+      "reason": "Search query alone without content does not contain actionable business intelligence, frameworks, or scaling strategies applicable to coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 168,
+    "scanned": 176,
     "kept": 27,
-    "rejected": 141,
-    "last_scan": "2026-04-17T06:00:55.022375",
+    "rejected": 149,
+    "last_scan": "2026-04-17T06:17:19.825329",
     "platforms": [
       "YouTube",
       "Google",

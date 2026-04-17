@@ -1299,13 +1299,33 @@
       "status": "reject",
       "reason": "Generic search term with no specific data, insights, or actionable intelligence about coach pain points—just a keyword without findings or context.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Tried 21 Ways to Get Coaching Clients, These Are the Best",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-17T06:13:42.924722",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition methods with comparative analysis of 21 approaches, providing actionable tactics for a core pain point of online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make $20,000/Month as an Online Fitness Coach in 2025 (FREE COURSE)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-17T06:13:51.927070",
+      "status": "reject",
+      "reason": "Promotional content lacking substantive research on actual pain points; \"struggling\" search term suggests interest in problems but title indicates sales funnel rather than genuine insight into coach struggles",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 141,
-    "kept": 49,
-    "rejected": 92,
-    "last_scan": "2026-04-17T05:58:16.581318",
+    "scanned": 143,
+    "kept": 50,
+    "rejected": 93,
+    "last_scan": "2026-04-17T06:14:52.741922",
     "platforms": [
       "Reddit",
       "YouTube",
