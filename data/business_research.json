@@ -2399,13 +2399,23 @@
       "status": "reject",
       "reason": "Title is clickbait without specific metrics or frameworks; search query alone doesn't confirm the content contains actionable scaling strategies, systems, or marketing frameworks applicable to coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personality",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-17T22:26:53.028210",
+      "status": "reject",
+      "reason": "Title \"Personality\" with generic search term \"business owner scaling strategy\" contains no actual content, frameworks, or actionable tactics—appears to be placeholder or incomplete entry.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 240,
+    "scanned": 241,
     "kept": 33,
-    "rejected": 207,
-    "last_scan": "2026-04-17T21:30:28.256006",
+    "rejected": 208,
+    "last_scan": "2026-04-17T22:27:34.904543",
     "platforms": [
       "YouTube",
       "Google",
