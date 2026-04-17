@@ -1579,13 +1579,73 @@
       "status": "keep",
       "reason": "Directly addresses scalability—a core pain point for online fitness coaches seeking to grow revenue without proportional time increases; \"business model\" angle suggests structural solutions rather than generic advice.",
       "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Why should someone choose a specialized 30-day fat loss ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-17T15:27:37.985312",
+      "status": "reject",
+      "reason": "The finding is a question title without the actual answer content. It lacks specific insights into fitness coach pain points, struggles, or actionable intelligence needed for business analysis.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "How do older adults find the right trainer to help them ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-17T15:27:39.890632",
+      "status": "reject",
+      "reason": "This is a client perspective question about finding trainers, not insights into fitness coaches' actual pain points, business challenges, marketing strategies, or operational struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "If an AI-generated workout plan ever felt surprisingly “right ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-17T15:27:41.054038",
+      "status": "reject",
+      "reason": "Title fragment suggests content about AI workout plans for users, not about coaches' business problems, pain points, or operations",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "What are the best home workouts for beginners to start ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-17T15:27:42.036970",
+      "status": "reject",
+      "reason": "This is a beginner home workout question, not insight into fitness coaches' business problems, pain points, or operations.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "How can group fitness classes balance being a social ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-17T15:27:43.329308",
+      "status": "reject",
+      "reason": "Too vague and focused on class dynamics rather than coach business operations, pain points, or scaling challenges",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Can 5–10 minute workouts really improve fitness for busy ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-17T15:27:44.234666",
+      "status": "reject",
+      "reason": "Generic fitness content for consumers, not intelligence about online coaches' business challenges, marketing strategies, or operational pain points",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 169,
+    "scanned": 175,
     "kept": 56,
-    "rejected": 113,
-    "last_scan": "2026-04-17T14:45:27.791263",
+    "rejected": 119,
+    "last_scan": "2026-04-17T15:28:24.375033",
     "platforms": [
       "Reddit",
       "YouTube",

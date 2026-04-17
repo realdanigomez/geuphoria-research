@@ -2299,13 +2299,33 @@
       "status": "reject",
       "reason": "Contains only a generic business principle about automation vs. systematization with no specific competitive intelligence about fitness coaching strategies, offers, positioning, or audience growth tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 5",
+      "text": "Search: Dan Martel coaching",
+      "url": "",
+      "time": "2026-04-17T15:28:25.765940",
+      "status": "reject",
+      "reason": "This is only a search query with no actual competitive intelligence data, findings, or actionable information about Dan Martel's strategies, content, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Addressing \\",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-17T15:28:43.015314",
+      "status": "reject",
+      "reason": "Search query alone provides no substantive competitive intelligence about coaching strategies, content approaches, offers, programs, or market positioning without actual findings about Charlie Morgan's business model or tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 251,
+    "scanned": 253,
     "kept": 15,
-    "rejected": 236,
-    "last_scan": "2026-04-17T14:46:48.513865",
+    "rejected": 238,
+    "last_scan": "2026-04-17T15:29:43.976780",
     "platforms": [
       "YouTube",
       "Google",

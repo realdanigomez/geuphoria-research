@@ -2199,13 +2199,93 @@
       "status": "reject",
       "reason": "Title promises high-level outcome but \"Search: coaching business operations\" suggests generic search results without demonstrated specific frameworks, systems, or tactics from established business mentors that would apply across coaching/service businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $1,000,000 Business for a Stranger in 26 Minutes",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:29.039967",
+      "status": "reject",
+      "reason": "Title suggests case study/story format rather than systematic frameworks; search term indicates source material not yet reviewed; needs content verification to confirm presence of scalable business systems and strategies applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business Overview",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:29.933775",
+      "status": "reject",
+      "reason": "Search query alone without actual advice content provides no specific frameworks, strategies, or tactics to evaluate for business intelligence value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Is the Problem",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:30.973540",
+      "status": "reject",
+      "reason": "Search query alone without actual content, advice, or framework provided - no specific business intelligence to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Attribution Issue",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:31.995143",
+      "status": "reject",
+      "reason": "Title alone is insufficient to confirm actionable business intelligence; the text provides no specific framework, strategy, or tactic that applies to coaching/service business scaling.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Who Is the Right Customer",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:33.765195",
+      "status": "reject",
+      "reason": "Title alone lacks specificity; no evidence of concrete scaling strategies, systems, or frameworks—appears to be generic customer selection content without tactical business intelligence applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building the Sales Funnel",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:34.810948",
+      "status": "reject",
+      "reason": "Title is too generic and search query shows no actual content extracted; lacks specific frameworks, tactics, or actionable strategies from the mentioned mentors",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Creating the Video Sales Letter",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:35.894964",
+      "status": "reject",
+      "reason": "Title indicates a tactic (VSL) but finding lacks actual business intelligence content—no strategy, framework, or scaling advice is present in the text provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Email Nurture Plan",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-17T15:30:37.041130",
+      "status": "reject",
+      "reason": "Title alone suggests general email marketing tactics; no evidence of specific scaling strategies, systems frameworks, or proven growth tactics from established business mentors that would apply uniquely to coaching/service businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 220,
+    "scanned": 228,
     "kept": 31,
-    "rejected": 189,
-    "last_scan": "2026-04-17T14:47:34.073391",
+    "rejected": 197,
+    "last_scan": "2026-04-17T15:30:39.043183",
     "platforms": [
       "YouTube",
       "Google",
