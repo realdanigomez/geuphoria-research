@@ -4,11 +4,11 @@
   "total_api_calls": 632,
   "total_cost": 0.212106,
   "last_run": {
-    "time": "2026-04-18T19:00:49.317309",
-    "input_tokens": 712,
-    "output_tokens": 168,
-    "api_calls": 5,
-    "cost": 0.001552
+    "time": "2026-04-18T19:54:16.934308",
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "api_calls": 0,
+    "cost": 0.0
   },
   "runs": [
     {
@@ -409,6 +409,13 @@
       "output_tokens": 168,
       "api_calls": 5,
       "cost": 0.001552
+    },
+    {
+      "time": "2026-04-18T19:54:16.934308",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "api_calls": 0,
+      "cost": 0.0
     }
   ]
 }
