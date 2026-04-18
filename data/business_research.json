@@ -2719,13 +2719,23 @@
       "status": "reject",
       "reason": "Title alone provides no specific strategy, framework, or tactic. Without the actual content details, cannot verify if it contains actionable business systems or scaling intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a B2B Saas You Don't Grow to Hate with Dan Martell",
+      "text": "Search: Martel SaaS playbook",
+      "url": "",
+      "time": "2026-04-18T09:30:33.802149",
+      "status": "reject",
+      "reason": "Title mentions \"Dan Martell\" but search shows \"Martel SaaS playbook\" - unclear if this is actual content or mislabeled. Even if valid, B2B SaaS playbook is too product-focused and not directly applicable to coaching/service business models which rely on personal delivery and high-touch client relationships.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 272,
+    "scanned": 273,
     "kept": 34,
-    "rejected": 238,
-    "last_scan": "2026-04-18T08:30:49.270881",
+    "rejected": 239,
+    "last_scan": "2026-04-18T09:30:38.327713",
     "platforms": [
       "YouTube",
       "Google",

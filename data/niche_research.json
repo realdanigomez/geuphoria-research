@@ -1959,13 +1959,23 @@
       "status": "reject",
       "reason": "Title-only result lacks substantive content details; cannot verify if article contains specific, actionable intelligence about fitness coaches' pain points, business challenges, or strategies without seeing full text.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Run A First Session With A New Client || New Trainer Tips And Tricks",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-18T09:27:31.288070",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and onboarding—a core pain point for fitness coaches building their practice and retention systems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 207,
-    "kept": 63,
+    "scanned": 208,
+    "kept": 64,
     "rejected": 144,
-    "last_scan": "2026-04-18T08:28:36.303642",
+    "last_scan": "2026-04-18T09:28:34.564655",
     "platforms": [
       "Reddit",
       "YouTube",
