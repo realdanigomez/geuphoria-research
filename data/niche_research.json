@@ -1809,13 +1809,83 @@
       "status": "reject",
       "reason": "Generic coaching advice not specific to fitness industry; no data on fitness coach pain points, business models, client acquisition, or scaling challenges",
       "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "What are the challenges of using AI in personal training ...",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-18T00:27:29.934097",
+      "status": "reject",
+      "reason": "Generic search query about AI challenges without specific insights into fitness coach pain points, business model struggles, or actionable intelligence for online coaching businesses.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Business Coaching For Personal Trainers",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-18T00:27:30.748525",
+      "status": "keep",
+      "reason": "Directly addresses personal trainer business challenges which overlap significantly with online fitness coaches' pain points around client acquisition, business management, and scaling operations.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Do all gyms basically force personal trainers into sales roles?",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-18T00:27:31.702569",
+      "status": "keep",
+      "reason": "Reveals critical pain point about role misalignment and forced sales expectations that online coaches face when building sustainable business models and team structures.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "How to Become a Successful Personal Trainer (2026)",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-18T00:27:32.648748",
+      "status": "reject",
+      "reason": "Generic career guidance lacks specificity on online coaching business models, systems, scaling challenges, or pain points unique to digital fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "For fitness coaches: What part of weekly client checkins ...",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-18T00:27:33.872015",
+      "status": "reject",
+      "reason": "Title is incomplete/cut off and text only shows a search query without findings, data, or insights about fitness coach pain points or challenges",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Personal trainer owes clients money",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-18T00:27:34.766365",
+      "status": "reject",
+      "reason": "Contains anecdotal situation without actionable insights into systemic pain points, business models, or strategies relevant to online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Personal Training Business Blog - Alloy Fitness Franchise",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-18T00:27:35.793827",
+      "status": "reject",
+      "reason": "Generic franchise marketing content lacks specific insights into online coaches' unique pain points, systems, or scaling challenges—focuses on traditional PT models rather than digital coaching problems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 192,
-    "kept": 59,
-    "rejected": 133,
-    "last_scan": "2026-04-18T00:08:08.744695",
+    "scanned": 199,
+    "kept": 61,
+    "rejected": 138,
+    "last_scan": "2026-04-18T00:28:28.245522",
     "platforms": [
       "Reddit",
       "YouTube",
