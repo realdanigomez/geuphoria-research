@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:45.483005",
-      "status": "keep",
-      "reason": "Contains scaling strategies and frameworks from a recognized business mentor (Alex Hormozi) directly applicable to service business growth, which is the core model for fitness coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
       "text": "Search: Alex Hormozi business scaling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests beginner startup advice rather than scaling strategies; \"EllieTalksMoneyTour\" is not an established business mentor; lacks evidence of frameworks applicable to existing coaching operations.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Bruce Lee Rule for Agency Mastery",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-18T23:00:14.609540",
+      "status": "keep",
+      "reason": "Title suggests framework for agency systems/mastery; Alex Hormozi is a primary business mentor source; likely contains scaling strategies applicable to coaching businesses",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 300,
-    "kept": 35,
+    "scanned": 301,
+    "kept": 36,
     "rejected": 265,
-    "last_scan": "2026-04-18T22:31:04.228223",
+    "last_scan": "2026-04-18T23:00:54.892650",
     "platforms": [
       "YouTube",
       "Google",

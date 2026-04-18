@@ -2949,13 +2949,23 @@
       "status": "reject",
       "reason": "Title is generic business advice without specific details about fitness coaching strategies, programs, offers, or audience growth tactics that would be actionable competitive intelligence.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "speedrunning a fitness personal brand that makes money (copy me)",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T22:58:56.465324",
+      "status": "keep",
+      "reason": "Contains specific case study of a fitness coach building a monetized personal brand, likely detailing strategies, content approaches, and audience growth tactics relevant to online fitness coaching business models.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 316,
-    "kept": 15,
+    "scanned": 317,
+    "kept": 16,
     "rejected": 301,
-    "last_scan": "2026-04-18T22:30:15.832857",
+    "last_scan": "2026-04-18T23:00:07.974741",
     "platforms": [
       "YouTube",
       "Google",
