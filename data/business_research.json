@@ -2439,13 +2439,143 @@
       "status": "reject",
       "reason": "Title is clickbait without evidence the content contains specific scaling strategies, systems, or frameworks from established business mentors that apply to coaching/service businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Turn Jobs Recurring",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T02:59:59.920972",
+      "status": "reject",
+      "reason": "Title is vague and lacks specific actionable intelligence; content appears to be a search query rather than substantive business strategy or framework",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Grind Phase",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:00.961904",
+      "status": "reject",
+      "reason": "Title is vague and lacks specific frameworks or tactics; no concrete strategies, systems, or actionable intelligence present to justify keeping without reviewing full content.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Marketing Before Scale",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:03.062936",
+      "status": "reject",
+      "reason": "Title and search term are too generic without specific tactics, frameworks, or strategies demonstrated. Needs concrete scaling methodologies, systems, or frameworks to be actionable.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fix Slow Seasons",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:04.315714",
+      "status": "reject",
+      "reason": "Title is vague with no specific strategy or framework shown; text lacks concrete tactics, systems, or scaling methods that would apply to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 50% Rule",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:05.219070",
+      "status": "reject",
+      "reason": "Title alone is insufficient to evaluate; no actual content provided showing specific scaling strategies, systems, or frameworks applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Owner Bottleneck Exposed",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:06.097683",
+      "status": "reject",
+      "reason": "Title alone is insufficient to assess specific, actionable business intelligence. No frameworks, strategies, or tactics are detailed in the provided text.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Admin Slows Growth",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:07.230110",
+      "status": "reject",
+      "reason": "Title is vague without specific strategy or framework; text shows only a search query with no actual business intelligence, actionable tactics, or proven scaling methodology included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales Drives Revenue",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:08.208970",
+      "status": "reject",
+      "reason": "Title is generic platitude without specific frameworks, tactics, or systems; text provides no actionable strategy, methodology, or business intelligence applicable to coaching/service scaling",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Perfectionism Stalls Growth",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:09.180998",
+      "status": "reject",
+      "reason": "Generic title with no specific framework, system, or tactic provided; lacks actionable scaling strategy or business methodology applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Price With Conviction",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:10.542068",
+      "status": "reject",
+      "reason": "Title alone provides no specific framework, tactic, or system; lacks actionable detail on pricing strategy, implementation method, or business context needed for scaling a coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Reps Build Skill",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:11.597356",
+      "status": "reject",
+      "reason": "Generic title with no specific frameworks, systems, or tactics. \"Reps build skill\" is a motivational platitude, not business intelligence on scaling, marketing, or systems relevant to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Offseason Kills Businesses",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:16.689782",
+      "status": "reject",
+      "reason": "Title lacks specificity and content appears to be general opinion rather than a framework or tactic; no actionable business system, scaling strategy, or marketing methodology is evident from the provided information.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Acting Big",
+      "text": "Search: service business growth",
+      "url": "",
+      "time": "2026-04-18T03:00:17.737589",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate specific frameworks or tactics; appears to be generic advice without actionable systems, scaling strategies, or marketing frameworks applicable to coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 244,
+    "scanned": 257,
     "kept": 33,
-    "rejected": 211,
-    "last_scan": "2026-04-18T02:30:30.186918",
+    "rejected": 224,
+    "last_scan": "2026-04-18T03:00:53.563557",
     "platforms": [
       "YouTube",
       "Google",
