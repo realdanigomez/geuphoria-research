@@ -2519,13 +2519,33 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided. The finding is just a search query name without any actual data, strategies, content approaches, offers, or market positioning details about Charlie Morgan or their coaching business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scam?",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T01:28:44.637737",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a vague scam allegation without details about business model, strategies, offers, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Should you get the course?",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T01:28:45.658813",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a generic course evaluation question without details about strategies, offers, programs, or tactics of fitness coaching competitors.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 273,
+    "scanned": 275,
     "kept": 15,
-    "rejected": 258,
-    "last_scan": "2026-04-18T00:29:45.645372",
+    "rejected": 260,
+    "last_scan": "2026-04-18T01:29:50.982974",
     "platforms": [
       "YouTube",
       "Google",

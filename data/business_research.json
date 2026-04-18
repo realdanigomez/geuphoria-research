@@ -2429,13 +2429,23 @@
       "status": "reject",
       "reason": "Title suggests generic life advice rather than specific business scaling strategies, systems, or marketing frameworks applicable to coaching/service businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Customers So Fast It Feels ILLEGAL",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-18T01:30:32.579264",
+      "status": "reject",
+      "reason": "Title is clickbait without evidence the content contains specific scaling strategies, systems, or frameworks from established business mentors that apply to coaching/service businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 243,
+    "scanned": 244,
     "kept": 33,
-    "rejected": 210,
-    "last_scan": "2026-04-18T00:30:31.069833",
+    "rejected": 211,
+    "last_scan": "2026-04-18T01:30:39.825927",
     "platforms": [
       "YouTube",
       "Google",
