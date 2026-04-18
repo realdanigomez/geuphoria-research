@@ -2609,13 +2609,83 @@
       "status": "reject",
       "reason": "Title alone provides no indication of specific business frameworks, scaling strategies, or actionable tactics; requires content review to confirm relevance, and generic titles commonly lack substantive intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Scale Your Business Fast",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-18T06:59:51.408182",
+      "status": "reject",
+      "reason": "Title is generic without specific frameworks or tactics; search query alone doesn't confirm the content contains actionable scaling strategies relevant to coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Pi Equation",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-18T06:59:53.433782",
+      "status": "reject",
+      "reason": "Title alone (\"The Pi Equation\") provides no indication of specific business scaling strategies, systems, or frameworks. Without seeing the actual content, this appears to be a generic search result that may not contain actionable business intelligence relevant to coaching/service business growth.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Is the Pi Equation",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-18T06:59:54.424997",
+      "status": "reject",
+      "reason": "Title indicates mathematical content unrelated to business scaling; search query suggests mislabeled or irrelevant result despite Hormozi attribution.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understanding Lifetime Value",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-18T06:59:55.449021",
+      "status": "reject",
+      "reason": "Title alone is insufficient to confirm this contains specific, actionable intelligence from established business mentors; needs evidence of frameworks, formulas, or scaling tactics to qualify.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Golden Ratio",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-18T06:59:57.059725",
+      "status": "reject",
+      "reason": "Title alone is insufficient; no actual content provided to assess whether it contains specific scaling strategies, systems, or frameworks applicable to coaching/service businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Recap",
+      "text": "Search: Alex Hormozi business scaling",
+      "url": "",
+      "time": "2026-04-18T06:59:59.240263",
+      "status": "reject",
+      "reason": "No actual content provided - only a search query placeholder with no scaling strategies, systems, frameworks, or tactics detailed",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales Was Hard Until I Understood These 9 Concepts",
+      "text": "Search: Hormozi business advice",
+      "url": "",
+      "time": "2026-04-18T07:00:37.929663",
+      "status": "reject",
+      "reason": "Title suggests general sales concepts but lacks specific frameworks, systems, or tactics; \"9 concepts\" is vague and the search query alone doesn't confirm it contains the scaling strategies, marketing frameworks, or business systems required for this track.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 261,
+    "scanned": 268,
     "kept": 33,
-    "rejected": 228,
-    "last_scan": "2026-04-18T05:59:53.338774",
+    "rejected": 235,
+    "last_scan": "2026-04-18T07:00:45.119483",
     "platforms": [
       "YouTube",
       "Google",
