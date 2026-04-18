@@ -2089,13 +2089,103 @@
       "status": "keep",
       "reason": "Directly addresses daily operational reality and implicit pain points (struggles) that reveal specific challenges in time management, client management, or business operations that online fitness coaches face.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "E. 155 How to Prevent Burnout in Bodybuilding Prep With Phoebe Hagan",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:29.303997",
+      "status": "reject",
+      "reason": "This is about athlete burnout during competition prep, not online fitness coach burnout, business challenges, or professional struggles specific to coaching as a business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Phoebe Hagan intro + insane comeback season recap",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:30.239188",
+      "status": "reject",
+      "reason": "Contains personal athlete narrative rather than coach-specific insights about burnout causes, solutions, or systemic issues that would help fitness coaches solve their problems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Bodybuilding burnout story + losing passion for competing",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:32.292982",
+      "status": "reject",
+      "reason": "Contains personal athlete burnout narrative rather than coach-specific pain points, struggles, or business challenges; lacks actionable intelligence for understanding online fitness coach problems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Signs of burnout in bodybuilding (when to step away)",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:33.998075",
+      "status": "reject",
+      "reason": "Addresses athlete burnout in bodybuilding, not coach burnout; lacks actionable intelligence for coaches' business operations, client management, or scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why tall bikini competitors need more muscle density",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:35.446004",
+      "status": "reject",
+      "reason": "Content is about bikini competitor training needs, not about online fitness coaches' business problems, pain points, or operational challenges. The search term doesn't indicate the article addresses coach burnout or related struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Training strategies that created a competitive edge",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:37.581077",
+      "status": "reject",
+      "reason": "Contains generic training content without specific insights into fitness coaches' actual pain points, business challenges, or operational struggles. No actionable intelligence on coach burnout causes or solutions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Unilateral training, symmetry \\u0026 injury prevention",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:39.851429",
+      "status": "reject",
+      "reason": "Finding discusses unilateral training techniques (a coaching methodology) but was retrieved from a \"fitness coach burnout\" search without any actual content addressing burnout, business operations, or coaching-specific pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mid-prep training adjustments that changed her physique",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:41.620242",
+      "status": "reject",
+      "reason": "Contains physique transformation content, not coaching business intelligence. The search term \"fitness coach burnout\" suggests potential relevance, but the article focuses on client training adjustments, not coach pain points, systems, or business challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "This prep vs past preps (macros, flexibility, adherence)",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-18T15:27:42.829157",
+      "status": "reject",
+      "reason": "The finding is about client prep strategies (macros/flexibility/adherence), not about coach pain points, burnout causes, or business operations—it addresses client-side concerns rather than coach-specific struggles.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 220,
+    "scanned": 229,
     "kept": 69,
-    "rejected": 151,
-    "last_scan": "2026-04-18T15:01:19.711213",
+    "rejected": 160,
+    "last_scan": "2026-04-18T15:28:56.044757",
     "platforms": [
       "Reddit",
       "YouTube",
