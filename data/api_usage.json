@@ -1,14 +1,14 @@
 {
-  "total_input_tokens": 93688,
-  "total_output_tokens": 22088,
-  "total_api_calls": 607,
-  "total_cost": 0.204128,
+  "total_input_tokens": 95060,
+  "total_output_tokens": 22451,
+  "total_api_calls": 617,
+  "total_cost": 0.207315,
   "last_run": {
-    "time": "2026-04-18T15:31:09.599047",
-    "input_tokens": 2409,
-    "output_tokens": 582,
-    "api_calls": 15,
-    "cost": 0.005319
+    "time": "2026-04-18T16:31:05.713202",
+    "input_tokens": 1372,
+    "output_tokens": 363,
+    "api_calls": 10,
+    "cost": 0.003187
   },
   "runs": [
     {
@@ -374,6 +374,13 @@
       "output_tokens": 582,
       "api_calls": 15,
       "cost": 0.005319
+    },
+    {
+      "time": "2026-04-18T16:31:05.713202",
+      "input_tokens": 1372,
+      "output_tokens": 363,
+      "api_calls": 10,
+      "cost": 0.003187
     }
   ]
 }

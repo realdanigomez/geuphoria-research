@@ -2709,13 +2709,113 @@
       "status": "reject",
       "reason": "SMMA (Social Media Marketing Agency) courses teach digital marketing services, not online fitness coaching strategies, content approaches, or business models specific to fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Interview with the King of Cold Outreach - Charlie Morgan",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:28:54.172751",
+      "status": "reject",
+      "reason": "Interview title alone doesn't confirm it contains specific strategies or tactics relevant to online fitness coaching competitors—could be about cold outreach for any industry, and no content preview demonstrates fitness-specific competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How we met",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:28:55.184359",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query without substantive data about strategies, content, offers, programs, or tactics of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Monthly revenue",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:28:56.224904",
+      "status": "reject",
+      "reason": "No specific intelligence provided about competitor strategies, content approaches, offers, programs, or tactics. Result appears to be only a search query without actual findings about coaching business practices or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Charlies story",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:28:57.602623",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a name and generic search query with no details about strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How did you get your first clients",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:29:00.012241",
+      "status": "reject",
+      "reason": "Generic question about client acquisition without specific strategies, tactics, or competitor positioning details that would inform competitive strategy for fitness coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why did you pick gyms",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:29:01.012683",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This is a generic search query about gym selection with no information about online fitness coaching strategies, content approaches, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why did you start Imperium",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:29:01.806324",
+      "status": "reject",
+      "reason": "Vague personal origin story without specific competitive strategies, content approaches, offers, or audience growth tactics relevant to online fitness coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to choose a niche",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:29:02.689361",
+      "status": "reject",
+      "reason": "Generic niche-selection advice without specific competitive intelligence about online fitness coaching strategies, offers, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "First client closed",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:29:04.176185",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. A vague title with no details about strategies, content approaches, offers, programs, or audience tactics makes this unusable for competitive analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Role models",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T16:29:05.275056",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided - only a search query name without details about strategies, content, offers, programs, or tactics used by this competitor",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 292,
+    "scanned": 302,
     "kept": 15,
-    "rejected": 277,
-    "last_scan": "2026-04-18T15:30:14.136658",
+    "rejected": 287,
+    "last_scan": "2026-04-18T16:30:18.661443",
     "platforms": [
       "YouTube",
       "Google",
