@@ -2869,13 +2869,53 @@
       "status": "reject",
       "reason": "Generic business scaling advice not specific to fitness coaching, online coaching delivery, or fitness industry competitors",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-18T18:58:44.712625",
+      "status": "reject",
+      "reason": "The search query alone provides no actionable competitive intelligence about strategies, content approaches, offers, or market positioning—it's just a search term without substantive findings or data about how competitors operate.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cut unimportant costs",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-18T18:58:45.681512",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual competitive intelligence, strategies, offers, or insights about fitness coaching competitors or their approaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get a job",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-18T18:58:46.503555",
+      "status": "reject",
+      "reason": "Vague job search reference with no specific competitive intelligence about fitness coaching strategies, content, offers, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Improve your confidence",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-18T18:58:47.430402",
+      "status": "reject",
+      "reason": "This is a generic search query about confidence coaching with no specific competitive intelligence about online fitness coaching strategies, offers, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 308,
+    "scanned": 312,
     "kept": 15,
-    "rejected": 293,
-    "last_scan": "2026-04-18T18:30:03.401571",
+    "rejected": 297,
+    "last_scan": "2026-04-18T19:00:03.945683",
     "platforms": [
       "YouTube",
       "Google",
