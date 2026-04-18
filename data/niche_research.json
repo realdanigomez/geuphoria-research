@@ -1969,13 +1969,123 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition and onboarding—a core pain point for fitness coaches building their practice and retention systems.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Top two reasons why you are struggling with to get in shape!",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:33.885520",
+      "status": "reject",
+      "reason": "Addresses client struggles with fitness goals, not coach business problems like client acquisition, marketing, systems, or scaling",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personal Trainer Struggling to make $10,000/ month HERE'S WHY SUF CPTx Life Time Fitness partnership",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:35.059033",
+      "status": "keep",
+      "reason": "Directly addresses income goal pain point ($10k/month) and reveals partnership/business model strategy (Life Time Fitness) as potential solution or comparison point for coaches evaluating income paths.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Top Fitness Coaches Share Their Personal Financial Struggles",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:36.014910",
+      "status": "keep",
+      "reason": "Directly addresses financial struggles of online fitness coaches, a core pain point affecting retention, burnout, and business sustainability decisions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Challenges of Box Gyms",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:37.364259",
+      "status": "reject",
+      "reason": "Discusses box gym challenges, not online fitness coach pain points, struggles, or business operations",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exploring Alternative Income Avenues",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:38.494024",
+      "status": "reject",
+      "reason": "Too vague and generic; contains no specific data about fitness coaches' actual pain points, income challenges, or actionable insights—just a search term without findings or analysis.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reason Fitness Coaches Struggle Closing Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:39.302718",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition bottleneck (closing sales), a critical pain point for fitness coaches' revenue and business sustainability",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The mistakes fitness coaches make",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:40.309432",
+      "status": "reject",
+      "reason": "Title is generic without specific mistakes listed; content summary doesn't indicate what struggles are addressed or provide actionable insights for the business model",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "1 Build a crystal clear promise",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:41.430785",
+      "status": "reject",
+      "reason": "Too generic and lacks specific data about fitness coaches' actual struggles; \"crystal clear promise\" is broad business advice applicable to any industry, not intelligence about their unique pain points",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "2 Turn your method into a system",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:42.471615",
+      "status": "keep",
+      "reason": "Addresses a core pain point for fitness coaches: systematizing their coaching method, which directly impacts scalability, client results consistency, and ability to delegate—all critical for sustainable business growth and reducing founder dependency.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Take away resistance",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:43.456879",
+      "status": "reject",
+      "reason": "Generic fitness content about exercise technique, not relevant to online fitness coaches' business problems, pain points, or operations.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Want our Perfect Offer Checklist? It's free.",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-18T09:57:44.918165",
+      "status": "reject",
+      "reason": "Generic lead magnet offer without specific insights into fitness coach pain points, struggles, or solutions—no actionable intelligence about their actual problems provided.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 208,
-    "kept": 64,
-    "rejected": 144,
-    "last_scan": "2026-04-18T09:28:34.564655",
+    "scanned": 219,
+    "kept": 68,
+    "rejected": 151,
+    "last_scan": "2026-04-18T09:58:45.549368",
     "platforms": [
       "Reddit",
       "YouTube",
