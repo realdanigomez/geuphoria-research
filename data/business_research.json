@@ -2679,13 +2679,53 @@
       "status": "reject",
       "reason": "Title suggests general sales concepts but lacks specific frameworks, systems, or tactics; \"9 concepts\" is vague and the search query alone doesn't confirm it contains the scaling strategies, marketing frameworks, or business systems required for this track.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only Scorecard You Need to Build a $10M Business",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-18T08:30:01.611908",
+      "status": "keep",
+      "reason": "Title suggests specific scaling milestone with systems framework from known business mentor; likely contains actionable metrics/KPIs for coaching business growth",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Rules",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-18T08:30:02.530332",
+      "status": "reject",
+      "reason": "Search query alone without actual content, frameworks, or specific business systems provided; no actionable intelligence or scaling strategies included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Weekly Sync",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-18T08:30:03.808941",
+      "status": "reject",
+      "reason": "Search query alone provides no actual business content, systems, frameworks, or tactics to extract - just a search term without substantive intelligence or findings.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Work Through Your Team",
+      "text": "Search: Dan Martel business systems",
+      "url": "",
+      "time": "2026-04-18T08:30:05.061516",
+      "status": "reject",
+      "reason": "Title alone provides no specific strategy, framework, or tactic. Without the actual content details, cannot verify if it contains actionable business systems or scaling intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 268,
-    "kept": 33,
-    "rejected": 235,
-    "last_scan": "2026-04-18T08:12:28.091795",
+    "scanned": 272,
+    "kept": 34,
+    "rejected": 238,
+    "last_scan": "2026-04-18T08:30:49.270881",
     "platforms": [
       "YouTube",
       "Google",

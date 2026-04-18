@@ -1949,13 +1949,23 @@
       "status": "reject",
       "reason": "Generic marketing tips without specific insights into coaches' actual pain points, acquisition challenges, or business model constraints; lacks actionable depth beyond surface-level advice",
       "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Jen Flannigan Of Evolve Weight Loss On 5 Things You ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-18T08:28:01.890342",
+      "status": "reject",
+      "reason": "Title-only result lacks substantive content details; cannot verify if article contains specific, actionable intelligence about fitness coaches' pain points, business challenges, or strategies without seeing full text.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 206,
+    "scanned": 207,
     "kept": 63,
-    "rejected": 143,
-    "last_scan": "2026-04-18T08:10:25.713468",
+    "rejected": 144,
+    "last_scan": "2026-04-18T08:28:36.303642",
     "platforms": [
       "Reddit",
       "YouTube",
