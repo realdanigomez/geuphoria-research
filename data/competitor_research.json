@@ -2859,13 +2859,23 @@
       "status": "reject",
       "reason": "Contains only a search query with no actual competitive intelligence, strategies, content, offers, or positioning information about online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Brutal truth of building a $50M/year consulting/agency business",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-18T17:59:00.910822",
+      "status": "reject",
+      "reason": "Generic business scaling advice not specific to fitness coaching, online coaching delivery, or fitness industry competitors",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 307,
+    "scanned": 308,
     "kept": 15,
-    "rejected": 292,
-    "last_scan": "2026-04-18T17:09:10.061405",
+    "rejected": 293,
+    "last_scan": "2026-04-18T18:00:05.161473",
     "platforms": [
       "YouTube",
       "Google",
