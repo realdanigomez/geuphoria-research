@@ -2569,13 +2569,93 @@
       "status": "reject",
       "reason": "This is a generic lead generation tactic (cold SMS) applicable to any business, not specific competitive intelligence about online fitness coaching strategies, content approaches, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi’s Training \\u0026 Tracking System Explained",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:39.163359",
+      "status": "reject",
+      "reason": "Generic search result title without specific details about strategies, content approaches, offers, programs, or audience growth tactics that would inform competitive intelligence for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Alex Wears the Same Outfit Every Day",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:40.185314",
+      "status": "reject",
+      "reason": "Personal lifestyle choice of one individual coach lacks actionable competitive intelligence about strategies, positioning, or business tactics relevant to online fitness coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Alex Structures His Training Routine",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:41.083038",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. This is a generic training routine article with no details about coaching strategies, content approaches, offers, programs, audience growth tactics, or market positioning of fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Attempts Assisted Nordics (Hamstring Test)",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:42.340731",
+      "status": "reject",
+      "reason": "This is a single exercise demonstration video with no information about coaching strategies, business models, content approaches, audience growth, offers, or market positioning of fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi’s Biggest Training Influences",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:43.265711",
+      "status": "reject",
+      "reason": "This is a biographical/personal interest piece about Hormozi's influences rather than competitive intelligence on his business strategies, content approaches, offers, programs, or audience growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Genetics vs Muscle Growth vs Consistency",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:44.610155",
+      "status": "reject",
+      "reason": "Contains only a generic fitness topic title with no specific competitive intelligence about coaching strategies, offers, programs, or business tactics. The search query alone doesn't indicate what competitor intelligence was actually found.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Inside Alex Hormozi’s Weekly Training Schedule",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:45.734661",
+      "status": "reject",
+      "reason": "Contains personal training schedule details of a fitness figure, not competitive intelligence about online fitness coaching business strategies, offers, or market positioning tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Motivation, Discipline \\u0026 Training Philosophy",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-18T07:58:47.598005",
+      "status": "reject",
+      "reason": "Contains only a search query without actual competitive intelligence about strategies, content, offers, or tactics used by fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 278,
+    "scanned": 286,
     "kept": 15,
-    "rejected": 263,
-    "last_scan": "2026-04-18T06:59:49.602084",
+    "rejected": 271,
+    "last_scan": "2026-04-18T07:59:55.902784",
     "platforms": [
       "YouTube",
       "Google",
