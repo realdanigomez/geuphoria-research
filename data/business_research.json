@@ -2969,13 +2969,33 @@
       "status": "reject",
       "reason": "Title is vague with no specific frameworks, tactics, or strategies mentioned. \"Real-World Coaching Challenges and Solutions\" lacks concrete business intelligence—needs actual scaling strategies, systems, or frameworks to be valuable.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Does Your Business Exist? (Other Than Making Money)",
+      "text": "Search: Sam Ovens consulting business",
+      "url": "",
+      "time": "2026-04-18T20:30:20.974348",
+      "status": "reject",
+      "reason": "Title alone suggests philosophical positioning content rather than specific scaling strategies, systems, or tactical frameworks applicable to coaching/service businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Detailed Breakdown of the Six Coaching Questions",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-18T20:30:58.619997",
+      "status": "reject",
+      "reason": "Generic coaching methodology content lacks specific business scaling strategies, systems, or growth tactics applicable to coaching business operations and revenue models.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 297,
+    "scanned": 299,
     "kept": 35,
-    "rejected": 262,
-    "last_scan": "2026-04-18T20:01:05.646900",
+    "rejected": 264,
+    "last_scan": "2026-04-18T20:31:05.703193",
     "platforms": [
       "YouTube",
       "Google",
