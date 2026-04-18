@@ -2909,13 +2909,43 @@
       "status": "reject",
       "reason": "This is a generic search query about confidence coaching with no specific competitive intelligence about online fitness coaching strategies, offers, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Become A Sponge",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-18T21:28:48.715155",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a vague instruction to search a name without details about strategies, offerings, content approaches, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Build A Team And Choose A Partner",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-18T21:28:49.545617",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about online fitness coaching strategies, content approaches, offers, or audience growth tactics; appears to be generic business advice about partnerships unrelated to fitness coaching market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Endless Feedback Loop",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-18T21:28:51.115692",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; no actual content, strategies, offers, or tactics are documented",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 312,
+    "scanned": 315,
     "kept": 15,
-    "rejected": 297,
-    "last_scan": "2026-04-18T20:30:16.745048",
+    "rejected": 300,
+    "last_scan": "2026-04-18T21:30:07.652432",
     "platforms": [
       "YouTube",
       "Google",
