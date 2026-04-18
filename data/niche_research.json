@@ -1939,13 +1939,23 @@
       "status": "reject",
       "reason": "Generic certification goal lacks specificity about actual pain points, struggles, or challenges fitness coaches face; no actionable intelligence about their real problems or how this certification addresses them.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Easy Marketing Tips for Personal Trainers",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-18T08:09:25.115297",
+      "status": "reject",
+      "reason": "Generic marketing tips without specific insights into coaches' actual pain points, acquisition challenges, or business model constraints; lacks actionable depth beyond surface-level advice",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 205,
+    "scanned": 206,
     "kept": 63,
-    "rejected": 142,
-    "last_scan": "2026-04-18T07:58:28.883424",
+    "rejected": 143,
+    "last_scan": "2026-04-18T08:10:25.713468",
     "platforms": [
       "Reddit",
       "YouTube",
