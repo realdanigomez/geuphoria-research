@@ -421,6 +421,46 @@
       "track": "niche"
     },
     {
+      "source": "Google",
+      "title": "Do all gyms basically force personal trainers into sales roles?",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-19T18:28:36.719122",
+      "status": "keep",
+      "reason": "Reveals that trainers struggle with forced sales responsibilities, indicating a pain point for coaches transitioning to online models who want to avoid sales pressure while scaling their business.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Business Coaching For Personal Trainers",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-19T18:28:37.929186",
+      "status": "keep",
+      "reason": "Directly addresses personal trainer business challenges which overlap significantly with online fitness coaches' pain points around client acquisition, business systems, and scaling operations.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Free strategy call for personal trainers to grow client base",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-19T18:28:40.998829",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for fitness coaches; strategy calls indicate proven demand from trainers seeking growth solutions in their target market",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Best Accounting Software for Personal Trainers in 2026",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-19T18:28:41.850375",
+      "status": "keep",
+      "reason": "Addresses financial management pain point and business operations challenge that directly impacts online fitness coaches' ability to scale and profitability",
+      "track": "niche"
+    },
+    {
       "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
@@ -552,15 +592,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 42,
-    "niche_rejected": 67,
-    "niche_scanned": 109,
+    "niche_kept": 46,
+    "niche_rejected": 71,
+    "niche_scanned": 117,
     "comp_kept": 13,
     "comp_rejected": 112,
     "comp_scanned": 125,
-    "last_scan": "2026-04-19T18:07:51.112675",
-    "total_kept": 55,
-    "total_rejected": 179,
+    "last_scan": "2026-04-19T18:30:31.296915",
+    "total_kept": 59,
+    "total_rejected": 183,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
