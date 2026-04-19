@@ -200,21 +200,21 @@ def format_sheet(service, spreadsheet_id: str, sheet_id: int) -> None:
                 "fields": "gridProperties.frozenRowCount",
             }
         },
-        # Set data row height to 80px so thumbnails are visible
+        # Row height 200px — tall enough for 16:9 thumbnails to be clearly visible
         {
             "updateDimensionProperties": {
                 "range": {"sheetId": sheet_id, "dimension": "ROWS",
-                           "startIndex": 1, "endIndex": 200},
-                "properties": {"pixelSize": 80},
+                           "startIndex": 1, "endIndex": 500},
+                "properties": {"pixelSize": 200},
                 "fields": "pixelSize",
             }
         },
-        # Thumbnail column (A) width = 120px
+        # Thumbnail column (A) width = 360px — matches 16:9 at 200px height
         {
             "updateDimensionProperties": {
                 "range": {"sheetId": sheet_id, "dimension": "COLUMNS",
                            "startIndex": 0, "endIndex": 1},
-                "properties": {"pixelSize": 120},
+                "properties": {"pixelSize": 360},
                 "fields": "pixelSize",
             }
         },
