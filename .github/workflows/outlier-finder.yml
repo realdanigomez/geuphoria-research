@@ -58,4 +58,5 @@ jobs:
           git add data/outlier_sheet_id.json || true
           git diff --staged --quiet || git commit -m \
             "outlier-finder: $(date +%Y-%m-%d) — $(git diff --staged --stat | tail -1)"
+          git pull --rebase origin master
           git push
