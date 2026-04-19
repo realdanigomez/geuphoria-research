@@ -2309,13 +2309,23 @@
       "status": "reject",
       "reason": "Generic marketing noise without actionable insight into coaches' actual pain points, struggles, or systems; appears to be a competitor ad rather than research intelligence.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "WHY you're struggling to see SUCCESS as an Online Fitness Coach or Personal Trainer",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T02:27:42.771054",
+      "status": "keep",
+      "reason": "Directly addresses core pain points (struggle, success barriers) of online fitness coaches; likely contains insights into specific challenges affecting client acquisition, retention, or business scaling",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 242,
-    "kept": 70,
+    "scanned": 243,
+    "kept": 71,
     "rejected": 172,
-    "last_scan": "2026-04-19T01:28:59.951159",
+    "last_scan": "2026-04-19T02:28:54.032387",
     "platforms": [
       "Reddit",
       "YouTube",
