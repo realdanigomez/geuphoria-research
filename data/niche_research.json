@@ -919,13 +919,73 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition problem through tested methods, providing coaches with specific tactics to evaluate and implement for their own business growth.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro \\u0026 Hard Truth",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T17:58:22.415278",
+      "status": "reject",
+      "reason": "Generic search term without specific findings, data, or actionable intelligence about fitness coach pain points",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Industry Problems",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T17:58:26.076004",
+      "status": "keep",
+      "reason": "Directly addresses burnout, a core pain point for fitness coaches affecting retention, service quality, and business sustainability—essential for understanding why coaches struggle to scale.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The OPEX Difference",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T17:58:26.994189",
+      "status": "reject",
+      "reason": "Generic title lacks specificity; content appears to be about OPEX (operational expenditure) rather than fitness coach-specific burnout causes, solutions, or business insights.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Is the OPEX Method?",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T17:58:28.178560",
+      "status": "reject",
+      "reason": "Generic wellness content about exercise methodology, not about fitness coaches' actual business problems like client acquisition, pricing, systems, or burnout causes.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building Real Impact",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T17:58:29.009911",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout, a core pain point affecting retention, service quality, and business sustainability for online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mentorship Overview",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T17:58:29.995942",
+      "status": "reject",
+      "reason": "Title doesn't match search intent; \"Mentorship Overview\" is too generic and unlikely to contain specific insights about fitness coach burnout, pain points, or operational challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 103,
-    "kept": 40,
-    "rejected": 63,
-    "last_scan": "2026-04-19T17:29:16.133955",
+    "scanned": 109,
+    "kept": 42,
+    "rejected": 67,
+    "last_scan": "2026-04-19T17:59:24.508086",
     "platforms": [
       "Reddit",
       "YouTube",
