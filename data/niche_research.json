@@ -759,13 +759,33 @@
       "status": "keep",
       "reason": "Directly addresses a core pain point for fitness coaches—pricing strategy impacts income, client acquisition, and business viability; understanding what coaches struggle with here reveals monetization gaps and confidence issues in positioning their services.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Avoid Trainer Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T08:28:06.060418",
+      "status": "keep",
+      "reason": "Directly addresses trainer burnout, a core pain point affecting client retention, business sustainability, and scaling capacity for online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tired of Burnout? Here's What Successful Fitness Coaches Do Different",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T08:28:07.828017",
+      "status": "reject",
+      "reason": "Generic motivational title without specific strategies or data; \"what successful coaches do different\" is vague and lacks actionable tactics, systems, or concrete pain point solutions that would provide intelligence.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 87,
-    "kept": 33,
-    "rejected": 54,
-    "last_scan": "2026-04-19T07:58:55.592632",
+    "scanned": 89,
+    "kept": 34,
+    "rejected": 55,
+    "last_scan": "2026-04-19T08:29:02.259413",
     "platforms": [
       "Reddit",
       "YouTube",

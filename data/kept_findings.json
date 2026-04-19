@@ -332,6 +332,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Avoid Trainer Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T08:28:06.060418",
+      "status": "keep",
+      "reason": "Directly addresses trainer burnout, a core pain point affecting client retention, business sustainability, and scaling capacity for online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -452,15 +462,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 33,
-    "niche_rejected": 54,
-    "niche_scanned": 87,
+    "niche_kept": 34,
+    "niche_rejected": 55,
+    "niche_scanned": 89,
     "comp_kept": 12,
-    "comp_rejected": 87,
-    "comp_scanned": 99,
-    "last_scan": "2026-04-19T07:59:58.394392",
-    "total_kept": 45,
-    "total_rejected": 141,
+    "comp_rejected": 93,
+    "comp_scanned": 105,
+    "last_scan": "2026-04-19T08:30:10.660087",
+    "total_kept": 46,
+    "total_rejected": 148,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
