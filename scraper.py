@@ -6,7 +6,7 @@ AI: Claude Haiku classifies each finding.
 Platforms: Reddit, YouTube, Google, LinkedIn, Quora, Medium, Twitter, Facebook, Skool, Instagram
 """
 
-import json, os, re, random, hashlib, time
+import json, os, re, hashlib, time
 from datetime import datetime
 from urllib.parse import quote_plus
 import requests
@@ -18,13 +18,8 @@ os.makedirs(DATA_DIR, exist_ok=True)
 
 NICHE_LOG = os.path.join(DATA_DIR, 'niche_research.json')
 COMP_LOG = os.path.join(DATA_DIR, 'competitor_research.json')
-BIZ_LOG = os.path.join(DATA_DIR, 'business_research.json')
 KEPT_FILE = os.path.join(DATA_DIR, 'kept_findings.json')
-USAGE_FILE = os.path.join(DATA_DIR, 'api_usage.json')
 API_KEY = os.environ.get('ANTHROPIC_API_KEY', '')
-
-# Track actual token usage per run
-_run_usage = {'input_tokens': 0, 'output_tokens': 0, 'api_calls': 0}
 
 # ============================================================
 # HAIKU AI CLASSIFIER
@@ -39,7 +34,7 @@ def classify_with_haiku(title, text, track):
 
 TRACK: {track.upper()}
 
-{"NICHE TRACK: Classify if this is relevant to online fitness coaches — their pain points, struggles, goals, income, client acquisition, burnout, marketing, systems, scaling. We want to understand their problems deeply." if track == "niche" else "COMPETITOR TRACK: Classify if this contains useful competitive intelligence about people who specifically help online fitness coaches — their strategies, content approaches, offers, programs, audience growth tactics, or market positioning." if track == "competitor" else "BUSINESS TRACK: Classify if this contains useful business intelligence from general business mentors and channel business owners (like Alex Hormozi, Dan Martel, Sam Ovens). We want scaling strategies, business systems, marketing frameworks, and growth tactics that apply to any coaching/service business."}
+{"NICHE TRACK: Classify if this is relevant to online fitness coaches — their pain points, struggles, goals, income, client acquisition, burnout, marketing, systems, scaling. We want to understand their problems deeply." if track == "niche" else "COMPETITOR TRACK: Classify if this contains useful competitive intelligence about fitness coaching business mentors, their strategies, content approaches, offers, programs, audience growth tactics, or market positioning."}
 
 FINDING:
 Title: {title}
@@ -63,12 +58,7 @@ Be strict. Only KEEP findings that contain specific, actionable intelligence."""
         }, timeout=15)
 
         if resp.status_code == 200:
-            body = resp.json()
-            usage = body.get('usage', {})
-            _run_usage['input_tokens'] += usage.get('input_tokens', 0)
-            _run_usage['output_tokens'] += usage.get('output_tokens', 0)
-            _run_usage['api_calls'] += 1
-            result = body['content'][0]['text'].strip()
+            result = resp.json()['content'][0]['text'].strip()
             if result.startswith('KEEP'):
                 return 'keep', result.split('|', 1)[1].strip() if '|' in result else 'Haiku: relevant'
             return 'reject', result.split('|', 1)[1].strip() if '|' in result else 'Haiku: not relevant'
@@ -111,17 +101,6 @@ COMP_STRATEGY = ['strategy','funnel','offer','program','course','community','con
     'joint venture','affiliate','referral program','testimonial','case study','transformation',
     'before after','social proof','authority','positioning','niche down','ideal client avatar']
 
-BIZ_KEYWORDS = ['scale','scaling','systems','automation','delegate','hire','team','ceo',
-    'revenue','profit','margin','cash flow','business model','recurring revenue','mrr',
-    'saas','agency','service business','coaching business','consulting','high ticket',
-    'premium pricing','value ladder','ascension model','operations','sop','process',
-    'leverage','equity','exit','acquisition','portfolio','invest','compound',
-    'leadership','management','culture','vision','mission','brand','moat',
-    'marketing','sales','pipeline','conversion','retention','churn','lifetime value',
-    'content strategy','audience','distribution','platform','channel','organic',
-    'paid ads','media buying','creative','copy','hook','offer stack',
-    'mindset','discipline','focus','execution','momentum','growth','10x']
-
 def classify_local(title, text, track):
     combined = (title + ' ' + text).lower()
     if track == 'niche':
@@ -132,54 +111,15 @@ def classify_local(title, text, track):
         if score >= 2:
             return 'keep', f'Local score {score}: {pain} pain, {goal} goal, {identity} identity'
         return 'reject', f'Local score {score}: below threshold'
-    elif track == 'competitor':
+    else:
         strat = sum(1 for w in COMP_STRATEGY if w in combined)
         if strat >= 2:
             return 'keep', f'Local score {strat}: competitor strategy markers'
         return 'reject', f'Local score {strat}: below threshold'
-    else:
-        biz = sum(1 for w in BIZ_KEYWORDS if w in combined)
-        if biz >= 2:
-            return 'keep', f'Local score {biz}: business strategy markers'
-        return 'reject', f'Local score {biz}: below threshold'
 
 # ============================================================
 # HELPERS
 # ============================================================
-
-def save_usage():
-    """Save actual API token usage, accumulating across runs."""
-    # Haiku pricing: $1.00/M input, $5.00/M output
-    INPUT_PRICE = 1.00 / 1_000_000
-    OUTPUT_PRICE = 5.00 / 1_000_000
-    usage = {}
-    if os.path.exists(USAGE_FILE):
-        try: usage = json.loads(open(USAGE_FILE, 'r', encoding='utf-8').read())
-        except: pass
-    usage['total_input_tokens'] = usage.get('total_input_tokens', 0) + _run_usage['input_tokens']
-    usage['total_output_tokens'] = usage.get('total_output_tokens', 0) + _run_usage['output_tokens']
-    usage['total_api_calls'] = usage.get('total_api_calls', 0) + _run_usage['api_calls']
-    usage['total_cost'] = round(
-        usage['total_input_tokens'] * INPUT_PRICE + usage['total_output_tokens'] * OUTPUT_PRICE, 6
-    )
-    usage['last_run'] = {
-        'time': datetime.utcnow().isoformat(),
-        'input_tokens': _run_usage['input_tokens'],
-        'output_tokens': _run_usage['output_tokens'],
-        'api_calls': _run_usage['api_calls'],
-        'cost': round(
-            _run_usage['input_tokens'] * INPUT_PRICE + _run_usage['output_tokens'] * OUTPUT_PRICE, 6
-        )
-    }
-    runs = usage.get('runs', [])
-    runs.append(usage['last_run'])
-    usage['runs'] = runs[-100:]
-    with open(USAGE_FILE, 'w', encoding='utf-8') as f:
-        json.dump(usage, f, indent=2)
-    print(f'API usage this run: {_run_usage["api_calls"]} calls, '
-          f'{_run_usage["input_tokens"]} in / {_run_usage["output_tokens"]} out, '
-          f'${usage["last_run"]["cost"]:.4f}')
-    print(f'API usage total: {usage["total_api_calls"]} calls, ${usage["total_cost"]:.4f}')
 
 def load_json(path):
     if os.path.exists(path):
@@ -241,33 +181,27 @@ def scrape_reddit(subs, terms_unused, seen, log, track):
     return count
 
 def scrape_youtube(terms, seen, log, track):
-    """Search YouTube. Shuffle queries each run for content variety."""
+    """Search YouTube."""
     count = 0
-    terms_pool = list(terms)
-    random.shuffle(terms_pool)
-    for term in terms_pool[:8]:  # 8 different queries per run (was 4)
+    for term in terms[:4]:
         try:
             r = requests.get(f'https://www.youtube.com/results?search_query={quote_plus(term)}&sp=CAI', headers=HEADERS, timeout=15)
             if r.status_code != 200: continue
-            for title in re.findall(r'"title":\{"runs":\[\{"text":"([^"]+)"', r.text)[:15]:  # 15 results (was 8)
+            for title in re.findall(r'"title":\{"runs":\[\{"text":"([^"]+)"', r.text)[:8]:
                 count += add_finding(seen, log, 'YouTube', title, f'Search: {term}', '', track)
             time.sleep(2)
         except: pass
     return count
 
 def scrape_google(queries, seen, log, track):
-    """Search Google. Shuffle and rotate freshness window for variety."""
+    """Search Google."""
     count = 0
-    queries_pool = list(queries)
-    random.shuffle(queries_pool)
-    # Rotate between past day (qdr:d) and past week (qdr:w) on each run for fresh + recent variety
-    freshness = random.choice(['qdr:d', 'qdr:w'])
-    for q in queries_pool[:6]:  # 6 queries per run (was 3)
+    for q in queries[:3]:
         try:
-            r = requests.get(f'https://www.google.com/search?q={quote_plus(q)}&tbs={freshness}', headers=HEADERS, timeout=15)
+            r = requests.get(f'https://www.google.com/search?q={quote_plus(q)}&tbs=qdr:w', headers=HEADERS, timeout=15)
             if r.status_code != 200: continue
             soup = BeautifulSoup(r.text, 'html.parser')
-            for res in soup.select('h3')[:12]:  # 12 results (was 8)
+            for res in soup.select('h3')[:8]:
                 title = res.get_text()
                 if title: count += add_finding(seen, log, 'Google', title, f'Search: {q[:50]}', '', track)
             time.sleep(3)
@@ -275,11 +209,9 @@ def scrape_google(queries, seen, log, track):
     return count
 
 def scrape_platform_google(platform, queries, seen, log, track):
-    """Search a specific platform via Google. Shuffle for variety."""
+    """Search a specific platform via Google."""
     count = 0
-    queries_pool = list(queries)
-    random.shuffle(queries_pool)
-    for q in queries_pool[:4]:
+    for q in queries[:2]:
         try:
             r = requests.get(f'https://www.google.com/search?q={quote_plus(q)}&tbs=qdr:m', headers=HEADERS, timeout=15)
             if r.status_code != 200: continue
@@ -336,10 +268,9 @@ def run():
 
     # Instagram via Google
     total_n += scrape_platform_google('Instagram', ['online fitness coach site:instagram.com','fitness coach tips site:instagram.com'], seen, niche, 'niche')
-    total_n += scrape_platform_google('TikTok', ['online fitness coach site:tiktok.com','fitness coach business tips site:tiktok.com'], seen, niche, 'niche')
 
     niche['stats']['last_scan'] = datetime.utcnow().isoformat()
-    niche['stats']['platforms'] = ['Reddit','YouTube','Google','LinkedIn','Quora','Medium','Twitter/X','Facebook','Skool','Instagram','TikTok']
+    niche['stats']['platforms'] = ['Reddit','YouTube','Google','LinkedIn','Quora','Medium','Twitter/X','Facebook','Skool','Instagram']
     save_json(NICHE_LOG, niche)
     print(f'Niche: {total_n} new kept | Total: {niche["stats"]["kept"]} kept, {niche["stats"]["rejected"]} rejected')
 
@@ -377,65 +308,31 @@ def run():
 
     # Skool — competitor communities
     total_c += scrape_platform_google('Skool', ['fitness coaching site:skool.com','online coach community site:skool.com'], seen, comp, 'competitor')
-    total_c += scrape_platform_google('TikTok', ['fitness coaching mentor site:tiktok.com','online coach business tips site:tiktok.com'], seen, comp, 'competitor')
 
     comp['stats']['last_scan'] = datetime.utcnow().isoformat()
-    comp['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X','Quora','Medium','Facebook','Instagram','Skool','TikTok']
+    comp['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X','Quora','Medium','Facebook','Instagram','Skool']
     save_json(COMP_LOG, comp)
     print(f'Competitor: {total_c} new kept | Total: {comp["stats"]["kept"]} kept, {comp["stats"]["rejected"]} rejected')
 
-    # ---- TRACK 3: BUSINESS RESEARCH ----
-    print('\n--- TRACK 3: BUSINESS RESEARCH ---')
-    biz = load_json(BIZ_LOG)
-    total_b = 0
-
-    # YouTube — general business mentors
-    total_b += scrape_youtube(['Alex Hormozi business scaling','Dan Martel business systems','Sam Ovens consulting business','business owner scaling strategy','service business growth'], seen, biz, 'business')
-
-    # Google — business strategies
-    total_b += scrape_google(['coaching business scaling strategy 2026','service business automation systems','high ticket business growth'], seen, biz, 'business')
-
-    # Reddit — business discussions
-    total_b += scrape_reddit(['Entrepreneur','smallbusiness','sweatystartup'], [], seen, biz, 'business')
-
-    # LinkedIn — business content
-    total_b += scrape_platform_google('LinkedIn', ['coaching business scaling site:linkedin.com','service business growth site:linkedin.com'], seen, biz, 'business')
-
-    # Twitter — business mentors
-    total_b += scrape_platform_google('Twitter/X', ['Alex Hormozi site:twitter.com business','Dan Martel site:x.com business'], seen, biz, 'business')
-
-    # YouTube — more business channels
-    total_b += scrape_youtube(['Hormozi business advice','Martel SaaS playbook','business systems automation','coaching business operations'], seen, biz, 'business')
-
-    biz['stats']['last_scan'] = datetime.utcnow().isoformat()
-    biz['stats']['platforms'] = ['YouTube','Google','Reddit','LinkedIn','Twitter/X']
-    save_json(BIZ_LOG, biz)
-    print(f'Business: {total_b} new kept | Total: {biz["stats"]["kept"]} kept, {biz["stats"]["rejected"]} rejected')
-
-    # ---- SAVE COMBINED (all 3 tracks) ----
+    # ---- SAVE COMBINED ----
     kept = load_json(KEPT_FILE)
     all_kept = [e for e in niche.get('entries', []) if e.get('status') == 'keep']
     all_kept += [e for e in comp.get('entries', []) if e.get('status') == 'keep']
-    all_kept += [e for e in biz.get('entries', []) if e.get('status') == 'keep']
     kept['entries'] = all_kept[-500:]
     kept['stats'] = {
         'niche_kept': niche['stats']['kept'], 'niche_rejected': niche['stats']['rejected'],
         'niche_scanned': niche['stats']['scanned'],
         'comp_kept': comp['stats']['kept'], 'comp_rejected': comp['stats']['rejected'],
         'comp_scanned': comp['stats']['scanned'],
-        'biz_kept': biz['stats']['kept'], 'biz_rejected': biz['stats']['rejected'],
-        'biz_scanned': biz['stats']['scanned'],
         'last_scan': datetime.utcnow().isoformat(),
-        'total_kept': niche['stats']['kept'] + comp['stats']['kept'] + biz['stats']['kept'],
-        'total_rejected': niche['stats']['rejected'] + comp['stats']['rejected'] + biz['stats']['rejected'],
+        'total_kept': niche['stats']['kept'] + comp['stats']['kept'],
+        'total_rejected': niche['stats']['rejected'] + comp['stats']['rejected'],
         'ai_model': 'claude-haiku-4-5' if API_KEY else 'local-classifier',
         'niche_platforms': niche['stats'].get('platforms', []),
         'comp_platforms': comp['stats'].get('platforms', []),
-        'biz_platforms': biz['stats'].get('platforms', []),
     }
     save_json(KEPT_FILE, kept)
     save_seen(seen)
-    save_usage()
     print(f'\n=== Done. Total kept: {kept["stats"]["total_kept"]} | AI: {"Haiku" if API_KEY else "Local"} ===')
 
 if __name__ == '__main__':

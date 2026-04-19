@@ -43,18 +43,16 @@ jobs:
           GOOGLE_CLIENT_ID:     ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
-        working-directory: research-cloud
         run: python outlier_finder.py
 
       - name: Commit and push results
         run: |
           git config user.name  "Geuphoria Outlier Bot"
           git config user.email "bot@geuphoria.com"
-          git add research-cloud/data/outliers/ || true
-          git add research-cloud/data/seen_outlier_ids.json || true
-          git add research-cloud/data/channel_id_cache.json || true
-          git add research-cloud/data/outlier_sheet_id.json || true
-          git add 01_research/outliers/ || true
+          git add data/outliers/ || true
+          git add data/seen_outlier_ids.json || true
+          git add data/channel_id_cache.json || true
+          git add data/outlier_sheet_id.json || true
           git diff --staged --quiet || git commit -m \
             "outlier-finder: $(date +%Y-%m-%d) — $(git diff --staged --stat | tail -1)"
           git push

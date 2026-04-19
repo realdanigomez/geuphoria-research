@@ -685,9 +685,13 @@ def run():
 
     # Write outputs
     output_dir = os.path.join(OUTLIERS_DIR, run_date)
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Also write to local 01_research/outliers/ if the path exists (local machine only)
     local_dir = os.path.join(LOCAL_OUTLIERS_DIR, run_date)
-    for d in [output_dir, local_dir]:
-        os.makedirs(d, exist_ok=True)
+    write_local = os.path.exists(os.path.dirname(LOCAL_OUTLIERS_DIR))
+    if write_local:
+        os.makedirs(local_dir, exist_ok=True)
 
     envelope = {
         "run_date": run_date,
@@ -701,15 +705,18 @@ def run():
     }
 
     save_json(os.path.join(output_dir, "outliers.json"), envelope)
-    save_json(os.path.join(local_dir, "outliers.json"), envelope)
+    if write_local:
+        save_json(os.path.join(local_dir, "outliers.json"), envelope)
 
     report = generate_report_md(all_outliers, run_date, len(channels), total_videos_evaluated)
     open(os.path.join(output_dir, "report.md"), "w", encoding="utf-8").write(report)
-    open(os.path.join(local_dir, "report.md"), "w", encoding="utf-8").write(report)
+    if write_local:
+        open(os.path.join(local_dir, "report.md"), "w", encoding="utf-8").write(report)
 
     for o in to_process:
         save_outlier_md(o, output_dir)
-        save_outlier_md(o, local_dir)
+        if write_local:
+            save_outlier_md(o, local_dir)
 
     # Persist state
     save_seen_ids(seen_ids)
