@@ -464,9 +464,10 @@ def process_channel(channel_info: dict, cache: dict) -> list:
     # high that standard outlier detection misses their best work. Always include
     # their top 5 videos by absolute view count, then add any standard outliers on top.
     if is_hardcoded:
-        # Top 5 by raw views, regardless of threshold
+        # Top 5 longforms by raw views — exclude Shorts (< 120s) so we get real content
+        longforms = [v for v in eligible if v.get("duration_seconds", 0) >= 120]
         sorted_by_views = sorted(
-            eligible,
+            longforms if longforms else eligible,
             key=lambda v: int(v.get("statistics", {}).get("viewCount", 0)),
             reverse=True
         )

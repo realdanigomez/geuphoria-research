@@ -5,7 +5,7 @@ Geuphoria Media — YouTube Outlier Finder Configuration
 # Hardcoded competitor channels (always scanned)
 HARDCODED_CHANNELS = [
     {"name": "Alex Hormozi",   "handle": "AlexHormozi"},
-    {"name": "Charlie Morgan", "handle": "CharlieM"},
+    {"name": "Charlie Morgan", "handle": "charliemofficial"},
     {"name": "Daniel Dalen",   "handle": "DanielDalen"},
     {"name": "Iman Gadzhi",    "handle": "ImanGadzhi"},
 ]
