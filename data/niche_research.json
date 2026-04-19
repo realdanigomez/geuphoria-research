@@ -779,13 +779,83 @@
       "status": "reject",
       "reason": "Generic motivational title without specific strategies or data; \"what successful coaches do different\" is vague and lacks actionable tactics, systems, or concrete pain point solutions that would provide intelligence.",
       "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Posting isn't the problem. Turning attention into clients is. ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:19.275164",
+      "status": "keep",
+      "reason": "Directly addresses the core pain point of converting audience attention into paying clients—a fundamental monetization challenge for online fitness coaches seeking sustainable income and business growth.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "If you're an online coach who wants to scale lets us help",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:20.283997",
+      "status": "reject",
+      "reason": "Generic offer without specific insights into actual pain points, struggles, or actionable strategies; lacks data, research, or concrete problems faced by online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "A group chat won't build a real coaching business. If you ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:21.210657",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategy—a core pain point for fitness coaches looking to scale beyond informal groups into sustainable business models.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Fitness Coach Job in Pleasanton, CA at 24 Hour Fitness Usa",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:22.435436",
+      "status": "reject",
+      "reason": "Job posting for traditional gym employment is not relevant to online fitness coaches' business challenges; describes W-2 position, not independent coaching, client acquisition strategies, or scaling issues that online coaches face.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Online fitness jobs in Remote",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:23.560048",
+      "status": "reject",
+      "reason": "Generic job listing lacks specific intelligence about fitness coach pain points, struggles, or challenges; no actionable data on client acquisition strategies, marketing tactics, or business scaling insights.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Honestly just posting content! They reached out to me.",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:24.724138",
+      "status": "reject",
+      "reason": "Vague anecdotal claim without specific tactics, metrics, or insights into how content posting actually converts to clients or scales acquisition",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Start freelance PT now or is it too big of a step?",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:25.537575",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition timing and barriers to entry—core pain points for fitness coaches evaluating business viability and growth decisions.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 89,
-    "kept": 34,
-    "rejected": 55,
-    "last_scan": "2026-04-19T08:58:59.563804",
+    "scanned": 96,
+    "kept": 37,
+    "rejected": 59,
+    "last_scan": "2026-04-19T09:12:14.975897",
     "platforms": [
       "Reddit",
       "YouTube",

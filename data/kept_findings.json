@@ -341,6 +341,36 @@
       "track": "niche"
     },
     {
+      "source": "Google",
+      "title": "Posting isn't the problem. Turning attention into clients is. ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:19.275164",
+      "status": "keep",
+      "reason": "Directly addresses the core pain point of converting audience attention into paying clients—a fundamental monetization challenge for online fitness coaches seeking sustainable income and business growth.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "A group chat won't build a real coaching business. If you ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:21.210657",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategy—a core pain point for fitness coaches looking to scale beyond informal groups into sustainable business models.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Start freelance PT now or is it too big of a step?",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-19T09:11:25.537575",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition timing and barriers to entry—core pain points for fitness coaches evaluating business viability and growth decisions.",
+      "track": "niche"
+    },
+    {
       "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
@@ -462,15 +492,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 34,
-    "niche_rejected": 55,
-    "niche_scanned": 89,
+    "niche_kept": 37,
+    "niche_rejected": 59,
+    "niche_scanned": 96,
     "comp_kept": 12,
     "comp_rejected": 93,
     "comp_scanned": 105,
-    "last_scan": "2026-04-19T09:00:02.228648",
-    "total_kept": 46,
-    "total_rejected": 148,
+    "last_scan": "2026-04-19T09:13:17.842962",
+    "total_kept": 49,
+    "total_rejected": 152,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
