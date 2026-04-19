@@ -1009,13 +1009,43 @@
       "status": "reject",
       "reason": "Search query alone provides no competitive intelligence; no actual findings, strategies, offers, or positioning data are present to analyze.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lesson 1 Second Order Consequences",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T16:59:18.236837",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query title without actual content, data, or insights about competitor strategies, offers, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Chess Example",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T16:59:19.418276",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual competitive intelligence data, strategy details, offers, content approaches, or market positioning information about fitness coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Generals Perspective",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T16:59:20.502012",
+      "status": "reject",
+      "reason": "Generic search query without documented findings, competitor details, strategies, or actionable intelligence about fitness coaching business models, content approaches, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 122,
+    "scanned": 125,
     "kept": 13,
-    "rejected": 109,
-    "last_scan": "2026-04-19T16:30:16.894971",
+    "rejected": 112,
+    "last_scan": "2026-04-19T17:00:20.090962",
     "platforms": [
       "YouTube",
       "Google",
