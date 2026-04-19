@@ -709,13 +709,53 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches; indicates search intent for lead generation strategies and tactics.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Ways to Avoid Burnout In Your Fitness Coaching Biz",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T06:28:00.768974",
+      "status": "reject",
+      "reason": "Generic title with no indication of specific strategies, root causes, or actionable frameworks that would provide intelligence beyond surface-level awareness of burnout as a problem",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Interview Coaching Prospects Carefully",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T06:28:04.486463",
+      "status": "reject",
+      "reason": "Contains generic coaching advice without specific data on fitness coach pain points, struggles, or business challenges; lacks actionable intelligence about the niche's actual problems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Automate",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T06:28:05.516841",
+      "status": "reject",
+      "reason": "Too vague and lacks specific actionable insights—mentions burnout broadly without addressing root causes, solutions, or quantifiable data relevant to coaching business operations",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pricing",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T06:28:06.722755",
+      "status": "reject",
+      "reason": "Contains only a generic topic title with no actual data, insights, or findings about fitness coach pricing strategies, pain points, or specific problems they face.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 82,
+    "scanned": 86,
     "kept": 32,
-    "rejected": 50,
-    "last_scan": "2026-04-19T06:18:43.923389",
+    "rejected": 54,
+    "last_scan": "2026-04-19T06:29:02.109828",
     "platforms": [
       "Reddit",
       "YouTube",
