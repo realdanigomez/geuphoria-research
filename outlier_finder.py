@@ -441,8 +441,35 @@ def process_channel(channel_info: dict, cache: dict) -> list:
         print(f"  {name}: avg views = 0, skipping")
         return []
 
-    outliers = detect_outliers(eligible, avg, name, handle)
-    print(f"  {name}: {len(eligible)} videos, avg {avg:,.0f} views → {len(outliers)} outliers")
+    # For hardcoded VIP channels (Hormozi, Morgan, Dalen etc.) their averages are so
+    # high that standard outlier detection misses their best work. Always include
+    # their top 5 videos by absolute view count, then add any standard outliers on top.
+    is_hardcoded = any(
+        ch.get("handle", "").lower() == handle.lower()
+        for ch in HARDCODED_CHANNELS
+    )
+
+    if is_hardcoded:
+        # Top 5 by raw views, regardless of threshold
+        sorted_by_views = sorted(
+            eligible,
+            key=lambda v: int(v.get("statistics", {}).get("viewCount", 0)),
+            reverse=True
+        )
+        top5 = detect_outliers(sorted_by_views[:5], avg, name, handle)
+        # Also run standard detection and merge (dedup by video_id)
+        standard = detect_outliers(eligible, avg, name, handle)
+        seen = {o["video_id"] for o in top5}
+        for o in standard:
+            if o["video_id"] not in seen:
+                top5.append(o)
+                seen.add(o["video_id"])
+        outliers = top5
+        print(f"  {name} [VIP]: {len(eligible)} videos, avg {avg:,.0f} views → {len(outliers)} included (top-5 + outliers)")
+    else:
+        outliers = detect_outliers(eligible, avg, name, handle)
+        print(f"  {name}: {len(eligible)} videos, avg {avg:,.0f} views → {len(outliers)} outliers")
+
     return outliers
 
 
