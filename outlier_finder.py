@@ -647,6 +647,22 @@ def run():
     channel_cache = load_channel_cache()
     voice_profile = load_voice_profile()
 
+    # Sync seen_ids from the sheet so we never re-process videos already there,
+    # even if a previous run's seen_ids file wasn't saved (e.g. git push failure).
+    try:
+        from sheets_writer import get_sheets_service, create_or_get_spreadsheet, get_existing_video_ids
+        if all(os.environ.get(k) for k in ["GOOGLE_REFRESH_TOKEN", "GOOGLE_CLIENT_ID", "GOOGLE_CLIENT_SECRET"]):
+            _svc = get_sheets_service()
+            _sid = create_or_get_spreadsheet(_svc)
+            sheet_ids = get_existing_video_ids(_svc, _sid)
+            before = len(seen_ids)
+            seen_ids.update(sheet_ids)
+            added = len(seen_ids) - before
+            if added:
+                print(f"Synced {added} video IDs from sheet into seen_ids (dedup guard).")
+    except Exception as _e:
+        print(f"Sheet sync skipped: {_e}")
+
     # Build channel list
     print("Building channel list...")
     raw_channels = list(HARDCODED_CHANNELS)
