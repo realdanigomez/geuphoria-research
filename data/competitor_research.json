@@ -749,13 +749,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual findings, data, or competitive intelligence about Charlie Morgan's coaching business, strategies, offers, or positioning provided.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Strategy Alex Hormozi Revealed To Us To Get More Fitness Coaching Clients",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-19T04:58:49.380191",
+      "status": "reject",
+      "reason": "Title suggests content about Alex Hormozi but provides no specific strategies, tactics, offers, or competitive intelligence in the excerpt provided—appears to be clickbait without substantive details.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 96,
+    "scanned": 97,
     "kept": 11,
-    "rejected": 85,
-    "last_scan": "2026-04-19T04:30:01.911256",
+    "rejected": 86,
+    "last_scan": "2026-04-19T04:59:51.285599",
     "platforms": [
       "YouTube",
       "Google",
