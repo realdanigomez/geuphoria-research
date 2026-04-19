@@ -1,0 +1,60 @@
+name: YouTube Outlier Finder
+
+on:
+  schedule:
+    # Every Friday at 14:00 UTC = 10:00 AM AST (UTC-4)
+    # Runs Friday → Dani has Fri/Sat/Sun to prep before Monday launch day
+    - cron: '0 14 * * 5'
+  workflow_dispatch:  # Allow manual trigger from GitHub Actions UI
+
+jobs:
+  find-outliers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45  # Claude Opus is slower — give it room
+
+    steps:
+      - name: Checkout research repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install \
+            google-api-python-client \
+            google-auth \
+            google-auth-oauthlib \
+            google-auth-httplib2 \
+            youtube-transcript-api \
+            isodate \
+            yt-dlp \
+            requests \
+            anthropic
+
+      - name: Run outlier finder
+        env:
+          YOUTUBE_API_KEY:      ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_CLIENT_ID:     ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+        working-directory: research-cloud
+        run: python outlier_finder.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name  "Geuphoria Outlier Bot"
+          git config user.email "bot@geuphoria.com"
+          git add research-cloud/data/outliers/ || true
+          git add research-cloud/data/seen_outlier_ids.json || true
+          git add research-cloud/data/channel_id_cache.json || true
+          git add research-cloud/data/outlier_sheet_id.json || true
+          git add 01_research/outliers/ || true
+          git diff --staged --quiet || git commit -m \
+            "outlier-finder: $(date +%Y-%m-%d) — $(git diff --staged --stat | tail -1)"
+          git push
