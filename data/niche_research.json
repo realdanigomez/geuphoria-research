@@ -2249,13 +2249,73 @@
       "status": "reject",
       "reason": "Content appears to be a conclusion/wrapper section without specific actionable insights about fitness coach burnout causes, solutions, or strategies.",
       "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Online fitness coach introduction",
+      "text": "Search: online fitness coach group site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T01:28:32.849132",
+      "status": "reject",
+      "reason": "Generic search query with no specific data, insights, or findings about fitness coach pain points, struggles, or business challenges",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Virtual fitness coach for online classes?",
+      "text": "Search: online fitness coach group site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T01:28:33.647627",
+      "status": "reject",
+      "reason": "Generic search query without specific pain points, struggles, or actionable insights about fitness coaches' actual problems or needs.",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Hi, I'm an online fitness coach. I help people lose fat from home",
+      "text": "Search: online fitness coach group site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T01:28:34.623462",
+      "status": "reject",
+      "reason": "This is a self-introduction without actionable intelligence about coaches' pain points, struggles, goals, income, client acquisition, burnout, marketing, systems, or scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Online fitness coaching for women",
+      "text": "Search: online fitness coach group site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T01:28:35.659952",
+      "status": "reject",
+      "reason": "Generic search query without actionable insights into fitness coaches' specific pain points, struggles, or business challenges; no data on their problems, marketing strategies, or scaling issues.",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Coaches relying on sessions for income?",
+      "text": "Search: online fitness coach group site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T01:28:37.441781",
+      "status": "reject",
+      "reason": "Generic question without specific data, insights, or evidence about coaches' actual income struggles or session dependency patterns",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Personalized online fitness training programs available",
+      "text": "Search: online fitness coach group site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T01:28:38.462462",
+      "status": "reject",
+      "reason": "Generic marketing noise without actionable insight into coaches' actual pain points, struggles, or systems; appears to be a competitor ad rather than research intelligence.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 236,
+    "scanned": 242,
     "kept": 70,
-    "rejected": 166,
-    "last_scan": "2026-04-19T00:29:00.769660",
+    "rejected": 172,
+    "last_scan": "2026-04-19T01:28:59.951159",
     "platforms": [
       "Reddit",
       "YouTube",

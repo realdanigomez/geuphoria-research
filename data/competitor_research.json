@@ -5,86 +5,6 @@
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
-      "time": "2026-04-12T05:09:22.765172",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "I Spent $10,000 on Charlie Morgan’s Course (My Results)",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265050",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why I bought the course",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265063",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Course overview",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265067",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Problems with the course",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265074",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Should you get the course?",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265081",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How do you maintain growth",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:27.804117",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fixing a Fitness Coach’s Sales Page",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:49.412033",
-      "status": "reject",
-      "reason": "Finding lacks specific details about competitor strategies, offers, or positioning; appears to be a generic search query rather than competitive intelligence with substantive insights about business models, content approaches, or market tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Helping an Online Fitness Coach Get Customers Through Content",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
       "time": "2026-04-12T05:37:50.334720",
       "status": "reject",
       "reason": "Search query alone provides no specific competitive intelligence about strategies, content approaches, offers, or positioning. Actual article content needed to assess competitive value.",
@@ -2959,13 +2879,133 @@
       "status": "keep",
       "reason": "Contains specific case study of a fitness coach building a monetized personal brand, likely detailing strategies, content approaches, and audience growth tactics relevant to online fitness coaching business models.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Can you make £100k/month as an online fitness coach?",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:09.838692",
+      "status": "reject",
+      "reason": "Contains only a clickbait title and generic search term with no actual competitive intelligence, strategies, tactics, or specific business insights about online fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only Tools You Need In 2025 As An Online Fitness Coach",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:11.127762",
+      "status": "reject",
+      "reason": "Title is generic clickbait without specific competitive strategies, tools, or tactics disclosed; search query alone doesn't constitute actionable intelligence about competitor approaches or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Should You start A Skool Community as a fitness coach?",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:11.964853",
+      "status": "reject",
+      "reason": "Generic question about community platforms without specific strategies, competitive positioning, or actionable intelligence about how fitness coaches build audiences or structure offers.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 Tips for Online Coaches",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:12.879303",
+      "status": "reject",
+      "reason": "Title lacks specificity about competitor strategies, content approaches, offers, or tactics; appears to be generic coaching advice rather than intelligence about how competitors position themselves or grow their audience.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:13.950071",
+      "status": "reject",
+      "reason": "This is a search query with no actual competitive intelligence, strategies, or findings about online fitness coaching competitors or their business approaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Be warm and helpful",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:14.850224",
+      "status": "reject",
+      "reason": "Generic advice about tone lacks specific competitive intelligence about online fitness coaching strategies, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ramp up the difficulty",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:15.823933",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual competitive intelligence, strategies, insights, or data about competitors in the online fitness coaching space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Let them bask",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:16.657616",
+      "status": "reject",
+      "reason": "Contains only a search query with no substantive information about competitor strategies, content approaches, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exactly How to Get Clients As An Online Fitness Coach (it's Easy)",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:17.694558",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategies for online fitness coaches, which is core competitive intelligence for understanding how competitors attract and convert their target market.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How do I get more leads as a fitness coach?",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:18.437982",
+      "status": "reject",
+      "reason": "This is a generic search query about lead generation, not competitive intelligence about specific competitors' strategies, content approaches, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Become a Successful Online Fitness Coach ft. Mike Crowson",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:19.440431",
+      "status": "reject",
+      "reason": "The title promises content about becoming a fitness coach but the only evidence provided is a search query with no actual information about strategies, tactics, programs, or competitive positioning that would inform business decisions.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Top 10 Ways To Get New Online Personal Training Clients (Part 1) | HTBPT Ep.268",
+      "text": "Search: online fitness business mentor",
+      "url": "",
+      "time": "2026-04-19T01:29:20.193031",
+      "status": "keep",
+      "reason": "Contains specific client acquisition strategies for online personal trainers, directly applicable to understanding how competitors attract and convert their target market",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 317,
-    "kept": 16,
-    "rejected": 301,
-    "last_scan": "2026-04-19T00:30:20.201420",
+    "scanned": 329,
+    "kept": 18,
+    "rejected": 311,
+    "last_scan": "2026-04-19T01:30:28.473334",
     "platforms": [
       "YouTube",
       "Google",
