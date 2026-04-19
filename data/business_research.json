@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Only Two Ways to Scale a Service Business",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:47.862928",
-      "status": "keep",
-      "reason": "Directly addresses core scaling methodology for service businesses, likely containing frameworks applicable to fitness coaching operations (pricing models, systematization, or offer structuring typical of Hormozi's content)",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If I Wanted to Scale An Online Store, Here's What I'd Do",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:49.264225",
-      "status": "reject",
-      "reason": "Title suggests e-commerce scaling strategies which don't directly apply to coaching/service business models; unclear if content addresses coaching-specific systems like client acquisition, delivery frameworks, or service packaging that would transfer to fitness coaching.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Business Overview",
       "text": "Search: Alex Hormozi business scaling",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title suggests e-commerce scaling advice; lacks specificity on coaching/service business models and no confirmation content delivers coaching-specific frameworks rather than general retail strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch This If You Want To Scale Your Home Service Business Past $10k/Month, Then $100k, Then $400k",
+      "text": "Search: business owner scaling strategy",
+      "url": "",
+      "time": "2026-04-19T00:30:24.438064",
+      "status": "keep",
+      "reason": "Contains specific revenue milestones ($10k, $100k, $400k) and scaling progression framework applicable to service-based businesses, which aligns with core coaching/service business growth strategies",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Top 10 Business Coach in the World",
+      "text": "Search: coaching business operations",
+      "url": "",
+      "time": "2026-04-19T00:30:58.718356",
+      "status": "reject",
+      "reason": "Title alone provides no specific frameworks, systems, or strategies; appears to be a generic listicle without actionable business intelligence for scaling coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 302,
-    "kept": 36,
-    "rejected": 266,
-    "last_scan": "2026-04-18T23:58:10.414275",
+    "scanned": 304,
+    "kept": 37,
+    "rejected": 267,
+    "last_scan": "2026-04-19T00:31:08.584907",
     "platforms": [
       "YouTube",
       "Google",
