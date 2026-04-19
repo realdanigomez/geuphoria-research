@@ -220,6 +220,54 @@ def calculate_channel_stats(videos: list) -> dict:
     return {"avg_views": avg, "video_count": len(view_counts)}
 
 
+def _enrich_video(v: dict, channel_avg: float, channel_name: str, channel_handle: str) -> dict | None:
+    """Convert a raw YouTube video dict to an outlier record (no threshold check)."""
+    try:
+        snippet = v.get("snippet", {})
+        stats = v.get("statistics", {})
+        content = v.get("contentDetails", {})
+        video_id = v["id"]
+        views = int(stats.get("viewCount", 0))
+        score = views / channel_avg if channel_avg > 0 else 0
+        thumb = (
+            snippet.get("thumbnails", {}).get("maxres", {}).get("url") or
+            snippet.get("thumbnails", {}).get("high", {}).get("url") or
+            snippet.get("thumbnails", {}).get("default", {}).get("url") or ""
+        )
+        return {
+            "video_id": video_id,
+            "video_url": f"https://www.youtube.com/watch?v={video_id}",
+            "title": snippet.get("title", ""),
+            "description": snippet.get("description", "")[:1000],
+            "tags": snippet.get("tags", []),
+            "channel_name": channel_name,
+            "channel_id": snippet.get("channelId", ""),
+            "channel_handle": channel_handle,
+            "published_at": snippet.get("publishedAt", ""),
+            "duration_seconds": parse_duration_seconds(content.get("duration", "")),
+            "definition": content.get("definition", ""),
+            "view_count": views,
+            "like_count": int(stats.get("likeCount", 0) or 0),
+            "comment_count": int(stats.get("commentCount", 0) or 0),
+            "channel_avg_views": round(channel_avg),
+            "outlier_score": round(score, 2),
+            "outlier_multiplier": f"{score:.1f}x",
+            "thumbnail_url": thumb,
+            "transcript": "",
+            "transcript_language": "",
+            "summary": "",
+            "youtube_titles": [],
+            "reel_hooks": [],
+            "carousel_hooks": [],
+            "best_format": "",
+            "funnel_tier": "",
+            "funnel_reason": "",
+            "scraped_at": datetime.utcnow().isoformat() + "Z",
+        }
+    except Exception:
+        return None
+
+
 def detect_outliers(videos: list, channel_avg: float, channel_name: str, channel_handle: str) -> list:
     """Return videos with views >= threshold * channel_avg, sorted by score desc."""
     if channel_avg <= 0:
@@ -230,45 +278,9 @@ def detect_outliers(videos: list, channel_avg: float, channel_name: str, channel
             views = int(v["statistics"].get("viewCount", 0))
             score = views / channel_avg
             if score >= OUTLIER_MULTIPLIER_THRESHOLD:
-                snippet = v.get("snippet", {})
-                stats = v.get("statistics", {})
-                content = v.get("contentDetails", {})
-                video_id = v["id"]
-                thumb = (
-                    snippet.get("thumbnails", {}).get("maxres", {}).get("url") or
-                    snippet.get("thumbnails", {}).get("high", {}).get("url") or
-                    snippet.get("thumbnails", {}).get("default", {}).get("url") or ""
-                )
-                outliers.append({
-                    "video_id": video_id,
-                    "video_url": f"https://www.youtube.com/watch?v={video_id}",
-                    "title": snippet.get("title", ""),
-                    "description": snippet.get("description", "")[:1000],
-                    "tags": snippet.get("tags", []),
-                    "channel_name": channel_name,
-                    "channel_id": snippet.get("channelId", ""),
-                    "channel_handle": channel_handle,
-                    "published_at": snippet.get("publishedAt", ""),
-                    "duration_seconds": parse_duration_seconds(content.get("duration", "")),
-                    "definition": content.get("definition", ""),
-                    "view_count": views,
-                    "like_count": int(stats.get("likeCount", 0) or 0),
-                    "comment_count": int(stats.get("commentCount", 0) or 0),
-                    "channel_avg_views": round(channel_avg),
-                    "outlier_score": round(score, 2),
-                    "outlier_multiplier": f"{score:.1f}x",
-                    "thumbnail_url": thumb,
-                    "transcript": "",
-                    "transcript_language": "",
-                    "summary": "",
-                    "youtube_titles": [],
-                    "reel_hooks": [],
-                    "carousel_hooks": [],
-                    "best_format": "",
-                    "funnel_tier": "",
-                    "funnel_reason": "",
-                    "scraped_at": datetime.utcnow().isoformat() + "Z",
-                })
+                rec = _enrich_video(v, channel_avg, channel_name, channel_handle)
+                if rec:
+                    outliers.append(rec)
         except Exception:
             pass
     return sorted(outliers, key=lambda x: x["outlier_score"], reverse=True)
@@ -464,23 +476,32 @@ def process_channel(channel_info: dict, cache: dict) -> list:
     # high that standard outlier detection misses their best work. Always include
     # their top 5 videos by absolute view count, then add any standard outliers on top.
     if is_hardcoded:
-        # Top 5 longforms by raw views — exclude Shorts (< 120s) so we get real content
-        longforms = [v for v in eligible if v.get("duration_seconds", 0) >= 120]
-        sorted_by_views = sorted(
-            longforms if longforms else eligible,
-            key=lambda v: int(v.get("statistics", {}).get("viewCount", 0)),
-            reverse=True
+        # VIP 50/50 split: guaranteed top 3 longforms + top 3 shorts by raw view count
+        # (threshold bypassed — these channels' best work must always appear)
+        lf_pool = sorted(
+            [v for v in eligible if v.get("duration_seconds", 0) >= 120],
+            key=lambda v: int(v.get("statistics", {}).get("viewCount", 0)), reverse=True
         )
-        top5 = detect_outliers(sorted_by_views[:5], avg, name, handle)
-        # Also run standard detection and merge (dedup by video_id)
+        sh_pool = sorted(
+            [v for v in eligible if v.get("duration_seconds", 0) < 120],
+            key=lambda v: int(v.get("statistics", {}).get("viewCount", 0)), reverse=True
+        )
+        vip_picks = []
+        for v in lf_pool[:3] + sh_pool[:3]:
+            rec = _enrich_video(v, avg, name, handle)
+            if rec:
+                vip_picks.append(rec)
+        # Also run standard threshold detection and merge (dedup by video_id)
         standard = detect_outliers(eligible, avg, name, handle)
-        seen = {o["video_id"] for o in top5}
+        seen = {o["video_id"] for o in vip_picks}
         for o in standard:
             if o["video_id"] not in seen:
-                top5.append(o)
+                vip_picks.append(o)
                 seen.add(o["video_id"])
-        outliers = top5
-        print(f"  {name} [VIP]: {len(eligible)} videos, avg {avg:,.0f} views → {len(outliers)} included (top-5 + outliers)")
+        outliers = vip_picks
+        lf_count = sum(1 for o in outliers if o.get("duration_seconds", 0) >= 120)
+        sh_count = len(outliers) - lf_count
+        print(f"  {name} [VIP]: {len(eligible)} videos, avg {avg:,.0f} views → {len(outliers)} picks ({lf_count} longform / {sh_count} shorts)")
     else:
         outliers = detect_outliers(eligible, avg, name, handle)
         print(f"  {name}: {len(eligible)} videos, avg {avg:,.0f} views → {len(outliers)} outliers")
@@ -704,10 +725,19 @@ def run():
         total_videos_evaluated += VIDEOS_PER_CHANNEL
         time.sleep(0.5)
 
-    # Sort by outlier_score and apply hard cap
-    all_outliers.sort(key=lambda x: x["outlier_score"], reverse=True)
-    all_outliers = all_outliers[:MAX_OUTLIERS_PER_RUN]
-    print(f"\nTotal outliers found (capped at {MAX_OUTLIERS_PER_RUN}): {len(all_outliers)}")
+    # 50/50 split: half longforms (≥ 120s), half shorts (< 120s), sorted by score within each half
+    lf_all = sorted([o for o in all_outliers if o.get("duration_seconds", 0) >= 120],
+                    key=lambda x: x["outlier_score"], reverse=True)
+    sh_all = sorted([o for o in all_outliers if o.get("duration_seconds", 0) < 120],
+                    key=lambda x: x["outlier_score"], reverse=True)
+    half = MAX_OUTLIERS_PER_RUN // 2
+    all_outliers = sorted(
+        lf_all[:half] + sh_all[:MAX_OUTLIERS_PER_RUN - half],
+        key=lambda x: x["outlier_score"], reverse=True
+    )
+    lf_n = sum(1 for o in all_outliers if o.get("duration_seconds", 0) >= 120)
+    sh_n = len(all_outliers) - lf_n
+    print(f"\nTotal outliers found (capped at {MAX_OUTLIERS_PER_RUN}): {len(all_outliers)} ({lf_n} longform / {sh_n} shorts)")
 
     # Fetch transcripts + AI analysis for top N that haven't been processed yet
     to_process = [o for o in all_outliers[:TOP_N_FOR_TRANSCRIPTS] if o["video_id"] not in seen_ids]
