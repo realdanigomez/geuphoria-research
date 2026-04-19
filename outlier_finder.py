@@ -157,19 +157,19 @@ def search_channels_by_keyword(keyword: str, max_results: int = 5) -> list:
         return []
 
 
-def fetch_channel_videos(channel_id: str) -> list:
-    """Fetch recent video IDs from a channel. Costs 100 units."""
+def fetch_channel_videos(channel_id: str, order: str = "date") -> list:
+    """Fetch video IDs from a channel. Costs 100 units per call."""
     try:
         data = yt_get("search", {
             "part": "id",
             "channelId": channel_id,
             "type": "video",
-            "order": "date",
+            "order": order,
             "maxResults": VIDEOS_PER_CHANNEL,
         })
         return [item["id"]["videoId"] for item in data.get("items", []) if "videoId" in item.get("id", {})]
     except Exception as e:
-        print(f"    fetch_channel_videos({channel_id}) failed: {e}")
+        print(f"    fetch_channel_videos({channel_id}, order={order}) failed: {e}")
         return []
 
 
@@ -426,7 +426,21 @@ def process_channel(channel_info: dict, cache: dict) -> list:
         print(f"  Skipping {name} — could not resolve channel ID")
         return []
 
-    video_ids = fetch_channel_videos(channel_id)
+    # VIP channels: fetch top-viewed (catches all-time longforms) + recent (catches new uploads)
+    # Regular channels: recent only
+    if is_hardcoded:
+        recent_ids = fetch_channel_videos(channel_id, order="date")
+        top_ids = fetch_channel_videos(channel_id, order="viewCount")
+        # Merge deduped — top-viewed first so longforms rank higher
+        seen = set()
+        video_ids = []
+        for vid in top_ids + recent_ids:
+            if vid not in seen:
+                seen.add(vid)
+                video_ids.append(vid)
+    else:
+        video_ids = fetch_channel_videos(channel_id, order="date")
+
     if not video_ids:
         print(f"  {name}: no videos found")
         return []
