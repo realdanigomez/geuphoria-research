@@ -759,13 +759,33 @@
       "status": "reject",
       "reason": "Title suggests content about Alex Hormozi but provides no specific strategies, tactics, offers, or competitive intelligence in the excerpt provided—appears to be clickbait without substantive details.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling an In-Person Personal Training Business",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-19T05:28:55.879966",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a generic title and search query without details on strategies, content approaches, offers, programs, or audience tactics that would inform competitive analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I've Coached 50,000 Men. You All Have The Same Problem.",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T05:28:59.385856",
+      "status": "keep",
+      "reason": "Reveals coach's scale (50k clients) and positioning around identifying common client problems—useful for understanding market messaging and audience pain points that resonate in fitness coaching.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 97,
-    "kept": 11,
-    "rejected": 86,
-    "last_scan": "2026-04-19T04:59:51.285599",
+    "scanned": 99,
+    "kept": 12,
+    "rejected": 87,
+    "last_scan": "2026-04-19T05:30:00.526225",
     "platforms": [
       "YouTube",
       "Google",
