@@ -1129,13 +1129,83 @@
       "status": "reject",
       "reason": "Generic burnout topic without fitness coaching-specific context, income data, client acquisition strategies, or system/scaling challenges that would differentiate it from general professional burnout",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "he was struggling with online fitness coaching for years until he did this",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T22:58:23.083860",
+      "status": "reject",
+      "reason": "Title is clickbait without revealing the actual strategy or specific problem solved; no actionable intelligence provided about what \"this\" is or how it addresses documented pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "watch this if you are struggling to sign fitness clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T22:58:23.894446",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with search intent showing coaches actively seeking solutions for a core business problem",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reason Fitness Coaches Struggle Closing Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T22:58:24.713456",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific focus on sales/closing—a primary revenue blocker for fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The mistakes fitness coaches make",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T22:58:25.625635",
+      "status": "keep",
+      "reason": "Directly addresses pain points and mistakes of online fitness coaches, likely contains actionable insights for improving coaching practices, client outcomes, and business operations.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "1 Build a crystal clear promise",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T22:58:27.743381",
+      "status": "reject",
+      "reason": "Too generic and vague - \"crystal clear promise\" is broad business advice applicable to any industry, lacks specific intelligence about fitness coach pain points, client acquisition methods, or scaling challenges unique to online coaching",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "2 Turn your method into a system",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T22:58:28.577507",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for fitness coaches—systematizing their coaching method is essential for scaling, client acquisition consistency, and reducing burnout from ad-hoc service delivery.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Take away resistance",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-19T22:58:29.412484",
+      "status": "reject",
+      "reason": "Contains vague fitness exercise content (\"resistance\") rather than business intelligence about coaching operations, client acquisition, marketing, or scaling challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 124,
-    "kept": 47,
-    "rejected": 77,
-    "last_scan": "2026-04-19T22:29:36.239283",
+    "scanned": 131,
+    "kept": 51,
+    "rejected": 80,
+    "last_scan": "2026-04-19T22:59:32.599332",
     "platforms": [
       "Reddit",
       "YouTube",

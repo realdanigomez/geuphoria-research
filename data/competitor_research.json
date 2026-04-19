@@ -1039,13 +1039,63 @@
       "status": "reject",
       "reason": "Generic search query without documented findings, competitor details, strategies, or actionable intelligence about fitness coaching business models, content approaches, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Spent $10,000 on Charlie Morgan’s Course (My Results)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T22:59:36.511375",
+      "status": "keep",
+      "reason": "Direct competitor analysis of Charlie Morgan's course value proposition, pricing strategy ($10k), and documented results/outcomes that reveal market positioning and course effectiveness claims",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T22:59:37.455661",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence; requires the actual search results or content about Charlie Morgan's coaching business, strategies, offers, or positioning to be useful.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I bought the course",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T22:59:38.998856",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a vague title with a search query lacking details about coaching strategies, content approaches, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Course overview",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T22:59:39.856961",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query without actual course details, strategies, offers, or positioning information.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Experience",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-19T22:59:40.726226",
+      "status": "reject",
+      "reason": "Generic personal narrative without specific competitive intelligence about business model, content strategy, pricing, audience tactics, or market positioning details.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 125,
-    "kept": 13,
-    "rejected": 112,
-    "last_scan": "2026-04-19T22:30:40.172080",
+    "scanned": 130,
+    "kept": 14,
+    "rejected": 116,
+    "last_scan": "2026-04-19T23:00:40.215791",
     "platforms": [
       "YouTube",
       "Google",
