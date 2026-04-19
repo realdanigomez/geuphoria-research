@@ -1059,13 +1059,83 @@
       "status": "keep",
       "reason": "Addresses financial management pain point and business operations challenge that directly impacts online fitness coaches' ability to scale and profitability",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 habits that helped me rebuild CONSISTENCY in the gym after burnout ❤️‍🔥",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:32.393618",
+      "status": "reject",
+      "reason": "Contains generic fitness advice for gym-goers rather than intelligence about online coaches' business challenges, client acquisition strategies, or operational pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "intro",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:33.298655",
+      "status": "reject",
+      "reason": "Search term alone without research data, findings, or insights provides no actionable intelligence about fitness coach burnout causes, solutions, or business implications.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "program realistically",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:34.638586",
+      "status": "reject",
+      "reason": "Generic search term without specific insights about coach burnout causes, solutions, or quantified data that would inform product/marketing decisions",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "avoid decision fatigue",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:35.571646",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout—a critical pain point affecting retention, client satisfaction, and business sustainability; decision fatigue is a documented cause of burnout that impacts daily operations and scaling capacity.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "romanticize showing up",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:38.679127",
+      "status": "reject",
+      "reason": "Generic motivational content about consistency lacks specific insight into actual fitness coach pain points, burnout causes, or actionable solutions for the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "detach from outcomes",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:39.999011",
+      "status": "reject",
+      "reason": "Contains only a generic motivational concept without specific data, strategies, or insights into fitness coaches' actual burnout causes, solutions, or business challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "consume cautiously",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:41.049914",
+      "status": "reject",
+      "reason": "Generic burnout topic without fitness coaching-specific context, income data, client acquisition strategies, or system/scaling challenges that would differentiate it from general professional burnout",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 117,
-    "kept": 46,
-    "rejected": 71,
-    "last_scan": "2026-04-19T22:03:20.534597",
+    "scanned": 124,
+    "kept": 47,
+    "rejected": 77,
+    "last_scan": "2026-04-19T22:29:36.239283",
     "platforms": [
       "Reddit",
       "YouTube",

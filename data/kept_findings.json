@@ -462,6 +462,16 @@
     },
     {
       "source": "YouTube",
+      "title": "avoid decision fatigue",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-19T22:28:35.571646",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout—a critical pain point affecting retention, client satisfaction, and business sustainability; decision fatigue is a documented cause of burnout that impacts daily operations and scaling capacity.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -592,15 +602,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 46,
-    "niche_rejected": 71,
-    "niche_scanned": 117,
+    "niche_kept": 47,
+    "niche_rejected": 77,
+    "niche_scanned": 124,
     "comp_kept": 13,
     "comp_rejected": 112,
     "comp_scanned": 125,
-    "last_scan": "2026-04-19T22:04:26.530873",
-    "total_kept": 59,
-    "total_rejected": 183,
+    "last_scan": "2026-04-19T22:30:40.173742",
+    "total_kept": 60,
+    "total_rejected": 189,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
