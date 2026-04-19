@@ -859,13 +859,63 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; title suggests actionable strategies for solving a core business challenge.",
       "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Ready to start a profitable online fitness coaching business ...",
+      "text": "Search: fitness coaching business site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T12:28:49.747880",
+      "status": "reject",
+      "reason": "Search query syntax alone provides no substantive data about actual pain points, struggles, or business challenges—lacks specific findings or insights to act on.",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Scaling fitness training business without hiring staff?",
+      "text": "Search: fitness coaching business site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T12:28:50.663500",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for fitness coaches—scaling revenue without increasing payroll costs, which impacts profitability and operational complexity during growth phases.",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Coaches relying on sessions for income?",
+      "text": "Search: fitness coaching business site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T12:28:51.879657",
+      "status": "reject",
+      "reason": "Generic Facebook search query with no actual finding, data, or insight about coaches' specific pain points or problems",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "Want to become an online fitness coach and make great ...",
+      "text": "Search: fitness coaching business site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T12:28:53.528472",
+      "status": "reject",
+      "reason": "Generic search query with no substantive content about coaches' actual pain points, struggles, or business challenges—provides no actionable intelligence about their specific problems.",
+      "track": "niche"
+    },
+    {
+      "source": "Facebook",
+      "title": "*FULL TIME ONLINE FITNESS COACH IN 2026?* Many ...",
+      "text": "Search: fitness coaching business site:facebook.com",
+      "url": "",
+      "time": "2026-04-19T12:28:54.618283",
+      "status": "reject",
+      "reason": "Title and search query alone lack substantive content about specific pain points, struggles, or actionable insights—appears to be a generic clickbait headline without details on actual problems, solutions, or business intelligence relevant to online fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 97,
-    "kept": 38,
-    "rejected": 59,
-    "last_scan": "2026-04-19T11:59:02.160572",
+    "scanned": 102,
+    "kept": 39,
+    "rejected": 63,
+    "last_scan": "2026-04-19T12:29:09.990294",
     "platforms": [
       "Reddit",
       "YouTube",
