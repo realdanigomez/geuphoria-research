@@ -426,6 +426,11 @@ def process_channel(channel_info: dict, cache: dict) -> list:
         print(f"  Skipping {name} — could not resolve channel ID")
         return []
 
+    is_hardcoded = any(
+        ch.get("handle", "").lower() == handle.lower()
+        for ch in HARDCODED_CHANNELS
+    )
+
     # VIP channels: fetch top-viewed (catches all-time longforms) + recent (catches new uploads)
     # Regular channels: recent only
     if is_hardcoded:
@@ -458,11 +463,6 @@ def process_channel(channel_info: dict, cache: dict) -> list:
     # For hardcoded VIP channels (Hormozi, Morgan, Dalen etc.) their averages are so
     # high that standard outlier detection misses their best work. Always include
     # their top 5 videos by absolute view count, then add any standard outliers on top.
-    is_hardcoded = any(
-        ch.get("handle", "").lower() == handle.lower()
-        for ch in HARDCODED_CHANNELS
-    )
-
     if is_hardcoded:
         # Top 5 by raw views, regardless of threshold
         sorted_by_views = sorted(
