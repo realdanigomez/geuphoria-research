@@ -18,11 +18,11 @@ KEYWORD_SEARCHES = [
 ]
 
 # Outlier detection thresholds
-OUTLIER_MULTIPLIER_THRESHOLD = 2.0   # views >= 2x channel average
+OUTLIER_MULTIPLIER_THRESHOLD = 1.5   # TEMP: 1.5x so large channels (Hormozi/Dalen/Morgan) show up
 MIN_VIDEO_AGE_HOURS = 48             # exclude videos newer than this (recency bias)
 VIDEOS_PER_CHANNEL = 50              # how many recent videos to fetch per channel
-MAX_OUTLIERS_PER_RUN = 25            # hard cap across all channels
-TOP_N_FOR_TRANSCRIPTS = 25           # all outliers (up to cap) get transcript + AI
+MAX_OUTLIERS_PER_RUN = 75            # TEMP: one-time run to build initial inspiration library
+TOP_N_FOR_TRANSCRIPTS = 75           # TEMP: all 75 get transcript + AI
 
 # AI model — Claude Opus for highest quality analysis
 AI_MODEL = "claude-opus-4-7"
