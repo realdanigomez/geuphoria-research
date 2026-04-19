@@ -839,13 +839,23 @@
       "status": "reject",
       "reason": "Search query alone without actual findings, content details, competitor strategies, or substantive information about Daniel Dalen's business model, offers, or tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping a Personal Trainer Get to $1M/Year",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-19T10:29:01.755899",
+      "status": "keep",
+      "reason": "Contains specific revenue target ($1M/year) and likely reveals scaling strategies, pricing models, and business tactics from a fitness coach case study that directly applies to coaching business positioning and audience growth.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 105,
-    "kept": 12,
+    "scanned": 106,
+    "kept": 13,
     "rejected": 93,
-    "last_scan": "2026-04-19T10:00:01.217466",
+    "last_scan": "2026-04-19T10:30:03.670005",
     "platforms": [
       "YouTube",
       "Google",
