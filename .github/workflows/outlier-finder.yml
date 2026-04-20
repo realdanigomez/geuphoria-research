@@ -5,6 +5,9 @@ on:
     # Every Friday at 14:00 UTC = 10:00 AM AST (UTC-4)
     # Runs Friday → Dani has Fri/Sat/Sun to prep before Monday launch day
     - cron: '0 14 * * 5'
+    # One-time top-up: Apr 20 00:05 UTC = 8:05 PM AST Apr 19 (quota reset)
+    # Remove after this fires successfully
+    - cron: '5 0 20 4 *'
   workflow_dispatch:  # Allow manual trigger from GitHub Actions UI
 
 permissions:
