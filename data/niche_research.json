@@ -889,13 +889,73 @@
       "status": "keep",
       "reason": "Directly addresses a core pain point (burnout) for fitness coaches; understanding burnout causes and prevention strategies is critical for retention, sustainability, and identifying what's driving coaches out of business.",
       "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Match Your Pace with Your Current Abilities to Avoid Burnout",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-20T13:59:42.503150",
+      "status": "reject",
+      "reason": "Generic burnout advice without specific business metrics, client acquisition strategies, or fitness coaching industry context; lacks actionable intelligence for scaling or systematizing a coaching business.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "7 Best Side Hustle Ideas from Home To Make Money With ...",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-20T13:59:43.799724",
+      "status": "reject",
+      "reason": "Generic side hustle listicle lacks specific insights into online fitness coaching business models, client acquisition strategies, or coach-specific pain points; unlikely to contain actionable intelligence beyond surface-level income ideas.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "The Five Money Secrets That Will Transform Your Scarcity ...",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-20T13:59:45.480600",
+      "status": "reject",
+      "reason": "Title suggests generic money/mindset advice rather than fitness coach-specific business problems; Medium search result likely lacks actionable systems or tactics for client acquisition, scaling, or coach-specific pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Fresh Founders: Jason Richardson Of Bad Birdie On The ...",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-20T13:59:46.805531",
+      "status": "reject",
+      "reason": "Article about golf apparel founder; no relevance to online fitness coaching business models, client acquisition, marketing systems, or coach-specific pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Confused + Overwhelmed? How to Know What Actually ...",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-20T13:59:48.159103",
+      "status": "reject",
+      "reason": "Title and search query suggest generic business advice rather than fitness coach-specific pain points; no indication of concrete insights into their actual struggles, systems, or scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "How to Build a Team That's Truly Motivated | Write A Catalyst",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-20T13:59:49.251076",
+      "status": "reject",
+      "reason": "Generic team motivation advice without fitness coaching-specific context, client acquisition strategies, or scalable business models relevant to online fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 100,
+    "scanned": 106,
     "kept": 37,
-    "rejected": 63,
-    "last_scan": "2026-04-20T13:29:59.282938",
+    "rejected": 69,
+    "last_scan": "2026-04-20T14:00:17.430077",
     "platforms": [
       "Reddit",
       "YouTube",
