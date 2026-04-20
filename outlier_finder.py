@@ -733,23 +733,28 @@ def run():
         total_videos_evaluated += VIDEOS_PER_CHANNEL
         time.sleep(0.5)
 
-    # 50/50 split: half longforms (≥ 120s), half shorts (< 120s), sorted by score within each half
-    lf_all = sorted([o for o in all_outliers if o.get("duration_seconds", 0) >= 120],
-                    key=lambda x: x["outlier_score"], reverse=True)
-    sh_all = sorted([o for o in all_outliers if o.get("duration_seconds", 0) < 120],
-                    key=lambda x: x["outlier_score"], reverse=True)
+    # Filter seen_ids FIRST — only keep videos not already in the sheet.
+    # Then apply 50/50 cap so every slot in the cap is a genuinely new video.
+    new_lf = sorted(
+        [o for o in all_outliers if o.get("duration_seconds", 0) >= 120 and o["video_id"] not in seen_ids],
+        key=lambda x: x["outlier_score"], reverse=True
+    )
+    new_sh = sorted(
+        [o for o in all_outliers if o.get("duration_seconds", 0) < 120 and o["video_id"] not in seen_ids],
+        key=lambda x: x["outlier_score"], reverse=True
+    )
     half = MAX_OUTLIERS_PER_RUN // 2
     all_outliers = sorted(
-        lf_all[:half] + sh_all[:MAX_OUTLIERS_PER_RUN - half],
+        new_lf[:half] + new_sh[:MAX_OUTLIERS_PER_RUN - half],
         key=lambda x: x["outlier_score"], reverse=True
     )
     lf_n = sum(1 for o in all_outliers if o.get("duration_seconds", 0) >= 120)
     sh_n = len(all_outliers) - lf_n
-    print(f"\nTotal outliers found (capped at {MAX_OUTLIERS_PER_RUN}): {len(all_outliers)} ({lf_n} longform / {sh_n} shorts)")
+    print(f"\nNew outliers (capped at {MAX_OUTLIERS_PER_RUN}): {len(all_outliers)} ({lf_n} longform / {sh_n} shorts)")
 
-    # Fetch transcripts + AI analysis for top N that haven't been processed yet
-    to_process = [o for o in all_outliers[:TOP_N_FOR_TRANSCRIPTS] if o["video_id"] not in seen_ids]
-    print(f"New outliers to process: {len(to_process)}\n")
+    # All items are already new — no seen_ids filter needed here
+    to_process = all_outliers[:TOP_N_FOR_TRANSCRIPTS]
+    print(f"To process with transcript + AI: {len(to_process)}\n")
 
     for i, outlier in enumerate(to_process, 1):
         title_short = outlier["title"][:60]
