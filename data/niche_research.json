@@ -1149,13 +1149,33 @@
       "status": "reject",
       "reason": "Generic social media profile without specific pain points, strategies, or actionable insights about online coaching business challenges",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Top two reasons why you are struggling with to get in shape!",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T16:59:07.200056",
+      "status": "reject",
+      "reason": "This addresses client struggles with fitness goals, not coach pain points like client acquisition, marketing, systems, or business scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personal Trainer Struggling to make $10,000/ month HERE'S WHY SUF CPTx Life Time Fitness partnership",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T16:59:08.095472",
+      "status": "keep",
+      "reason": "Addresses income/revenue struggles ($10K/month threshold) and partnership/business model strategies that online fitness coaches use to scale earnings",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 126,
-    "kept": 40,
-    "rejected": 86,
-    "last_scan": "2026-04-20T16:21:46.468532",
+    "scanned": 128,
+    "kept": 41,
+    "rejected": 87,
+    "last_scan": "2026-04-20T17:00:10.518675",
     "platforms": [
       "Reddit",
       "YouTube",
