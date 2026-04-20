@@ -1239,13 +1239,123 @@
       "status": "reject",
       "reason": "Discusses professional athletes rather than online fitness coaches' specific pain points, burnout causes, or business challenges",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "program realistically",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T21:59:24.856946",
+      "status": "reject",
+      "reason": "Generic search term without findings, data, or insights about actual coach pain points, struggles, or solutions. No specific intelligence provided.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "avoid decision fatigue",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T21:59:26.189235",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout (a core pain point), and decision fatigue is a specific mechanism that limits productivity, client management capacity, and scaling ability—valuable for understanding why coaches struggle with systems and workload management.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "romanticize showing up",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T21:59:27.305381",
+      "status": "reject",
+      "reason": "Generic motivational content about showing up lacks specific insights into fitness coaches' actual burnout causes, solutions, or business challenges—no actionable intelligence for their pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "detach from outcomes",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T21:59:28.724525",
+      "status": "reject",
+      "reason": "Generic motivational advice without specific insights into fitness coaches' burnout causes, solutions, or business impact; lacks actionable intelligence for their unique context.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "consume cautiously",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T21:59:30.034785",
+      "status": "reject",
+      "reason": "Generic burnout topic without fitness coach-specific context, solutions, or quantifiable insights about their unique challenges",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Sonya McDonald On Five Things You Need To Create a ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-20T21:59:55.192053",
+      "status": "reject",
+      "reason": "Title is truncated and text provides no substantive content about fitness coaches' specific pain points, struggles, or business challenges; appears to be a generic listicle without evidence of actionable intelligence.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Fresh Founders: Heath Jones of Active & Ageless On The ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-20T21:59:56.222614",
+      "status": "reject",
+      "reason": "Title only mentions a founder interview without preview text showing specific pain points, strategies, or actionable insights relevant to online fitness coaches' core challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "The Ultimate Beginner's Guide to Build Muscle",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-20T21:59:57.038176",
+      "status": "reject",
+      "reason": "Generic beginner muscle-building content for end-users; provides no insights into fitness coaches' business operations, pain points, or challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Match Your Pace with Your Current Abilities to Avoid Burnout",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-20T21:59:58.147602",
+      "status": "reject",
+      "reason": "Generic wellness advice about personal burnout rather than business-specific intelligence about online fitness coach operations, client management, or scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "The Grind Is Lying to You - by Daniel Steamer",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-20T21:59:59.041737",
+      "status": "reject",
+      "reason": "Generic motivational content about hustle culture lacks specific intelligence about fitness coaches' actual business challenges, client acquisition strategies, or operational pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Muscles, Misleading, and Mental Health ...",
+      "text": "Search: online fitness coaching site:medium.com",
+      "url": "",
+      "time": "2026-04-20T22:00:02.297558",
+      "status": "reject",
+      "reason": "Title suggests mental health angle but no indication of content addressing fitness coach-specific pain points like client acquisition, scaling, systems, marketing, or income—appears to be general fitness/wellness content rather than coach-focused business intelligence.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 135,
-    "kept": 42,
-    "rejected": 93,
-    "last_scan": "2026-04-20T21:30:17.039599",
+    "scanned": 146,
+    "kept": 43,
+    "rejected": 103,
+    "last_scan": "2026-04-20T22:00:33.232718",
     "platforms": [
       "Reddit",
       "YouTube",
