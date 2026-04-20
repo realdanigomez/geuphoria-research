@@ -759,13 +759,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only a vague personal anecdote title with a generic search query lacking details on strategies, content, offers, or business tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping a Coaching Business Get More Customers",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-20T07:29:51.587310",
+      "status": "reject",
+      "reason": "No specific intelligence provided - only a generic title and search query without details on strategies, tactics, offers, or positioning that would inform competitive analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 97,
+    "scanned": 98,
     "kept": 12,
-    "rejected": 85,
-    "last_scan": "2026-04-20T07:00:51.072391",
+    "rejected": 86,
+    "last_scan": "2026-04-20T07:30:55.242853",
     "platforms": [
       "YouTube",
       "Google",
