@@ -1,11 +1,11 @@
 {
   "run_date": "2026-04-20",
-  "scraped_at": "2026-04-20T01:02:48.660414Z",
+  "scraped_at": "2026-04-20T01:08:46.523814Z",
   "channels_scanned": 18,
   "total_videos_evaluated": 900,
   "total_outliers_found": 22,
   "transcripts_fetched": 0,
-  "ai_processed": 2,
+  "ai_processed": 1,
   "outliers": [
     {
       "video_id": "Hhmwkz3k9CU",
@@ -19,7 +19,7 @@
       "published_at": "2025-11-10T20:17:07Z",
       "duration_seconds": 956,
       "definition": "hd",
-      "view_count": 104155,
+      "view_count": 104156,
       "like_count": 3415,
       "comment_count": 345,
       "channel_avg_views": 3219,
@@ -35,7 +35,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:00.831959Z"
+      "scraped_at": "2026-04-20T01:08:59.011316Z"
     },
     {
       "video_id": "RrIapiasXJM",
@@ -86,7 +86,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:14.256386Z"
+      "scraped_at": "2026-04-20T01:09:12.167141Z"
     },
     {
       "video_id": "d43tivfx0qw",
@@ -108,35 +108,23 @@
       "published_at": "2025-06-03T15:58:38Z",
       "duration_seconds": 903,
       "definition": "hd",
-      "view_count": 1649744,
-      "like_count": 130162,
-      "comment_count": 8067,
-      "channel_avg_views": 119095,
-      "outlier_score": 13.85,
-      "outlier_multiplier": "13.9x",
+      "view_count": 1649749,
+      "like_count": 130165,
+      "comment_count": 8068,
+      "channel_avg_views": 108137,
+      "outlier_score": 15.26,
+      "outlier_multiplier": "15.3x",
       "thumbnail_url": "https://i.ytimg.com/vi/d43tivfx0qw/maxresdefault.jpg",
       "transcript": "",
-      "transcript_language": "unavailable",
-      "summary": "This video crushed (13.9x channel average) because it weaponizes a contrarian POV against a behavior the entire target audience is addicted to: consuming short-form content. The title 'You'll NEVER Watch Short Form Again After Watching This' is a pattern-interrupt promise — it threatens to break a habit the viewer knows is hurting them but can't stop. That's irresistible curiosity bait for entrepreneurs who feel guilty about doomscrolling Reels/TikToks when they should be building their business. Charlie Morgan's audience is business owners trying to scale, and short-form addiction is a shared shame point. By framing short-form as the enemy of deep work and wealth-building, he aligns with his audience's identity (serious operators) while attacking their worst habit. The hook also uses absolute language ('NEVER') + a transformation promise ('After Watching This'), which signals a single insight payoff rather than a listicle — higher perceived value per minute. Secondary drivers: the topic is evergreen and universally relatable (everyone watches short-form), the thumbnail likely leans into a 'warning' or brain-rot visual, and the video doubles as a soft-sell for his long-form business program (consuming short-form = staying broke, watching his long-form = getting rich). For Dani, the transferable lesson is this: the highest-performing content attacks a behavior the audience is already ashamed of and reframes it as the thing keeping them stuck. Not 'here's what to do' but 'here's what you're doing wrong that you already suspect.'",
-      "youtube_titles": [
-        "Online Fitness Coaches: Short-Form Content Is Why You're Broke",
-        "You'll NEVER Post Another Reel After Watching This (Fitness Coaches)",
-        "Why 90% of Online Fitness Coaches Stay Stuck at $3K/mo (It's Your Content)"
-      ],
-      "reel_hooks": [
-        "Online Fitness Coaches. Every Reel you post is making you poorer. Here's why.",
-        "You don't have a content problem. You have a short-form addiction.",
-        "Stop posting Reels. Start posting proof. That's the whole game."
-      ],
-      "carousel_hooks": [
-        "5 reasons your Reels aren't bringing in fitness clients (and what to post instead)",
-        "Are you making these 4 short-form content mistakes as an online fitness coach?",
-        "7 signs your content strategy is keeping you stuck under $5K/mo"
-      ],
-      "best_format": "YouTube",
-      "funnel_tier": "M",
-      "funnel_reason": "The 'your content is why you're stuck' angle hits coaches already posting regularly but plateaued between $2K-$10K/mo — beginners don't post enough to relate, and established coaches have already solved this.",
-      "scraped_at": "2026-04-20T01:02:56.494009Z"
+      "transcript_language": "",
+      "summary": "",
+      "youtube_titles": [],
+      "reel_hooks": [],
+      "carousel_hooks": [],
+      "best_format": "",
+      "funnel_tier": "",
+      "funnel_reason": "",
+      "scraped_at": "2026-04-20T01:08:54.093838Z"
     },
     {
       "video_id": "oq1RyO_u6rU",
@@ -183,7 +171,45 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:14.256402Z"
+      "scraped_at": "2026-04-20T01:09:12.167157Z"
+    },
+    {
+      "video_id": "4tbNJcvGjOY",
+      "video_url": "https://www.youtube.com/watch?v=4tbNJcvGjOY",
+      "title": "2 Years in Dubai | Brutally Honest Review",
+      "description": "Start a business & grow to $10k/mo in 6 weeks with my FREE program: https://www.skool.com/academy/about\n\n^ No credit card, no BS. Just a free Program with 50,000+ people already achieving financial freedom!\n\nIf you already have a business…\n\nWanna work with me 1-1 to scale to $1M per month? - https://go.imperiumacquisition.com/imperium-mastermind\n\nLet me place a 7-figure CEO into your business to work 1:1 with you to get to $100k/mo (if you don’t get results you don’t pay): https://www.theimperiumagency.com/ia-growth-call?el=2YearsinDubaiBrutallyHonestReview\n\n-\n\nIf it’s your first time here, I’m Charlie Morgan. I’m the founder of Imperium Acquisition. You can check us out here imperiumacquisition.com. It’s a services and advisory firm for agencies, coaches & consultants, which is a fancy way of saying we help agency owners, coaches & consultants scale and grow. Right now we make around $10M/year. With this being the internet, I could make any old story up, so I wanted to give you my bio",
+      "tags": [
+        "charlie morgan",
+        "charlie",
+        "morgan",
+        "easygrow",
+        "smma",
+        "agency",
+        "business"
+      ],
+      "channel_name": "Charlie Morgan",
+      "channel_id": "UCfy5nKT8TAT8UEBuddHveFg",
+      "channel_handle": "charliemofficial",
+      "published_at": "2025-04-29T16:08:11Z",
+      "duration_seconds": 1496,
+      "definition": "hd",
+      "view_count": 1387615,
+      "like_count": 33642,
+      "comment_count": 9543,
+      "channel_avg_views": 108137,
+      "outlier_score": 12.83,
+      "outlier_multiplier": "12.8x",
+      "thumbnail_url": "https://i.ytimg.com/vi/4tbNJcvGjOY/maxresdefault.jpg",
+      "transcript": "",
+      "transcript_language": "",
+      "summary": "",
+      "youtube_titles": [],
+      "reel_hooks": [],
+      "carousel_hooks": [],
+      "best_format": "",
+      "funnel_tier": "",
+      "funnel_reason": "",
+      "scraped_at": "2026-04-20T01:08:54.093861Z"
     },
     {
       "video_id": "Ocb79YFzisw",
@@ -213,57 +239,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:11.005156Z"
-    },
-    {
-      "video_id": "4tbNJcvGjOY",
-      "video_url": "https://www.youtube.com/watch?v=4tbNJcvGjOY",
-      "title": "2 Years in Dubai | Brutally Honest Review",
-      "description": "Start a business & grow to $10k/mo in 6 weeks with my FREE program: https://www.skool.com/academy/about\n\n^ No credit card, no BS. Just a free Program with 50,000+ people already achieving financial freedom!\n\nIf you already have a business…\n\nWanna work with me 1-1 to scale to $1M per month? - https://go.imperiumacquisition.com/imperium-mastermind\n\nLet me place a 7-figure CEO into your business to work 1:1 with you to get to $100k/mo (if you don’t get results you don’t pay): https://www.theimperiumagency.com/ia-growth-call?el=2YearsinDubaiBrutallyHonestReview\n\n-\n\nIf it’s your first time here, I’m Charlie Morgan. I’m the founder of Imperium Acquisition. You can check us out here imperiumacquisition.com. It’s a services and advisory firm for agencies, coaches & consultants, which is a fancy way of saying we help agency owners, coaches & consultants scale and grow. Right now we make around $10M/year. With this being the internet, I could make any old story up, so I wanted to give you my bio",
-      "tags": [
-        "charlie morgan",
-        "charlie",
-        "morgan",
-        "easygrow",
-        "smma",
-        "agency",
-        "business"
-      ],
-      "channel_name": "Charlie Morgan",
-      "channel_id": "UCfy5nKT8TAT8UEBuddHveFg",
-      "channel_handle": "charliemofficial",
-      "published_at": "2025-04-29T16:08:11Z",
-      "duration_seconds": 1496,
-      "definition": "hd",
-      "view_count": 1387615,
-      "like_count": 33642,
-      "comment_count": 9543,
-      "channel_avg_views": 119095,
-      "outlier_score": 11.65,
-      "outlier_multiplier": "11.7x",
-      "thumbnail_url": "https://i.ytimg.com/vi/4tbNJcvGjOY/maxresdefault.jpg",
-      "transcript": "",
-      "transcript_language": "unavailable",
-      "summary": "This video outperformed Charlie Morgan's channel average by 11.7x because it leveraged a 'brutally honest' contrarian review format on a hyper-trending topic: Dubai as the entrepreneur's promised land. The title itself is the hook — 'Brutally Honest Review' promises insider truth that cuts against the glamorized Dubai content flooding YouTube (Lambos, tax-free living, luxury lifestyle). Viewers are primed to click because they've seen the hype and secretly want the reality check. The '2 Years in Dubai' timeframe adds credibility — this isn't a tourist's take, it's a long-term resident's verdict. Charlie's audience is entrepreneurs weighing big life decisions (where to live, where to scale), so a long-form honest breakdown from someone who's actually lived it delivers massive perceived value. The video taps into three viral ingredients: (1) contrarian angle against a hyped topic, (2) personal authority earned through time, (3) decision-helping content for a high-stakes question his audience is actively asking. The description funnels hard into his free Skool community and 1-1 mastermind — proving the video doubles as top-of-funnel awareness content for people who identify with 'entrepreneur considering lifestyle upgrade.' The lesson for Dani: pick a topic your audience is already hyped about, then deliver the unfiltered truth version nobody else will say out loud. Authority + contrarian + personal experience = outlier.",
-      "youtube_titles": [
-        "Online Fitness Coaches: 2 Years Coaching Online | Brutally Honest Review",
-        "Online Fitness Coaches: The Truth About $10K Months Nobody Talks About",
-        "I Coached 500+ Online Fitness Coaches. Here's What Actually Works."
-      ],
-      "reel_hooks": [
-        "Online Fitness Coaches. Everyone's lying to you about what it takes to hit $10K months.",
-        "2 years coaching online fitness coaches. Here's the brutal truth nobody will tell you.",
-        "Online Fitness Coaches. You don't need more followers. You need to hear this."
-      ],
-      "carousel_hooks": [
-        "5 brutal truths about scaling an online fitness coaching business nobody tells you",
-        "Are you believing these 4 lies about hitting $10K months as an online coach?",
-        "7 things I wish I knew before I started coaching online fitness coaches"
-      ],
-      "best_format": "YouTube",
-      "funnel_tier": "M",
-      "funnel_reason": "The 'brutally honest long-form review' format fits coaches already in the game ($2K-$10K/mo) who are questioning their direction and ready for hard truths, not beginners needing motivation.",
-      "scraped_at": "2026-04-20T01:02:56.494033Z"
+      "scraped_at": "2026-04-20T01:09:09.047867Z"
     },
     {
       "video_id": "M4O6H4T8KP0",
@@ -293,7 +269,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:08.859992Z"
+      "scraped_at": "2026-04-20T01:09:06.860236Z"
     },
     {
       "video_id": "wLm_nFjWWZ8",
@@ -323,8 +299,8 @@
       "view_count": 923358,
       "like_count": 27982,
       "comment_count": 645,
-      "channel_avg_views": 109144,
-      "outlier_score": 8.46,
+      "channel_avg_views": 108459,
+      "outlier_score": 8.51,
       "outlier_multiplier": "8.5x",
       "thumbnail_url": "https://i.ytimg.com/vi/wLm_nFjWWZ8/maxresdefault.jpg",
       "transcript": "",
@@ -336,7 +312,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:02:58.038741Z"
+      "scraped_at": "2026-04-20T01:08:55.803276Z"
     },
     {
       "video_id": "h9INhxYPEl4",
@@ -366,7 +342,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:00.831976Z"
+      "scraped_at": "2026-04-20T01:08:59.011331Z"
     },
     {
       "video_id": "wIqZrHllmco",
@@ -380,11 +356,11 @@
       "published_at": "2026-04-12T02:21:53Z",
       "duration_seconds": 8,
       "definition": "hd",
-      "view_count": 35787,
+      "view_count": 35790,
       "like_count": 122,
       "comment_count": 23,
-      "channel_avg_views": 4426,
-      "outlier_score": 8.08,
+      "channel_avg_views": 4427,
+      "outlier_score": 8.09,
       "outlier_multiplier": "8.1x",
       "thumbnail_url": "https://i.ytimg.com/vi/wIqZrHllmco/maxresdefault.jpg",
       "transcript": "",
@@ -396,7 +372,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:01.824788Z"
+      "scraped_at": "2026-04-20T01:09:00.120582Z"
     },
     {
       "video_id": "8v5gRDiBVwk",
@@ -426,7 +402,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:03.967231Z"
+      "scraped_at": "2026-04-20T01:09:02.220647Z"
     },
     {
       "video_id": "MN8xKydJMDw",
@@ -456,7 +432,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:08.860033Z"
+      "scraped_at": "2026-04-20T01:09:06.860276Z"
     },
     {
       "video_id": "jwUavZMovpc",
@@ -473,7 +449,7 @@
       "view_count": 30744,
       "like_count": 83,
       "comment_count": 3,
-      "channel_avg_views": 4426,
+      "channel_avg_views": 4427,
       "outlier_score": 6.95,
       "outlier_multiplier": "6.9x",
       "thumbnail_url": "https://i.ytimg.com/vi/jwUavZMovpc/maxresdefault.jpg",
@@ -486,7 +462,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:01.824831Z"
+      "scraped_at": "2026-04-20T01:09:00.120646Z"
     },
     {
       "video_id": "g0lg3ZwWP8c",
@@ -503,7 +479,7 @@
       "view_count": 29664,
       "like_count": 70,
       "comment_count": 2,
-      "channel_avg_views": 4426,
+      "channel_avg_views": 4427,
       "outlier_score": 6.7,
       "outlier_multiplier": "6.7x",
       "thumbnail_url": "https://i.ytimg.com/vi/g0lg3ZwWP8c/maxresdefault.jpg",
@@ -516,7 +492,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:01.824815Z"
+      "scraped_at": "2026-04-20T01:09:00.120620Z"
     },
     {
       "video_id": "9-dbC17ZjPE",
@@ -566,7 +542,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:07.845934Z"
+      "scraped_at": "2026-04-20T01:09:05.883686Z"
     },
     {
       "video_id": "C-2VkwEMHYY",
@@ -610,7 +586,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:13.216515Z"
+      "scraped_at": "2026-04-20T01:09:11.196122Z"
     },
     {
       "video_id": "NfIHEh7alRQ",
@@ -640,7 +616,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:05.033837Z"
+      "scraped_at": "2026-04-20T01:09:03.285015Z"
     },
     {
       "video_id": "XGYyylkZyGU",
@@ -662,7 +638,7 @@
       "view_count": 26917,
       "like_count": 140,
       "comment_count": 11,
-      "channel_avg_views": 4426,
+      "channel_avg_views": 4427,
       "outlier_score": 6.08,
       "outlier_multiplier": "6.1x",
       "thumbnail_url": "https://i.ytimg.com/vi/XGYyylkZyGU/maxresdefault.jpg",
@@ -675,7 +651,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:01.824844Z"
+      "scraped_at": "2026-04-20T01:09:00.120670Z"
     },
     {
       "video_id": "vL1Eja25WJk",
@@ -719,80 +695,7 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:13.216485Z"
-    },
-    {
-      "video_id": "E7922jEjW-k",
-      "video_url": "https://www.youtube.com/watch?v=E7922jEjW-k",
-      "title": "How Do I Make More Revenue With Less Time?",
-      "description": "Download your free scaling roadmap here: https://www.acquisition.com/roadmap-yt-d\nThe easiest business I can help you start (free trial): https://www.skool.com/hormozi\nBusiness owners: Want to scale faster? We provide in-person advisory for companies doing at least $1M per year: https://www.acquisition.com/workshop-yt-d\n\nIf you’re new to my channel, my name is Alex Hormozi. I’m the founder and managing partner of Acquisition.com. It’s a family office, which is just a formal way of saying we invest our own money into companies. Our 10 portfolio companies bring in over $250,000,000+ per year. Our ownership stake varies between 20% and 100% of them. Given this is a YT channel, and anyone can claim anything, I’ll give you some stuff you can google to verify below.\n\nHow I got here…\n\n21: Graduated Vanderbilt in 3 years Magna Cum Laude, and took a fancy consulting job.\n23 yrs old: Left my fancy consulting job to start a business (a gym).\n24 yrs old: Opened 5 gym locations.\n26 yrs old: Closed ",
-      "tags": [
-        "Alex Hormozi",
-        "Alex Hormozi Business Tips",
-        "Alex Hormozi Gym Launch Secrets",
-        "Hormozi",
-        "Business guides",
-        "Business tips",
-        "Skillsets",
-        "Skill Stacking",
-        "The Game Podcast",
-        "mozination",
-        "100M Offers",
-        "100M Leads"
-      ],
-      "channel_name": "Alex Hormozi",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_handle": "AlexHormozi",
-      "published_at": "2026-04-14T15:00:00Z",
-      "duration_seconds": 59,
-      "definition": "hd",
-      "view_count": 585934,
-      "like_count": 14996,
-      "comment_count": 248,
-      "channel_avg_views": 102647,
-      "outlier_score": 5.71,
-      "outlier_multiplier": "5.7x",
-      "thumbnail_url": "https://i.ytimg.com/vi/E7922jEjW-k/maxresdefault.jpg",
-      "transcript": "",
-      "transcript_language": "",
-      "summary": "",
-      "youtube_titles": [],
-      "reel_hooks": [],
-      "carousel_hooks": [],
-      "best_format": "",
-      "funnel_tier": "",
-      "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:02:54.888616Z"
-    },
-    {
-      "video_id": "L8L2qBxFSc8",
-      "video_url": "https://www.youtube.com/watch?v=L8L2qBxFSc8",
-      "title": "Tell Clients You’re Going Online Like This (The Right Way)",
-      "description": "",
-      "tags": [],
-      "channel_name": "Upscale Trainer",
-      "channel_id": "UCoe_f__EbKWXxbuKeCAlqzw",
-      "channel_handle": "",
-      "published_at": "2025-04-22T01:39:35Z",
-      "duration_seconds": 89,
-      "definition": "hd",
-      "view_count": 1140,
-      "like_count": 0,
-      "comment_count": 0,
-      "channel_avg_views": 200,
-      "outlier_score": 5.71,
-      "outlier_multiplier": "5.7x",
-      "thumbnail_url": "https://i.ytimg.com/vi/L8L2qBxFSc8/maxresdefault.jpg",
-      "transcript": "",
-      "transcript_language": "",
-      "summary": "",
-      "youtube_titles": [],
-      "reel_hooks": [],
-      "carousel_hooks": [],
-      "best_format": "",
-      "funnel_tier": "",
-      "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:03:05.033734Z"
+      "scraped_at": "2026-04-20T01:09:11.196092Z"
     },
     {
       "video_id": "1-izXBhkiHw",
@@ -824,12 +727,12 @@
       "published_at": "2023-06-13T16:19:55Z",
       "duration_seconds": 966,
       "definition": "hd",
-      "view_count": 7658088,
-      "like_count": 433793,
+      "view_count": 7658111,
+      "like_count": 433794,
       "comment_count": 4136,
-      "channel_avg_views": 1474158,
-      "outlier_score": 5.19,
-      "outlier_multiplier": "5.2x",
+      "channel_avg_views": 1339551,
+      "outlier_score": 5.72,
+      "outlier_multiplier": "5.7x",
       "thumbnail_url": "https://i.ytimg.com/vi/1-izXBhkiHw/maxresdefault.jpg",
       "transcript": "",
       "transcript_language": "",
@@ -840,7 +743,79 @@
       "best_format": "",
       "funnel_tier": "",
       "funnel_reason": "",
-      "scraped_at": "2026-04-20T01:02:59.662513Z"
+      "scraped_at": "2026-04-20T01:08:57.940202Z"
+    },
+    {
+      "video_id": "L8L2qBxFSc8",
+      "video_url": "https://www.youtube.com/watch?v=L8L2qBxFSc8",
+      "title": "Tell Clients You’re Going Online Like This (The Right Way)",
+      "description": "",
+      "tags": [],
+      "channel_name": "Upscale Trainer",
+      "channel_id": "UCoe_f__EbKWXxbuKeCAlqzw",
+      "channel_handle": "",
+      "published_at": "2025-04-22T01:39:35Z",
+      "duration_seconds": 89,
+      "definition": "hd",
+      "view_count": 1140,
+      "like_count": 0,
+      "comment_count": 0,
+      "channel_avg_views": 200,
+      "outlier_score": 5.71,
+      "outlier_multiplier": "5.7x",
+      "thumbnail_url": "https://i.ytimg.com/vi/L8L2qBxFSc8/maxresdefault.jpg",
+      "transcript": "",
+      "transcript_language": "",
+      "summary": "",
+      "youtube_titles": [],
+      "reel_hooks": [],
+      "carousel_hooks": [],
+      "best_format": "",
+      "funnel_tier": "",
+      "funnel_reason": "",
+      "scraped_at": "2026-04-20T01:09:03.284921Z"
+    },
+    {
+      "video_id": "vYrDHIWs7nA",
+      "video_url": "https://www.youtube.com/watch?v=vYrDHIWs7nA",
+      "title": "We love working with CrossFit gyms for many reasons.",
+      "description": "",
+      "tags": [],
+      "channel_name": "Fitness Business Consulting",
+      "channel_id": "UC9VqM3QEqRPab-2JDxjvA6Q",
+      "channel_handle": "",
+      "published_at": "2026-01-23T06:01:34Z",
+      "duration_seconds": 51,
+      "definition": "hd",
+      "view_count": 4340,
+      "like_count": 68,
+      "comment_count": 0,
+      "channel_avg_views": 764,
+      "outlier_score": 5.68,
+      "outlier_multiplier": "5.7x",
+      "thumbnail_url": "https://i.ytimg.com/vi/vYrDHIWs7nA/maxresdefault.jpg",
+      "transcript": "",
+      "transcript_language": "unavailable",
+      "summary": "This video outperformed the channel average by 5.7x despite having no transcript or description provided, which suggests the title itself did the heavy lifting. The hook 'We love working with CrossFit gyms for many reasons' is a pattern interrupt in the fitness business consulting space — instead of generic 'how to grow your gym' content, it niches down HARD to a specific sub-audience (CrossFit gym owners) and leads with affinity rather than pain. CrossFit owners are a tight-knit, tribal community that actively searches for content made *for them* specifically, not generic gym advice. The title signals insider knowledge and specialization, which is magnetic to a niche audience drowning in generic business content. It also flips the script — instead of 'here's what's wrong with your gym,' it opens with praise and curiosity ('many reasons' forces the click to find out what those reasons are). The lesson for Dani: niching a video title to a specific sub-segment of online fitness coaches (e.g. strength coaches, female coaches, ex-athletes) and leading with affinity instead of pain can dramatically outperform broad advice videos. Specificity + curiosity gap + tribal identity = outlier. The other takeaway is the 'many reasons' listicle tease without revealing the number — it creates an open loop that demands resolution.",
+      "youtube_titles": [
+        "Online Fitness Coaches: Why I Love Working With Ex-Athletes (3 Reasons)",
+        "The Type of Online Fitness Coach That Scales To $10K/mo The Fastest",
+        "Online Fitness Coaches: 5 Reasons Strength Coaches Outearn Everyone Else"
+      ],
+      "reel_hooks": [
+        "Online Fitness Coaches. The niche you pick decides whether you hit $10K or quit in 6 months.",
+        "I'll tell you exactly which online fitness coaches scale the fastest — and why most of you are in the wrong niche.",
+        "Online Fitness Coaches. Stop selling to everyone. Here's the one client type that pays in full, every time."
+      ],
+      "carousel_hooks": [
+        "5 reasons niched online fitness coaches hit $10K/mo 3x faster",
+        "Are you coaching the wrong type of client? 4 signs your niche is killing your income",
+        "7 client types every online fitness coach should STOP taking on in 2026"
+      ],
+      "best_format": "YouTube",
+      "funnel_tier": "M",
+      "funnel_reason": "Niche selection and ideal client targeting is a scaling-stage problem — beginners just need any client, while $2K-$10K coaches plateau because they serve too broadly.",
+      "scraped_at": "2026-04-20T01:09:08.044789Z"
     }
   ]
 }
