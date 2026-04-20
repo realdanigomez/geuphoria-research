@@ -889,13 +889,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only a lesson title and generic search term without details about strategies, offers, content approaches, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "\\",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-20T17:30:12.925015",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence; requires actual content, strategy details, offers, or positioning data to be actionable",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 110,
+    "scanned": 111,
     "kept": 14,
-    "rejected": 96,
-    "last_scan": "2026-04-20T17:01:13.612401",
+    "rejected": 97,
+    "last_scan": "2026-04-20T17:31:15.296623",
     "platforms": [
       "YouTube",
       "Google",
