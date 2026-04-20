@@ -42,8 +42,7 @@ def sync_track(filename, track):
 
         cur.execute(
             """INSERT INTO scraper_entries (track, source, title, body, url, status, reason, scraped_at)
-               VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-               ON CONFLICT DO NOTHING""",
+               VALUES (%s, %s, %s, %s, %s, %s, %s, %s)""",
             (track, e.get('source', ''), e.get('title', ''), e.get('text', ''),
              e.get('url', ''), e.get('status', 'keep'), e.get('reason', ''),
              e.get('time'))

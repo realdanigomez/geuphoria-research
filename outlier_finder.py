@@ -157,16 +157,21 @@ def search_channels_by_keyword(keyword: str, max_results: int = 5) -> list:
         return []
 
 
-def fetch_channel_videos(channel_id: str, order: str = "date") -> list:
-    """Fetch video IDs from a channel. Costs 100 units per call."""
+def fetch_channel_videos(channel_id: str, order: str = "date", video_duration: str = None) -> list:
+    """Fetch video IDs from a channel. Costs 100 units per call.
+    video_duration: None (all), 'short' (<4min), 'medium' (4-20min), 'long' (>20min)
+    """
     try:
-        data = yt_get("search", {
+        params = {
             "part": "id",
             "channelId": channel_id,
             "type": "video",
             "order": order,
             "maxResults": VIDEOS_PER_CHANNEL,
-        })
+        }
+        if video_duration:
+            params["videoDuration"] = video_duration
+        data = yt_get("search", params)
         return [item["id"]["videoId"] for item in data.get("items", []) if "videoId" in item.get("id", {})]
     except Exception as e:
         print(f"    fetch_channel_videos({channel_id}, order={order}) failed: {e}")
@@ -443,15 +448,18 @@ def process_channel(channel_info: dict, cache: dict) -> list:
         for ch in HARDCODED_CHANNELS
     )
 
-    # VIP channels: fetch top-viewed (catches all-time longforms) + recent (catches new uploads)
-    # Regular channels: recent only
+    # VIP channels: 3 fetches — top-viewed all, recent all, recent longforms-only
+    # The longforms-only fetch guarantees actual long content even when a channel
+    # floods their feed with Shorts (e.g. Hormozi).
+    # Regular channels: recent only.
     if is_hardcoded:
-        recent_ids = fetch_channel_videos(channel_id, order="date")
-        top_ids = fetch_channel_videos(channel_id, order="viewCount")
-        # Merge deduped — top-viewed first so longforms rank higher
+        recent_ids   = fetch_channel_videos(channel_id, order="date")
+        top_ids      = fetch_channel_videos(channel_id, order="viewCount")
+        longform_ids = fetch_channel_videos(channel_id, order="viewCount", video_duration="long")
         seen = set()
         video_ids = []
-        for vid in top_ids + recent_ids:
+        # longform_ids first so they rank ahead in the pool
+        for vid in longform_ids + top_ids + recent_ids:
             if vid not in seen:
                 seen.add(vid)
                 video_ids.append(vid)
