@@ -809,13 +809,73 @@
       "status": "reject",
       "reason": "Generic search term without specific data, insights, or actionable intelligence about coaches' burnout causes, solutions, or business impact",
       "track": "niche"
+    },
+    {
+      "source": "Skool",
+      "title": "Members · JD Fitness Co",
+      "text": "Search: fitness coaching community site:skool.com",
+      "url": "",
+      "time": "2026-04-20T08:29:43.575539",
+      "status": "reject",
+      "reason": "Generic community platform listing with no specific insights into fitness coaches' pain points, struggles, or business challenges—appears to be just a directory entry rather than substantive research data.",
+      "track": "niche"
+    },
+    {
+      "source": "Skool",
+      "title": "Team Relentless",
+      "text": "Search: fitness coaching community site:skool.com",
+      "url": "",
+      "time": "2026-04-20T08:29:44.712626",
+      "status": "reject",
+      "reason": "Generic community platform mention lacks specific insights into coaches' pain points, struggles, or business challenges—no actionable intelligence about their problems or solutions.",
+      "track": "niche"
+    },
+    {
+      "source": "Skool",
+      "title": "🔥 Rise Up, Girl — It's Time to Move · ⭐️The Skool Hub⭐️",
+      "text": "Search: fitness coaching community site:skool.com",
+      "url": "",
+      "time": "2026-04-20T08:29:45.995577",
+      "status": "reject",
+      "reason": "Generic motivational content about fitness movement with no insight into coaching business models, client acquisition, marketing systems, or operational challenges that online fitness coaches face.",
+      "track": "niche"
+    },
+    {
+      "source": "Skool",
+      "title": "Und1sputed Muay Thai",
+      "text": "Search: fitness coaching community site:skool.com",
+      "url": "",
+      "time": "2026-04-20T08:29:47.362090",
+      "status": "reject",
+      "reason": "Generic community platform example with no insight into fitness coaches' specific pain points, struggles, or business challenges",
+      "track": "niche"
+    },
+    {
+      "source": "Skool",
+      "title": "Curious · The AI Advantage",
+      "text": "Search: fitness coaching community site:skool.com",
+      "url": "",
+      "time": "2026-04-20T08:29:48.372185",
+      "status": "reject",
+      "reason": "Generic search result about an AI community platform with no specific insight into fitness coaches' actual pain points, struggles, or business challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Skool",
+      "title": "Stop deciding what to eat · The AI Advantage",
+      "text": "Search: fitness coaching community site:skool.com",
+      "url": "",
+      "time": "2026-04-20T08:29:49.423288",
+      "status": "reject",
+      "reason": "Generic AI productivity tool with no specific insight into fitness coaches' actual pain points, business models, or operational challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 92,
+    "scanned": 98,
     "kept": 35,
-    "rejected": 57,
-    "last_scan": "2026-04-20T07:59:48.404228",
+    "rejected": 63,
+    "last_scan": "2026-04-20T08:29:58.617263",
     "platforms": [
       "Reddit",
       "YouTube",
