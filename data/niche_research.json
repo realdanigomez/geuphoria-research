@@ -879,13 +879,23 @@
       "status": "keep",
       "reason": "Directly addresses pricing strategy, a core pain point for fitness coaches seeking sustainable income and proper client valuation",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Avoid Coaching Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T12:59:04.216485",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point (burnout) for fitness coaches; understanding burnout causes and prevention strategies is critical for retention, sustainability, and identifying what's driving coaches out of business.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 99,
-    "kept": 36,
+    "scanned": 100,
+    "kept": 37,
     "rejected": 63,
-    "last_scan": "2026-04-20T12:30:02.666018",
+    "last_scan": "2026-04-20T12:59:58.812030",
     "platforms": [
       "Reddit",
       "YouTube",
