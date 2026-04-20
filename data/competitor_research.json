@@ -749,13 +749,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence about fitness coaching business models, strategies, content approaches, programs, or audience growth tactics. Article appears to be about luxury spending psychology unrelated to fitness coaching competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I met Alex",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-20T04:59:44.865198",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a vague personal anecdote title with a generic search query lacking details on strategies, content, offers, or business tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 96,
+    "scanned": 97,
     "kept": 12,
-    "rejected": 84,
-    "last_scan": "2026-04-20T04:30:46.924013",
+    "rejected": 85,
+    "last_scan": "2026-04-20T05:00:48.029216",
     "platforms": [
       "YouTube",
       "Google",
