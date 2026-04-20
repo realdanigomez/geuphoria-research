@@ -1179,13 +1179,53 @@
       "status": "keep",
       "reason": "Directly addresses a critical pain point (burnout) that impacts retention, service quality, and business sustainability for fitness coaches—essential for understanding their struggles and developing relevant solutions.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The OPEX Difference",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T18:29:16.267894",
+      "status": "reject",
+      "reason": "General burnout concept without fitness coaching-specific context, metrics, or actionable solutions for the niche",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Is the OPEX Method?",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T18:29:18.049839",
+      "status": "reject",
+      "reason": "Title describes a workout methodology, not coach business problems; search term suggests content about coach burnout exists but finding doesn't address business pain points, income, scaling, or operational challenges relevant to fitness coaches running online businesses.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building Real Impact",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T18:29:19.119991",
+      "status": "reject",
+      "reason": "Generic motivational title with no specific data about fitness coach burnout causes, solutions, or statistics that would inform business strategy",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mentorship Overview",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T18:29:22.136788",
+      "status": "reject",
+      "reason": "Generic mentorship overview lacks specific insights into fitness coach burnout causes, solutions, or business challenges; no actionable intelligence for understanding their pain points.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 129,
+    "scanned": 133,
     "kept": 42,
-    "rejected": 87,
-    "last_scan": "2026-04-20T18:00:11.005514",
+    "rejected": 91,
+    "last_scan": "2026-04-20T18:30:16.993291",
     "platforms": [
       "Reddit",
       "YouTube",
