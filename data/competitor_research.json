@@ -899,13 +899,23 @@
       "status": "reject",
       "reason": "Search query alone provides no actual competitive intelligence; requires actual content, strategy details, offers, or positioning data to be actionable",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Process of Solving the Problem",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-20T20:00:16.079398",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks actual data about strategies, content, offers, programs, or positioning details needed for analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 111,
+    "scanned": 112,
     "kept": 14,
-    "rejected": 97,
-    "last_scan": "2026-04-20T19:31:21.350263",
+    "rejected": 98,
+    "last_scan": "2026-04-20T20:01:18.456279",
     "platforms": [
       "YouTube",
       "Google",
