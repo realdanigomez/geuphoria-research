@@ -382,6 +382,26 @@
     },
     {
       "source": "YouTube",
+      "title": "The Real Reason Fitness Coaches Struggle Closing Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:09.145609",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific focus on sales conversion—a core struggle for scaling fitness coaching businesses",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "2 Turn your method into a system",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:12.540085",
+      "status": "keep",
+      "reason": "Directly addresses systematizing coaching methods, which is a core pain point for scaling fitness coaches and reducing delivery time/burnout while maintaining quality.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -522,15 +542,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 38,
-    "niche_rejected": 69,
-    "niche_scanned": 107,
+    "niche_kept": 40,
+    "niche_rejected": 80,
+    "niche_scanned": 120,
     "comp_kept": 14,
     "comp_rejected": 96,
     "comp_scanned": 110,
-    "last_scan": "2026-04-20T15:31:06.923159",
-    "total_kept": 52,
-    "total_rejected": 165,
+    "last_scan": "2026-04-20T16:01:27.319261",
+    "total_kept": 54,
+    "total_rejected": 176,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

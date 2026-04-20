@@ -959,13 +959,143 @@
       "status": "keep",
       "reason": "Directly addresses trainer burnout with first-person perspective on lifestyle challenges; provides authentic insight into a core pain point for online fitness coaches considering or experiencing burnout issues.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "he was struggling with online fitness coaching for years until he did this",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:07.057037",
+      "status": "reject",
+      "reason": "Title is clickbait without substantive content; no specific problem, solution, or actionable intelligence provided in the excerpt to validate relevance to fitness coach pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "watch this if you are struggling to sign fitness clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:08.086878",
+      "status": "reject",
+      "reason": "Title and search term are too generic; no specific pain point, strategy, or actionable insight provided to understand the underlying struggle",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reason Fitness Coaches Struggle Closing Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:09.145609",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific focus on sales conversion—a core struggle for scaling fitness coaching businesses",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The mistakes fitness coaches make",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:10.024953",
+      "status": "reject",
+      "reason": "Title is generic clickbait without specific mistakes detailed; no actionable intelligence provided to understand actual coach pain points",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "1 Build a crystal clear promise",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:11.437008",
+      "status": "reject",
+      "reason": "Too generic and lacks specificity about actual coach pain points; \"crystal clear promise\" is a vague framework not tied to concrete fitness coaching struggles like client retention, pricing strategy, or marketing ROI",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "2 Turn your method into a system",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:12.540085",
+      "status": "keep",
+      "reason": "Directly addresses systematizing coaching methods, which is a core pain point for scaling fitness coaches and reducing delivery time/burnout while maintaining quality.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Take away resistance",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-20T15:59:13.473862",
+      "status": "reject",
+      "reason": "Generic fitness advice about resistance training; lacks specific insight into online fitness coaches' actual business problems, pain points, or operational challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "For fitness coaches: What part of weekly client checkins ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-20T15:59:40.999543",
+      "status": "reject",
+      "reason": "Title is incomplete and text only shows a search query without actual content, findings, or specific intelligence about fitness coach pain points",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Why should someone choose a specialized 30-day fat loss ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-20T15:59:42.224693",
+      "status": "reject",
+      "reason": "Title only shows consumer-facing fat loss messaging, not coach-specific pain points, business challenges, or operational insights relevant to online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Do you think a new fitness coach needs a professional ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-20T15:59:43.369278",
+      "status": "reject",
+      "reason": "Title is incomplete and search result appears to be a generic question about professional credentials rather than addressing specific pain points, systems, scaling issues, or business challenges relevant to online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "If you started a new coaching business today with no ...",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-20T15:59:45.250128",
+      "status": "reject",
+      "reason": "Title alone suggests hypothetical scenario without evidence of actual pain points, struggles, or actionable intelligence about online fitness coaching businesses",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "How to create a simple weekly fitness plan at home",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-20T15:59:46.154769",
+      "status": "reject",
+      "reason": "This is generic fitness content for end consumers, not intelligence about coaches' business problems, pain points, or operations.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Are home workouts as effective as gym workouts for fat loss?",
+      "text": "Search: online fitness coach site:quora.com",
+      "url": "",
+      "time": "2026-04-20T15:59:47.110897",
+      "status": "reject",
+      "reason": "This is a generic fitness FAQ that clients might ask, not research into coaches' actual business pain points, struggles, or operational challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 107,
-    "kept": 38,
-    "rejected": 69,
-    "last_scan": "2026-04-20T15:30:04.144470",
+    "scanned": 120,
+    "kept": 40,
+    "rejected": 80,
+    "last_scan": "2026-04-20T16:00:24.167930",
     "platforms": [
       "Reddit",
       "YouTube",
