@@ -789,13 +789,33 @@
       "status": "reject",
       "reason": "Title claims ease (\"it's Easy\") without demonstrating specific tactics; likely surface-level advice rather than actionable intelligence on client acquisition strategies, conversion rates, or channel performance that coaches can implement.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 habits that helped me rebuild CONSISTENCY in the gym after burnout ❤️‍🔥",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T05:28:47.344857",
+      "status": "reject",
+      "reason": "Contains generic fitness content for gym-goers, not business intelligence about online coaches' actual pain points, systems, or scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "intro",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T05:28:48.198209",
+      "status": "reject",
+      "reason": "Generic search term without specific data, insights, or actionable intelligence about coaches' burnout causes, solutions, or business impact",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 90,
+    "scanned": 92,
     "kept": 35,
-    "rejected": 55,
-    "last_scan": "2026-04-20T04:59:43.131158",
+    "rejected": 57,
+    "last_scan": "2026-04-20T05:29:43.368932",
     "platforms": [
       "Reddit",
       "YouTube",
