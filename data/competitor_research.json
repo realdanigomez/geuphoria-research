@@ -709,13 +709,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only mentions a search query without details about strategies, offers, programs, positioning, or audience tactics",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling an In-Person Personal Training Business",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-20T01:29:41.053102",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual competitive intelligence data, strategy details, offers, or positioning information present.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 92,
+    "scanned": 93,
     "kept": 11,
-    "rejected": 81,
-    "last_scan": "2026-04-12T20:01:53.529303",
+    "rejected": 82,
+    "last_scan": "2026-04-20T01:30:46.625981",
     "platforms": [
       "YouTube",
       "Google",
