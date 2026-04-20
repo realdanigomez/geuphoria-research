@@ -18,11 +18,11 @@ KEYWORD_SEARCHES = [
 ]
 
 # Outlier detection thresholds
-OUTLIER_MULTIPLIER_THRESHOLD = 1.5   # TEMP: 1.5x to catch Charlie Morgan + Hormozi longforms
+OUTLIER_MULTIPLIER_THRESHOLD = 2.0   # standard 2x threshold
 MIN_VIDEO_AGE_HOURS = 48             # exclude videos newer than this (recency bias)
 VIDEOS_PER_CHANNEL = 50              # how many recent videos to fetch per channel
-MAX_OUTLIERS_PER_RUN = 22            # TEMP: top-up to reach 100 in sheet
-TOP_N_FOR_TRANSCRIPTS = 22           # TEMP: all 22 get transcript + AI
+MAX_OUTLIERS_PER_RUN = 25            # top 25 new outliers per weekly run (11 longform + 11 shorts + 3 overflow)
+TOP_N_FOR_TRANSCRIPTS = 25           # all get transcript + AI
 
 # AI model — Claude Opus for highest quality analysis
 AI_MODEL = "claude-opus-4-7"
