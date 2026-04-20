@@ -1089,13 +1089,73 @@
       "status": "reject",
       "reason": "This is a generic fitness FAQ that clients might ask, not research into coaches' actual business pain points, struggles, or operational challenges.",
       "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "John D. (@Sweatstudio) / Posts / X",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-20T16:21:18.247942",
+      "status": "reject",
+      "reason": "Search results page with no actual content, data, or insights about fitness coach pain points or business challenges. Requires clicking through to evaluate individual posts, which is process overhead rather than direct intelligence.",
+      "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Josh Quick (@AOAfitnesscoach) / Posts / X",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-20T16:21:19.692399",
+      "status": "reject",
+      "reason": "Generic social media profile link without specific content, pain points, struggles, or actionable insights about fitness coaches' challenges or business operations.",
+      "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "RemoteCoach.Fit (@remotecoach_fit) / Posts and Replies / ...",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-20T16:21:20.609383",
+      "status": "reject",
+      "reason": "Generic social media handle with no specific insights into pain points, struggles, or actionable intelligence about online fitness coaches' problems",
+      "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Pierce Ogden (@PieOgden) / Posts / X",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-20T16:21:22.833422",
+      "status": "reject",
+      "reason": "Search result page without actual content from Pierce Ogden's posts; no specific intelligence about fitness coach pain points, struggles, or business challenges visible.",
+      "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Kerrie's PMA Fitness (@KerriesPMAFit) / Posts / X",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-20T16:21:24.124700",
+      "status": "reject",
+      "reason": "Generic social media profile with no visible content about coach pain points, business challenges, or operational insights; requires clicking through to evaluate actual posts, which doesn't constitute a finding with actionable intelligence.",
+      "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "MamoTheCoach (@MamoFunfitness) / Posts / X",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-20T16:21:24.932005",
+      "status": "reject",
+      "reason": "Generic social media profile without specific pain points, strategies, or actionable insights about online coaching business challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 120,
+    "scanned": 126,
     "kept": 40,
-    "rejected": 80,
-    "last_scan": "2026-04-20T16:00:24.167930",
+    "rejected": 86,
+    "last_scan": "2026-04-20T16:21:46.468532",
     "platforms": [
       "Reddit",
       "YouTube",
