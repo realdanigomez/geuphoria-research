@@ -372,6 +372,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Personal Trainer Burnout | Jeff From Sorta Healthy Talks About The Trainer Lifestyle",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-20T14:59:12.148445",
+      "status": "keep",
+      "reason": "Directly addresses trainer burnout with first-person perspective on lifestyle challenges; provides authentic insight into a core pain point for online fitness coaches considering or experiencing burnout issues.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -512,15 +522,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 37,
+    "niche_kept": 38,
     "niche_rejected": 69,
-    "niche_scanned": 106,
+    "niche_scanned": 107,
     "comp_kept": 14,
-    "comp_rejected": 93,
-    "comp_scanned": 107,
-    "last_scan": "2026-04-20T14:01:21.970098",
-    "total_kept": 51,
-    "total_rejected": 162,
+    "comp_rejected": 96,
+    "comp_scanned": 110,
+    "last_scan": "2026-04-20T15:01:13.657978",
+    "total_kept": 52,
+    "total_rejected": 165,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
