@@ -909,13 +909,73 @@
       "status": "reject",
       "reason": "Search query alone provides no competitive intelligence; lacks actual data about strategies, content, offers, programs, or positioning details needed for analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Fitness Business Mentors - Coach",
+      "text": "Search: fitness coaching business mentor site:facebook.com",
+      "url": "",
+      "time": "2026-04-20T20:31:02.945748",
+      "status": "reject",
+      "reason": "This is a search query, not actual competitive intelligence. Contains no specific information about mentor strategies, content approaches, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "I'm Samantha 👋 and I'm not just like any other fitness ...",
+      "text": "Search: fitness coaching business mentor site:facebook.com",
+      "url": "",
+      "time": "2026-04-20T20:31:04.204184",
+      "status": "reject",
+      "reason": "No actual finding provided - only a search query template with no results, content, or competitive intelligence about specific strategies, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Most online health and fitness coaches at $30–$50k/month ...",
+      "text": "Search: fitness coaching business mentor site:facebook.com",
+      "url": "",
+      "time": "2026-04-20T20:31:05.449957",
+      "status": "reject",
+      "reason": "Title only mentions revenue ranges without revealing specific strategies, content approaches, offers, programs, audience growth tactics, or market positioning details that would constitute actionable competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Coaches relying on sessions for income?",
+      "text": "Search: fitness coaching business mentor site:facebook.com",
+      "url": "",
+      "time": "2026-04-20T20:31:06.536346",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only shows a search query without actual findings, data, strategies, or mentor approaches to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "By the time you’re doing somewhere between $12,000 and ...",
+      "text": "Search: fitness coaching business mentor site:facebook.com",
+      "url": "",
+      "time": "2026-04-20T20:31:08.769319",
+      "status": "reject",
+      "reason": "Fragment contains no actual content, only a search query syntax. Lacks any competitive intelligence about mentor strategies, offers, programs, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "If Your Online Coaching Business Grew on Referrals and ...",
+      "text": "Search: fitness coaching business mentor site:facebook.com",
+      "url": "",
+      "time": "2026-04-20T20:31:09.885534",
+      "status": "reject",
+      "reason": "Search query result with no actual content or data about competitor strategies, offers, or tactics - requires clicking through to evaluate substance",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 112,
+    "scanned": 118,
     "kept": 14,
-    "rejected": 98,
-    "last_scan": "2026-04-20T20:07:14.713576",
+    "rejected": 104,
+    "last_scan": "2026-04-20T20:31:28.312042",
     "platforms": [
       "YouTube",
       "Google",
