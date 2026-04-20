@@ -729,13 +729,23 @@
       "status": "keep",
       "reason": "Reveals competitor's scale (50K clients), positioning angle (identifies common client problem), and content strategy (problem-identification hooks for audience engagement)",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Strategy Alex Hormozi Revealed To Us To Get More Fitness Coaching Clients",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-20T03:29:38.322126",
+      "status": "reject",
+      "reason": "Title promises strategy revelation but search query alone provides no actual competitive intelligence, strategy details, offers, or positioning information.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 94,
+    "scanned": 95,
     "kept": 12,
-    "rejected": 82,
-    "last_scan": "2026-04-20T03:00:40.414846",
+    "rejected": 83,
+    "last_scan": "2026-04-20T03:30:40.706315",
     "platforms": [
       "YouTube",
       "Google",
