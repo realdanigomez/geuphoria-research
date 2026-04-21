@@ -1059,13 +1059,73 @@
       "status": "keep",
       "reason": "Contains specific revenue target and business strategy framework from established fitness coaching competitor; useful for understanding monetization approaches and positioning in the $10k/month segment",
       "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Michael 🤖🍀 (@EMColumbus) / Posts / X",
+      "text": "Search: Alex Hormozi site:twitter.com fitness",
+      "url": "",
+      "time": "2026-04-21T16:01:35.813828",
+      "status": "reject",
+      "reason": "Search query result without actual content data; no specific information about competitor strategies, offers, programs, or market positioning included.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Hustle Health (@HustleHealthco) / Posts / X",
+      "text": "Search: Alex Hormozi site:twitter.com fitness",
+      "url": "",
+      "time": "2026-04-21T16:01:37.137534",
+      "status": "reject",
+      "reason": "Search query result without actual content or data; no specific competitive intelligence about strategies, offers, programs, or positioning provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "VAL (@Valeryloera) / Posts / X",
+      "text": "Search: Alex Hormozi site:twitter.com fitness",
+      "url": "",
+      "time": "2026-04-21T16:01:38.385554",
+      "status": "reject",
+      "reason": "Finding is a search query without actual content; contains no specific intelligence about competitor strategies, offers, programs, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Suman Sridhar (@SumanSridhar) / Posts and Replies / X",
+      "text": "Search: Alex Hormozi site:twitter.com fitness",
+      "url": "",
+      "time": "2026-04-21T16:01:39.468517",
+      "status": "reject",
+      "reason": "Search result page with no actual competitive intelligence content; contains only a search query for Alex Hormozi without substantive data about strategies, offers, positioning, or tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "fly (@noahkronfly) / Posts / X",
+      "text": "Search: Alex Hormozi site:twitter.com fitness",
+      "url": "",
+      "time": "2026-04-21T16:01:40.623201",
+      "status": "reject",
+      "reason": "This is a search query result page with no actual competitive intelligence content, findings, or data about fitness coaching strategies, offers, or business approaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Tanya Jalal 🪽 (@TechSocialite) / Posts / X",
+      "text": "Search: Alex Hormozi site:twitter.com fitness",
+      "url": "",
+      "time": "2026-04-21T16:01:42.056807",
+      "status": "reject",
+      "reason": "Search query result page with no actual competitive intelligence content, strategy details, or substantive information about fitness coaching business approaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 127,
+    "scanned": 133,
     "kept": 16,
-    "rejected": 111,
-    "last_scan": "2026-04-21T15:57:30.997701",
+    "rejected": 117,
+    "last_scan": "2026-04-21T16:02:18.968549",
     "platforms": [
       "YouTube",
       "Google",
