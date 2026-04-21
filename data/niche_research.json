@@ -1359,13 +1359,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition (a primary pain point), likely contains tested strategies and comparative data on what works best for fitness coaches seeking sustainable client sources.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Handle Burnout. (As an Elite Powerlifter)",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-21T10:51:58.661769",
+      "status": "reject",
+      "reason": "Addresses burnout from an athlete's perspective, not a fitness coach's business perspective. Lacks actionable intelligence on coach-specific pain points like client management, pricing strategy, or scaling challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 147,
+    "scanned": 148,
     "kept": 44,
-    "rejected": 103,
-    "last_scan": "2026-04-21T10:30:48.289320",
+    "rejected": 104,
+    "last_scan": "2026-04-21T10:52:53.282411",
     "platforms": [
       "Reddit",
       "YouTube",
