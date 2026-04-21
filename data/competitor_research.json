@@ -969,13 +969,73 @@
       "status": "reject",
       "reason": "Search query result with no actual content or data about competitor strategies, offers, or tactics - requires clicking through to evaluate substance",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "pov: you're a 26 year old online entrepreneur living in dubai | vlog ep. 7",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-21T05:00:39.990482",
+      "status": "reject",
+      "reason": "Vlog content about lifestyle in Dubai lacks specific competitive intelligence on fitness coaching business models, strategies, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Flight to Dubai from Hong Kong",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-21T05:00:41.037286",
+      "status": "reject",
+      "reason": "Finding contains only a flight booking reference with no competitive intelligence about fitness coaching business, mentors, strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Touchdown in Dubai",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-21T05:00:42.321892",
+      "status": "reject",
+      "reason": "No competitive intelligence provided; only a search query without findings, data, strategies, or business information about fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "First day in Dubai",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-21T05:00:43.320101",
+      "status": "reject",
+      "reason": "Contains only a vague search query with no actual competitive intelligence about coaching strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Arriving at the apartment and working with Vince",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-21T05:00:44.397303",
+      "status": "reject",
+      "reason": "Finding lacks specific competitive intelligence; contains only a generic reference to a person and apartment visit without details on business strategies, offerings, audience tactics, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Thoughts and Future",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-21T05:00:45.574807",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query without any findings about strategies, offers, content approaches, or market positioning of Daniel Dalen or competitors.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 118,
+    "scanned": 124,
     "kept": 14,
-    "rejected": 104,
-    "last_scan": "2026-04-21T04:31:35.637413",
+    "rejected": 110,
+    "last_scan": "2026-04-21T05:01:42.597165",
     "platforms": [
       "YouTube",
       "Google",
