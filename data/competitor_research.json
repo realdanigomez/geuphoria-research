@@ -1119,13 +1119,73 @@
       "status": "reject",
       "reason": "Search query result page with no actual competitive intelligence content, strategy details, or substantive information about fitness coaching business approaches.",
       "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Fitness Business Coach (@fitnessbusinesscoaching)",
+      "text": "Search: fitness business coach site:instagram.com",
+      "url": "",
+      "time": "2026-04-21T17:02:08.595832",
+      "status": "reject",
+      "reason": "This is merely a search query result showing an Instagram account exists, with no actual competitive intelligence about strategies, content, offers, programs, or positioning details.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "I became a business mentor for health + fitness coaches ...",
+      "text": "Search: fitness business coach site:instagram.com",
+      "url": "",
+      "time": "2026-04-21T17:02:09.980354",
+      "status": "reject",
+      "reason": "Finding is a search query string, not actual competitive intelligence; contains no specific data about strategies, offers, positioning, or tactics of actual competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Is your fitness business stuck below $10k/month? Let me ...",
+      "text": "Search: fitness business coach site:instagram.com",
+      "url": "",
+      "time": "2026-04-21T17:02:10.993992",
+      "status": "reject",
+      "reason": "This is a search query, not actual competitive intelligence. It contains no data about specific competitors, their strategies, content, offers, programs, or audience growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "business advice for fitness instructors",
+      "text": "Search: fitness business coach site:instagram.com",
+      "url": "",
+      "time": "2026-04-21T17:02:12.266151",
+      "status": "reject",
+      "reason": "This is only a search query syntax example with no actual competitive data, findings, or intelligence about competitors, their strategies, content, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "I'm an online fitness coach who tells people to invest in ...",
+      "text": "Search: fitness business coach site:instagram.com",
+      "url": "",
+      "time": "2026-04-21T17:02:13.319274",
+      "status": "reject",
+      "reason": "Title is incomplete/clickbait with no substantive competitive intelligence; search query alone provides no actual data on strategies, offers, positioning, or tactics of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "There's one BIG step that you have to make as a business ...",
+      "text": "Search: fitness business coach site:instagram.com",
+      "url": "",
+      "time": "2026-04-21T17:02:14.211805",
+      "status": "reject",
+      "reason": "Search query syntax alone provides no actual competitive intelligence about strategies, content, offers, programs, or positioning - it's just a search command without results or findings.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 133,
+    "scanned": 139,
     "kept": 16,
-    "rejected": 117,
-    "last_scan": "2026-04-21T16:02:18.968549",
+    "rejected": 123,
+    "last_scan": "2026-04-21T17:02:26.478834",
     "platforms": [
       "YouTube",
       "Google",

@@ -1489,13 +1489,63 @@
       "status": "reject",
       "reason": "No actual content provided - only a search query header with no findings, data, or insights about fitness coach burnout to evaluate",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personal Training Business, Online Fitness Coaching, and Attracting Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-21T17:00:11.869789",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; finding confirms search intent around attracting clients which indicates coaches actively seeking solutions to this struggle",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Do You Help People and Still Make Money",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-21T17:00:12.994759",
+      "status": "reject",
+      "reason": "too generic and philosophical; lacks specific insight into fitness coaches' actual client acquisition methods, marketing strategies, or business systems",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Price Shopping",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-21T17:00:14.111597",
+      "status": "reject",
+      "reason": "Generic search term with no insight into actual coach pain points, struggles, or specific problems they face",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Not Converting",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-21T17:00:15.196767",
+      "status": "reject",
+      "reason": "Too vague and generic - lacks specific data on conversion barriers, client acquisition methods, pricing strategies, or measurable metrics that would provide actionable intelligence for fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to get great results with your coaching clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-21T17:00:16.289902",
+      "status": "reject",
+      "reason": "Too generic and vague; lacks specific insights into actual pain points, struggles, or actionable strategies that online fitness coaches face",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 160,
-    "kept": 51,
-    "rejected": 109,
-    "last_scan": "2026-04-21T16:01:08.206844",
+    "scanned": 165,
+    "kept": 52,
+    "rejected": 113,
+    "last_scan": "2026-04-21T17:01:16.230145",
     "platforms": [
       "Reddit",
       "YouTube",
