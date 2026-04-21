@@ -432,6 +432,16 @@
     },
     {
       "source": "YouTube",
+      "title": "I Tried 21 Ways to Get Coaching Clients, These Are the Best",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-21T03:29:31.805761",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (a primary pain point), likely contains tested strategies and comparative data on what works best for fitness coaches seeking sustainable client sources.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -572,14 +582,14 @@
     }
   ],
   "stats": {
-    "niche_kept": 43,
+    "niche_kept": 44,
     "niche_rejected": 103,
-    "niche_scanned": 146,
+    "niche_scanned": 147,
     "comp_kept": 14,
     "comp_rejected": 104,
     "comp_scanned": 118,
-    "last_scan": "2026-04-21T03:01:35.010660",
-    "total_kept": 57,
+    "last_scan": "2026-04-21T03:31:34.440948",
+    "total_kept": 58,
     "total_rejected": 207,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

@@ -1349,13 +1349,23 @@
       "status": "reject",
       "reason": "Title suggests mental health angle but no indication of content addressing fitness coach-specific pain points like client acquisition, scaling, systems, marketing, or income—appears to be general fitness/wellness content rather than coach-focused business intelligence.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Tried 21 Ways to Get Coaching Clients, These Are the Best",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-21T03:29:31.805761",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (a primary pain point), likely contains tested strategies and comparative data on what works best for fitness coaches seeking sustainable client sources.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 146,
-    "kept": 43,
+    "scanned": 147,
+    "kept": 44,
     "rejected": 103,
-    "last_scan": "2026-04-21T03:00:30.502597",
+    "last_scan": "2026-04-21T03:30:31.725281",
     "platforms": [
       "Reddit",
       "YouTube",
