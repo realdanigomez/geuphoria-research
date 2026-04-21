@@ -1029,13 +1029,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only a search query without any findings about strategies, offers, content approaches, or market positioning of Daniel Dalen or competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Spent $10,000 on Charlie Morgan’s Course (My Results)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-21T06:22:17.945355",
+      "status": "reject",
+      "reason": "Title suggests personal review/testimonial rather than competitive intelligence about Charlie Morgan's actual business strategy, content approach, offers, or market positioning. Would need specific details about course structure, pricing strategy, audience targeting, or business model to be actionable.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 124,
+    "scanned": 125,
     "kept": 14,
-    "rejected": 110,
-    "last_scan": "2026-04-21T06:01:37.311798",
+    "rejected": 111,
+    "last_scan": "2026-04-21T06:23:18.993377",
     "platforms": [
       "YouTube",
       "Google",
