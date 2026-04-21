@@ -1049,13 +1049,23 @@
       "status": "keep",
       "reason": "Contains specific revenue target ($1M/year) and likely discusses proven monetization strategies, business scaling methods, and positioning tactics directly applicable to coaching business models.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step by step how i'd make $10k per month asap if starting again",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-21T11:31:06.212782",
+      "status": "keep",
+      "reason": "Contains specific revenue target and business strategy framework from established fitness coaching competitor; useful for understanding monetization approaches and positioning in the $10k/month segment",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 126,
-    "kept": 15,
+    "scanned": 127,
+    "kept": 16,
     "rejected": 111,
-    "last_scan": "2026-04-21T11:01:53.431053",
+    "last_scan": "2026-04-21T11:32:06.043168",
     "platforms": [
       "YouTube",
       "Google",

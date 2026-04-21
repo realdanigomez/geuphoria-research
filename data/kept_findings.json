@@ -441,6 +441,66 @@
       "track": "niche"
     },
     {
+      "source": "Google",
+      "title": "In person trainers, I'm curious what has been the biggest ...",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-21T11:30:05.810749",
+      "status": "keep",
+      "reason": "Directly addresses personal trainer business challenges which overlap significantly with online fitness coaches' pain points around client retention, pricing, and service delivery models",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "So many personal trainers over complicate their business ...",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-21T11:30:06.988615",
+      "status": "keep",
+      "reason": "Addresses a core pain point (overcomplication) that directly impacts fitness coaches' business efficiency, systems, and scaling potential — understanding what coaches overcomplicate helps identify solutions for streamlining operations and growth.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Do all gyms basically force personal trainers into sales roles?",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-21T11:30:08.174508",
+      "status": "keep",
+      "reason": "Reveals that trainers struggle with forced sales responsibilities, indicating potential pain point for online coaches seeking to differentiate their business model and client acquisition approach from traditional gym environments.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Local Marketing for Personal Trainers: Own Your 5-Mile Radius",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-21T11:30:12.638768",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategy for fitness professionals, a core pain point for online coaches looking to establish local authority and competitive positioning within their geographic market.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Best Accounting Software for Personal Trainers in 2026",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-21T11:30:13.763009",
+      "status": "keep",
+      "reason": "Addresses financial management pain point for fitness coaches; accounting software selection directly impacts business scalability, time management, and profitability tracking—core struggles for coaches trying to grow without administrative overhead.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Business Coaching For Personal Trainers",
+      "text": "Search: personal trainer business challenges",
+      "url": "",
+      "time": "2026-04-21T11:30:14.676755",
+      "status": "keep",
+      "reason": "Directly addresses personal trainer business challenges which maps to online fitness coaches' pain points around client acquisition, business operations, and scaling their fitness coaching business.",
+      "track": "niche"
+    },
+    {
       "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
@@ -589,18 +649,28 @@
       "status": "keep",
       "reason": "Contains specific revenue target ($1M/year) and likely discusses proven monetization strategies, business scaling methods, and positioning tactics directly applicable to coaching business models.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step by step how i'd make $10k per month asap if starting again",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-21T11:31:06.212782",
+      "status": "keep",
+      "reason": "Contains specific revenue target and business strategy framework from established fitness coaching competitor; useful for understanding monetization approaches and positioning in the $10k/month segment",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "niche_kept": 44,
-    "niche_rejected": 104,
-    "niche_scanned": 148,
-    "comp_kept": 15,
+    "niche_kept": 50,
+    "niche_rejected": 106,
+    "niche_scanned": 156,
+    "comp_kept": 16,
     "comp_rejected": 111,
-    "comp_scanned": 126,
-    "last_scan": "2026-04-21T11:01:53.433036",
-    "total_kept": 59,
-    "total_rejected": 215,
+    "comp_scanned": 127,
+    "last_scan": "2026-04-21T11:32:06.044902",
+    "total_kept": 66,
+    "total_rejected": 217,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
