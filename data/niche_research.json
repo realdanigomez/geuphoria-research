@@ -1619,13 +1619,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point with diagnostic framing that online fitness coaches need to solve their most critical revenue problem",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Story 1: Winning my first World Championship",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T21:01:21.331740",
+      "status": "reject",
+      "reason": "This is a personal achievement story with no discussion of coaching business challenges, pain points, systems, or operational struggles that fitness coaches face.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 173,
+    "scanned": 174,
     "kept": 53,
-    "rejected": 120,
-    "last_scan": "2026-04-22T20:31:40.092777",
+    "rejected": 121,
+    "last_scan": "2026-04-22T21:02:19.659889",
     "platforms": [
       "Reddit",
       "YouTube",
