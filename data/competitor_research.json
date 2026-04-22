@@ -1349,13 +1349,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided. Title is generic clickbait with no details about fitness coaching strategies, offers, positioning, or business model. Search term alone insufficient without actual content analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Not Everyone Becomes Wealthy Despite Opportunities",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-22T19:02:16.466659",
+      "status": "reject",
+      "reason": "No specific fitness coaching business strategies, competitor offers, content approaches, or market positioning information present. Generic wealth/opportunity content unrelated to fitness coaching competitive intelligence.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 156,
+    "scanned": 157,
     "kept": 17,
-    "rejected": 139,
-    "last_scan": "2026-04-22T18:33:07.995873",
+    "rejected": 140,
+    "last_scan": "2026-04-22T19:03:18.546161",
     "platforms": [
       "YouTube",
       "Google",
