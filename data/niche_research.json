@@ -1539,13 +1539,83 @@
       "status": "reject",
       "reason": "Too generic and vague; lacks specific insights into actual pain points, struggles, or actionable strategies that online fitness coaches face",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 PRACTICAL Ways to SOLVE the GYM BURNOUT Problem!",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T02:30:32.422866",
+      "status": "reject",
+      "reason": "Addresses gym-goer burnout, not coach burnout; lacks specific strategies for online fitness coaches' unique pain points like client retention, pricing, or business scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Welcome, my fiends!",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T02:30:33.306255",
+      "status": "reject",
+      "reason": "Generic search term with no actionable insights; title appears to be a typo (\"fiends\" vs \"friends\") with no substantive content about fitness coach pain points or solutions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "1 Change Your Programming",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T02:30:34.347381",
+      "status": "reject",
+      "reason": "Too vague and generic. \"1 Change Your Programming\" lacks specific insights into fitness coach pain points, struggles, or actionable solutions. No data on burnout causes, prevention strategies, or business impact provided.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "2 Change Your Environment",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T02:30:35.389706",
+      "status": "reject",
+      "reason": "Generic self-help advice about environment changes lacks specific intelligence about fitness coaches' actual burnout causes, solutions, or business challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Give Yourself a Deadline",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T02:30:36.783715",
+      "status": "reject",
+      "reason": "Generic productivity advice about deadlines lacks specific insight into fitness coaches' unique burnout causes (client management, program customization, scheduling demands, income inconsistency) or actionable solutions tailored to their business model.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "4 Change Your Style or Sport",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T02:30:37.770956",
+      "status": "reject",
+      "reason": "Generic title with no specific insights; content appears to be navigation/chapter heading rather than substantive research on fitness coach burnout causes, solutions, or data.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Put it on the Back burner",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-22T02:30:39.251859",
+      "status": "reject",
+      "reason": "Generic burnout advice without specific fitness coaching context, client acquisition strategies, or business/systems insights relevant to online fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 165,
+    "scanned": 172,
     "kept": 52,
-    "rejected": 113,
-    "last_scan": "2026-04-22T02:01:25.347801",
+    "rejected": 120,
+    "last_scan": "2026-04-22T02:31:33.880412",
     "platforms": [
       "Reddit",
       "YouTube",
