@@ -1309,13 +1309,23 @@
       "status": "reject",
       "reason": "This is a search query, not actual competitive intelligence. It contains no information about competitor strategies, offers, programs, or positioning—only a search instruction with no results or findings included.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping a $500K Coaching Business Get to $2M",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-22T05:01:30.092702",
+      "status": "keep",
+      "reason": "Contains case study of scaling coaching business from $500K to $2M, likely includes specific strategies, pricing models, or growth tactics applicable to competitive positioning and business model analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 152,
-    "kept": 16,
+    "scanned": 153,
+    "kept": 17,
     "rejected": 136,
-    "last_scan": "2026-04-22T04:02:47.573215",
+    "last_scan": "2026-04-22T05:02:31.913808",
     "platforms": [
       "YouTube",
       "Google",
