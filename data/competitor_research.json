@@ -1249,13 +1249,73 @@
       "status": "reject",
       "reason": "Title suggests general solopreneur website tactics rather than fitness coaching-specific strategies, audience growth, or competitive positioning in the fitness coaching market.",
       "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Games Scale Up! 📈 🎮… | Chris Bain, PhD | 12 comments",
+      "text": "Search: online coaching program launch site:linkedin.com",
+      "url": "",
+      "time": "2026-04-22T04:02:01.524570",
+      "status": "reject",
+      "reason": "Generic LinkedIn search result with no visible content details, competitor strategies, programs, offers, or audience growth tactics shown.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Frank Kern's Post",
+      "text": "Search: online coaching program launch site:linkedin.com",
+      "url": "",
+      "time": "2026-04-22T04:02:02.816955",
+      "status": "reject",
+      "reason": "This is a search query, not actual competitive intelligence. It contains no substantive information about Frank Kern's strategies, programs, offers, or positioning—only a search instruction with no results or insights included.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Coach Launch's Post",
+      "text": "Search: online coaching program launch site:linkedin.com",
+      "url": "",
+      "time": "2026-04-22T04:02:04.035142",
+      "status": "reject",
+      "reason": "This is a search query, not a finding. It contains no actual intelligence about competitors, their strategies, content, offers, programs, or positioning—only a search instruction with no results or data provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Online Coaching Redefines Business Growth with ...",
+      "text": "Search: online coaching program launch site:linkedin.com",
+      "url": "",
+      "time": "2026-04-22T04:02:05.018554",
+      "status": "reject",
+      "reason": "Generic search query with no actual competitive intelligence, findings, or specific data about competitor strategies, offerings, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "#166 Starting a Coaching Business in 2026? 5 Steps That ...",
+      "text": "Search: online coaching program launch site:linkedin.com",
+      "url": "",
+      "time": "2026-04-22T04:02:06.148042",
+      "status": "reject",
+      "reason": "Title alone lacks specific details about strategies, offers, or positioning; search query indicates general content rather than deep competitive intelligence about fitness coaching business models or tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Cole Lyon's Post",
+      "text": "Search: online coaching program launch site:linkedin.com",
+      "url": "",
+      "time": "2026-04-22T04:02:07.370441",
+      "status": "reject",
+      "reason": "This is a search query, not actual competitive intelligence. It contains no information about competitor strategies, offers, programs, or positioning—only a search instruction with no results or findings included.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 146,
+    "scanned": 152,
     "kept": 16,
-    "rejected": 130,
-    "last_scan": "2026-04-22T03:02:36.396153",
+    "rejected": 136,
+    "last_scan": "2026-04-22T04:02:47.573215",
     "platforms": [
       "YouTube",
       "Google",
