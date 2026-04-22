@@ -1179,13 +1179,23 @@
       "status": "reject",
       "reason": "Search query syntax alone provides no actual competitive intelligence about strategies, content, offers, programs, or positioning - it's just a search command without results or findings.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Chess Example",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-22T02:01:29.639697",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a search query about an individual with no details about their coaching business, strategies, offers, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 139,
+    "scanned": 140,
     "kept": 16,
-    "rejected": 123,
-    "last_scan": "2026-04-22T01:32:36.220812",
+    "rejected": 124,
+    "last_scan": "2026-04-22T02:02:29.263913",
     "platforms": [
       "YouTube",
       "Google",
