@@ -1189,13 +1189,73 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only a search query about an individual with no details about their coaching business, strategies, offers, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "Medium",
+      "title": "Discovering Your Life's Purpose: Steve Gamlin Of ...",
+      "text": "Search: online coach scaling site:medium.com",
+      "url": "",
+      "time": "2026-04-22T03:02:09.759172",
+      "status": "reject",
+      "reason": "Title suggests life purpose content, not fitness coaching business strategy or competitive intelligence. Search operator indicates generic results rather than targeted competitor analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "Medium",
+      "title": "Heather Harrington Of LevelUp Digital Solutions On 5 ...",
+      "text": "Search: online coach scaling site:medium.com",
+      "url": "",
+      "time": "2026-04-22T03:02:10.894104",
+      "status": "reject",
+      "reason": "Title and search parameters suggest generic content about digital solutions scaling; no specific evidence of fitness coaching business model, mentor strategies, or competitive positioning details provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "Medium",
+      "title": "If Your Business Isn't Working Out the Way You Want It To ...",
+      "text": "Search: online coach scaling site:medium.com",
+      "url": "",
+      "time": "2026-04-22T03:02:11.864015",
+      "status": "reject",
+      "reason": "Generic search query with no actual content analyzed; no specific competitor strategies, tactics, offers, or market positioning data present",
+      "track": "competitor"
+    },
+    {
+      "source": "Medium",
+      "title": "Leadership in Practice: The Operating System Behind ...",
+      "text": "Search: online coach scaling site:medium.com",
+      "url": "",
+      "time": "2026-04-22T03:02:13.055726",
+      "status": "reject",
+      "reason": "Title and excerpt lack specific details about competitor strategies, offers, programs, or tactics; appears to be a generic leadership article without concrete fitness coaching business intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "Medium",
+      "title": "From Frenzy to Focus: Dana Zellers On How We Can ...",
+      "text": "Search: online coach scaling site:medium.com",
+      "url": "",
+      "time": "2026-04-22T03:02:14.034030",
+      "status": "reject",
+      "reason": "Title alone provides no specific intelligence about strategies, content approaches, offers, programs, or audience tactics; would need to review full article to assess value",
+      "track": "competitor"
+    },
+    {
+      "source": "Medium",
+      "title": "The Solopreneur's Carrd Playbook: 11 Essential Moves to ...",
+      "text": "Search: online coach scaling site:medium.com",
+      "url": "",
+      "time": "2026-04-22T03:02:14.889761",
+      "status": "reject",
+      "reason": "Title suggests general solopreneur website tactics rather than fitness coaching-specific strategies, audience growth, or competitive positioning in the fitness coaching market.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 140,
+    "scanned": 146,
     "kept": 16,
-    "rejected": 124,
-    "last_scan": "2026-04-22T02:32:37.189381",
+    "rejected": 130,
+    "last_scan": "2026-04-22T03:02:36.396153",
     "platforms": [
       "YouTube",
       "Google",
