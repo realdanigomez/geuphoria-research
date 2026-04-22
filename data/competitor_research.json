@@ -1369,13 +1369,73 @@
       "status": "reject",
       "reason": "Generic business scaling advice not specific to fitness coaching, online content delivery, or fitness industry competitive positioning",
       "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Sponsored Personal Trainers | Mentor ",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-22T21:33:09.788584",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a generic search query without results, findings, or strategic insights about any competitor's business model, content, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "We run a coaching program. We coach/mentor/consult ...",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-22T21:33:10.487656",
+      "status": "reject",
+      "reason": "This is a search query, not a finding. It contains no actual competitive intelligence about strategies, content, offers, programs, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Online Coach Mentor | Lock in",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-22T21:33:11.447304",
+      "status": "reject",
+      "reason": "This is only a search query syntax example with no actual competitor data, strategies, offers, or intelligence about fitness coaching businesses or mentors.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "I became a business mentor for health + fitness coaches ...",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-22T21:33:12.650383",
+      "status": "reject",
+      "reason": "Title alone provides no specific intelligence about strategies, content approaches, offers, programs, or audience tactics. Requires actual content analysis to determine competitive value.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Online coaching is genuinely very simple to scale.",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-22T21:33:13.708280",
+      "status": "reject",
+      "reason": "Generic statement about scaling without specific competitor strategies, offers, content approaches, or audience growth tactics that would inform competitive positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "I'm Nicholas Bassett — Online Health & Fitness Coach ...",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-22T21:33:14.628738",
+      "status": "reject",
+      "reason": "Title alone provides no specific intelligence about strategies, content approaches, offers, programs, or audience tactics—requires actual profile/content details to be valuable.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 158,
+    "scanned": 164,
     "kept": 17,
-    "rejected": 141,
-    "last_scan": "2026-04-22T21:03:26.761406",
+    "rejected": 147,
+    "last_scan": "2026-04-22T21:33:23.775596",
     "platforms": [
       "YouTube",
       "Google",
