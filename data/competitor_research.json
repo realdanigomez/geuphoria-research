@@ -1319,13 +1319,23 @@
       "status": "keep",
       "reason": "Contains case study of scaling coaching business from $500K to $2M, likely includes specific strategies, pricing models, or growth tactics applicable to competitive positioning and business model analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "knowledge won't grow your coaching business. Skills build ...",
+      "text": "Search: coaching business site:x.com",
+      "url": "",
+      "time": "2026-04-22T06:02:00.674201",
+      "status": "reject",
+      "reason": "Title alone lacks specific details about competitor strategies, offers, programs, or audience tactics; appears to be a generic motivational statement without competitive intelligence data.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 153,
+    "scanned": 154,
     "kept": 17,
-    "rejected": 136,
-    "last_scan": "2026-04-22T05:02:31.913808",
+    "rejected": 137,
+    "last_scan": "2026-04-22T06:02:34.527030",
     "platforms": [
       "YouTube",
       "Google",
