@@ -1509,13 +1509,33 @@
       "status": "reject",
       "reason": "No actual competitive intelligence provided; only a social media search instruction without data about strategies, offers, programs, or positioning",
       "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Learn how to make money online. I coach ... - Instagram",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-23T11:33:38.116204",
+      "status": "reject",
+      "reason": "Generic search result without specific competitor data, strategies, offers, or market positioning details revealed",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Most online coaches miss out on clients because they fail ...",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-23T11:33:39.430709",
+      "status": "reject",
+      "reason": "Title alone provides generic coaching advice without specific competitor intelligence, strategies, offers, or market positioning details. Search query metadata insufficient to confirm substantive competitive data.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 172,
+    "scanned": 174,
     "kept": 17,
-    "rejected": 155,
-    "last_scan": "2026-04-23T11:03:44.615969",
+    "rejected": 157,
+    "last_scan": "2026-04-23T11:33:48.604974",
     "platforms": [
       "YouTube",
       "Google",
