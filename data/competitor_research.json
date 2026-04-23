@@ -1619,13 +1619,53 @@
       "status": "reject",
       "reason": "Title and search query alone lack specific competitive intelligence; no details provided about strategy, content, offers, programs, or tactics that would inform business decisions.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "pov: you're a 27-year-old online entrepreneur, balancing business and travel",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-23T23:33:28.912473",
+      "status": "reject",
+      "reason": "No specific information about coaching strategies, content approaches, offers, programs, or market positioning. Only a vague POV title with a generic search query that lacks competitive intelligence details.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Neace gave me an opportunity when I had no platform yet ...",
+      "text": "Search: coaching business site:x.com",
+      "url": "",
+      "time": "2026-04-23T23:33:54.069169",
+      "status": "reject",
+      "reason": "Vague testimonial without specific business strategy, tactics, offer details, or competitive positioning information that would inform business decisions.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Adewuyi Tamilore",
+      "text": "Search: coaching business site:x.com",
+      "url": "",
+      "time": "2026-04-23T23:33:55.123997",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a name and generic search query with no data about strategies, offers, programs, positioning, or audience tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Heaven knows I'm bored. I run a profitable online coaching ...",
+      "text": "Search: coaching business site:x.com",
+      "url": "",
+      "time": "2026-04-23T23:33:56.315599",
+      "status": "reject",
+      "reason": "Title alone indicates personal commentary about boredom rather than substantive competitive intelligence about business strategies, content approaches, offers, or market positioning. Insufficient evidence of actionable competitive data without viewing full content.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 183,
+    "scanned": 187,
     "kept": 18,
-    "rejected": 165,
-    "last_scan": "2026-04-23T23:12:36.370752",
+    "rejected": 169,
+    "last_scan": "2026-04-23T23:34:30.423967",
     "platforms": [
       "YouTube",
       "Google",
