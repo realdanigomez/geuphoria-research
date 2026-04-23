@@ -1699,13 +1699,33 @@
       "status": "reject",
       "reason": "Generic search query with no actual finding, data, or insight about fitness coaches' pain points, struggles, or business challenges",
       "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Coach Lisa B (@fitgoddess) / Posts / X",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-23T21:32:58.313516",
+      "status": "reject",
+      "reason": "Generic social media profile without specific pain points, strategies, or business insights disclosed",
+      "track": "niche"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "WHOOP: The Training Coach Bought it in July 2025. On my ...",
+      "text": "Search: fitness coach clients site:twitter.com",
+      "url": "",
+      "time": "2026-04-23T21:32:59.520333",
+      "status": "reject",
+      "reason": "Anecdotal personal experience with a wearable device lacks actionable intelligence about online fitness coaches' business problems, client acquisition, or scaling challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 181,
+    "scanned": 183,
     "kept": 55,
-    "rejected": 126,
-    "last_scan": "2026-04-23T21:03:15.668486",
+    "rejected": 128,
+    "last_scan": "2026-04-23T21:33:21.108336",
     "platforms": [
       "Reddit",
       "YouTube",
