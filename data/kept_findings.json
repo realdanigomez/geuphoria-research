@@ -541,6 +541,16 @@
       "track": "niche"
     },
     {
+      "source": "Facebook",
+      "title": "Scaling fitness training business without hiring staff?",
+      "text": "Search: fitness coaching business site:facebook.com",
+      "url": "",
+      "time": "2026-04-23T20:15:23.720561",
+      "status": "keep",
+      "reason": "Direct evidence of fitness coaches seeking scalability solutions without payroll overhead—core pain point for solo operators and bootstrapped businesses trying to grow revenue.",
+      "track": "niche"
+    },
+    {
       "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
@@ -709,18 +719,28 @@
       "status": "keep",
       "reason": "Contains case study of scaling coaching business from $500K to $2M, likely includes specific strategies, pricing models, or growth tactics applicable to competitive positioning and business model analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Build A $35K/MO Coaching Business (Matt's Story)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-23T20:15:45.707037",
+      "status": "keep",
+      "reason": "Contains specific revenue benchmark ($35K/MO) and case study demonstrating coaching business scaling strategy, useful for competitive positioning and offer benchmarking",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "niche_kept": 54,
-    "niche_rejected": 122,
-    "niche_scanned": 176,
-    "comp_kept": 17,
-    "comp_rejected": 157,
-    "comp_scanned": 174,
-    "last_scan": "2026-04-23T20:04:22.328814",
-    "total_kept": 71,
-    "total_rejected": 279,
+    "niche_kept": 55,
+    "niche_rejected": 126,
+    "niche_scanned": 181,
+    "comp_kept": 18,
+    "comp_rejected": 158,
+    "comp_scanned": 176,
+    "last_scan": "2026-04-23T20:16:46.665308",
+    "total_kept": 73,
+    "total_rejected": 284,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

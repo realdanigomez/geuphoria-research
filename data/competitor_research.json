@@ -1529,13 +1529,33 @@
       "status": "reject",
       "reason": "Title alone provides generic coaching advice without specific competitor intelligence, strategies, offers, or market positioning details. Search query metadata insufficient to confirm substantive competitive data.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Build A $35K/MO Coaching Business (Matt's Story)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-23T20:15:45.707037",
+      "status": "keep",
+      "reason": "Contains specific revenue benchmark ($35K/MO) and case study demonstrating coaching business scaling strategy, useful for competitive positioning and offer benchmarking",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-23T20:15:46.797977",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence about business strategies, content approaches, offers, programs, or market positioning - only a name to potentially research elsewhere.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 174,
-    "kept": 17,
-    "rejected": 157,
-    "last_scan": "2026-04-23T20:04:22.326236",
+    "scanned": 176,
+    "kept": 18,
+    "rejected": 158,
+    "last_scan": "2026-04-23T20:16:46.662898",
     "platforms": [
       "YouTube",
       "Google",
