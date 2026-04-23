@@ -1629,13 +1629,23 @@
       "status": "reject",
       "reason": "This is a personal achievement story with no discussion of coaching business challenges, pain points, systems, or operational struggles that fitness coaches face.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Personal Training Clients (Close 95% More)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-23T03:01:23.218328",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition—a primary pain point for fitness coaches—with a specific conversion metric (95% close rate) that suggests concrete closing tactics applicable to scaling their business.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 174,
-    "kept": 53,
+    "scanned": 175,
+    "kept": 54,
     "rejected": 121,
-    "last_scan": "2026-04-23T02:02:29.917229",
+    "last_scan": "2026-04-23T03:02:23.075029",
     "platforms": [
       "Reddit",
       "YouTube",

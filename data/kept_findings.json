@@ -532,6 +532,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Get Personal Training Clients (Close 95% More)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-23T03:01:23.218328",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition—a primary pain point for fitness coaches—with a specific conversion metric (95% close rate) that suggests concrete closing tactics applicable to scaling their business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -702,14 +712,14 @@
     }
   ],
   "stats": {
-    "niche_kept": 53,
+    "niche_kept": 54,
     "niche_rejected": 121,
-    "niche_scanned": 174,
+    "niche_scanned": 175,
     "comp_kept": 17,
     "comp_rejected": 149,
     "comp_scanned": 166,
-    "last_scan": "2026-04-23T02:03:38.758957",
-    "total_kept": 70,
+    "last_scan": "2026-04-23T03:03:26.058972",
+    "total_kept": 71,
     "total_rejected": 270,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
