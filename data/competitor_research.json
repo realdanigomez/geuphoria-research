@@ -1549,13 +1549,83 @@
       "status": "reject",
       "reason": "Search query alone provides no actual competitive intelligence about business strategies, content approaches, offers, programs, or market positioning - only a name to potentially research elsewhere.",
       "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "Being in shape will increase your performance! Most ...",
+      "text": "Search: Alex Hormozi fitness coach strategy 2026",
+      "url": "",
+      "time": "2026-04-23T22:33:40.960803",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence; lacks substantive information about strategies, content, offers, or market positioning of any specific competitor.",
+      "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "This program isn't about shock therapy. It's ...",
+      "text": "Search: Alex Hormozi fitness coach strategy 2026",
+      "url": "",
+      "time": "2026-04-23T22:33:42.259828",
+      "status": "reject",
+      "reason": "Title fragment and search query alone provide no actual content, data, or intelligence about competitor strategies, programs, offers, or positioning—just a reference to a potential resource that would need to be reviewed separately.",
+      "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "Sometimes having a simple idea that your company can ...",
+      "text": "Search: Alex Hormozi fitness coach strategy 2026",
+      "url": "",
+      "time": "2026-04-23T22:33:43.393503",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence; contains no data about strategies, content, offers, programs, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "Alex Hormozi - Do some much volume that losing Becomes ...",
+      "text": "Search: Alex Hormozi fitness coach strategy 2026",
+      "url": "",
+      "time": "2026-04-23T22:33:44.643835",
+      "status": "reject",
+      "reason": "Title is incomplete/truncated and search query alone provides no specific intelligence about strategies, content approaches, offers, or market positioning. Requires actual finding content to evaluate.",
+      "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "The Complete 2026 Guide to Running an Online Course ...",
+      "text": "Search: Alex Hormozi fitness coach strategy 2026",
+      "url": "",
+      "time": "2026-04-23T22:33:45.597720",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, strategy details, or competitive intelligence about Hormozi's fitness coaching approach, offers, or tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "[paste]. Identify the single biggest revenue leak killing my ...",
+      "text": "Search: Alex Hormozi fitness coach strategy 2026",
+      "url": "",
+      "time": "2026-04-23T22:33:46.847684",
+      "status": "reject",
+      "reason": "Title is truncated and generic (\"revenue leak\" is common business language); search query alone doesn't confirm the content contains actual competitive intelligence about fitness coaching strategies, offers, or positioning—requires full content review to validate.",
+      "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "Alex Hormozi – ACQ VANTAGE – Premium [GET]",
+      "text": "Search: Alex Hormozi fitness coach strategy 2026",
+      "url": "",
+      "time": "2026-04-23T22:33:47.903031",
+      "status": "reject",
+      "reason": "Title and search query alone lack specific competitive intelligence; no details provided about strategy, content, offers, programs, or tactics that would inform business decisions.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 176,
+    "scanned": 183,
     "kept": 18,
-    "rejected": 158,
-    "last_scan": "2026-04-23T21:34:24.039557",
+    "rejected": 165,
+    "last_scan": "2026-04-23T22:34:47.060533",
     "platforms": [
       "YouTube",
       "Google",
