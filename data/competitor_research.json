@@ -1489,13 +1489,33 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only shows a generic job search query with a name mention, lacks details on business model, strategies, content, offers, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "Cails | Online Coach | Hybrid Girlie",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-23T06:33:33.731619",
+      "status": "reject",
+      "reason": "Generic Instagram profile mention without specific details about business model, strategies, content approach, pricing, audience tactics, or competitive positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "Instagram",
+      "title": "👉 Follow @zacperna to grow your online coaching ...",
+      "text": "Search: online coaching mentor site:instagram.com",
+      "url": "",
+      "time": "2026-04-23T06:33:34.862216",
+      "status": "reject",
+      "reason": "No actual competitive intelligence provided; only a social media search instruction without data about strategies, offers, programs, or positioning",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 170,
+    "scanned": 172,
     "kept": 17,
-    "rejected": 153,
-    "last_scan": "2026-04-23T06:22:20.835071",
+    "rejected": 155,
+    "last_scan": "2026-04-23T06:33:44.056622",
     "platforms": [
       "YouTube",
       "Google",
