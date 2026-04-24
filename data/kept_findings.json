@@ -602,6 +602,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to close more sales and grow your fitness coaching business",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-24T20:09:28.936227",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and revenue growth—core pain points for fitness coaches scaling their business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -792,15 +802,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 60,
+    "niche_kept": 61,
     "niche_rejected": 137,
-    "niche_scanned": 197,
+    "niche_scanned": 198,
     "comp_kept": 19,
-    "comp_rejected": 186,
-    "comp_scanned": 205,
-    "last_scan": "2026-04-24T20:05:08.636944",
-    "total_kept": 79,
-    "total_rejected": 323,
+    "comp_rejected": 187,
+    "comp_scanned": 206,
+    "last_scan": "2026-04-24T20:11:32.222234",
+    "total_kept": 80,
+    "total_rejected": 324,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
