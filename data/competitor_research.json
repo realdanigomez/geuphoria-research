@@ -1709,13 +1709,73 @@
       "status": "reject",
       "reason": "Search query alone without any actual findings, content details, or competitive intelligence about Charlie Morgan's coaching business, strategies, or positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Train Your Mind To Become a Millionaire",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-24T12:03:49.534714",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about fitness coaching strategies, content approaches, offers, or market positioning; generic self-help topic unrelated to fitness industry",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start a Business With Zero Skills (And Make It Work)",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-24T12:03:52.981545",
+      "status": "reject",
+      "reason": "Generic business advice with no specific competitive intelligence about fitness coaching strategies, mentor approaches, content methods, offers, programs, or audience growth tactics",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Define Your Rich",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-24T12:03:54.320923",
+      "status": "reject",
+      "reason": "No competitive intelligence provided - only a search query name with no details about strategies, content, offers, programs, positioning, or audience tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Makes You, You",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-24T12:03:55.861789",
+      "status": "reject",
+      "reason": "Search query alone provides no competitive intelligence; lacks details about actual strategies, content, offers, or positioning of Daniel Dalen's coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Utilise Leverage",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-24T12:03:56.671936",
+      "status": "reject",
+      "reason": "Generic search query with no actual competitive intelligence data; contains no information about strategies, content, offers, programs, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Business Fundamentals",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-24T12:03:57.894400",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence about strategies, content, offers, programs, or positioning—only indicates a person's name was searched without substantive findings about their business model or approach.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 192,
+    "scanned": 198,
     "kept": 19,
-    "rejected": 173,
-    "last_scan": "2026-04-24T11:05:01.129096",
+    "rejected": 179,
+    "last_scan": "2026-04-24T12:04:55.048286",
     "platforms": [
       "YouTube",
       "Google",
