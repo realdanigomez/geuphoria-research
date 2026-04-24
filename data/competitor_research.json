@@ -1769,13 +1769,73 @@
       "status": "reject",
       "reason": "Search query alone provides no actual competitive intelligence about strategies, content, offers, programs, or positioning—only indicates a person's name was searched without substantive findings about their business model or approach.",
       "track": "competitor"
+    },
+    {
+      "source": "Skool",
+      "title": "9Mile Marathon Running School",
+      "text": "Search: fitness coaching site:skool.com",
+      "url": "",
+      "time": "2026-04-24T17:34:56.961172",
+      "status": "reject",
+      "reason": "Generic search result with no specific competitive intelligence about strategies, content approaches, offers, programs, or audience tactics - lacks actionable details about the competitor's business model or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Skool",
+      "title": "Horse Rider Fitness Academy",
+      "text": "Search: fitness coaching site:skool.com",
+      "url": "",
+      "time": "2026-04-24T17:34:58.000420",
+      "status": "reject",
+      "reason": "No competitive intelligence provided - only a search query without results, findings, or actual data about competitor strategies, content, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Skool",
+      "title": "Hey!!! · Educate with Skool",
+      "text": "Search: fitness coaching site:skool.com",
+      "url": "",
+      "time": "2026-04-24T17:34:59.075582",
+      "status": "reject",
+      "reason": "Generic search query with no actual competitive data, findings, or intelligence about fitness coaching strategies, offers, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "Skool",
+      "title": "What is the most effective way to build (and maintain ...",
+      "text": "Search: fitness coaching site:skool.com",
+      "url": "",
+      "time": "2026-04-24T17:35:00.715602",
+      "status": "reject",
+      "reason": "This is a search query syntax example, not actual competitive intelligence. It contains no data about competitors, their strategies, programs, offers, or audience tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "Skool",
+      "title": "System over goals · Daru Strong Club",
+      "text": "Search: fitness coaching site:skool.com",
+      "url": "",
+      "time": "2026-04-24T17:35:01.506165",
+      "status": "reject",
+      "reason": "Generic search result with no specific competitive intelligence about strategies, content, offers, programs, or positioning details",
+      "track": "competitor"
+    },
+    {
+      "source": "Skool",
+      "title": "It's Not Failure You'll Regret · The AI Advantage",
+      "text": "Search: fitness coaching site:skool.com",
+      "url": "",
+      "time": "2026-04-24T17:35:02.501825",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence—no specific mentor, strategy, content, offer, or positioning data is present to analyze.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 198,
+    "scanned": 204,
     "kept": 19,
-    "rejected": 179,
-    "last_scan": "2026-04-24T17:05:02.479912",
+    "rejected": 185,
+    "last_scan": "2026-04-24T17:35:08.589361",
     "platforms": [
       "YouTube",
       "Google",
