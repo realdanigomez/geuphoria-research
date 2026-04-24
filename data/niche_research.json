@@ -1719,13 +1719,93 @@
       "status": "reject",
       "reason": "Anecdotal personal experience with a wearable device lacks actionable intelligence about online fitness coaches' business problems, client acquisition, or scaling challenges.",
       "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "How Mark Ross Went From Gym Floor to ... - My PT Hub",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:02:59.488950",
+      "status": "reject",
+      "reason": "Title is truncated and text only shows a search query without actual findings, data, or actionable insights about fitness coach pain points or strategies.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "🚀 Trainers Who Want More Clients: Spreading yourself thin ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:00.625878",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific search intent showing trainers actively seeking solutions to grow their client base—a primary income and scaling challenge for fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "If you're a coach or trainer, let me know your thoughts in the ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:01.677354",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or data about client acquisition challenges—cannot extract actionable intelligence for coaches",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "*FULL TIME ONLINE FITNESS COACH IN 2026? ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:02.508773",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategies for online fitness coaches in 2026, a core pain point for scaling their business and revenue generation.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Comment “11” for the full list of 11 proven ways to get clients in ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:03.646608",
+      "status": "reject",
+      "reason": "Generic call-to-action without disclosed content; no specific strategies or intelligence provided to evaluate relevance to fitness coach pain points",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "I reviewed 90 days of marketing data from 6 coaching ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:05.010363",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (primary pain point) with real data from multiple coaches over extended period, providing benchmarkable metrics and patterns for scaling",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "The undeniable truths on what actually makes a good trainer ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:06.970035",
+      "status": "reject",
+      "reason": "Title promises trainer qualities but search query suggests generic content about trainer characteristics, not specific strategies for client acquisition, systems, or scaling that online fitness coaches need to solve their business problems.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "If you're a coach at 5-10k a month and looking to scale with ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:08.322664",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition for fitness coaches at a specific revenue stage ($5-10k/month), which is a core pain point for scaling and a key business milestone for the niche audience.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 183,
-    "kept": 55,
-    "rejected": 128,
-    "last_scan": "2026-04-24T10:54:33.102671",
+    "scanned": 191,
+    "kept": 59,
+    "rejected": 132,
+    "last_scan": "2026-04-24T11:03:57.512223",
     "platforms": [
       "Reddit",
       "YouTube",

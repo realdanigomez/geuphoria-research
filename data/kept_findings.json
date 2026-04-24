@@ -551,6 +551,46 @@
       "track": "niche"
     },
     {
+      "source": "Google",
+      "title": "🚀 Trainers Who Want More Clients: Spreading yourself thin ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:00.625878",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific search intent showing trainers actively seeking solutions to grow their client base—a primary income and scaling challenge for fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "*FULL TIME ONLINE FITNESS COACH IN 2026? ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:02.508773",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategies for online fitness coaches in 2026, a core pain point for scaling their business and revenue generation.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "I reviewed 90 days of marketing data from 6 coaching ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:05.010363",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (primary pain point) with real data from multiple coaches over extended period, providing benchmarkable metrics and patterns for scaling",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "If you're a coach at 5-10k a month and looking to scale with ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-24T11:03:08.322664",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition for fitness coaches at a specific revenue stage ($5-10k/month), which is a core pain point for scaling and a key business milestone for the niche audience.",
+      "track": "niche"
+    },
+    {
       "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
@@ -742,15 +782,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 55,
-    "niche_rejected": 128,
-    "niche_scanned": 183,
+    "niche_kept": 59,
+    "niche_rejected": 132,
+    "niche_scanned": 191,
     "comp_kept": 19,
     "comp_rejected": 173,
     "comp_scanned": 192,
-    "last_scan": "2026-04-24T10:55:35.546120",
-    "total_kept": 74,
-    "total_rejected": 301,
+    "last_scan": "2026-04-24T11:05:01.131711",
+    "total_kept": 78,
+    "total_rejected": 305,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
