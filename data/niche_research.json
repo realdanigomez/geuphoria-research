@@ -1869,13 +1869,53 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition and revenue growth—core pain points for fitness coaches scaling their business",
       "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "I QUIT! Yes after 5 years of online fitness coaching, I've ...",
+      "text": "Search: \"online fitness coach\" problems OR struggling OR b",
+      "url": "",
+      "time": "2026-04-25T02:33:30.145856",
+      "status": "reject",
+      "reason": "Title suggests personal departure story but lacks specific problem insights, systems knowledge, or actionable intelligence for understanding coach pain points—appears to be clickbait content rather than substantive research on niche struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "being a PT goes brutal → dope → brutal. Too many ...",
+      "text": "Search: \"online fitness coach\" problems OR struggling OR b",
+      "url": "",
+      "time": "2026-04-25T02:33:31.232532",
+      "status": "reject",
+      "reason": "Title is vague and incomplete; no specific problem or actionable intelligence provided; appears to be an incomplete search query rather than a substantive finding about fitness coach pain points.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "I started my online fitness business 7 years ago and I had ...",
+      "text": "Search: \"online fitness coach\" problems OR struggling OR b",
+      "url": "",
+      "time": "2026-04-25T02:33:32.112772",
+      "status": "reject",
+      "reason": "Title is truncated and text appears to be a search query fragment rather than actual content with specific insights about online fitness coach problems",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "It's ok to take time off and not feel guilty, because you now ...",
+      "text": "Search: \"online fitness coach\" problems OR struggling OR b",
+      "url": "",
+      "time": "2026-04-25T02:33:33.187222",
+      "status": "reject",
+      "reason": "Title and text fragment don't demonstrate specific pain points or actionable insights—appears to be incomplete data with no concrete information about fitness coach struggles, systems, or business challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 198,
+    "scanned": 202,
     "kept": 61,
-    "rejected": 137,
-    "last_scan": "2026-04-25T02:04:16.182018",
+    "rejected": 141,
+    "last_scan": "2026-04-25T02:34:25.408526",
     "platforms": [
       "Reddit",
       "YouTube",

@@ -799,18 +799,28 @@
       "status": "keep",
       "reason": "Likely contains Hormozi's specific business strategies, pricing models, scaling tactics, and positioning approaches applicable to fitness coaching businesses",
       "track": "competitor"
+    },
+    {
+      "source": "Google",
+      "title": "I became a business mentor for health + fitness coaches ...",
+      "text": "Search: online fitness coaching mentor program",
+      "url": "",
+      "time": "2026-04-25T02:34:45.409064",
+      "status": "keep",
+      "reason": "Contains direct competitive intelligence on mentor program positioning, coach audience targeting, and business model approach for fitness coaching niche",
+      "track": "competitor"
     }
   ],
   "stats": {
     "niche_kept": 61,
-    "niche_rejected": 137,
-    "niche_scanned": 198,
-    "comp_kept": 19,
-    "comp_rejected": 193,
-    "comp_scanned": 212,
-    "last_scan": "2026-04-25T02:05:18.831459",
-    "total_kept": 80,
-    "total_rejected": 330,
+    "niche_rejected": 141,
+    "niche_scanned": 202,
+    "comp_kept": 20,
+    "comp_rejected": 198,
+    "comp_scanned": 218,
+    "last_scan": "2026-04-25T02:35:35.495424",
+    "total_kept": 81,
+    "total_rejected": 339,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
