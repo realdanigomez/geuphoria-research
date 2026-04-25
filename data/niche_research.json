@@ -1969,13 +1969,43 @@
       "status": "reject",
       "reason": "Generic social proof content without specific pain points, struggles, systems, or business metrics relevant to coaches' actual problems",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Communication",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-25T12:03:35.585917",
+      "status": "reject",
+      "reason": "Generic search term with no specific insights into coach pain points, struggles, goals, or business challenges; lacks actionable data about their actual problems",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Research",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-25T12:03:37.262820",
+      "status": "reject",
+      "reason": "Too vague and broad; \"getting clients\" is a generic search term without specific pain points, strategies, or insights that would inform targeting, messaging, or solutions for fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Realistic",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-04-25T12:03:38.235885",
+      "status": "reject",
+      "reason": "Too vague and generic - \"realistic\" provides no specific insight into coach pain points, struggles, or actionable solutions; lacks data, methodology, or concrete findings about their actual problems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 208,
+    "scanned": 211,
     "kept": 61,
-    "rejected": 147,
-    "last_scan": "2026-04-25T11:34:38.032068",
+    "rejected": 150,
+    "last_scan": "2026-04-25T12:04:37.605995",
     "platforms": [
       "Reddit",
       "YouTube",
