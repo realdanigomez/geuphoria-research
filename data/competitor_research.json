@@ -2109,13 +2109,73 @@
       "status": "reject",
       "reason": "Title promises ad strategy insights but finding only shows a search query without actual content, strategy details, or competitive intelligence about coaching business approaches.",
       "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "For fitness coaches: What part of weekly client checkins ...",
+      "text": "Search: fitness coaching business mentor site:quora.com",
+      "url": "",
+      "time": "2026-04-25T23:05:30.015495",
+      "status": "reject",
+      "reason": "Generic question title without specifics; Quora link format suggests it's a search query rather than actual competitive content; no concrete strategy, offer, or positioning information provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Does a new wellness coach need a complex website to ...",
+      "text": "Search: fitness coaching business mentor site:quora.com",
+      "url": "",
+      "time": "2026-04-25T23:05:30.949302",
+      "status": "reject",
+      "reason": "Generic question about website complexity lacks specific competitor strategies, mentor approaches, offers, or market positioning data needed for competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "What are the risks of hiring a business coach who hasn't ...",
+      "text": "Search: fitness coaching business mentor site:quora.com",
+      "url": "",
+      "time": "2026-04-25T23:05:32.300181",
+      "status": "reject",
+      "reason": "This is only a search query/title without actual content about competitor strategies, offers, or tactics. No substantive competitive intelligence is provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Why should someone choose a specialized 30-day fat loss ...",
+      "text": "Search: fitness coaching business mentor site:quora.com",
+      "url": "",
+      "time": "2026-04-25T23:05:33.476786",
+      "status": "reject",
+      "reason": "Finding is only a search query with no actual content or intelligence about competitor strategies, offers, or positioning; title fragment suggests generic fat loss content without substantive competitive insights.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "If you started a new coaching business today with no ...",
+      "text": "Search: fitness coaching business mentor site:quora.com",
+      "url": "",
+      "time": "2026-04-25T23:05:34.364495",
+      "status": "reject",
+      "reason": "Search query metadata without actual content; no specific competitive intelligence about strategies, offers, positioning, or tactics provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Can I get healthy by paying someone to exercise for me?",
+      "text": "Search: fitness coaching business mentor site:quora.com",
+      "url": "",
+      "time": "2026-04-25T23:05:35.666614",
+      "status": "reject",
+      "reason": "This is a search query, not a finding. Contains no actual competitive intelligence about mentors, strategies, content, offers, programs, audience tactics, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 232,
+    "scanned": 238,
     "kept": 20,
-    "rejected": 212,
-    "last_scan": "2026-04-25T22:06:05.611417",
+    "rejected": 218,
+    "last_scan": "2026-04-25T23:06:06.406345",
     "platforms": [
       "YouTube",
       "Google",
