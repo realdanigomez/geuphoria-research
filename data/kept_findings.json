@@ -813,14 +813,14 @@
   ],
   "stats": {
     "niche_kept": 61,
-    "niche_rejected": 141,
-    "niche_scanned": 202,
+    "niche_rejected": 147,
+    "niche_scanned": 208,
     "comp_kept": 20,
     "comp_rejected": 198,
     "comp_scanned": 218,
-    "last_scan": "2026-04-25T06:05:29.460219",
+    "last_scan": "2026-04-25T06:35:37.015757",
     "total_kept": 81,
-    "total_rejected": 339,
+    "total_rejected": 345,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
