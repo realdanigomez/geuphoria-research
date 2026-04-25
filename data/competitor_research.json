@@ -1849,13 +1849,73 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, data, or intelligence about Daniel Dalen's business model, strategies, offers, or market positioning provided.",
       "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Is it a scam when a program promises 'expert' guidance but ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-04-25T01:04:58.409264",
+      "status": "reject",
+      "reason": "Generic scam discussion without specific competitor strategies, programs, pricing, content approaches, or market positioning details",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Is Edzeb good for ACCA coaching? What are the reviews?",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-04-25T01:04:59.498887",
+      "status": "reject",
+      "reason": "This is a generic search query about ACCA accounting coaching, not fitness coaching. Contains no competitive intelligence about fitness coaching business strategies, mentors, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Which online coaching should I take for the JEE? I'm in ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-04-25T01:05:00.464592",
+      "status": "reject",
+      "reason": "This is a student query about JEE (engineering entrance exam) coaching, not fitness coaching. No competitive intelligence about fitness coaching business models, strategies, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "How did cracking the CAT at a high percentile change ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-04-25T01:05:01.315360",
+      "status": "reject",
+      "reason": "This is a search query result about CAT exam preparation, not competitive intelligence about fitness coaching business strategies, mentors, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Why is coaching such a big business now, and what drives ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-04-25T01:05:02.504880",
+      "status": "reject",
+      "reason": "This is a search query, not a finding. It contains no actual competitive intelligence, data, strategies, or insights about fitness coaching competitors, their approaches, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "What factors should I consider before choosing an ACCA ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-04-25T01:05:03.430689",
+      "status": "reject",
+      "reason": "This is a general accounting qualification (ACCA) question unrelated to fitness coaching business, competitors, or content strategies.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 206,
+    "scanned": 212,
     "kept": 19,
-    "rejected": 187,
-    "last_scan": "2026-04-25T00:35:27.004757",
+    "rejected": 193,
+    "last_scan": "2026-04-25T01:05:31.568835",
     "platforms": [
       "YouTube",
       "Google",
