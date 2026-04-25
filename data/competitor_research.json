@@ -2009,13 +2009,33 @@
       "status": "reject",
       "reason": "Generic search query with no actual competitive intelligence; contains no data about strategies, content, offers, programs, or market positioning",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Loom System",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-25T14:34:47.935226",
+      "status": "reject",
+      "reason": "No specific intelligence provided about competitor strategies, content approaches, offers, programs, or market positioning - only a name and search query without details or analysis",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What else did Matt find useful",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-25T14:34:48.939929",
+      "status": "reject",
+      "reason": "The finding contains only a vague reference to a search query with no actual competitive intelligence, data, insights, strategies, or specific information about any coaching business, mentor, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 222,
+    "scanned": 224,
     "kept": 20,
-    "rejected": 202,
-    "last_scan": "2026-04-25T14:13:12.004101",
+    "rejected": 204,
+    "last_scan": "2026-04-25T14:35:48.529165",
     "platforms": [
       "YouTube",
       "Google",
