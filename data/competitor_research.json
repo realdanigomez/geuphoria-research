@@ -2039,13 +2039,23 @@
       "status": "reject",
       "reason": "Generic ad copywriting advice not specific to fitness coaching competitors, their strategies, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Interview with the King of Cold Outreach - Charlie Morgan",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-25T19:04:54.784226",
+      "status": "reject",
+      "reason": "Vague title lacks specifics about fitness coaching strategies, offers, or market positioning; \"cold outreach\" is a generic sales tactic not exclusive to fitness industry and provides no competitive intelligence about fitness coaching business models, content approaches, or audience growth tactics specific to the sector.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 225,
+    "scanned": 226,
     "kept": 20,
-    "rejected": 205,
-    "last_scan": "2026-04-25T18:35:51.354889",
+    "rejected": 206,
+    "last_scan": "2026-04-25T19:05:54.659578",
     "platforms": [
       "YouTube",
       "Google",
