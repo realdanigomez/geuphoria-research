@@ -611,6 +611,26 @@
       "track": "niche"
     },
     {
+      "source": "Google",
+      "title": "The ones scaling past $50k/month aren't better coaches ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-26T08:34:32.853417",
+      "status": "keep",
+      "reason": "Directly addresses income scaling and implicit comparison of successful vs unsuccessful coaches, suggesting the finding reveals differentiators beyond coaching quality—likely covering business/marketing systems that impact client acquisition and revenue growth.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "How To Sell Workout Plans Online: 6 Simple Steps",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-26T08:34:33.585984",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches scaling their business",
+      "track": "niche"
+    },
+    {
       "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
@@ -812,15 +832,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 61,
-    "niche_rejected": 160,
-    "niche_scanned": 221,
+    "niche_kept": 63,
+    "niche_rejected": 162,
+    "niche_scanned": 225,
     "comp_kept": 20,
     "comp_rejected": 221,
     "comp_scanned": 241,
-    "last_scan": "2026-04-26T08:06:17.359297",
-    "total_kept": 81,
-    "total_rejected": 381,
+    "last_scan": "2026-04-26T08:36:24.933857",
+    "total_kept": 83,
+    "total_rejected": 383,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

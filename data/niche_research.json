@@ -2099,13 +2099,53 @@
       "status": "reject",
       "reason": "Generic Facebook search query with no actual finding, data, or insight about fitness coaches' problems, behaviors, or needs — just a search term without results or context.",
       "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "Want the best strategy for getting Online Fitness Clients in ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-26T08:34:29.657975",
+      "status": "reject",
+      "reason": "Generic search query with no actual strategy, data, or insights shared—lacks specific, actionable intelligence for understanding coach pain points",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "10 things I've learned from spending the last 12 years in ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-26T08:34:31.726295",
+      "status": "reject",
+      "reason": "Title and search query are vague with no preview of actual content - cannot assess if it contains specific, actionable intelligence about fitness coach pain points",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "The ones scaling past $50k/month aren't better coaches ...",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-26T08:34:32.853417",
+      "status": "keep",
+      "reason": "Directly addresses income scaling and implicit comparison of successful vs unsuccessful coaches, suggesting the finding reveals differentiators beyond coaching quality—likely covering business/marketing systems that impact client acquisition and revenue growth.",
+      "track": "niche"
+    },
+    {
+      "source": "Google",
+      "title": "How To Sell Workout Plans Online: 6 Simple Steps",
+      "text": "Search: online fitness coach client acquisition 2026",
+      "url": "",
+      "time": "2026-04-26T08:34:33.585984",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches scaling their business",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 221,
-    "kept": 61,
-    "rejected": 160,
-    "last_scan": "2026-04-26T08:05:14.841522",
+    "scanned": 225,
+    "kept": 63,
+    "rejected": 162,
+    "last_scan": "2026-04-26T08:35:22.637750",
     "platforms": [
       "Reddit",
       "YouTube",
