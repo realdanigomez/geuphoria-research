@@ -2049,13 +2049,43 @@
       "status": "reject",
       "reason": "Generic marketing tips without specific strategies, systems, or pain points addressed; lacks actionable depth for scaling coaching businesses or solving core problems like client acquisition mechanics or retention systems.",
       "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "$100/Day Writing Business From Scratch",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-26T03:04:38.089143",
+      "status": "reject",
+      "reason": "Generic writing business advice unrelated to fitness coaching industry, client acquisition, or fitness-specific business models.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "Unlock Your Potential: 20 Proven Online Business Ideas ...",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-26T03:04:39.340503",
+      "status": "reject",
+      "reason": "Generic listicle format lacks specific insights into online fitness coaches' actual pain points, struggles, or operational challenges; \"20 ideas\" suggests surface-level coverage rather than deep, actionable intelligence for this niche.",
+      "track": "niche"
+    },
+    {
+      "source": "Medium",
+      "title": "These 9 Lessons From Teaching Will Help You Become ...",
+      "text": "Search: fitness coach business tips site:medium.com",
+      "url": "",
+      "time": "2026-04-26T03:04:40.560291",
+      "status": "reject",
+      "reason": "Title is truncated and vague; no indication it addresses fitness coach-specific pain points, business models, client acquisition, or scaling challenges rather than generic teaching lessons.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 216,
+    "scanned": 219,
     "kept": 61,
-    "rejected": 155,
-    "last_scan": "2026-04-26T02:35:04.130775",
+    "rejected": 158,
+    "last_scan": "2026-04-26T03:05:08.243606",
     "platforms": [
       "Reddit",
       "YouTube",
