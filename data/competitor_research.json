@@ -2169,13 +2169,33 @@
       "status": "reject",
       "reason": "This is a search query, not a finding. Contains no actual competitive intelligence about mentors, strategies, content, offers, programs, audience tactics, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Creating a Sustainable Coaching Business Masterclass with Carole Ann Rice",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-26T00:05:03.732190",
+      "status": "reject",
+      "reason": "Generic masterclass title lacks specific details about coaching strategies, business model, content approach, offers, or competitive positioning that would provide actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Coaching Confidence Gap Masterclass with Ian Norton  #icw2026 #coachingcommunity",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-26T00:05:04.672965",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided - only a masterclass title and generic hashtags with no details about strategies, content approaches, offers, programs, or audience growth tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 238,
+    "scanned": 240,
     "kept": 20,
-    "rejected": 218,
-    "last_scan": "2026-04-25T23:06:06.406345",
+    "rejected": 220,
+    "last_scan": "2026-04-26T00:06:04.931547",
     "platforms": [
       "YouTube",
       "Google",
