@@ -2309,13 +2309,63 @@
       "status": "reject",
       "reason": "The finding is just a search query with no actual data, results, or intelligence about competitors, their strategies, offers, or positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Best Way To Sell Coaching",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-26T12:35:24.016044",
+      "status": "reject",
+      "reason": "Search query alone provides no actual competitive intelligence about strategies, content, offers, or positioning - only indicates someone searched for a competitor name without revealing their tactics or business model.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why We Don't Work Out Together",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-26T12:35:24.801254",
+      "status": "reject",
+      "reason": "Title indicates personal relationship content, not competitive strategy, business model, offers, or market positioning intelligence",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get In Shape While You Can",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-26T12:35:25.684273",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a generic title and search query without details on strategies, content, offers, programs, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "For the struggling gym owners out there..do this.",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-26T12:35:26.573490",
+      "status": "reject",
+      "reason": "Finding references a competitor name without providing specific details about their strategies, content approaches, offers, programs, or audience growth tactics. No actionable intelligence is contained.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "FIVE TO TEN PEOPLE FOR A YEAR",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-26T12:35:28.562858",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a vague reference to Alex Hormozi with no details about strategies, offers, content approaches, or market positioning that would be actionable for competitive analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 252,
+    "scanned": 257,
     "kept": 20,
-    "rejected": 232,
-    "last_scan": "2026-04-26T12:09:27.655408",
+    "rejected": 237,
+    "last_scan": "2026-04-26T12:36:30.553587",
     "platforms": [
       "YouTube",
       "Google",
