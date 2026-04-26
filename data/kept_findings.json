@@ -829,17 +829,27 @@
       "status": "keep",
       "reason": "Contains direct competitive intelligence on mentor program positioning, coach audience targeting, and business model approach for fitness coaching niche",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping a Fitness Coach Agency Get to $1M per Month",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-26T18:05:32.358937",
+      "status": "keep",
+      "reason": "Contains case study of scaling fitness coaching business to $1M/month revenue, which reveals actionable strategies for business model, pricing, and growth tactics used by successful competitors in the fitness coaching space.",
+      "track": "competitor"
     }
   ],
   "stats": {
     "niche_kept": 63,
     "niche_rejected": 164,
     "niche_scanned": 227,
-    "comp_kept": 20,
+    "comp_kept": 21,
     "comp_rejected": 238,
-    "comp_scanned": 258,
-    "last_scan": "2026-04-26T17:36:36.667305",
-    "total_kept": 83,
+    "comp_scanned": 259,
+    "last_scan": "2026-04-26T18:06:34.397798",
+    "total_kept": 84,
     "total_rejected": 402,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
