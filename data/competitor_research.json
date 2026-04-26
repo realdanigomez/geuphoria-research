@@ -2189,13 +2189,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided - only a masterclass title and generic hashtags with no details about strategies, content approaches, offers, programs, or audience growth tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Generals Perspective",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-26T05:05:11.494939",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided - only a search query name with no data about strategies, content, offers, programs, or market positioning",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 240,
+    "scanned": 241,
     "kept": 20,
-    "rejected": 220,
-    "last_scan": "2026-04-26T04:36:10.861513",
+    "rejected": 221,
+    "last_scan": "2026-04-26T05:06:11.165673",
     "platforms": [
       "YouTube",
       "Google",
