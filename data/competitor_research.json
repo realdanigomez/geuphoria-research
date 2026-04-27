@@ -2379,13 +2379,23 @@
       "status": "keep",
       "reason": "Contains case study of scaling fitness coaching business to $1M/month revenue, which reveals actionable strategies for business model, pricing, and growth tactics used by successful competitors in the fitness coaching space.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why success is the sum of your human will",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-27T10:36:19.966691",
+      "status": "reject",
+      "reason": "Contains only a generic motivational statement with no specific competitive intelligence about coaching business models, strategies, content approaches, offers, programs, or audience growth tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 259,
+    "scanned": 260,
     "kept": 21,
-    "rejected": 238,
-    "last_scan": "2026-04-27T10:07:14.729423",
+    "rejected": 239,
+    "last_scan": "2026-04-27T10:37:14.290788",
     "platforms": [
       "YouTube",
       "Google",
