@@ -2389,13 +2389,33 @@
       "status": "reject",
       "reason": "Contains only a generic motivational statement with no specific competitive intelligence about coaching business models, strategies, content approaches, offers, programs, or audience growth tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Set Expectations Early to Avoid Future Problems",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-27T16:36:33.992702",
+      "status": "reject",
+      "reason": "Generic advice about expectation-setting; contains no specific information about Charlie Morgan's coaching business model, strategies, content approach, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How did Coach Become a $2 Billion Brand?",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-27T16:36:35.356007",
+      "status": "reject",
+      "reason": "Title alone lacks specific details about Coach's business model, strategies, or fitness coaching approaches; appears to be about luxury fashion brand, not fitness coaching industry",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 260,
+    "scanned": 262,
     "kept": 21,
-    "rejected": 239,
-    "last_scan": "2026-04-27T16:07:35.328596",
+    "rejected": 241,
+    "last_scan": "2026-04-27T16:37:35.197956",
     "platforms": [
       "YouTube",
       "Google",
