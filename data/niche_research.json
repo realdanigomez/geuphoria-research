@@ -2189,13 +2189,23 @@
       "status": "keep",
       "reason": "Directly addresses financial sustainability and bankruptcy risk, a critical pain point for fitness coaches trying to monetize their business and avoid failure.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Workout With ZERO Motivation (The Progress Paradox) 🤯",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-28T12:36:34.449136",
+      "status": "reject",
+      "reason": "This is client-facing content about workout motivation, not about fitness coaches' business problems, pain points, or operations. It doesn't address coach burnout, marketing, scaling, systems, or any aspect of running a coaching business.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 230,
+    "scanned": 231,
     "kept": 64,
-    "rejected": 166,
-    "last_scan": "2026-04-28T12:07:23.968191",
+    "rejected": 167,
+    "last_scan": "2026-04-28T12:37:28.766786",
     "platforms": [
       "Reddit",
       "YouTube",
