@@ -312,6 +312,26 @@
     },
     {
       "source": "YouTube",
+      "title": "how much to charge",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-04-28T20:06:50.220598",
+      "status": "keep",
+      "reason": "Directly addresses pricing strategy, a critical pain point for coaches struggling with revenue optimization and client acquisition",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Avoid Coaching Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-28T20:07:03.936911",
+      "status": "keep",
+      "reason": "Directly addresses a primary pain point for online fitness coaches (burnout), which impacts retention, client quality, and business sustainability. Understanding burnout causes and solutions is strategically relevant to scaling and maintaining a healthy coaching business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -422,15 +442,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 31,
-    "niche_rejected": 50,
-    "niche_scanned": 81,
+    "niche_kept": 33,
+    "niche_rejected": 54,
+    "niche_scanned": 87,
     "comp_kept": 11,
-    "comp_rejected": 81,
-    "comp_scanned": 92,
-    "last_scan": "2026-04-12T20:01:53.530768",
-    "total_kept": 42,
-    "total_rejected": 131,
+    "comp_rejected": 82,
+    "comp_scanned": 93,
+    "last_scan": "2026-04-28T20:09:05.195335",
+    "total_kept": 44,
+    "total_rejected": 136,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

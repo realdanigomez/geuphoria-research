@@ -709,13 +709,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only mentions a search query without details about strategies, offers, programs, positioning, or audience tactics",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I met Alex",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-28T20:08:01.712297",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a generic title with a search query lacking details about strategies, content, offers, programs, or positioning",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 92,
+    "scanned": 93,
     "kept": 11,
-    "rejected": 81,
-    "last_scan": "2026-04-12T20:01:53.529303",
+    "rejected": 82,
+    "last_scan": "2026-04-28T20:09:05.193751",
     "platforms": [
       "YouTube",
       "Google",
