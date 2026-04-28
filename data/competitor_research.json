@@ -2409,13 +2409,93 @@
       "status": "reject",
       "reason": "Title alone lacks specific details about Coach's business model, strategies, or fitness coaching approaches; appears to be about luxury fashion brand, not fitness coaching industry",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi's #1 Fitness Tip for Teenagers",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-28T03:36:56.943506",
+      "status": "reject",
+      "reason": "Contains only a generic title with no actual content, strategy, offer details, or competitive intelligence about fitness coaching business models, audience tactics, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ep. 25, Clip 3: Is AI Taking Over Coaching? What Corporate Sponsors Are Already Doing #podcast",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-28T03:37:00.242041",
+      "status": "reject",
+      "reason": "Contains generic discussion topic about AI in coaching without specific competitor strategies, offers, programs, or documented tactics from actual fitness coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "pov: 26 year old online entrepreneur doing business in Taiwan",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-28T03:37:03.760725",
+      "status": "reject",
+      "reason": "No specific competitive intelligence about fitness coaching business models, strategies, content approaches, offers, programs, audience growth tactics, or market positioning. Only a vague POV title and a name search with no substantive details provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Flying to Taiwan",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-28T03:37:04.850245",
+      "status": "reject",
+      "reason": "No competitive intelligence provided; only contains a travel reference and a generic name search with no details about coaching strategies, programs, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Landed in Taiwan",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-28T03:37:05.881730",
+      "status": "reject",
+      "reason": "Finding contains only a location mention and a name search with no details about business model, strategy, content, offers, programs, or competitive positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Getting food at markets",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-28T03:37:06.726570",
+      "status": "reject",
+      "reason": "No competitive intelligence present. Finding is about purchasing food at markets, unrelated to fitness coaching business strategies, mentors, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Thoughts on traveling",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-28T03:37:07.960843",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; contains only a search query with generic travel topic unrelated to coaching business strategy, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "First Day in Taiwan",
+      "text": "Search: Daniel Dalen online coaching",
+      "url": "",
+      "time": "2026-04-28T03:37:08.751359",
+      "status": "reject",
+      "reason": "No competitive intelligence present. This is a personal travel post unrelated to fitness coaching business, mentors, strategies, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 262,
+    "scanned": 270,
     "kept": 21,
-    "rejected": 241,
-    "last_scan": "2026-04-28T03:07:58.142594",
+    "rejected": 249,
+    "last_scan": "2026-04-28T03:38:05.611022",
     "platforms": [
       "YouTube",
       "Google",
