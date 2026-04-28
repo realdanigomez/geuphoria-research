@@ -342,6 +342,26 @@
     },
     {
       "source": "YouTube",
+      "title": "Intro \\u0026 Hard Truth",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-28T23:37:01.988514",
+      "status": "keep",
+      "reason": "Directly addresses burnout, a critical pain point for online fitness coaches affecting retention, business sustainability, and scaling potential.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Industry Problems",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-04-28T23:37:03.140331",
+      "status": "keep",
+      "reason": "Directly addresses burnout, a core pain point for fitness coaches that impacts retention, service quality, and business sustainability—understanding this issue helps develop solutions for coach longevity and scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -482,15 +502,15 @@
     }
   ],
   "stats": {
-    "niche_kept": 34,
-    "niche_rejected": 59,
-    "niche_scanned": 93,
+    "niche_kept": 36,
+    "niche_rejected": 64,
+    "niche_scanned": 100,
     "comp_kept": 14,
     "comp_rejected": 103,
     "comp_scanned": 117,
-    "last_scan": "2026-04-28T22:39:31.066592",
-    "total_kept": 48,
-    "total_rejected": 162,
+    "last_scan": "2026-04-28T23:39:06.192955",
+    "total_kept": 50,
+    "total_rejected": 167,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
