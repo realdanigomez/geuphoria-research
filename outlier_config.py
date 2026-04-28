@@ -8,6 +8,10 @@ HARDCODED_CHANNELS = [
     {"name": "Charlie Morgan", "handle": "charliemofficial"},
     {"name": "Daniel Dalen",   "handle": "DanielDalen"},
     {"name": "Iman Gadzhi",    "handle": "ImanGadzhi"},
+    # 2026-04-28: expanded pool to surface more outliers per run
+    {"name": "Sam Ovens",      "handle": "sam_ovens"},
+    {"name": "Dan Martell",    "handle": "danmartell"},
+    {"name": "Mark Coles",     "handle": "MarkColesM10"},
 ]
 
 # Keyword searches to surface additional relevant channels
@@ -15,13 +19,18 @@ KEYWORD_SEARCHES = [
     "online fitness coach business",
     "fitness business coaching",
     "online personal trainer mentor",
+    "fitness coach scale 10k month",
+    "online coaching client acquisition",
+    "personal trainer business systems",
 ]
 
 # Outlier detection thresholds
-OUTLIER_MULTIPLIER_THRESHOLD = 2.0   # standard 2x threshold
+# 2026-04-28: lowered to 1.3x + scan 150 videos per channel to surface 25 new outliers per run
+# (the strict 2.0x threshold + 50 videos was finding only ~4 new per week from 4 channels)
+OUTLIER_MULTIPLIER_THRESHOLD = 1.3   # was 2.0 — borderline outliers still surface signal
 MIN_VIDEO_AGE_HOURS = 48             # exclude videos newer than this (recency bias)
-VIDEOS_PER_CHANNEL = 50              # how many recent videos to fetch per channel
-MAX_OUTLIERS_PER_RUN = 25            # top 25 new outliers per weekly run (11 longform + 11 shorts + 3 overflow)
+VIDEOS_PER_CHANNEL = 150             # was 50 — deeper history catch
+MAX_OUTLIERS_PER_RUN = 25            # top 25 new outliers per weekly run
 TOP_N_FOR_TRANSCRIPTS = 25           # all get transcript + AI
 
 # AI model — Claude Opus for highest quality analysis
