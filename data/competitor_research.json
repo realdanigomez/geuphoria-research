@@ -939,13 +939,33 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only shows a search query without details about strategies, content, offers, programs, or market positioning of Sam Ovens or competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling an In-Person Personal Training Business",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-28T22:38:23.653792",
+      "status": "reject",
+      "reason": "Vague search query without specific competitive intelligence on strategy, content approach, offers, programs, or audience growth tactics",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping a Personal Trainer Get to $1M/Year",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-28T22:38:24.798412",
+      "status": "keep",
+      "reason": "Contains actionable competitive intelligence on high-revenue business model strategies from a recognized fitness coaching mentor, relevant to understanding scaling tactics and positioning in the online coaching market.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 115,
-    "kept": 13,
-    "rejected": 102,
-    "last_scan": "2026-04-28T22:08:52.859280",
+    "scanned": 117,
+    "kept": 14,
+    "rejected": 103,
+    "last_scan": "2026-04-28T22:39:31.065205",
     "platforms": [
       "YouTube",
       "Google",
