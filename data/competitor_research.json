@@ -1149,13 +1149,23 @@
       "status": "reject",
       "reason": "No specific competitive intelligence provided; only a generic table of contents header with a search query lacking details on strategies, offers, programs, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to change your life so you can live like your favorite 'guru'",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-29T10:08:21.883779",
+      "status": "reject",
+      "reason": "Finding lacks specific competitive intelligence about coaching strategies, programs, offers, or market positioning; contains only a generic article title without substantive details about business models or audience tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 136,
+    "scanned": 137,
     "kept": 16,
-    "rejected": 120,
-    "last_scan": "2026-04-29T09:39:28.226590",
+    "rejected": 121,
+    "last_scan": "2026-04-29T10:09:21.517844",
     "platforms": [
       "YouTube",
       "Google",
