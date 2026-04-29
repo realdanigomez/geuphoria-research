@@ -1049,13 +1049,23 @@
       "status": "reject",
       "reason": "This is a search query from a potential customer looking for coaching services, not competitive intelligence about a competitor's business strategy, content approach, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I've Coached 50,000 Men. You All Have The Same Problem.",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-29T03:08:06.355542",
+      "status": "keep",
+      "reason": "Reveals competitor's scale (50,000 clients), content positioning strategy (problem-identification hook), and suggests insight into common client pain points that could inform audience messaging and program design",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 126,
-    "kept": 15,
+    "scanned": 127,
+    "kept": 16,
     "rejected": 111,
-    "last_scan": "2026-04-29T02:39:02.741141",
+    "last_scan": "2026-04-29T03:09:06.833115",
     "platforms": [
       "YouTube",
       "Google",
