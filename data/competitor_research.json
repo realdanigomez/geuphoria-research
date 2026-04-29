@@ -1159,13 +1159,23 @@
       "status": "reject",
       "reason": "Finding lacks specific competitive intelligence about coaching strategies, programs, offers, or market positioning; contains only a generic article title without substantive details about business models or audience tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make Ads That Slap (For Info \\u0026 Agency Offers)",
+      "text": "Search: Charlie Morgan coaching business",
+      "url": "",
+      "time": "2026-04-29T11:08:32.504402",
+      "status": "reject",
+      "reason": "Generic ad copywriting advice not specific to fitness coaching competitors, their strategies, offers, or market positioning",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 137,
+    "scanned": 138,
     "kept": 16,
-    "rejected": 121,
-    "last_scan": "2026-04-29T10:39:28.991461",
+    "rejected": 122,
+    "last_scan": "2026-04-29T11:09:32.011030",
     "platforms": [
       "YouTube",
       "Google",
