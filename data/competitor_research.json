@@ -1069,13 +1069,73 @@
       "status": "reject",
       "reason": "Search query alone contains no competitive intelligence; lacks any actual information about Charlie Morgan's coaching business, strategies, content, offers, or market positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "🎯 The Online Coaches & Agency Owners Community!",
+      "text": "Search: online coach community site:facebook.com",
+      "url": "",
+      "time": "2026-04-29T04:08:56.761019",
+      "status": "reject",
+      "reason": "Generic community reference with no specific intelligence about competitor strategies, content approaches, offers, programs, or market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Online coaching private group is officially OPEN 🔥 Main ...",
+      "text": "Search: online coach community site:facebook.com",
+      "url": "",
+      "time": "2026-04-29T04:08:57.893763",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided; only a generic social media announcement without details on strategies, offers, programs, audience tactics, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Coach for 1:1 sessions with excellent results?",
+      "text": "Search: online coach community site:facebook.com",
+      "url": "",
+      "time": "2026-04-29T04:08:58.992577",
+      "status": "reject",
+      "reason": "This is a search query, not a finding. Contains no data about competitor strategies, content, offers, programs, or positioning—only a generic Facebook search instruction.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "If you were going to hire an online coach",
+      "text": "Search: online coach community site:facebook.com",
+      "url": "",
+      "time": "2026-04-29T04:09:00.028352",
+      "status": "reject",
+      "reason": "This is only a search query syntax example with no actual findings, data, competitor information, strategies, or actionable intelligence about fitness coaching competitors or their approaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "What helped you start as a coach?",
+      "text": "Search: online coach community site:facebook.com",
+      "url": "",
+      "time": "2026-04-29T04:09:01.061593",
+      "status": "reject",
+      "reason": "This is a generic search query with no actual findings, data, or intelligence about competitors, their strategies, offers, or market positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Online coach for riding fitness recommendations?",
+      "text": "Search: online coach community site:facebook.com",
+      "url": "",
+      "time": "2026-04-29T04:09:01.885725",
+      "status": "reject",
+      "reason": "Generic search query with no actual competitive intelligence, findings, or specific business information about coaches, strategies, content, offers, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 128,
+    "scanned": 134,
     "kept": 16,
-    "rejected": 112,
-    "last_scan": "2026-04-29T03:39:22.423407",
+    "rejected": 118,
+    "last_scan": "2026-04-29T04:09:17.275528",
     "platforms": [
       "YouTube",
       "Google",
