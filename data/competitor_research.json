@@ -989,13 +989,73 @@
       "status": "reject",
       "reason": "Contains only a generic title about sales problems with no specific details about Sam Ovens' coaching strategy, business model, content approach, offers, or competitive positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Trained w/ Alex Hormozi in His HQ Home Gym!",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-29T01:07:59.121593",
+      "status": "reject",
+      "reason": "Vague clickbait title lacks specific competitive intelligence about business strategies, content approaches, offers, programs, or audience growth tactics. \"Trained with\" anecdote doesn't provide actionable insights into Hormozi's coaching model, positioning, or methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Full Body Workout in the Ultimate Home Gym",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-29T01:08:00.232918",
+      "status": "reject",
+      "reason": "Contains only a generic workout article title with no specific competitive intelligence about coaching strategies, business models, offers, audience tactics, or market positioning of fitness coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi’s Training \\u0026 Tracking System Explained",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-29T01:08:01.269632",
+      "status": "reject",
+      "reason": "No specific competitive intelligence provided. Title alone doesn't indicate detailed information about strategies, content approaches, offers, programs, or market positioning. Requires actual content analysis to be valuable.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Alex Wears the Same Outfit Every Day",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-29T01:08:02.335667",
+      "status": "reject",
+      "reason": "Personal lifestyle choice unrelated to business strategy, competitive positioning, or fitness coaching offerings. Contains no actionable intelligence about coaching methods, audience growth, program structure, or market strategy.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Alex Structures His Training Routine",
+      "text": "Search: Alex Hormozi fitness coach",
+      "url": "",
+      "time": "2026-04-29T01:08:03.115738",
+      "status": "reject",
+      "reason": "Generic training routine content lacks competitive intelligence about business model, coaching strategies, offers, pricing, or market positioning tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How would I get my first client",
+      "text": "Search: Sam Ovens coaching",
+      "url": "",
+      "time": "2026-04-29T01:08:11.911614",
+      "status": "reject",
+      "reason": "This is a search query from a potential customer looking for coaching services, not competitive intelligence about a competitor's business strategy, content approach, or market positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 120,
+    "scanned": 126,
     "kept": 15,
-    "rejected": 105,
-    "last_scan": "2026-04-29T00:39:03.685628",
+    "rejected": 111,
+    "last_scan": "2026-04-29T01:09:06.553476",
     "platforms": [
       "YouTube",
       "Google",
