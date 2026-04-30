@@ -10,9 +10,29 @@ if not DB_URL:
     print('No DATABASE_URL set, skipping cloud sync')
     exit(0)
 
-conn = psycopg2.connect(DB_URL)
-conn.autocommit = True
-cur = conn.cursor()
+try:
+    conn = psycopg2.connect(DB_URL)
+    conn.autocommit = True
+    cur = conn.cursor()
+except Exception as e:
+    print(f'Database connection failed: {e}')
+    exit(0)
+
+cur.execute("""
+    CREATE TABLE IF NOT EXISTS scraper_entries (
+        id SERIAL PRIMARY KEY,
+        track TEXT, source TEXT, title TEXT, body TEXT,
+        url TEXT, status TEXT, reason TEXT, scraped_at TEXT,
+        created_at TIMESTAMPTZ DEFAULT NOW()
+    )
+""")
+cur.execute("""
+    CREATE TABLE IF NOT EXISTS scraper_stats (
+        track TEXT PRIMARY KEY,
+        stats JSONB,
+        updated_at TIMESTAMPTZ DEFAULT NOW()
+    )
+""")
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
 
