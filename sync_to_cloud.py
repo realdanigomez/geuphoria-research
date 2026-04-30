@@ -83,7 +83,7 @@ def sync_track(filename, track):
 
 # Sync all tracks
 total = 0
-for fname, track in [('niche_research.json', 'niche'), ('competitor_research.json', 'competitor'), ('kept_findings.json', 'combined')]:
+for fname, track in [('niche_research.json', 'niche'), ('competitor_research.json', 'competitor'), ('business_research.json', 'business'), ('kept_findings.json', 'combined')]:
     n = sync_track(fname, track)
     total += n
     print(f'  {track}: {n} new entries')
