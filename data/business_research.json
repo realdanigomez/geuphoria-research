@@ -1279,13 +1279,103 @@
       "status": "reject",
       "reason": "Search query alone without actual content, article, or insight provides no actionable business intelligence or strategy to analyze",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "26 Harsh Lessons I Learned in 2025",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T08:41:26.293961",
+      "status": "keep",
+      "reason": "Alex Hormozi harsh lessons content provides direct founder insights on business mistakes and strategy corrections that can inform fitness coaching positioning, pricing, and scaling decisions.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Monk Like Discipline: What It Really Takes To Win",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:35.049486",
+      "status": "reject",
+      "reason": "Search result without actual content; no specific strategies, insights, or actionable intelligence provided to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Here's what we're going to cover",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:36.120094",
+      "status": "reject",
+      "reason": "Title is generic placeholder text with no substantive content; search query alone doesn't constitute actionable business intelligence or strategy insights.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why success is the sum of your human will",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:37.047393",
+      "status": "reject",
+      "reason": "Title is generic motivational content with no specific business insights, strategies, or actionable intelligence despite Sam Ovens attribution.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Discipline: The tool of the masters",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:38.011969",
+      "status": "reject",
+      "reason": "Title alone without actual content or insights from Sam Ovens provided; cannot verify if it contains specific, actionable business intelligence or strategies beyond a generic motivational headline.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Developing self discipline",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:40.977426",
+      "status": "reject",
+      "reason": "Search query alone without actual content from Sam Ovens provides no specific insights, strategies, or actionable intelligence to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sacrifice: Giving everything to win",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:42.063453",
+      "status": "reject",
+      "reason": "Title alone doesn't provide specific, actionable business intelligence; would need actual content from Sam Ovens to assess strategy or lessons applicable to fitness coaching business",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Finding things to sacrifice",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:43.061046",
+      "status": "reject",
+      "reason": "Search query alone without actual content, transcript, or insights from Sam Ovens cannot provide actionable business intelligence or strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Focus: Channeling energy into the grid",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T08:41:44.488269",
+      "status": "reject",
+      "reason": "Title and text don't provide specific business insights or strategies—only a vague reference to \"channeling energy into the grid\" with no content details, and a name search without context on what Sam Ovens content was actually found or what it teaches.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 128,
-    "kept": 21,
-    "rejected": 107,
-    "last_scan": "2026-05-01T07:56:21.185481",
+    "scanned": 137,
+    "kept": 22,
+    "rejected": 115,
+    "last_scan": "2026-05-01T08:42:39.289864",
     "platforms": [
       "YouTube",
       "Google",
