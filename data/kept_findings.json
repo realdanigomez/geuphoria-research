@@ -779,6 +779,26 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker and this likely contains specific AI strategies/frameworks founders can apply to scale their fitness coaching business, positioning, and operations in 2026.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "15 Brutal Truths I Know at 36 That I Wish I Knew at 20",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T02:11:30.049234",
+      "status": "keep",
+      "reason": "Alex Hormozi wisdom on life/business lessons is highly relevant for creator economy content; his insights on delayed realization of truths can inform messaging about business maturity, decision-making frameworks, and long-term thinking that resonates with fitness entrepreneurs building sustainable brands.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Man That Makes Millionaires: How To Turn $1,000 Into $100 Million!: Alex Hormozi | E235",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T02:11:31.201217",
+      "status": "keep",
+      "reason": "Alex Hormozi interview with specific scaling methodology (\"Turn $1,000 Into $100 Million\") provides actionable business strategy and growth frameworks directly applicable to fitness coaching business model development and pricing strategies.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -788,12 +808,12 @@
     "comp_kept": 20,
     "comp_rejected": 154,
     "comp_scanned": 174,
-    "busi_kept": 13,
-    "busi_rejected": 88,
-    "busi_scanned": 101,
-    "last_scan": "2026-05-01T01:12:44.005631",
-    "total_kept": 78,
-    "total_rejected": 321,
+    "busi_kept": 15,
+    "busi_rejected": 89,
+    "busi_scanned": 104,
+    "last_scan": "2026-05-01T02:12:40.288481",
+    "total_kept": 80,
+    "total_rejected": 322,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
