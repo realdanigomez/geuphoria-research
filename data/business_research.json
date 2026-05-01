@@ -1209,13 +1209,23 @@
       "status": "keep",
       "reason": "Direct interview with Sam Ovens (influential business builder) likely contains actionable strategies on course creation, sales funnels, or scaling—directly applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Millionaire Maker’s Harsh Truths of Making $106M in 72hrs, Why Trump is a Psychopath | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T06:11:19.188728",
+      "status": "reject",
+      "reason": "Title is sensationalized clickbait with unsubstantiated psychological claims about Trump; likely lacks substantive business frameworks or strategies applicable to fitness coaching business despite Hormozi mention.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 121,
+    "scanned": 122,
     "kept": 19,
-    "rejected": 102,
-    "last_scan": "2026-05-01T05:12:40.017053",
+    "rejected": 103,
+    "last_scan": "2026-05-01T06:12:21.882469",
     "platforms": [
       "YouTube",
       "Google",
