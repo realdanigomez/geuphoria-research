@@ -1549,13 +1549,23 @@
       "status": "reject",
       "reason": "Generic motivational title with no specific business insights, strategies, or actionable intelligence provided. The text only contains a search query without actual content or lessons from Alex Hormozi.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi's 27 Minutes of Life-Changing Advice",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T15:37:30.948909",
+      "status": "reject",
+      "reason": "Generic title with no specific business insights, strategies, or actionable intelligence provided in the text; appears to be just a search query without substantive content.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 155,
+    "scanned": 156,
     "kept": 23,
-    "rejected": 132,
-    "last_scan": "2026-05-01T15:12:42.353410",
+    "rejected": 133,
+    "last_scan": "2026-05-01T15:38:33.226850",
     "platforms": [
       "YouTube",
       "Google",
