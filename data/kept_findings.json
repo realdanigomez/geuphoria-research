@@ -919,6 +919,36 @@
       "status": "keep",
       "reason": "Alex Hormozi content on raising standards and excellence thresholds could provide valuable positioning angles for fitness coaching differentiation and premium pricing strategy",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Offers by Alex Hormozi | Make Irresistible Offers | Full Audiobook",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T23:11:52.335220",
+      "status": "keep",
+      "reason": "Alex Hormozi's offer-making framework is directly applicable to designing fitness coaching packages, pricing strategy, and creating compelling value propositions that convert prospects into clients.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi 100M Money Models — Book Review (Summary)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T23:11:53.431550",
+      "status": "keep",
+      "reason": "Contains summary of Alex Hormozi's business model framework which offers actionable strategies for pricing, value creation, and scaling—directly applicable to fitness coaching business model design and monetization strategies.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "After Making $40M Online, This Is My Best Advice To Get Rich | Charlie Morgan",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T23:12:00.348214",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business thinker with proven $40M+ exit experience; content likely contains actionable wealth-building strategies and entrepreneurship lessons applicable to scaling a fitness coaching business",
+      "track": "business"
     }
   ],
   "stats": {
@@ -928,12 +958,12 @@
     "comp_kept": 20,
     "comp_rejected": 170,
     "comp_scanned": 190,
-    "busi_kept": 25,
-    "busi_rejected": 144,
-    "busi_scanned": 169,
-    "last_scan": "2026-05-01T22:40:01.764742",
-    "total_kept": 92,
-    "total_rejected": 396,
+    "busi_kept": 28,
+    "busi_rejected": 150,
+    "busi_scanned": 178,
+    "last_scan": "2026-05-01T23:13:03.344458",
+    "total_kept": 95,
+    "total_rejected": 402,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
