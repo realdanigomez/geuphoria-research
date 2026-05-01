@@ -849,6 +849,16 @@
       "status": "keep",
       "reason": "Direct interview with Sam Ovens (influential business builder) likely contains actionable strategies on course creation, sales funnels, or scaling—directly applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Small Wins Compound Into Greatness - Alex Hormozi (4K)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T07:11:23.795508",
+      "status": "keep",
+      "reason": "Alex Hormozi content on compounding small wins provides direct business strategy applicable to fitness coaching growth—ideal for teaching clients about habit stacking, progress tracking, and long-term business scaling lessons",
+      "track": "business"
     }
   ],
   "stats": {
@@ -858,12 +868,12 @@
     "comp_kept": 20,
     "comp_rejected": 158,
     "comp_scanned": 178,
-    "busi_kept": 19,
-    "busi_rejected": 103,
-    "busi_scanned": 122,
-    "last_scan": "2026-05-01T06:12:21.884410",
-    "total_kept": 85,
-    "total_rejected": 340,
+    "busi_kept": 20,
+    "busi_rejected": 104,
+    "busi_scanned": 124,
+    "last_scan": "2026-05-01T07:12:26.869810",
+    "total_kept": 86,
+    "total_rejected": 341,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

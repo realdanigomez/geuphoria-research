@@ -1219,13 +1219,33 @@
       "status": "reject",
       "reason": "Title is sensationalized clickbait with unsubstantiated psychological claims about Trump; likely lacks substantive business frameworks or strategies applicable to fitness coaching business despite Hormozi mention.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Small Wins Compound Into Greatness - Alex Hormozi (4K)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T07:11:23.795508",
+      "status": "keep",
+      "reason": "Alex Hormozi content on compounding small wins provides direct business strategy applicable to fitness coaching growth—ideal for teaching clients about habit stacking, progress tracking, and long-term business scaling lessons",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why business \\u0026 finance personal brands \\",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T07:11:27.254293",
+      "status": "reject",
+      "reason": "Title and search query lack substantive content; no specific insights, strategies, or actionable intelligence present to extract for business strategy or content ideas.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 122,
-    "kept": 19,
-    "rejected": 103,
-    "last_scan": "2026-05-01T06:12:21.882469",
+    "scanned": 124,
+    "kept": 20,
+    "rejected": 104,
+    "last_scan": "2026-05-01T07:12:26.867682",
     "platforms": [
       "YouTube",
       "Google",
