@@ -1109,13 +1109,113 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential business thinker in the creator economy space; content about wealth-building strategies from established entrepreneurs provides actionable frameworks applicable to fitness coaching business models",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Valuable 40 Minutes You'll Spend This Year | Alex Hormozi Motivation",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T05:11:24.859261",
+      "status": "reject",
+      "reason": "Title only mentions motivation/inspirational content with no indication of specific business strategies, actionable insights, or concrete frameworks that would be useful for fitness coaching business operations or content strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What do you do and why?",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T05:11:25.830887",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Hormozi that could inform fitness coaching business decisions",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Letting your dreams die for others",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T05:11:27.081273",
+      "status": "reject",
+      "reason": "Title references Alex Hormozi but content appears to be motivational philosophy rather than specific business strategy, actionable frameworks, or entrepreneurship lessons that could inform fitness coaching business operations or content strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens: How To Have Discipline",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:35.911094",
+      "status": "reject",
+      "reason": "Search result page only, no actual content from Sam Ovens about discipline tactics or strategies provided to extract actionable business insights",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Have Discipline",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:37.347296",
+      "status": "reject",
+      "reason": "The finding only shows a search query for \"Sam Ovens\" with a generic title about discipline, but contains no actual content, insights, strategies, or business lessons to extract or act upon.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Be Demotivated",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:38.423818",
+      "status": "reject",
+      "reason": "Finding contains only a search query for Sam Ovens with no actual content, insights, strategies, or lessons to extract or apply to business strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Create Discipline",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:39.266899",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategies provided to analyze for business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Example",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:40.450559",
+      "status": "reject",
+      "reason": "Search query alone contains no specific insights, strategies, or actionable intelligence—just a name without substantive business content to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens: Why Being Happy is Bad",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:41.362406",
+      "status": "reject",
+      "reason": "Title only references Sam Ovens name without providing specific business insights, strategies, or actionable intelligence that could inform fitness coaching content strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Secret to Skool's Success (Sam Ovens Interview)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:42.569254",
+      "status": "keep",
+      "reason": "Direct interview with Sam Ovens (influential business builder) likely contains actionable strategies on course creation, sales funnels, or scaling—directly applicable to fitness coaching business model",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 111,
-    "kept": 18,
-    "rejected": 93,
-    "last_scan": "2026-05-01T04:12:18.671194",
+    "scanned": 121,
+    "kept": 19,
+    "rejected": 102,
+    "last_scan": "2026-05-01T05:12:40.017053",
     "platforms": [
       "YouTube",
       "Google",

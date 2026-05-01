@@ -452,6 +452,16 @@
     },
     {
       "source": "YouTube",
+      "title": "I Tried 21 Ways to Get Coaching Clients, These Are the Best",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-01T05:09:14.050528",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition methods with comparative analysis of 21 strategies, providing coaches with tested approaches to solve their most critical pain point: getting clients.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -829,21 +839,31 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential business thinker in the creator economy space; content about wealth-building strategies from established entrepreneurs provides actionable frameworks applicable to fitness coaching business models",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Secret to Skool's Success (Sam Ovens Interview)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T05:11:42.569254",
+      "status": "keep",
+      "reason": "Direct interview with Sam Ovens (influential business builder) likely contains actionable strategies on course creation, sales funnels, or scaling—directly applicable to fitness coaching business model",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 45,
+    "niche_kept": 46,
     "niche_rejected": 79,
-    "niche_scanned": 124,
+    "niche_scanned": 125,
     "comp_kept": 20,
     "comp_rejected": 158,
     "comp_scanned": 178,
-    "busi_kept": 18,
-    "busi_rejected": 93,
-    "busi_scanned": 111,
-    "last_scan": "2026-05-01T04:12:18.673269",
-    "total_kept": 83,
-    "total_rejected": 330,
+    "busi_kept": 19,
+    "busi_rejected": 102,
+    "busi_scanned": 121,
+    "last_scan": "2026-05-01T05:12:40.019077",
+    "total_kept": 85,
+    "total_rejected": 339,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
