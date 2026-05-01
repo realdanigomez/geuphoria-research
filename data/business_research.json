@@ -1599,13 +1599,23 @@
       "status": "reject",
       "reason": "No actual content provided - only a title and search term with no insights, strategies, or substantive business lessons present",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You're So Smart, Why Aren’t You Rich? | ALEX HORMOZI",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T19:11:35.798139",
+      "status": "reject",
+      "reason": "Search result page without substantive content; no actual insights, strategies, or lessons extractable from a title-only reference to Alex Hormozi's work.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 160,
+    "scanned": 161,
     "kept": 24,
-    "rejected": 136,
-    "last_scan": "2026-05-01T18:42:39.703422",
+    "rejected": 137,
+    "last_scan": "2026-05-01T19:12:38.539606",
     "platforms": [
       "YouTube",
       "Google",
