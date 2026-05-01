@@ -1139,13 +1139,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition methods with comparative analysis of 21 strategies, providing coaches with tested approaches to solve their most critical pain point: getting clients.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Does An Online Fitness Coach Actually Do?",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-01T07:53:06.438189",
+      "status": "reject",
+      "reason": "Title is descriptive overview rather than insight into actual pain points, struggles, or challenges; generic \"what does X do\" content lacks specific, actionable intelligence for understanding coach problems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 125,
+    "scanned": 126,
     "kept": 46,
-    "rejected": 79,
-    "last_scan": "2026-05-01T07:10:19.560819",
+    "rejected": 80,
+    "last_scan": "2026-05-01T07:54:09.354772",
     "platforms": [
       "Reddit",
       "YouTube",

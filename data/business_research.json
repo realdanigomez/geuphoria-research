@@ -1239,13 +1239,53 @@
       "status": "reject",
       "reason": "Title and search query lack substantive content; no specific insights, strategies, or actionable intelligence present to extract for business strategy or content ideas.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 30 Minutes You Need To Unlock Your Potential | Alex Hormozi Motivation",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T07:55:14.686604",
+      "status": "reject",
+      "reason": "Title is generic motivational content without specific business strategies, frameworks, or actionable insights that would differentiate coaching content or business strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Become a Millionaire When You’re Broke (ft. Charlie Morgan)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T07:55:18.182012",
+      "status": "keep",
+      "reason": "Features influential business thinker (Charlie Morgan) discussing wealth-building strategies; directly applicable to creator economy and scaling business from zero, relevant for coaching business model development.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T07:55:19.234092",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or information about Charlie Morgan's business strategies or lessons cannot provide actionable intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Foundations",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T07:55:20.282956",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insight provides no actionable business intelligence or strategy to analyze",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 124,
-    "kept": 20,
-    "rejected": 104,
-    "last_scan": "2026-05-01T07:12:26.867682",
+    "scanned": 128,
+    "kept": 21,
+    "rejected": 107,
+    "last_scan": "2026-05-01T07:56:21.185481",
     "platforms": [
       "YouTube",
       "Google",
