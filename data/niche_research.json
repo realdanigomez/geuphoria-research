@@ -1169,13 +1169,23 @@
       "status": "reject",
       "reason": "Contains personal success story narrative without actionable insights into specific pain points, struggles, or systems that online fitness coaches face",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "If you have this wrong as a fitness coach you’re gonna go bankrupt.",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-01T18:09:26.961575",
+      "status": "keep",
+      "reason": "Directly addresses financial viability concerns and implied business model mistakes common to fitness coaches, relevant to income/sustainability pain points in the niche.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 128,
-    "kept": 46,
+    "scanned": 129,
+    "kept": 47,
     "rejected": 82,
-    "last_scan": "2026-05-01T17:10:53.807988",
+    "last_scan": "2026-05-01T18:10:30.300681",
     "platforms": [
       "Reddit",
       "YouTube",

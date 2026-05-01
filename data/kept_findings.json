@@ -462,6 +462,16 @@
     },
     {
       "source": "YouTube",
+      "title": "If you have this wrong as a fitness coach you’re gonna go bankrupt.",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-01T18:09:26.961575",
+      "status": "keep",
+      "reason": "Directly addresses financial viability concerns and implied business model mistakes common to fitness coaches, relevant to income/sustainability pain points in the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -902,17 +912,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 46,
+    "niche_kept": 47,
     "niche_rejected": 82,
-    "niche_scanned": 128,
+    "niche_scanned": 129,
     "comp_kept": 20,
     "comp_rejected": 170,
     "comp_scanned": 190,
     "busi_kept": 24,
     "busi_rejected": 136,
     "busi_scanned": 160,
-    "last_scan": "2026-05-01T17:13:06.079524",
-    "total_kept": 90,
+    "last_scan": "2026-05-01T18:12:38.584635",
+    "total_kept": 91,
     "total_rejected": 388,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
