@@ -639,19 +639,342 @@
       "status": "reject",
       "reason": "Title is generic without context; no evidence of specific scaling strategy, system, framework, or tactic applicable to coaching businesses",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Use AI in Your Business in 2026",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:22.130593",
+      "status": "reject",
+      "reason": "Title promises AI business strategies but finding only shows a search query for Alex Hormozi with no actual content, insights, or actionable intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Win With AI in 2026",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:23.372188",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, strategy, or insights provided—cannot assess business value without the substantive article or findings.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If you want 2026 to be the best year of your life, please watch this video...",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:24.493706",
+      "status": "reject",
+      "reason": "Search query alone without actual content, transcript, or specific business insights provided—cannot evaluate substance or actionability",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You’re Wasting 80% of Your Time (here’s how to fix it)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:25.735651",
+      "status": "keep",
+      "reason": "Alex Hormozi content on time efficiency directly applies to coaching business operations, client delivery optimization, and scaling strategies—core concerns for fitness coaching entrepreneurs.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "YOU OWE IT TO YOU IN 2025 - Powerful Motivational Speech | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:27.021162",
+      "status": "keep",
+      "reason": "Alex Hormozi motivational content provides direct business psychology and mindset frameworks applicable to fitness coaching business positioning, pricing strategies, and customer retention messaging that can inform content calendars and client onboarding narratives.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:28.117574",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategies provided—lacks specific, actionable intelligence for business strategy or content creation.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The American Dream",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:29.185540",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi that could apply to fitness coaching business",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Everyone Looks Like An Overnight Success",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T00:12:30.309294",
+      "status": "reject",
+      "reason": "Search result title only with no actual content, insights, or strategies provided to evaluate for business value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "how I make $125k profit per month with a free skool group (low ticket upsells)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:34.103113",
+      "status": "keep",
+      "reason": "Demonstrates monetization strategy (free community + low-ticket upsells) applicable to fitness coaching business model; Charlie Morgan is influential creator economy figure with proven scaling methods",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "\\",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:35.189806",
+      "status": "reject",
+      "reason": "Search query alone contains no actual content, insights, or information to extract—just a search term without substantive business intelligence, strategies, or lessons.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Is The Internet Marketing Space So F*cked?",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:36.366780",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Charlie Morgan - no specific, actionable intelligence present",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "4 Business Lessons I Learned From My BILLIONAIRE Mentor",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:37.730423",
+      "status": "reject",
+      "reason": "Title is clickbait with no actual content provided; \"billionaire mentor\" claims lack specifics, and without the actual lessons detailed, there's no actionable intelligence to evaluate for a fitness coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro Summary",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:38.876190",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or insights. No business intelligence, strategies, or lessons present to extract or learn from.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lesson 1 Second Order Consequences",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:40.066264",
+      "status": "reject",
+      "reason": "Search query alone without actual content, lessons, or specific business insights provided; cannot evaluate value without the actual material from Charlie Morgan",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Chess Example",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:41.241029",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or substantive information provided to evaluate for business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Generals Perspective",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T00:12:42.072912",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or specific business strategies from Charlie Morgan provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "This is Your Last Chance to Get Rich (Before AI Replaces You)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:45.974523",
+      "status": "keep",
+      "reason": "Dan Martell content on AI disruption and wealth-building timing is directly relevant to creator economy strategy and business survival in an AI-era fitness coaching market.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dan Martell: The AI Cheat Codes Every Founder Needs in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:47.165335",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker and this likely contains specific AI strategies/frameworks founders can apply to scale their fitness coaching business, positioning, and operations in 2026.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Trailer",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:48.164502",
+      "status": "reject",
+      "reason": "No actual content provided - only a search query for Dan Martell with no substantive business insights, strategies, or lessons included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You've Tested 500 AI Tools And Narrowed Down To The Top 8. Let's Start With ChatGPT.",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:49.529519",
+      "status": "reject",
+      "reason": "Title promises AI tool comparison but content appears to be generic ChatGPT introduction; no specific business strategies, frameworks, or actionable intelligence for fitness coaching business model or creator economy trends evident.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What About Claude?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:50.743306",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or substantive information about Claude or relevant business strategy cannot provide actionable intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Do You Recommend People Going Super Wide Or All In On One?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:51.657269",
+      "status": "reject",
+      "reason": "Title only poses a question without providing Dan Martell's actual answer, strategy, or actionable insights on focus vs. diversification",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What About Gemini?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:52.920232",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or substantive information about Gemini or Dan Martell's perspective—no actionable intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What About Grok?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T00:12:54.430288",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual content, insights, or information about Dan Martell's ideas or business strategies to extract value from.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Be More Productive (Quantum Mastermind Recording)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:12:57.892675",
+      "status": "reject",
+      "reason": "Contains only a title and search query with no actual content, insights, or actionable intelligence to evaluate.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:12:59.508014",
+      "status": "reject",
+      "reason": "Search query alone contains no actual content, insights, strategies, or information to extract or learn from",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Environment",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:13:00.712561",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategies provided—requires the actual material/article about Sam Ovens to evaluate business value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How often",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:13:01.668876",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or substantive information to extract or apply to business strategy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Work against them",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:13:02.730488",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided. No specific business lessons or actionable intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Heuristics",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:13:03.825821",
+      "status": "reject",
+      "reason": "Search result for \"Heuristics\" with Sam Ovens query lacks actual content, insights, or substantive business strategy to extract actionable intelligence from.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fear",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:13:04.993059",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, article, or insights from Sam Ovens provided—cannot assess business value without substantive material to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Schedule",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-01T00:13:06.047500",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Sam Ovens — no actionable intelligence or specific business strategy included.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 64,
-    "kept": 8,
-    "rejected": 56,
-    "last_scan": "2026-04-14T21:13:44.383825",
+    "scanned": 96,
+    "kept": 13,
+    "rejected": 83,
+    "last_scan": "2026-05-01T00:14:04.331321",
     "platforms": [
       "YouTube",
       "Google",
       "Reddit",
       "LinkedIn",
-      "Twitter/X"
+      "Twitter/X",
+      "Quora",
+      "Medium",
+      "Instagram"
     ]
   }
 }
