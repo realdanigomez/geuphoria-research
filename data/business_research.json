@@ -959,13 +959,63 @@
       "status": "reject",
       "reason": "Search query alone without actual content, article, or insights from Sam Ovens — no actionable intelligence or specific business strategy included.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why you aren't making as much money as you want",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T01:11:33.334632",
+      "status": "reject",
+      "reason": "Search query alone without actual content provides no actionable intelligence or specific business insights to analyze",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a Mind So Strong It Scares People",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T01:11:34.347068",
+      "status": "reject",
+      "reason": "Title is clickbait without substantive content; search-only reference to Alex Hormozi lacks actual business insights, strategies, or applicable lessons for fitness coaching business",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping 6 Business Owners Scale in 33 Minutes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T01:11:35.460316",
+      "status": "reject",
+      "reason": "Title promises scaling insights but provides no specifics; search-only entry lacks actual content, strategies, or actionable business intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Roofing \\u0026 Exterior Remodeling ($6M → $100M)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T01:11:36.682578",
+      "status": "reject",
+      "reason": "While this features Alex Hormozi, it's about roofing/exterior remodeling scaling principles, not fitness coaching or creator economy content relevant to an online fitness business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Product",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T01:11:40.381309",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, articles, or insights provided—cannot assess business value without substantive material to analyze",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 96,
+    "scanned": 101,
     "kept": 13,
-    "rejected": 83,
-    "last_scan": "2026-05-01T00:14:04.331321",
+    "rejected": 88,
+    "last_scan": "2026-05-01T01:12:44.003641",
     "platforms": [
       "YouTube",
       "Google",

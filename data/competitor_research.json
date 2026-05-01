@@ -1489,13 +1489,53 @@
       "status": "reject",
       "reason": "Search query alone without findings, data, or intelligence about Brian Mark's strategy, content, offers, or positioning",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Burn Fat Build Muscle Workout (450% MORE CALORIES BURNED THAN CARDIO!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T01:10:22.428362",
+      "status": "reject",
+      "reason": "This is a generic workout content piece targeting fitness consumers, not intelligence about fitness business coaches or how they build their businesses. No strategic, offer, or positioning insights about coaching businesses are present.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hang Power Clean",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T01:10:23.332917",
+      "status": "reject",
+      "reason": "This is a general fitness exercise tutorial with no information about business strategy, coaching programs, mentors, or communities that help online fitness coaches build their businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Push Press",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T01:10:24.279223",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about business strategy, offers, positioning, or competitive tactics—only confirms Vince Del Monte exists as a known figure in the space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only Course You Need To Be An Online Trainer",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-01T01:10:33.090765",
+      "status": "reject",
+      "reason": "Title alone doesn't provide specific, actionable business intelligence about strategy, positioning, offers, or how Brian Mark helps coaches build their business—only indicates a course exists.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 170,
+    "scanned": 174,
     "kept": 20,
-    "rejected": 150,
-    "last_scan": "2026-05-01T00:12:20.260111",
+    "rejected": 154,
+    "last_scan": "2026-05-01T01:11:31.463324",
     "platforms": [
       "YouTube",
       "Google",
