@@ -1419,13 +1419,93 @@
       "status": "reject",
       "reason": "Search query alone without actual content, articles, or insights from Charlie Morgan. No specific business strategies, frameworks, or actionable intelligence present to analyze.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T10:41:24.558681",
+      "status": "reject",
+      "reason": "Title appears to be clickbait without actual content provided; no specific strategies, frameworks, or actionable intelligence included to evaluate relevance to fitness coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 20 Ways to Make Money with AI in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T10:41:30.702657",
+      "status": "reject",
+      "reason": "Title promises comprehensive list but finding only contains a search query for Dan Martell with no actual content, strategies, or actionable intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 Tiny Habits That Made Me Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T10:41:31.730381",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker; \"tiny habits\" framework offers actionable strategies applicable to fitness coaching business growth and creator economy monetization",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Stop Wasting Your Life (No More Distractions)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T10:41:32.734103",
+      "status": "reject",
+      "reason": "Title lacks substance; merely invoking Dan Martell's name without demonstrating actual business insights, strategies, or entrepreneurship lessons doesn't constitute actionable intelligence for fitness coaching business strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T10:41:33.708463",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or substantive information provided about Dan Martell or business strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why you procrastinate",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T10:41:34.771648",
+      "status": "reject",
+      "reason": "Title promises procrastination content but finding only shows a search query for Dan Martell with no actual insights, strategies, or business lessons included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Signal vs Noise",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T10:41:35.866855",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Dan Martell—no actionable intelligence or specific business strategy present to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Eliminate Distractions",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T10:41:36.764252",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, insights, or strategies to analyze for business value or actionable intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 142,
-    "kept": 22,
-    "rejected": 120,
-    "last_scan": "2026-05-01T09:42:34.754137",
+    "scanned": 150,
+    "kept": 23,
+    "rejected": 127,
+    "last_scan": "2026-05-01T10:42:35.050779",
     "platforms": [
       "YouTube",
       "Google",
