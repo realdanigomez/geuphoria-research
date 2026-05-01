@@ -1669,13 +1669,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies provides no actionable intelligence to extract or act upon.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Bar For Excellence Is Embarrassingly Low",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T21:11:36.918959",
+      "status": "keep",
+      "reason": "Alex Hormozi content on raising standards and excellence thresholds could provide valuable positioning angles for fitness coaching differentiation and premium pricing strategy",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 167,
-    "kept": 24,
+    "scanned": 168,
+    "kept": 25,
     "rejected": 143,
-    "last_scan": "2026-05-01T20:42:38.376597",
+    "last_scan": "2026-05-01T21:12:39.150645",
     "platforms": [
       "YouTube",
       "Google",

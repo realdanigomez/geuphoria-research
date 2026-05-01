@@ -909,6 +909,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker known for entrepreneurship and scaling strategies; this content likely contains actionable insights on productivity/lifestyle design applicable to fitness coaching business operations",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Bar For Excellence Is Embarrassingly Low",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T21:11:36.918959",
+      "status": "keep",
+      "reason": "Alex Hormozi content on raising standards and excellence thresholds could provide valuable positioning angles for fitness coaching differentiation and premium pricing strategy",
+      "track": "business"
     }
   ],
   "stats": {
@@ -918,11 +928,11 @@
     "comp_kept": 20,
     "comp_rejected": 170,
     "comp_scanned": 190,
-    "busi_kept": 24,
+    "busi_kept": 25,
     "busi_rejected": 143,
-    "busi_scanned": 167,
-    "last_scan": "2026-05-01T20:42:38.379154",
-    "total_kept": 91,
+    "busi_scanned": 168,
+    "last_scan": "2026-05-01T21:12:39.153279",
+    "total_kept": 92,
     "total_rejected": 395,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
