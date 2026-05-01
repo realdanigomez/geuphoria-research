@@ -1369,13 +1369,63 @@
       "status": "reject",
       "reason": "Title and text don't provide specific business insights or strategies—only a vague reference to \"channeling energy into the grid\" with no content details, and a name search without context on what Sam Ovens content was actually found or what it teaches.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Risks of Distraction",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T09:41:28.124113",
+      "status": "reject",
+      "reason": "Search result page without actual content from Alex Hormozi; no specific insights, strategies, or actionable intelligence provided to analyze",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Focus on Outcomes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T09:41:29.188761",
+      "status": "reject",
+      "reason": "Search query alone without actual content, statements, or insights from Alex Hormozi cannot provide actionable business intelligence for content strategy or coaching business development.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to reprogram your brain for wealth \\u0026 success",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T09:41:33.045488",
+      "status": "reject",
+      "reason": "Title is generic self-help content about mindset; no specific business strategy, framework, or actionable intelligence provided. Search query shows no actual content was reviewed—just a search term for Charlie Morgan.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Principles",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T09:41:34.080296",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or specific business insights from Charlie Morgan - no actionable intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Belief",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T09:41:35.030866",
+      "status": "reject",
+      "reason": "Search query alone without actual content, articles, or insights from Charlie Morgan. No specific business strategies, frameworks, or actionable intelligence present to analyze.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 137,
+    "scanned": 142,
     "kept": 22,
-    "rejected": 115,
-    "last_scan": "2026-05-01T08:42:39.289864",
+    "rejected": 120,
+    "last_scan": "2026-05-01T09:42:34.754137",
     "platforms": [
       "YouTube",
       "Google",
