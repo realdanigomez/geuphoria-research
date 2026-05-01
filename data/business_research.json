@@ -1679,13 +1679,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on raising standards and excellence thresholds could provide valuable positioning angles for fitness coaching differentiation and premium pricing strategy",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Charlie Morgan Explains The Secret Business Strategy",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-01T22:11:54.479423",
+      "status": "reject",
+      "reason": "Title promises strategy but search query alone provides no actual content, insights, or actionable intelligence to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 168,
+    "scanned": 169,
     "kept": 25,
-    "rejected": 143,
-    "last_scan": "2026-05-01T21:12:39.150645",
+    "rejected": 144,
+    "last_scan": "2026-05-01T22:12:57.911434",
     "platforms": [
       "YouTube",
       "Google",
