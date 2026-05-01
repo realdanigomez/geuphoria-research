@@ -1609,13 +1609,73 @@
       "status": "reject",
       "reason": "Search result page without substantive content; no actual insights, strategies, or lessons extractable from a title-only reference to Alex Hormozi's work.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted To Grow An Audience In 2026, I'd Do This",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T19:57:55.356377",
+      "status": "reject",
+      "reason": "Title suggests audience growth tactics but no actual content provided to evaluate for specificity or actionability; appears to be a search result placeholder rather than substantive business insight.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a Brand",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T19:57:56.335425",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided—no actionable intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "7.8M Followers With This Tactic",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T19:57:57.306576",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or tactics described. No specific actionable intelligence provided to evaluate.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Got Started",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T19:57:58.168368",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategies provided - lacks specific, actionable intelligence needed for business strategy or content inspiration.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build Influence",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T19:57:59.102296",
+      "status": "reject",
+      "reason": "Search query alone without actual content, methodology, or insights—no actionable business intelligence present",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Monetize",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T19:58:00.086405",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provides no actionable intelligence to extract or act upon.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 161,
+    "scanned": 167,
     "kept": 24,
-    "rejected": 137,
-    "last_scan": "2026-05-01T19:12:38.539606",
+    "rejected": 143,
+    "last_scan": "2026-05-01T19:59:02.848741",
     "platforms": [
       "YouTube",
       "Google",
