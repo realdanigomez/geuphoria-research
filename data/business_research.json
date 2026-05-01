@@ -1529,13 +1529,33 @@
       "status": "reject",
       "reason": "Generic audiobook promotion without specific business model details, frameworks, or actionable takeaways outlined in the finding itself.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Don’t Let Bad Things Ruin Everything",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T15:11:38.552719",
+      "status": "reject",
+      "reason": "Title lacks specificity and text only contains a search term without actual content, insights, or business strategy to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "See Opportunity in Every Failure",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T15:11:39.694971",
+      "status": "reject",
+      "reason": "Generic motivational title with no specific business insights, strategies, or actionable intelligence provided. The text only contains a search query without actual content or lessons from Alex Hormozi.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 153,
+    "scanned": 155,
     "kept": 23,
-    "rejected": 130,
-    "last_scan": "2026-05-01T14:42:33.178221",
+    "rejected": 132,
+    "last_scan": "2026-05-01T15:12:42.353410",
     "platforms": [
       "YouTube",
       "Google",
