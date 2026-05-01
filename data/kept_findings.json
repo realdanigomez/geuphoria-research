@@ -799,6 +799,16 @@
       "status": "keep",
       "reason": "Alex Hormozi interview with specific scaling methodology (\"Turn $1,000 Into $100 Million\") provides actionable business strategy and growth frameworks directly applicable to fitness coaching business model development and pricing strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Thought I Was Broken — I Just Had the Wrong Words | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T03:11:27.246319",
+      "status": "keep",
+      "reason": "Alex Hormozi content on reframing mindset/identity issues as communication problems offers direct applicability to coaching messaging, client psychology frameworks, and content angles for fitness business positioning",
+      "track": "business"
     }
   ],
   "stats": {
@@ -806,14 +816,14 @@
     "niche_rejected": 79,
     "niche_scanned": 124,
     "comp_kept": 20,
-    "comp_rejected": 154,
-    "comp_scanned": 174,
-    "busi_kept": 15,
-    "busi_rejected": 89,
-    "busi_scanned": 104,
-    "last_scan": "2026-05-01T02:12:40.288481",
-    "total_kept": 80,
-    "total_rejected": 322,
+    "comp_rejected": 158,
+    "comp_scanned": 178,
+    "busi_kept": 16,
+    "busi_rejected": 92,
+    "busi_scanned": 108,
+    "last_scan": "2026-05-01T03:12:35.567302",
+    "total_kept": 81,
+    "total_rejected": 329,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -1039,13 +1039,53 @@
       "status": "keep",
       "reason": "Alex Hormozi interview with specific scaling methodology (\"Turn $1,000 Into $100 Million\") provides actionable business strategy and growth frameworks directly applicable to fitness coaching business model development and pricing strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Man That Makes Millionaires: Turn $0 to $10k With This Step By Step Formula! Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T03:11:26.109668",
+      "status": "reject",
+      "reason": "Search result page without substantive content; no actual formula, strategy, or insights included—just a title and search term.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Thought I Was Broken — I Just Had the Wrong Words | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T03:11:27.246319",
+      "status": "keep",
+      "reason": "Alex Hormozi content on reframing mindset/identity issues as communication problems offers direct applicability to coaching messaging, client psychology frameworks, and content angles for fitness business positioning",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi: How To Make So Much Money You Question The Meaning Of It",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T03:11:28.206928",
+      "status": "reject",
+      "reason": "Search result only, no actual content or insights provided to evaluate for actionable business intelligence",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "41 Harsh Truths Nobody Wants To Admit - Alex Hormozi (4K)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-01T03:11:29.336607",
+      "status": "reject",
+      "reason": "Title alone without specific content details provided; cannot verify if it contains actionable business intelligence vs. generic motivational content without seeing the actual harsh truths discussed.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 104,
-    "kept": 15,
-    "rejected": 89,
-    "last_scan": "2026-05-01T02:12:40.286748",
+    "scanned": 108,
+    "kept": 16,
+    "rejected": 92,
+    "last_scan": "2026-05-01T03:12:35.565377",
     "platforms": [
       "YouTube",
       "Google",

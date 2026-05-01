@@ -1529,13 +1529,53 @@
       "status": "reject",
       "reason": "Title alone doesn't provide specific, actionable business intelligence about strategy, positioning, offers, or how Brian Mark helps coaches build their business—only indicates a course exists.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Push Ups | 2 sets of Max Reps | Tempo 2222 | Rest 60 sec",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T03:10:15.512537",
+      "status": "reject",
+      "reason": "This is a generic push-up workout instruction unrelated to fitness business coaching, strategy, or how coaches build their businesses. The search mention of Vince Del Monte lacks context or substantive business intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Incline Dumbbell Hammer Curls | 3 sets of 11-14 reps | Tempo 4010 | Rest 30 sec",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T03:10:17.137918",
+      "status": "reject",
+      "reason": "This is a workout exercise tutorial with no information about business strategy, coaching programs, mentorship, or how fitness coaches build their businesses. While Vince Del Monte is mentioned in the search, the content itself is just an exercise demonstration unrelated to competitor intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Low Pulley Standing Trap 3 Raise w/ Rope | 3 sets of 11-14 reps | Tempo 2012 | Rest 30 sec",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T03:10:18.017239",
+      "status": "reject",
+      "reason": "This is an exercise demonstration video unrelated to fitness business coaching, mentorship, or strategies for building an online coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Triceps Pulley Pressdowns w/ Rope | 3 sets of 11-14 reps | Tempo 3012 | Rest 30 sec",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T03:10:19.229658",
+      "status": "reject",
+      "reason": "This is an exercise demonstration video, not competitive intelligence about fitness business coaching. It contains no information about business strategy, positioning, offers, or coaching programs for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 174,
+    "scanned": 178,
     "kept": 20,
-    "rejected": 154,
-    "last_scan": "2026-05-01T02:11:24.456691",
+    "rejected": 158,
+    "last_scan": "2026-05-01T03:11:24.487231",
     "platforms": [
       "YouTube",
       "Google",
