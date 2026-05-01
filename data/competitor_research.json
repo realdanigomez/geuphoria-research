@@ -1649,13 +1649,43 @@
       "status": "reject",
       "reason": "Title alone doesn't indicate specific business strategy, offers, or positioning intelligence for online fitness coaches. Search term suggests generic personal branding content rather than fitness business coaching expertise.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lose Fat Build Muscle Workout (DIFFERENT! HARDER! BETTER!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T12:40:27.350388",
+      "status": "reject",
+      "reason": "This is a generic workout content piece, not intelligence about fitness business coaches or their strategies for building online coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Gaba Squat",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T12:40:28.788439",
+      "status": "reject",
+      "reason": "Search query only mentions Vince Del Monte's name without providing any specific intelligence about his business strategy, offers, positioning, or coaching approach that would be actionable for an online fitness coach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Split Stance One-Arm Row",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T12:40:29.897624",
+      "status": "reject",
+      "reason": "Contains only a generic exercise tutorial with a search query; no business strategy, positioning, offers, or actionable intelligence about fitness coaching business models.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 186,
+    "scanned": 189,
     "kept": 20,
-    "rejected": 166,
-    "last_scan": "2026-05-01T11:41:24.002344",
+    "rejected": 169,
+    "last_scan": "2026-05-01T12:41:32.491188",
     "platforms": [
       "YouTube",
       "Google",
