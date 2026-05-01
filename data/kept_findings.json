@@ -889,6 +889,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker; \"tiny habits\" framework offers actionable strategies applicable to fitness coaching business growth and creator economy monetization",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Forget Work Life Balance",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T17:12:07.625289",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker known for entrepreneurship and scaling strategies; this content likely contains actionable insights on productivity/lifestyle design applicable to fitness coaching business operations",
+      "track": "business"
     }
   ],
   "stats": {
@@ -896,14 +906,14 @@
     "niche_rejected": 82,
     "niche_scanned": 128,
     "comp_kept": 20,
-    "comp_rejected": 169,
-    "comp_scanned": 189,
-    "busi_kept": 23,
-    "busi_rejected": 133,
-    "busi_scanned": 156,
-    "last_scan": "2026-05-01T16:42:30.576223",
-    "total_kept": 89,
-    "total_rejected": 384,
+    "comp_rejected": 170,
+    "comp_scanned": 190,
+    "busi_kept": 24,
+    "busi_rejected": 136,
+    "busi_scanned": 160,
+    "last_scan": "2026-05-01T17:13:06.079524",
+    "total_kept": 90,
+    "total_rejected": 388,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -1559,13 +1559,53 @@
       "status": "reject",
       "reason": "Generic title with no specific business insights, strategies, or actionable intelligence provided in the text; appears to be just a search query without substantive content.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 Things I Did to Stop Wasting My Evenings After Work",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T17:12:05.479719",
+      "status": "reject",
+      "reason": "General productivity advice about evening routines lacks specific business insights, strategies, or entrepreneurship lessons applicable to fitness coaching content business model or creator economy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Feed Your Mind",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T17:12:06.451882",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Dan Martell - no actionable business intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Forget Work Life Balance",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T17:12:07.625289",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker known for entrepreneurship and scaling strategies; this content likely contains actionable insights on productivity/lifestyle design applicable to fitness coaching business operations",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Schedule Family Time",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-01T17:12:08.503208",
+      "status": "reject",
+      "reason": "No actual content provided - only a title and search term with no insights, strategies, or substantive business lessons present",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 156,
-    "kept": 23,
-    "rejected": 133,
-    "last_scan": "2026-05-01T16:42:30.573716",
+    "scanned": 160,
+    "kept": 24,
+    "rejected": 136,
+    "last_scan": "2026-05-01T17:13:06.074736",
     "platforms": [
       "YouTube",
       "Google",

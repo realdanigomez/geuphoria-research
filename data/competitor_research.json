@@ -1679,13 +1679,23 @@
       "status": "reject",
       "reason": "Contains only a generic exercise tutorial with a search query; no business strategy, positioning, offers, or actionable intelligence about fitness coaching business models.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "ERIC BACH: How A Scattered \\u0026 Struggling Father Became a Millionaire Fitness Coach",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-01T17:10:55.640254",
+      "status": "reject",
+      "reason": "Contains a testimonial/case study format but no specific, actionable intelligence about business strategies, offers, positioning, or tactics that online fitness coaches can learn from. Vince Del Monte mention is only in the search query, not substantive content analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 189,
+    "scanned": 190,
     "kept": 20,
-    "rejected": 169,
-    "last_scan": "2026-05-01T16:41:27.195618",
+    "rejected": 170,
+    "last_scan": "2026-05-01T17:11:58.711418",
     "platforms": [
       "YouTube",
       "Google",
