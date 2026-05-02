@@ -1229,13 +1229,23 @@
       "status": "reject",
       "reason": "No actual content provided - only a search query without findings, data, insights, or specific examples of burnout causes that would inform coaching business strategies.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What It Is that Causes the Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-02T23:10:17.852140",
+      "status": "reject",
+      "reason": "Generic burnout topic without specific data, causes, or solutions applicable to online fitness coaches' unique business challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 134,
+    "scanned": 135,
     "kept": 49,
-    "rejected": 85,
-    "last_scan": "2026-05-02T22:08:51.793670",
+    "rejected": 86,
+    "last_scan": "2026-05-02T23:11:16.051659",
     "platforms": [
       "Reddit",
       "YouTube",
