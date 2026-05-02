@@ -1919,13 +1919,43 @@
       "status": "reject",
       "reason": "Search query without actual content; no specific business insights, strategies, or lessons present to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Entrepreneurs Really Need",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-02T12:42:06.037047",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided - no specific intelligence to extract for business strategy or content ideas",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is There a Framework for Knowing When to Quit?",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-02T12:42:07.065898",
+      "status": "reject",
+      "reason": "Title suggests a framework discussion but the finding only shows a search query for Alex Hormozi without actual content, insights, or actionable intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fear vs. Logic: How to Think Rationally",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-02T12:42:08.366534",
+      "status": "reject",
+      "reason": "Contains only a generic title about rational thinking with no actual content, insights, or specific business/entrepreneurship strategies from Alex Hormozi or other business thinkers to extract actionable intelligence from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 192,
+    "scanned": 195,
     "kept": 30,
-    "rejected": 162,
-    "last_scan": "2026-05-02T11:43:04.634952",
+    "rejected": 165,
+    "last_scan": "2026-05-02T12:43:11.889709",
     "platforms": [
       "YouTube",
       "Google",
