@@ -1749,13 +1749,33 @@
       "status": "reject",
       "reason": "This is a search result page for Vince Del Monte on Twitter with no actual content or intelligence shown. It's a metadata reference without substantive information about business strategy, offers, positioning, or actionable competitor insights.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 Muscle Building Diet RULES (EVERYTHING YOU MUST KNOW!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-02T05:40:52.879136",
+      "status": "reject",
+      "reason": "This is generic muscle building diet content for end consumers, not business intelligence about how fitness coaches build their coaching business, programs, or positioning strategies.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Video Overview",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-02T05:40:54.013376",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, strategy, positioning, or business intelligence provided about Vince Del Monte or his coaching program",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 196,
+    "scanned": 198,
     "kept": 20,
-    "rejected": 176,
-    "last_scan": "2026-05-02T05:11:49.640565",
+    "rejected": 178,
+    "last_scan": "2026-05-02T05:41:56.281145",
     "platforms": [
       "YouTube",
       "Google",
