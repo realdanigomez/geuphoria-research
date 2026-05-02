@@ -1779,13 +1779,33 @@
       "status": "reject",
       "reason": "Search query alone without actual content from Dan Martell; no specific business insights, strategies, or actionable intelligence provided to evaluate.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi: The #1 Strategy That Will Print MILLIONAIRES In 2025",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-02T02:11:49.081853",
+      "status": "reject",
+      "reason": "Title is clickbait with no actual content provided; search query alone contains no specific strategies, frameworks, or actionable business intelligence to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Overcome Self Sabotage (#1 Easiest Method)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-02T02:11:52.788595",
+      "status": "reject",
+      "reason": "Title promises self-sabotage methods but provides no actual content, strategies, or business insights. Search query alone without substantive material offers no actionable intelligence for fitness coaching business strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 178,
+    "scanned": 180,
     "kept": 28,
-    "rejected": 150,
-    "last_scan": "2026-05-02T01:42:51.216216",
+    "rejected": 152,
+    "last_scan": "2026-05-02T02:12:54.171313",
     "platforms": [
       "YouTube",
       "Google",
