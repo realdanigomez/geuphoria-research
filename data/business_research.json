@@ -2009,13 +2009,63 @@
       "status": "reject",
       "reason": "Generic clickbait title with no preview of actual content or specific business models; lacks actionable intelligence without seeing the detailed strategies or insights discussed.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Leads by Alex Hormozi - Full Audiobook | How to Get Strangers to Buy Your Stuff!",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-02T18:12:14.083785",
+      "status": "keep",
+      "reason": "Alex Hormozi's \"$100M Leads\" contains core business strategies on customer acquisition and sales funnels directly applicable to fitness coaching business models, including lead generation tactics and conversion frameworks that can inform content strategy and pricing approaches.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I’m starting a marketing agency lol ($50M/year play)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-02T18:12:18.021940",
+      "status": "keep",
+      "reason": "Contains Charlie Morgan (influential business thinker) discussing agency scaling strategy and revenue models ($50M trajectory) - directly applicable to coaching business monetization and service-based scaling lessons.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "some high level shit you need to know to hit $1M/mo+ in 2026",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-02T18:12:19.052953",
+      "status": "reject",
+      "reason": "Title promises high-level insights but finding contains only a search query with no actual content, strategies, or actionable intelligence to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to work \\u0026 focus for 12 hours a day like a millionaire CEO",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-02T18:12:20.086237",
+      "status": "reject",
+      "reason": "Title promises actionable content but finding only shows a search query without actual insights, strategies, or substantive business lessons from Charlie Morgan.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "how to be poor for the rest of your life",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-02T18:12:21.159309",
+      "status": "reject",
+      "reason": "Title appears clickbait; no actual content provided to verify if it contains actionable business insights or teachings from Charlie Morgan",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 201,
-    "kept": 30,
-    "rejected": 171,
-    "last_scan": "2026-05-02T17:13:15.862232",
+    "scanned": 206,
+    "kept": 32,
+    "rejected": 174,
+    "last_scan": "2026-05-02T18:13:22.048206",
     "platforms": [
       "YouTube",
       "Google",
