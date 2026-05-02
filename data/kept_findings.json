@@ -472,6 +472,26 @@
     },
     {
       "source": "YouTube",
+      "title": "Doing everything manually",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-02T16:10:08.548387",
+      "status": "keep",
+      "reason": "Directly addresses burnout pain point; \"doing everything manually\" indicates systems/automation gaps that coaches struggle with—a core scaling and sustainability issue for the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Delivering and undercharging",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-02T16:10:09.513617",
+      "status": "keep",
+      "reason": "Directly addresses pricing strategy and income pain point—undercharging is a common struggle that limits scaling and contributes to burnout among fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -972,18 +992,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 47,
-    "niche_rejected": 83,
-    "niche_scanned": 130,
+    "niche_kept": 49,
+    "niche_rejected": 85,
+    "niche_scanned": 134,
     "comp_kept": 20,
     "comp_rejected": 184,
     "comp_scanned": 204,
     "busi_kept": 30,
     "busi_rejected": 171,
     "busi_scanned": 201,
-    "last_scan": "2026-05-02T15:13:11.439591",
-    "total_kept": 97,
-    "total_rejected": 438,
+    "last_scan": "2026-05-02T16:13:12.008081",
+    "total_kept": 99,
+    "total_rejected": 440,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
