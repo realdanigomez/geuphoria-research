@@ -1689,13 +1689,73 @@
       "status": "reject",
       "reason": "Contains a testimonial/case study format but no specific, actionable intelligence about business strategies, offers, positioning, or tactics that online fitness coaches can learn from. Vince Del Monte mention is only in the search query, not substantive content analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Planable (@PlanableApp) / Posts / X - Twitter",
+      "text": "Search: \"Vince Del Monte\" site:twitter.com",
+      "url": "",
+      "time": "2026-05-02T04:11:15.905960",
+      "status": "reject",
+      "reason": "This is a search result page/index, not actual content about Vince Del Monte's business strategy, offers, or positioning. No actionable intelligence about fitness business coaching is present.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Roberto Delbono (@DelbonoRoberto) / Posts / X - Twitter",
+      "text": "Search: \"Vince Del Monte\" site:twitter.com",
+      "url": "",
+      "time": "2026-05-02T04:11:16.971188",
+      "status": "reject",
+      "reason": "Finding is just a search query/link to Twitter profile with no actual content about business strategies, offers, positioning, or competitive intelligence about fitness coaching programs.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Turbolince (@turbolincemtb) / Posts / X - Twitter",
+      "text": "Search: \"Vince Del Monte\" site:twitter.com",
+      "url": "",
+      "time": "2026-05-02T04:11:17.869231",
+      "status": "reject",
+      "reason": "Link to Twitter search results page rather than actual competitive intelligence about business strategy, offers, or positioning of fitness business coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Franco Cella #OndaCivica   (@sardikus) / Posts / X - Twitter",
+      "text": "Search: \"Vince Del Monte\" site:twitter.com",
+      "url": "",
+      "time": "2026-05-02T04:11:19.161776",
+      "status": "reject",
+      "reason": "This is a search result page link with no actual content or intelligence about fitness business coaching strategies, offers, or positioning. It's merely a Twitter profile without displayed posts or substantive information.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Vecchio (@oldfede) / Posts / X - Twitter",
+      "text": "Search: \"Vince Del Monte\" site:twitter.com",
+      "url": "",
+      "time": "2026-05-02T04:11:20.262771",
+      "status": "reject",
+      "reason": "This is only a search result page for Vince Del Monte's Twitter posts, not actual content or intelligence about his business strategies, offers, or coaching methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Leonardi Racing (@leonardi_racing) / Posts / X - Twitter",
+      "text": "Search: \"Vince Del Monte\" site:twitter.com",
+      "url": "",
+      "time": "2026-05-02T04:11:22.358299",
+      "status": "reject",
+      "reason": "This is a search result page for Vince Del Monte on Twitter with no actual content or intelligence shown. It's a metadata reference without substantive information about business strategy, offers, positioning, or actionable competitor insights.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 190,
+    "scanned": 196,
     "kept": 20,
-    "rejected": 170,
-    "last_scan": "2026-05-02T03:41:48.071461",
+    "rejected": 176,
+    "last_scan": "2026-05-02T04:11:59.438192",
     "platforms": [
       "YouTube",
       "Google",
