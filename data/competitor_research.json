@@ -1769,13 +1769,73 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, strategy, positioning, or business intelligence provided about Vince Del Monte or his coaching program",
       "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Fitness CEOs: The Missing Piece to Unlock $10M in ...",
+      "text": "Search: fitness business mentor site:linkedin.com",
+      "url": "",
+      "time": "2026-05-02T15:11:20.224088",
+      "status": "reject",
+      "reason": "Title alone doesn't provide specific intelligence about competitors, their strategies, content, offers, or positioning. Appears to be a search result placeholder without substantive competitive details.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Fix Your Fitness Business Strategy for More Clients",
+      "text": "Search: fitness business mentor site:linkedin.com",
+      "url": "",
+      "time": "2026-05-02T15:11:21.149323",
+      "status": "reject",
+      "reason": "Search query only, no actual content or intelligence about specific mentors, programs, strategies, or offers provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "text | Fitness Business Resource: Jim Thomas Consulting ...",
+      "text": "Search: fitness business mentor site:linkedin.com",
+      "url": "",
+      "time": "2026-05-02T15:11:22.213253",
+      "status": "reject",
+      "reason": "No specific details about Jim Thomas Consulting's strategy, content, offers, or positioning provided; appears to be a search result header without substantive competitor intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Replace 9-5 with Coaching Business | Luisa Zhou posted ...",
+      "text": "Search: fitness business mentor site:linkedin.com",
+      "url": "",
+      "time": "2026-05-02T15:11:23.290432",
+      "status": "reject",
+      "reason": "Title and search query alone provide no specific intelligence about competitor offerings, strategy, positioning, or business model - requires actual content to evaluate relevance.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Coaching Business Growth Tips | Alvin Brown posted on ...",
+      "text": "Search: fitness business mentor site:linkedin.com",
+      "url": "",
+      "time": "2026-05-02T15:11:24.263190",
+      "status": "reject",
+      "reason": "Generic search query with no actual content, strategy, offers, or positioning information from a specific competitor or business coach program.",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Mentoring in the Fitness Industry Boosts Leadership Skills",
+      "text": "Search: fitness business mentor site:linkedin.com",
+      "url": "",
+      "time": "2026-05-02T15:11:25.484234",
+      "status": "reject",
+      "reason": "No specific intelligence provided about actual mentors, programs, or coaches; only a generic article title about leadership skills without naming competitors or revealing their strategies, offers, or positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 198,
+    "scanned": 204,
     "kept": 20,
-    "rejected": 178,
-    "last_scan": "2026-05-02T14:16:35.191510",
+    "rejected": 184,
+    "last_scan": "2026-05-02T15:12:08.457108",
     "platforms": [
       "YouTube",
       "Google",
