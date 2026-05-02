@@ -1949,13 +1949,73 @@
       "status": "reject",
       "reason": "Contains only a generic title about rational thinking with no actual content, insights, or specific business/entrepreneurship strategies from Alex Hormozi or other business thinkers to extract actionable intelligence from.",
       "track": "business"
+    },
+    {
+      "source": "Medium",
+      "title": "Growth: Most Business Owners Aren't Stuck. They're Just ...",
+      "text": "Search: business growth site:medium.com",
+      "url": "",
+      "time": "2026-05-02T14:12:45.498861",
+      "status": "reject",
+      "reason": "Title and search query alone don't provide specific, actionable business insights or strategies—need actual article content to assess value.",
+      "track": "business"
+    },
+    {
+      "source": "Medium",
+      "title": "No One Figured It Out. Why Business Growth ...",
+      "text": "Search: business growth site:medium.com",
+      "url": "",
+      "time": "2026-05-02T14:12:46.900678",
+      "status": "reject",
+      "reason": "Search query result without actual article content; no specific business insights, strategies, or actionable intelligence present to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "Medium",
+      "title": "Don't Miss These 15 Golden Business Ideas for 2026",
+      "text": "Search: business growth site:medium.com",
+      "url": "",
+      "time": "2026-05-02T14:12:48.196693",
+      "status": "reject",
+      "reason": "Generic listicle title with no actual content provided; lacks specific strategies, case studies, or actionable insights needed to evaluate business value for fitness coaching content",
+      "track": "business"
+    },
+    {
+      "source": "Medium",
+      "title": "How Businesses Are Growing Faster in 2026 (Without ...",
+      "text": "Search: business growth site:medium.com",
+      "url": "",
+      "time": "2026-05-02T14:12:49.433601",
+      "status": "reject",
+      "reason": "Title and search query alone provide no specific insights, strategies, or actionable intelligence—need actual article content to evaluate business value.",
+      "track": "business"
+    },
+    {
+      "source": "Medium",
+      "title": "Bill Murphy of Mac Murchadha Bespoke Financing: How To ...",
+      "text": "Search: business growth site:medium.com",
+      "url": "",
+      "time": "2026-05-02T14:12:50.624610",
+      "status": "reject",
+      "reason": "Title is truncated and text only shows a search query with no actual content, insights, or strategies present to evaluate for business value.",
+      "track": "business"
+    },
+    {
+      "source": "Medium",
+      "title": "Want to Get Rich in 2026? — 4 Businesses Worth Starting ...",
+      "text": "Search: business growth site:medium.com",
+      "url": "",
+      "time": "2026-05-02T14:12:51.603960",
+      "status": "reject",
+      "reason": "Generic clickbait title with no preview of actual content or specific business models; lacks actionable intelligence without seeing the detailed strategies or insights discussed.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 195,
+    "scanned": 201,
     "kept": 30,
-    "rejected": 165,
-    "last_scan": "2026-05-02T13:43:03.175177",
+    "rejected": 171,
+    "last_scan": "2026-05-02T14:13:16.283398",
     "platforms": [
       "YouTube",
       "Google",
