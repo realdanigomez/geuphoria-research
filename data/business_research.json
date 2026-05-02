@@ -1859,13 +1859,73 @@
       "status": "reject",
       "reason": "Search result title only, no actual content or insights provided to evaluate for business value",
       "track": "business"
+    },
+    {
+      "source": "Quora",
+      "title": "What advice would you give to someone trying to escape a ...",
+      "text": "Search: entrepreneur advice site:quora.com",
+      "url": "",
+      "time": "2026-05-02T11:42:31.921662",
+      "status": "reject",
+      "reason": "Search query only, no actual content or advice provided to evaluate for business insights or actionable intelligence",
+      "track": "business"
+    },
+    {
+      "source": "Quora",
+      "title": "I want to leave my 9-5 job and become an entrepreneur ...",
+      "text": "Search: entrepreneur advice site:quora.com",
+      "url": "",
+      "time": "2026-05-02T11:42:32.807250",
+      "status": "reject",
+      "reason": "This is a search query without content—no actual advice, strategies, or insights are provided to analyze for business value.",
+      "track": "business"
+    },
+    {
+      "source": "Quora",
+      "title": "What steps can I take to set up my day for more freedom ...",
+      "text": "Search: entrepreneur advice site:quora.com",
+      "url": "",
+      "time": "2026-05-02T11:42:33.718519",
+      "status": "reject",
+      "reason": "Generic productivity question without specific business insights, strategies, or creator economy relevance. Quora search results on daily routines lack the depth and authority needed for actionable business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "Quora",
+      "title": "Where do aspiring entrepreneurs write down ideas?",
+      "text": "Search: entrepreneur advice site:quora.com",
+      "url": "",
+      "time": "2026-05-02T11:42:34.919608",
+      "status": "reject",
+      "reason": "This is a search query about where to find advice, not actual business insights, strategies, or lessons. It contains no specific intelligence, frameworks, or actionable content itself.",
+      "track": "business"
+    },
+    {
+      "source": "Quora",
+      "title": "What advice would you give to someone looking to take ...",
+      "text": "Search: entrepreneur advice site:quora.com",
+      "url": "",
+      "time": "2026-05-02T11:42:36.163607",
+      "status": "reject",
+      "reason": "This is a search query, not actual content. It contains no advice, insights, strategies, or substantive business intelligence—only a Quora search instruction with no results or findings to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "Quora",
+      "title": "How to handle the financial ups and downs that come ...",
+      "text": "Search: entrepreneur advice site:quora.com",
+      "url": "",
+      "time": "2026-05-02T11:42:37.081335",
+      "status": "reject",
+      "reason": "Search query without actual content; no specific business insights, strategies, or lessons present to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 186,
+    "scanned": 192,
     "kept": 30,
-    "rejected": 156,
-    "last_scan": "2026-05-02T11:12:57.891272",
+    "rejected": 162,
+    "last_scan": "2026-05-02T11:43:04.634952",
     "platforms": [
       "YouTube",
       "Google",
