@@ -2419,13 +2419,23 @@
       "status": "reject",
       "reason": "Title only mentions Sam Ovens by name without substantive content about his design philosophy, methods, or business lessons that could inform strategy or content creation.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Leads by Alex Hormozi Book Review",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-03T10:39:38.209329",
+      "status": "reject",
+      "reason": "Contains only a book title and search query with no actual review content, analysis, or actionable insights about lead generation strategies or business lessons.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 242,
+    "scanned": 243,
     "kept": 39,
-    "rejected": 203,
-    "last_scan": "2026-05-03T10:13:53.889720",
+    "rejected": 204,
+    "last_scan": "2026-05-03T10:40:41.603200",
     "platforms": [
       "YouTube",
       "Google",
