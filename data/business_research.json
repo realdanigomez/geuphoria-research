@@ -2209,13 +2209,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies provided—no actionable intelligence to evaluate.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "It took me 36 years to realize what I’ll tell you in 26 minutes…",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-03T04:12:21.746062",
+      "status": "reject",
+      "reason": "Title and search term alone don't confirm the content contains specific, actionable business insights—need actual content details to verify if it delivers concrete strategies or frameworks rather than generic motivational messaging.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 221,
+    "scanned": 222,
     "kept": 36,
-    "rejected": 185,
-    "last_scan": "2026-05-03T03:13:38.348831",
+    "rejected": 186,
+    "last_scan": "2026-05-03T04:13:23.763288",
     "platforms": [
       "YouTube",
       "Google",
