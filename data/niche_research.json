@@ -1349,13 +1349,23 @@
       "status": "reject",
       "reason": "Generic title with no visible content details; Facebook search results typically lack substantive insights into specific pain points, struggles, or actionable strategies for online fitness coaches.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Emotional State of Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-03T16:10:44.786930",
+      "status": "keep",
+      "reason": "Directly addresses burnout, a core pain point for fitness coaches affecting retention, client quality, and business sustainability—understanding emotional dimensions enables targeted solutions for this high-impact problem.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 146,
-    "kept": 49,
+    "scanned": 147,
+    "kept": 50,
     "rejected": 97,
-    "last_scan": "2026-05-03T15:11:39.600086",
+    "last_scan": "2026-05-03T16:11:39.718683",
     "platforms": [
       "Reddit",
       "YouTube",
