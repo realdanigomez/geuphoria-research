@@ -1239,13 +1239,73 @@
       "status": "reject",
       "reason": "Generic burnout topic without specific data, causes, or solutions applicable to online fitness coaches' unique business challenges",
       "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Is investing in personal trainer software worth it for fitness ...",
+      "text": "Search: personal trainer business site:quora.com",
+      "url": "",
+      "time": "2026-05-03T03:10:48.578554",
+      "status": "reject",
+      "reason": "Generic title with no indication of specific pain points, struggles, or actionable insights - likely contains general opinions rather than deep research on coach-specific problems",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Why do so many personal training software platforms have ...",
+      "text": "Search: personal trainer business site:quora.com",
+      "url": "",
+      "time": "2026-05-03T03:10:49.758766",
+      "status": "reject",
+      "reason": "Title is incomplete and provides no indication of specific pain points, struggles, or actionable insights for online fitness coaches - appears to be a generic question fragment without substance.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "For fitness coaches: What part of weekly client checkins ...",
+      "text": "Search: personal trainer business site:quora.com",
+      "url": "",
+      "time": "2026-05-03T03:10:51.008148",
+      "status": "reject",
+      "reason": "Title is incomplete and provides no substantive information about actual pain points, challenges, or solutions for fitness coaches—appears to be a fragment without clear insights.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "How to earn money to open a gym",
+      "text": "Search: personal trainer business site:quora.com",
+      "url": "",
+      "time": "2026-05-03T03:10:52.007393",
+      "status": "reject",
+      "reason": "Generic gym business advice, not specific to online fitness coaches' actual pain points like client acquisition, systems, or scaling digital coaching",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "What should I look for in a fitness professional who can ...",
+      "text": "Search: personal trainer business site:quora.com",
+      "url": "",
+      "time": "2026-05-03T03:10:52.998496",
+      "status": "reject",
+      "reason": "This is a search query about what clients should look for in trainers, not insights into fitness coaches' actual pain points, struggles, or business challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "Quora",
+      "title": "Is using personalized apps for client management in ...",
+      "text": "Search: personal trainer business site:quora.com",
+      "url": "",
+      "time": "2026-05-03T03:10:54.056733",
+      "status": "reject",
+      "reason": "Title is incomplete/truncated and text shows only a search query without actual findings, insights, or specific intelligence about coach pain points or solutions",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 135,
+    "scanned": 141,
     "kept": 49,
-    "rejected": 86,
-    "last_scan": "2026-05-03T02:11:20.076272",
+    "rejected": 92,
+    "last_scan": "2026-05-03T03:11:28.540700",
     "platforms": [
       "Reddit",
       "YouTube",
