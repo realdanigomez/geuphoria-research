@@ -2469,13 +2469,63 @@
       "status": "reject",
       "reason": "This is a search query, not actual content. It contains no specific insights, strategies, or lessons—just a reference to where content might exist. Requires the actual article/video transcript to evaluate business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "13 Hacks to be 99.9% More Disciplined That Cost Nothing",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-03T17:12:54.353247",
+      "status": "reject",
+      "reason": "Title promises discipline hacks but no actual content provided to evaluate for specific business strategy, entrepreneurship lessons, or creator economy insights relevant to fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cancel Your Morning Alarm",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-03T17:12:55.527154",
+      "status": "reject",
+      "reason": "Title alone lacks specific business insight; search query indicates content not yet reviewed for actual business strategy, entrepreneurship lessons, or actionable intelligence from the mentioned influencer.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Upgrade Your TV to a Library",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-03T17:12:56.787646",
+      "status": "reject",
+      "reason": "The finding is just a title and search term with no actual content, insights, or substantive information about Dan Martell's business strategies or lessons that could inform fitness coaching business strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Turn Off All Notifications",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-03T17:12:57.754890",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provides no actionable intelligence or business lessons to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hack Your Algorithm",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-03T17:12:58.683602",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, insights, or strategies to extract—just a name reference with no accompanying information or teaching.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 247,
+    "scanned": 252,
     "kept": 40,
-    "rejected": 207,
-    "last_scan": "2026-05-03T16:13:50.577710",
+    "rejected": 212,
+    "last_scan": "2026-05-03T17:13:55.737784",
     "platforms": [
       "YouTube",
       "Google",
