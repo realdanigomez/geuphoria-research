@@ -1859,13 +1859,73 @@
       "status": "reject",
       "reason": "This is a search query, not actual competitor intelligence. It contains no specific information about any mentor's strategy, offers, positioning, or content—only a generic search instruction.",
       "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Online coaching platform for fitness and strength",
+      "text": "Search: online fitness coaching community site:facebook.co",
+      "url": "",
+      "time": "2026-05-03T21:42:37.392406",
+      "status": "reject",
+      "reason": "Generic search result about fitness coaching platforms with no specific intelligence about business coaches, mentors, programs, or strategies targeting online fitness coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Free online fitness coaching for 3 weeks",
+      "text": "Search: online fitness coaching community site:facebook.co",
+      "url": "",
+      "time": "2026-05-03T21:42:38.431555",
+      "status": "reject",
+      "reason": "This is a generic search query result for fitness coaching services, not intelligence about business coaches or programs that help online fitness coaches build their businesses. No specific strategy, offer, positioning, or competitor intelligence is present.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Finding new clients for remote coaching?",
+      "text": "Search: online fitness coaching community site:facebook.co",
+      "url": "",
+      "time": "2026-05-03T21:42:39.705386",
+      "status": "reject",
+      "reason": "This is a search query, not actual intelligence. It contains no specific information about competitor strategies, offers, positioning, or business models—just a generic question about client acquisition with no substantive details or findings to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "What are some tips for online coaching?",
+      "text": "Search: online fitness coaching community site:facebook.co",
+      "url": "",
+      "time": "2026-05-03T21:42:40.636020",
+      "status": "reject",
+      "reason": "This is just a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Hello folks! I have created a free online community where I' ...",
+      "text": "Search: online fitness coaching community site:facebook.co",
+      "url": "",
+      "time": "2026-05-03T21:42:41.820914",
+      "status": "reject",
+      "reason": "Finding lacks specific details about the community's strategy, offerings, or positioning; appears to be a generic Facebook search result without substantive business intelligence about fitness coaching resources.",
+      "track": "competitor"
+    },
+    {
+      "source": "Facebook",
+      "title": "Personalized online fitness coaching program available",
+      "text": "Search: online fitness coaching community site:facebook.co",
+      "url": "",
+      "time": "2026-05-03T21:42:42.872161",
+      "status": "reject",
+      "reason": "No specific intelligence about fitness business coaches, their strategies, offers, or positioning. Generic search result about general fitness coaching without competitor analysis value.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 207,
+    "scanned": 213,
     "kept": 20,
-    "rejected": 187,
-    "last_scan": "2026-05-03T21:12:55.252121",
+    "rejected": 193,
+    "last_scan": "2026-05-03T21:42:58.240312",
     "platforms": [
       "YouTube",
       "Google",
