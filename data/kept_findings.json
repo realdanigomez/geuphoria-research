@@ -1049,6 +1049,36 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business figure; AI trend predictions from established entrepreneurs provide actionable intelligence for positioning a fitness coaching business in the creator economy and understanding tech adoption strategies",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Millionaire Explains The Six Figure Flywheel",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-03T10:12:41.868599",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business figure in the creator economy; content on income-generating flywheels provides actionable monetization strategy applicable to fitness coaching businesses",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The story behind creating skool.com",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-03T10:12:55.807895",
+      "status": "keep",
+      "reason": "Sam Ovens is a prominent creator economy entrepreneur; content about Skool.com's creation story provides direct business strategy insights on building community platforms and monetization models relevant to fitness coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "From frustration with tools to building his own software",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-03T10:12:57.200257",
+      "status": "keep",
+      "reason": "Sam Ovens is a prominent business strategist and founder known for coaching and SaaS insights; his story about building software solutions from tool frustrations offers direct lessons on product-market fit, entrepreneurial problem-solving, and scaling—highly relevant for a fitness coaching business exploring software solutions or productization strategies.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1058,12 +1088,12 @@
     "comp_kept": 20,
     "comp_rejected": 187,
     "comp_scanned": 207,
-    "busi_kept": 36,
-    "busi_rejected": 194,
-    "busi_scanned": 230,
-    "last_scan": "2026-05-03T09:13:37.179167",
-    "total_kept": 105,
-    "total_rejected": 478,
+    "busi_kept": 39,
+    "busi_rejected": 203,
+    "busi_scanned": 242,
+    "last_scan": "2026-05-03T10:13:53.892908",
+    "total_kept": 108,
+    "total_rejected": 487,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
