@@ -1029,6 +1029,16 @@
       "status": "keep",
       "reason": "Alex Hormozi's documented money models provide directly applicable pricing, packaging, and monetization strategies that can be adapted for fitness coaching business models, product launches, and scaling approaches.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give me 25 minutes, and you’ll get more done than 97% of people",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-03T00:12:30.450102",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker known for productivity and scaling strategies; a 25-minute productivity framework could yield actionable content for fitness coaching business operations and client time management messaging.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1038,12 +1048,12 @@
     "comp_kept": 20,
     "comp_rejected": 184,
     "comp_scanned": 204,
-    "busi_kept": 34,
-    "busi_rejected": 182,
-    "busi_scanned": 216,
-    "last_scan": "2026-05-02T23:13:36.392081",
-    "total_kept": 103,
-    "total_rejected": 452,
+    "busi_kept": 35,
+    "busi_rejected": 183,
+    "busi_scanned": 218,
+    "last_scan": "2026-05-03T00:13:31.909865",
+    "total_kept": 104,
+    "total_rejected": 453,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
