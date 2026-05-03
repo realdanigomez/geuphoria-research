@@ -1359,13 +1359,23 @@
       "status": "keep",
       "reason": "Directly addresses burnout, a core pain point for fitness coaches affecting retention, client quality, and business sustainability—understanding emotional dimensions enables targeted solutions for this high-impact problem.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi’s Offer for online fitness coaching - get 5x clients ",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-03T18:10:43.053907",
+      "status": "reject",
+      "reason": "Lacks specific data on actual pain points, struggles, or solutions; appears to be promotional content rather than research-backed intelligence on fitness coach challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 147,
+    "scanned": 148,
     "kept": 50,
-    "rejected": 97,
-    "last_scan": "2026-05-03T17:11:44.489860",
+    "rejected": 98,
+    "last_scan": "2026-05-03T18:11:46.598005",
     "platforms": [
       "Reddit",
       "YouTube",
