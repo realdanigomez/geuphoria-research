@@ -1129,6 +1129,46 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business figure whose insights on AI competitive advantage could provide actionable strategies for scaling a fitness coaching business and staying ahead in the creator economy.",
       "track": "business"
+    },
+    {
+      "source": "Google",
+      "title": "Guide to the Best AI Tools for Small Businesses in 2026",
+      "text": "Search: AI tools entrepreneurs 2026",
+      "url": "",
+      "time": "2026-05-04T12:13:31.343848",
+      "status": "keep",
+      "reason": "Provides current AI tool recommendations and entrepreneurial applications that could inform content strategy for scaling a fitness coaching business, including operational efficiency and content creation opportunities.",
+      "track": "business"
+    },
+    {
+      "source": "Google",
+      "title": "How I'd Start a Business From Zero in 2026 Using AI Faster ...",
+      "text": "Search: AI tools entrepreneurs 2026",
+      "url": "",
+      "time": "2026-05-04T12:13:33.847190",
+      "status": "keep",
+      "reason": "Contains actionable intelligence on leveraging AI tools for rapid business launch, directly applicable to scaling a fitness coaching content business and understanding modern entrepreneurship frameworks for 2026.",
+      "track": "business"
+    },
+    {
+      "source": "Google",
+      "title": "How to Use AI to Build and Validate a Startup Idea in 2026",
+      "text": "Search: AI tools entrepreneurs 2026",
+      "url": "",
+      "time": "2026-05-04T12:13:34.921618",
+      "status": "keep",
+      "reason": "Provides actionable AI tools and validation frameworks for entrepreneurs to test startup viability, directly applicable to building fitness coaching products and validating market fit before scaling.",
+      "track": "business"
+    },
+    {
+      "source": "Google",
+      "title": "AI TOOLS TIER LIST (2026) | Dan Martell",
+      "text": "Search: AI tools entrepreneurs 2026",
+      "url": "",
+      "time": "2026-05-04T12:13:36.846476",
+      "status": "keep",
+      "reason": "Dan Martell's AI tools tier list provides actionable intelligence on which tools entrepreneurs should prioritize in 2026, directly applicable to optimizing fitness coaching business operations, client delivery systems, and content creation workflows.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1138,12 +1178,12 @@
     "comp_kept": 20,
     "comp_rejected": 197,
     "comp_scanned": 217,
-    "busi_kept": 41,
-    "busi_rejected": 214,
-    "busi_scanned": 255,
-    "last_scan": "2026-05-04T11:14:28.683324",
-    "total_kept": 113,
-    "total_rejected": 511,
+    "busi_kept": 45,
+    "busi_rejected": 218,
+    "busi_scanned": 263,
+    "last_scan": "2026-05-04T12:14:28.538209",
+    "total_kept": 117,
+    "total_rejected": 515,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
