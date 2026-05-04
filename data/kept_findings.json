@@ -1189,6 +1189,16 @@
       "status": "keep",
       "reason": "Dan Martell is a recognized business strategist and founder known for delegation and scaling frameworks; \"Stop automating tasks yourself\" directly addresses a core business principle (outsourcing vs. internal automation) relevant to fitness coaching business operations and scaling.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to be more consistent than 99% of people (just copy me)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-04T15:34:41.637677",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker known for scaling companies and founder mentorship; a content piece on consistency from him offers actionable frameworks applicable to fitness coaching business operations, client retention strategies, and personal brand building.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1198,11 +1208,11 @@
     "comp_kept": 20,
     "comp_rejected": 197,
     "comp_scanned": 217,
-    "busi_kept": 47,
+    "busi_kept": 48,
     "busi_rejected": 222,
-    "busi_scanned": 269,
-    "last_scan": "2026-05-04T15:23:34.557184",
-    "total_kept": 119,
+    "busi_scanned": 270,
+    "last_scan": "2026-05-04T15:35:40.058392",
+    "total_kept": 120,
     "total_rejected": 519,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
