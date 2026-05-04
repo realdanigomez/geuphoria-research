@@ -1399,13 +1399,23 @@
       "status": "keep",
       "reason": "Directly addresses instructor burnout, a critical pain point for online fitness coaches affecting retention, business sustainability, and scaling capacity.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tired of Struggling as a Fitness Coach? Here's What Works",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-04T11:11:19.691352",
+      "status": "reject",
+      "reason": "Generic clickbait title with no specific strategies, metrics, or actionable insights revealed in the preview; appears to be promotional content rather than research data on actual coach pain points.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 151,
+    "scanned": 152,
     "kept": 52,
-    "rejected": 99,
-    "last_scan": "2026-05-04T10:42:11.535980",
+    "rejected": 100,
+    "last_scan": "2026-05-04T11:12:22.353613",
     "platforms": [
       "Reddit",
       "YouTube",
