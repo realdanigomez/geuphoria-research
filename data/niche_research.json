@@ -1369,13 +1369,23 @@
       "status": "reject",
       "reason": "Lacks specific data on actual pain points, struggles, or solutions; appears to be promotional content rather than research-backed intelligence on fitness coach challenges",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Number #1 Thing Stopping You From Being a Successful Fitness Coach",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-04T00:10:56.921998",
+      "status": "reject",
+      "reason": "Clickbait title with no specific problem identified; \"struggling\" is too vague without concrete pain points, solutions, or data that would help understand actual coach challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 148,
+    "scanned": 149,
     "kept": 50,
-    "rejected": 98,
-    "last_scan": "2026-05-03T23:41:55.502268",
+    "rejected": 99,
+    "last_scan": "2026-05-04T00:11:59.347960",
     "platforms": [
       "Reddit",
       "YouTube",
