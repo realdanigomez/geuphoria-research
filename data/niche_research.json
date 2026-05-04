@@ -1389,13 +1389,23 @@
       "status": "keep",
       "reason": "Directly addresses the lived experience and daily realities of online fitness coaches, which reveals pain points, time management challenges, and operational struggles relevant to business optimization and scaling.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Avoid Instructor Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-04T08:07:28.698373",
+      "status": "keep",
+      "reason": "Directly addresses instructor burnout, a critical pain point for online fitness coaches affecting retention, business sustainability, and scaling capacity.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 150,
-    "kept": 51,
+    "scanned": 151,
+    "kept": 52,
     "rejected": 99,
-    "last_scan": "2026-05-04T07:42:07.211963",
+    "last_scan": "2026-05-04T08:08:23.779883",
     "platforms": [
       "Reddit",
       "YouTube",
