@@ -2699,13 +2699,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker known for scaling companies and founder mentorship; a content piece on consistency from him offers actionable frameworks applicable to fitness coaching business operations, client retention strategies, and personal brand building.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If you’re ambitious but can’t stay consistent, watch this video",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-04T23:52:48.571523",
+      "status": "reject",
+      "reason": "Title suggests motivational content about consistency rather than specific business insights, strategies, or entrepreneurship lessons. Merely mentioning Dan Martell as a search term without actual content, case studies, or actionable business intelligence does not constitute useful business strategy material.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 270,
+    "scanned": 271,
     "kept": 48,
-    "rejected": 222,
-    "last_scan": "2026-05-04T23:23:56.046991",
+    "rejected": 223,
+    "last_scan": "2026-05-04T23:53:46.025401",
     "platforms": [
       "YouTube",
       "Google",
