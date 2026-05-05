@@ -2829,13 +2829,23 @@
       "status": "reject",
       "reason": "Title promises business insight but search query alone doesn't confirm actual content exists or contains actionable strategy from Charlie Morgan",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Me 20 Minutes and I’ll Make You Insanely Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T12:40:04.144892",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker and entrepreneur known for scaling/exit strategies and founder advice; his content on wealth-building and business growth directly applies to coaching business model development and pricing strategy",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 283,
-    "kept": 50,
+    "scanned": 284,
+    "kept": 51,
     "rejected": 233,
-    "last_scan": "2026-05-05T12:10:50.151882",
+    "last_scan": "2026-05-05T12:41:01.662848",
     "platforms": [
       "YouTube",
       "Google",
