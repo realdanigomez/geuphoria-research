@@ -2849,13 +2849,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist in the creator/SaaS space; a piece about AI monetization strategies aligns with emerging creator economy trends and business model innovation relevant to fitness coaching content businesses exploring AI tools and revenue diversification.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "\\",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-05T23:35:31.151568",
+      "status": "reject",
+      "reason": "Search query alone contains no actual content, insights, or actionable intelligence—just a name with no context, data, or substantive information to extract.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 285,
+    "scanned": 286,
     "kept": 52,
-    "rejected": 233,
-    "last_scan": "2026-05-05T23:06:43.313125",
+    "rejected": 234,
+    "last_scan": "2026-05-05T23:36:38.267437",
     "platforms": [
       "YouTube",
       "Google",
