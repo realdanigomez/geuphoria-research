@@ -2719,13 +2719,23 @@
       "status": "reject",
       "reason": "Title is clickbait without specific rules or strategies provided; no actionable business intelligence or frameworks visible in the excerpt",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If you’re ambitious but inconsistent, please watch this",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-05T05:09:32.884325",
+      "status": "reject",
+      "reason": "Title suggests motivational content about consistency rather than specific business insights, strategies, or actionable intelligence for a fitness coaching business",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 272,
+    "scanned": 273,
     "kept": 48,
-    "rejected": 224,
-    "last_scan": "2026-05-05T04:40:44.111219",
+    "rejected": 225,
+    "last_scan": "2026-05-05T05:10:35.250182",
     "platforms": [
       "YouTube",
       "Google",
