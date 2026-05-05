@@ -2759,13 +2759,63 @@
       "status": "reject",
       "reason": "Title alone lacks specific actionable strategies; requires content verification that this actually contains Hormozi's framework or concrete business tactics beyond clickbait promise.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Me 96 Minutes \\u0026 I'll Delete Your Fear of Failure | Dan Martell",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T09:09:46.030316",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker and this content on overcoming fear of failure directly applies to entrepreneurship mindset, which is valuable for a fitness coaching business scaling content strategy and founder psychology.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Foundation of Rock Bottom",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T09:09:46.981996",
+      "status": "reject",
+      "reason": "Search result page without actual content; no specific business insights, strategies, or actionable intelligence present to evaluate.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dan Martell’s Darkest Days \\u0026 Criminal Past",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T09:09:48.221620",
+      "status": "reject",
+      "reason": "Sensationalized personal tragedy/criminal history lacks actionable business insights or strategy relevant to fitness coaching content business",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Growing Through Mistakes \\u0026 Finding Gratitude",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T09:09:49.071144",
+      "status": "reject",
+      "reason": "Title suggests general self-help advice about mistakes and gratitude rather than specific business strategy or actionable entrepreneurship lessons from Dan Martell",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Root of Destructive Patterns: ADHD \\u0026 Family",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T09:09:50.272221",
+      "status": "reject",
+      "reason": "Contains only a title mentioning Dan Martell without actual content, business insights, strategies, or entrepreneurial lessons present in the text provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 276,
-    "kept": 49,
-    "rejected": 227,
-    "last_scan": "2026-05-05T08:40:49.245070",
+    "scanned": 281,
+    "kept": 50,
+    "rejected": 231,
+    "last_scan": "2026-05-05T09:10:47.296748",
     "platforms": [
       "YouTube",
       "Google",

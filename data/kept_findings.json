@@ -1209,6 +1209,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker and this explores counter-intuitive entrepreneur traits (non-traditional success paths) that could inspire content about unconventional paths to fitness business success or how to identify coachable personalities in your audience.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Me 96 Minutes \\u0026 I'll Delete Your Fear of Failure | Dan Martell",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T09:09:46.030316",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker and this content on overcoming fear of failure directly applies to entrepreneurship mindset, which is valuable for a fitness coaching business scaling content strategy and founder psychology.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1218,12 +1228,12 @@
     "comp_kept": 20,
     "comp_rejected": 200,
     "comp_scanned": 220,
-    "busi_kept": 49,
-    "busi_rejected": 227,
-    "busi_scanned": 276,
-    "last_scan": "2026-05-05T08:40:49.248657",
-    "total_kept": 121,
-    "total_rejected": 527,
+    "busi_kept": 50,
+    "busi_rejected": 231,
+    "busi_scanned": 281,
+    "last_scan": "2026-05-05T09:10:47.300489",
+    "total_kept": 122,
+    "total_rejected": 531,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
