@@ -1229,6 +1229,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker and entrepreneur known for scaling/exit strategies and founder advice; his content on wealth-building and business growth directly applies to coaching business model development and pricing strategy",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 14 Ways to Make Money with AI in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-05T18:35:19.355330",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist in the creator/SaaS space; a piece about AI monetization strategies aligns with emerging creator economy trends and business model innovation relevant to fitness coaching content businesses exploring AI tools and revenue diversification.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1238,11 +1248,11 @@
     "comp_kept": 20,
     "comp_rejected": 200,
     "comp_scanned": 220,
-    "busi_kept": 51,
+    "busi_kept": 52,
     "busi_rejected": 233,
-    "busi_scanned": 284,
-    "last_scan": "2026-05-05T18:06:17.892786",
-    "total_kept": 123,
+    "busi_scanned": 285,
+    "last_scan": "2026-05-05T18:36:17.766614",
+    "total_kept": 124,
     "total_rejected": 533,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
