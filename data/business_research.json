@@ -2749,13 +2749,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker and this explores counter-intuitive entrepreneur traits (non-traditional success paths) that could inspire content about unconventional paths to fitness business success or how to identify coachable personalities in your audience.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted to Make My First $100K in 2026, I’d Do This",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-05T07:09:41.032612",
+      "status": "reject",
+      "reason": "Title alone lacks specific actionable strategies; requires content verification that this actually contains Hormozi's framework or concrete business tactics beyond clickbait promise.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 275,
+    "scanned": 276,
     "kept": 49,
-    "rejected": 226,
-    "last_scan": "2026-05-05T06:10:43.999422",
+    "rejected": 227,
+    "last_scan": "2026-05-05T07:10:43.407853",
     "platforms": [
       "YouTube",
       "Google",
