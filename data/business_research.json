@@ -2809,13 +2809,33 @@
       "status": "reject",
       "reason": "Contains only a title mentioning Dan Martell without actual content, business insights, strategies, or entrepreneurial lessons present in the text provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Beginner To Millionaire Guide in 2025 (22+ Hours)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-05T10:39:46.201998",
+      "status": "reject",
+      "reason": "Search query alone without actual content details provides no actionable business insights, strategies, or specific lessons to evaluate for your fitness coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hard Work Is NOT The Key To Getting Rich",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-05T10:39:47.061530",
+      "status": "reject",
+      "reason": "Title promises business insight but search query alone doesn't confirm actual content exists or contains actionable strategy from Charlie Morgan",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 281,
+    "scanned": 283,
     "kept": 50,
-    "rejected": 231,
-    "last_scan": "2026-05-05T10:10:52.153640",
+    "rejected": 233,
+    "last_scan": "2026-05-05T10:40:46.664531",
     "platforms": [
       "YouTube",
       "Google",
