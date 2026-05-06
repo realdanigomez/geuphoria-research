@@ -1279,6 +1279,16 @@
       "status": "keep",
       "reason": "Alex Hormozi's condensed marketing advice offers proven frameworks and strategies directly applicable to fitness coaching business model, positioning, and customer acquisition — core needs for scaling a coaching content business.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I Switched From ChatGPT to Claude (without losing anything)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T14:36:04.030650",
+      "status": "keep",
+      "reason": "Dan Martell endorsement of Claude over ChatGPT provides AI tool comparison insights relevant to creator economy productivity and business operations efficiency—useful for optimizing coaching content production workflows.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1288,11 +1298,11 @@
     "comp_kept": 21,
     "comp_rejected": 205,
     "comp_scanned": 226,
-    "busi_kept": 54,
+    "busi_kept": 55,
     "busi_rejected": 247,
-    "busi_scanned": 301,
-    "last_scan": "2026-05-06T13:36:58.159053",
-    "total_kept": 129,
+    "busi_scanned": 302,
+    "last_scan": "2026-05-06T14:37:02.512320",
+    "total_kept": 130,
     "total_rejected": 552,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

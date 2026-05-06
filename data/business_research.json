@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:46.546362",
-      "status": "reject",
-      "reason": "Title is clickbait without demonstrated specific frameworks, systems, or tactics; search query alone doesn't confirm content contains actual scaling strategies from established business mentors",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Only Two Ways to Scale a Service Business",
       "text": "Search: Alex Hormozi business scaling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, article, or insights from Sam Ovens—no specific actionable intelligence to extract",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I Switched From ChatGPT to Claude (without losing anything)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T14:36:04.030650",
+      "status": "keep",
+      "reason": "Dan Martell endorsement of Claude over ChatGPT provides AI tool comparison insights relevant to creator economy productivity and business operations efficiency—useful for optimizing coaching content production workflows.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 301,
-    "kept": 54,
+    "scanned": 302,
+    "kept": 55,
     "rejected": 247,
-    "last_scan": "2026-05-06T13:36:58.154808",
+    "last_scan": "2026-05-06T14:37:02.508745",
     "platforms": [
       "YouTube",
       "Google",
