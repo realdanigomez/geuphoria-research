@@ -1999,13 +1999,23 @@
       "status": "keep",
       "reason": "Brian Mark is a direct competitor in the fitness business coaching space who teaches high-ticket program sales—a core business model for online fitness coaches. This finding indicates competitive positioning and pricing strategy intelligence.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Killer Shoulder Exercises: Top Bodybuilding Shoulder Workout",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-06T01:34:20.871912",
+      "status": "reject",
+      "reason": "This is a generic shoulder exercise article, not intelligence about fitness business coaching. Vince Del Monte is mentioned only in the search query, not discussed as a business mentor or coach in the actual content.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 221,
+    "scanned": 222,
     "kept": 21,
-    "rejected": 200,
-    "last_scan": "2026-05-06T01:05:21.628889",
+    "rejected": 201,
+    "last_scan": "2026-05-06T01:35:24.211757",
     "platforms": [
       "YouTube",
       "Google",
