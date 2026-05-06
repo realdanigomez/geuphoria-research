@@ -2919,13 +2919,53 @@
       "status": "reject",
       "reason": "Title is generic productivity advice; no specific business strategy, entrepreneurship lesson, or creator economy insight present. Merely searching Dan Martell's name without substantive content from him doesn't constitute actionable business intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "This Video Will Make You Dangerously Smart With AI",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T12:35:57.952287",
+      "status": "reject",
+      "reason": "Title is clickbait with no specific AI insights or strategies present; merely a search reference to Dan Martell without substantive business intelligence or actionable frameworks applicable to fitness coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Calculator Trap",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T12:35:58.937274",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or actionable intelligence provided about Dan Martell or business strategy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Upgrades",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T12:36:00.005221",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or specific business lessons from Dan Martell - no actionable intelligence provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Real Power",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T12:36:00.930177",
+      "status": "reject",
+      "reason": "Search result page with no actual content, strategy, or insights from Dan Martell to extract actionable business intelligence from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 292,
+    "scanned": 296,
     "kept": 54,
-    "rejected": 238,
-    "last_scan": "2026-05-06T12:06:50.108340",
+    "rejected": 242,
+    "last_scan": "2026-05-06T12:36:58.271938",
     "platforms": [
       "YouTube",
       "Google",
