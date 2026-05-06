@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Only Two Ways to Scale a Service Business",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:47.862928",
-      "status": "keep",
-      "reason": "Directly addresses core scaling methodology for service businesses, likely containing frameworks applicable to fitness coaching operations (pricing models, systematization, or offer structuring typical of Hormozi's content)",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If I Wanted to Scale An Online Store, Here's What I'd Do",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:49.264225",
-      "status": "reject",
-      "reason": "Title suggests e-commerce scaling strategies which don't directly apply to coaching/service business models; unclear if content addresses coaching-specific systems like client acquisition, delivery frameworks, or service packaging that would transfer to fitness coaching.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Business Overview",
       "text": "Search: Alex Hormozi business scaling",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Dan Martell endorsement of Claude over ChatGPT provides AI tool comparison insights relevant to creator economy productivity and business operations efficiency—useful for optimizing coaching content production workflows.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to master Claude",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T20:36:18.899334",
+      "status": "reject",
+      "reason": "Search result header without actual content; no specific business insights, strategies, or actionable intelligence provided about Claude or business applications.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "These words are gonna kill your business in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T20:36:20.681966",
+      "status": "reject",
+      "reason": "Title promises business insights but finding contains only a search term with no actual content, strategy, or specific intelligence provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 302,
+    "scanned": 304,
     "kept": 55,
-    "rejected": 247,
-    "last_scan": "2026-05-06T20:07:06.252733",
+    "rejected": 249,
+    "last_scan": "2026-05-06T20:37:18.063238",
     "platforms": [
       "YouTube",
       "Google",
