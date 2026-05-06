@@ -542,6 +542,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How To Run A First Session With A New Client || New Trainer Tips And Tricks",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-06T15:54:13.735308",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and onboarding process, a core pain point for fitness coaches seeking to convert prospects and establish client relationships effectively.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1292,17 +1302,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 54,
+    "niche_kept": 55,
     "niche_rejected": 100,
-    "niche_scanned": 154,
+    "niche_scanned": 155,
     "comp_kept": 21,
     "comp_rejected": 205,
     "comp_scanned": 226,
     "busi_kept": 55,
     "busi_rejected": 247,
     "busi_scanned": 302,
-    "last_scan": "2026-05-06T15:37:00.961415",
-    "total_kept": 130,
+    "last_scan": "2026-05-06T15:57:22.517272",
+    "total_kept": 131,
     "total_rejected": 552,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
