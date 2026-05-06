@@ -752,16 +752,6 @@
     },
     {
       "source": "YouTube",
-      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:45.483005",
-      "status": "keep",
-      "reason": "Contains scaling strategies and frameworks from a recognized business mentor (Alex Hormozi) directly applicable to service business growth, which is the core model for fitness coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Only Two Ways to Scale a Service Business",
       "text": "Search: Alex Hormozi business scaling",
       "url": "",
@@ -1299,11 +1289,11 @@
     "comp_rejected": 205,
     "comp_scanned": 226,
     "busi_kept": 54,
-    "busi_rejected": 242,
-    "busi_scanned": 296,
-    "last_scan": "2026-05-06T12:36:58.275611",
+    "busi_rejected": 247,
+    "busi_scanned": 301,
+    "last_scan": "2026-05-06T13:36:58.159053",
     "total_kept": 129,
-    "total_rejected": 547,
+    "total_rejected": 552,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
