@@ -2879,13 +2879,33 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker who teaches scaling strategies; \"solo AI business\" and \"zero code\" are directly relevant to creator economy trends and entrepreneurship lessons applicable to fitness coaching businesses seeking automation and growth.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Change Your Life",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-06T06:05:41.825809",
+      "status": "reject",
+      "reason": "Search query alone without actual content from Alex Hormozi; no specific insights, strategies, or actionable intelligence provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "14 Years of Marketing Advice in 35 Minutes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-06T06:05:43.048443",
+      "status": "keep",
+      "reason": "Alex Hormozi's condensed marketing advice offers proven frameworks and strategies directly applicable to fitness coaching business model, positioning, and customer acquisition — core needs for scaling a coaching content business.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 288,
-    "kept": 53,
-    "rejected": 235,
-    "last_scan": "2026-05-06T05:36:37.653914",
+    "scanned": 290,
+    "kept": 54,
+    "rejected": 236,
+    "last_scan": "2026-05-06T06:06:46.883594",
     "platforms": [
       "YouTube",
       "Google",
