@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What Is the Problem",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:51.459245",
-      "status": "reject",
-      "reason": "Title alone (\"What Is the Problem\") lacks specific business intelligence; search query indicates content may be introductory/foundational rather than containing concrete scaling strategies, systems, or frameworks applicable to coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Attribution Issue",
       "text": "Search: Alex Hormozi business scaling",
       "url": "",
@@ -2999,10 +2989,20 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential business/marketing creator with proven expertise in ad copywriting and sales funnels; content about ad creation directly applies to promoting fitness coaching offers and agency services.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your New Identity",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T23:40:49.136641",
+      "status": "reject",
+      "reason": "Search query alone without actual content, transcript, or insights from Dan Martell — no actionable intelligence to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 305,
+    "scanned": 306,
     "kept": 56,
     "rejected": 249,
     "last_scan": "2026-05-06T23:37:18.220823",
