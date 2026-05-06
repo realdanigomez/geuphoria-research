@@ -1249,6 +1249,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist in the creator/SaaS space; a piece about AI monetization strategies aligns with emerging creator economy trends and business model innovation relevant to fitness coaching content businesses exploring AI tools and revenue diversification.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $10M Solo AI Business (Zero Code)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T05:35:40.222960",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker who teaches scaling strategies; \"solo AI business\" and \"zero code\" are directly relevant to creator economy trends and entrepreneurship lessons applicable to fitness coaching businesses seeking automation and growth.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1258,11 +1268,11 @@
     "comp_kept": 21,
     "comp_rejected": 201,
     "comp_scanned": 222,
-    "busi_kept": 52,
+    "busi_kept": 53,
     "busi_rejected": 235,
-    "busi_scanned": 287,
-    "last_scan": "2026-05-06T05:06:31.666715",
-    "total_kept": 125,
+    "busi_scanned": 288,
+    "last_scan": "2026-05-06T05:36:37.657727",
+    "total_kept": 126,
     "total_rejected": 536,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

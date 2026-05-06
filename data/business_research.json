@@ -2869,13 +2869,23 @@
       "status": "reject",
       "reason": "Title mentions wealth investment strategy but finding only contains a search term for Dan Martell with no actual content, insights, or actionable intelligence provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $10M Solo AI Business (Zero Code)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-06T05:35:40.222960",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker who teaches scaling strategies; \"solo AI business\" and \"zero code\" are directly relevant to creator economy trends and entrepreneurship lessons applicable to fitness coaching businesses seeking automation and growth.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 287,
-    "kept": 52,
+    "scanned": 288,
+    "kept": 53,
     "rejected": 235,
-    "last_scan": "2026-05-06T05:06:31.662726",
+    "last_scan": "2026-05-06T05:36:37.653914",
     "platforms": [
       "YouTube",
       "Google",
