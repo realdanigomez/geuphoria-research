@@ -2899,13 +2899,23 @@
       "status": "keep",
       "reason": "Alex Hormozi's condensed marketing advice offers proven frameworks and strategies directly applicable to fitness coaching business model, positioning, and customer acquisition — core needs for scaling a coaching content business.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Decisions Are Driven by Self-Awareness",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-06T07:10:26.167812",
+      "status": "reject",
+      "reason": "Title promises decision-making insights but finding only shows a search term for Alex Hormozi without actual content, strategies, or actionable business intelligence included.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 290,
+    "scanned": 291,
     "kept": 54,
-    "rejected": 236,
-    "last_scan": "2026-05-06T06:06:46.883594",
+    "rejected": 237,
+    "last_scan": "2026-05-06T07:11:29.581544",
     "platforms": [
       "YouTube",
       "Google",
