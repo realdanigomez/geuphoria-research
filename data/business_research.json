@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Phase 4 - Systematize Delivery and Operations",
-      "text": "Search: Dan Martel business systems",
-      "url": "",
-      "time": "2026-04-14T21:12:02.443358",
-      "status": "reject",
-      "reason": "Title only indicates a phase name without specific systems, frameworks, or actionable tactics shown in the text provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Phase 5 - Install Leadership and Management Systems",
       "text": "Search: Dan Martel business systems",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Addresses real entrepreneurial challenges and burnout management at scale, directly relevant to fitness coaching creators scaling to high revenue—offers cautionary lessons and management strategies for rapid growth.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Learn Anything Faster Than Everyone Else",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-07T19:36:59.497280",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Hormozi's work—no specific learning methodology or business principle provided to extract value from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 313,
+    "scanned": 314,
     "kept": 58,
-    "rejected": 254,
-    "last_scan": "2026-05-07T18:38:05.037872",
+    "rejected": 255,
+    "last_scan": "2026-05-07T19:38:01.735231",
     "platforms": [
       "YouTube",
       "Google",
