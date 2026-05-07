@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Phase 3 - Build Predictable Growth Engine",
-      "text": "Search: Dan Martel business systems",
-      "url": "",
-      "time": "2026-04-14T21:12:01.381206",
-      "status": "reject",
-      "reason": "Title alone lacks specifics; no actual content provided to evaluate frameworks, systems, or tactics that would constitute actionable business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Phase 4 - Systematize Delivery and Operations",
       "text": "Search: Dan Martel business systems",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait hyperbole without evidence of actual Dan Martell content or specific, actionable AI tools/strategies relevant to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "the dark side of $1M/mo (managing 'extreme' burnout)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-07T18:37:04.997986",
+      "status": "keep",
+      "reason": "Addresses real entrepreneurial challenges and burnout management at scale, directly relevant to fitness coaching creators scaling to high revenue—offers cautionary lessons and management strategies for rapid growth.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 312,
-    "kept": 57,
+    "scanned": 313,
+    "kept": 58,
     "rejected": 254,
-    "last_scan": "2026-05-07T18:08:03.014818",
+    "last_scan": "2026-05-07T18:38:05.037872",
     "platforms": [
       "YouTube",
       "Google",
