@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Dan Martel business systems",
-      "url": "",
-      "time": "2026-04-14T21:11:58.103105",
-      "status": "reject",
-      "reason": "Search query only, no actual content or business intelligence provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Phase 1 - Buy Back Your Time",
       "text": "Search: Dan Martel business systems",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone contains no substantive business content, strategies, or insights—merely indicates intent to find information about Charlie Morgan without actual findings or intelligence to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to make progress faster than everyone",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-07T08:36:30.648413",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided—cannot evaluate substantive business value without the material itself.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 309,
+    "scanned": 310,
     "kept": 57,
-    "rejected": 251,
-    "last_scan": "2026-05-07T08:07:34.032451",
+    "rejected": 252,
+    "last_scan": "2026-05-07T08:37:33.216848",
     "platforms": [
       "YouTube",
       "Google",
