@@ -2049,13 +2049,23 @@
       "status": "reject",
       "reason": "Search term alone provides no intelligence about competitor offerings, strategy, positioning, or business model—just a name mention without substantive content analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "21 Min Full Body Workout With Dumbbells (BUILD MUSCLE EASILY)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-07T05:35:26.776909",
+      "status": "reject",
+      "reason": "This is a workout video content, not competitor intelligence about fitness business coaches or their strategies for building online coaching businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 226,
+    "scanned": 227,
     "kept": 21,
-    "rejected": 205,
-    "last_scan": "2026-05-07T05:06:28.268541",
+    "rejected": 206,
+    "last_scan": "2026-05-07T05:36:29.822195",
     "platforms": [
       "YouTube",
       "Google",
