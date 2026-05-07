@@ -2059,13 +2059,73 @@
       "status": "reject",
       "reason": "This is a workout video content, not competitor intelligence about fitness business coaches or their strategies for building online coaching businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Workout Details",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-07T06:35:29.788853",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about business strategy, offers, positioning, or specific coaching methods - it's merely a name mention without substantive content or findings about how Vince Del Monte builds his coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Front Squats",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-07T06:35:30.997376",
+      "status": "reject",
+      "reason": "Contains only a generic exercise tutorial with a coach name in search query; no business strategy, positioning, offers, or actionable intelligence about building an online fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Wide Grip Neutral Pushup",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-07T06:35:32.113281",
+      "status": "reject",
+      "reason": "Contains only a generic exercise tutorial with a search term; no intelligence about fitness business strategy, coaching programs, mentorship, or how coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stiff Leg Deadlifts",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-07T06:35:33.384621",
+      "status": "reject",
+      "reason": "Contains only a generic exercise tutorial with no business strategy, coaching methods, offers, or actionable intelligence about how fitness coaches build their businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Side Lateral Raise",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-07T06:35:34.456292",
+      "status": "reject",
+      "reason": "Contains only a generic exercise name and a search query with no actual content about business strategy, coaching programs, or competitive intelligence about fitness business coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dumbbell Bent Over Row",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-07T06:35:35.833829",
+      "status": "reject",
+      "reason": "This is exercise instruction content, not business intelligence about fitness coaching. While Vince Del Monte is mentioned in the search query, the actual finding is about a dumbbell exercise technique with no information about coaching business strategy, offers, positioning, or methods.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 227,
+    "scanned": 233,
     "kept": 21,
-    "rejected": 206,
-    "last_scan": "2026-05-07T05:36:29.822195",
+    "rejected": 212,
+    "last_scan": "2026-05-07T06:36:39.094311",
     "platforms": [
       "YouTube",
       "Google",
