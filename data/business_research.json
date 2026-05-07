@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Attribution Issue",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:52.695661",
-      "status": "reject",
-      "reason": "Title alone doesn't indicate specific scaling strategies, systems, or frameworks. Without seeing the actual content, \"The Attribution Issue\" appears to be a concept discussion rather than actionable business intelligence for coaching/service business growth.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Who Is the Right Customer",
-      "text": "Search: Alex Hormozi business scaling",
-      "url": "",
-      "time": "2026-04-14T21:11:53.868364",
-      "status": "reject",
-      "reason": "Title alone is too generic without specific frameworks, systems, or tactics. Need evidence of actual scaling strategies, marketing mechanics, or business systems from the content itself to confirm value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Business is Hard Until You Build These Systems",
       "text": "Search: Dan Martel business systems",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search query alone without actual content, transcript, or insights from Dan Martell — no actionable intelligence to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Making a free course as a moat against competitors",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-07T03:06:27.946966",
+      "status": "keep",
+      "reason": "Charlie Morgan's strategy on using free courses as competitive moats is directly applicable to fitness coaching—free content can build audience trust, create switching costs, and establish authority against competitors while generating backend revenue opportunities.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The arms race of flex marketing and selling the dream",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-07T03:06:29.354764",
+      "status": "reject",
+      "reason": "Title mentions Charlie Morgan but the actual finding contains no excerpt, quotes, or specific insights from him—just a generic topic about flex marketing with no actionable intelligence or substantive business strategy provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 306,
-    "kept": 56,
-    "rejected": 249,
-    "last_scan": "2026-05-07T02:37:20.519129",
+    "scanned": 308,
+    "kept": 57,
+    "rejected": 250,
+    "last_scan": "2026-05-07T03:07:30.587486",
     "platforms": [
       "YouTube",
       "Google",

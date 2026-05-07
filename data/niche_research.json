@@ -1439,13 +1439,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition and onboarding process, a core pain point for fitness coaches seeking to convert prospects and establish client relationships effectively.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Never Burnout on Exercise Again",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-07T03:04:23.989751",
+      "status": "reject",
+      "reason": "Generic self-help content about personal exercise burnout, not about online fitness coaches' business problems, operations, or professional challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 155,
+    "scanned": 156,
     "kept": 55,
-    "rejected": 100,
-    "last_scan": "2026-05-07T02:35:13.145903",
+    "rejected": 101,
+    "last_scan": "2026-05-07T03:05:19.290429",
     "platforms": [
       "Reddit",
       "YouTube",
