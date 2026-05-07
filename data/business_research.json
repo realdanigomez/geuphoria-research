@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Phase 1 - Buy Back Your Time",
-      "text": "Search: Dan Martel business systems",
-      "url": "",
-      "time": "2026-04-14T21:11:59.104564",
-      "status": "reject",
-      "reason": "Title alone lacks specific actionable intelligence; need actual content (frameworks, metrics, systems) to assess relevance to coaching business scaling strategies",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Phase 2 - Clarify Your Strategy and Offer",
       "text": "Search: Dan Martel business systems",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies provided—cannot evaluate substantive business value without the material itself.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your New Identity",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-07T11:06:48.461845",
+      "status": "reject",
+      "reason": "Search query alone without content details, articles, or specific insights from Dan Martell cannot be evaluated for actionable business intelligence",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 310,
+    "scanned": 311,
     "kept": 57,
-    "rejected": 252,
-    "last_scan": "2026-05-07T10:37:41.763881",
+    "rejected": 253,
+    "last_scan": "2026-05-07T11:07:45.863974",
     "platforms": [
       "YouTube",
       "Google",
