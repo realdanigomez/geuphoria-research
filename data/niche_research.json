@@ -1449,13 +1449,23 @@
       "status": "reject",
       "reason": "Generic self-help content about personal exercise burnout, not about online fitness coaches' business problems, operations, or professional challenges",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Your Clients To Stick To Their Nutrition Plan (TRAINER TIPS)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-07T09:44:52.551493",
+      "status": "keep",
+      "reason": "Directly addresses client retention challenge (nutrition plan adherence), a major pain point affecting trainer reputation, results delivery, and repeat business",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 156,
-    "kept": 55,
+    "scanned": 157,
+    "kept": 56,
     "rejected": 101,
-    "last_scan": "2026-05-07T09:35:25.938148",
+    "last_scan": "2026-05-07T09:45:52.804622",
     "platforms": [
       "Reddit",
       "YouTube",

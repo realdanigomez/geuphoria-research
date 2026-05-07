@@ -552,6 +552,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How To Get Your Clients To Stick To Their Nutrition Plan (TRAINER TIPS)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-07T09:44:52.551493",
+      "status": "keep",
+      "reason": "Directly addresses client retention challenge (nutrition plan adherence), a major pain point affecting trainer reputation, results delivery, and repeat business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1312,17 +1322,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 55,
+    "niche_kept": 56,
     "niche_rejected": 101,
-    "niche_scanned": 156,
+    "niche_scanned": 157,
     "comp_kept": 21,
     "comp_rejected": 212,
     "comp_scanned": 233,
     "busi_kept": 57,
     "busi_rejected": 252,
     "busi_scanned": 310,
-    "last_scan": "2026-05-07T09:37:30.843116",
-    "total_kept": 133,
+    "last_scan": "2026-05-07T09:48:00.418192",
+    "total_kept": 134,
     "total_rejected": 565,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
