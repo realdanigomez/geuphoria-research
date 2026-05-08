@@ -1499,13 +1499,83 @@
       "status": "reject",
       "reason": "Claims outcome-driven result (21 minutes) without demonstrating specific pain point solutions or actionable intelligence for online fitness coaches; appears to be generic AI tool promotion rather than research on actual coaching business challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why most future coaches never start",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:34.989459",
+      "status": "reject",
+      "reason": "Generic motivational content about starting a coaching business lacks specific pain points, obstacles, or actionable strategies relevant to existing online fitness coaches' core struggles with client acquisition, systems, or scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 3 things people get stuck on",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:43.571932",
+      "status": "reject",
+      "reason": "Too vague and generic - lacks specific insights about online fitness coaches' actual pain points, struggles, or solutions; could apply to any coaching business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The AI coaching business prompt",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:44.769517",
+      "status": "reject",
+      "reason": "Generic \"tips\" content likely lacks specifics about fitness coaches' unique pain points, client acquisition strategies, or scaling challenges; too broad to provide targeted intelligence for the fitness coaching niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to actually use ChatGPT correctly",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:45.981153",
+      "status": "reject",
+      "reason": "Generic ChatGPT tutorial lacks specificity to fitness coaches' actual workflows, pain points, or business challenges; provides no intelligence on their unique needs around client programming, content creation, or scaling systems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Using my own story as the example",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:47.216132",
+      "status": "reject",
+      "reason": "Generic self-help storytelling advice lacks specific intelligence about fitness coaching business models, client acquisition, retention systems, or scaling challenges that online fitness coaches face.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Identifying the real coaching niche",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:48.105354",
+      "status": "reject",
+      "reason": "Too generic and broad; lacks specific pain points, struggles, or actionable insights relevant to online fitness coaches' unique challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Creating the first coaching offer",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:49.217989",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for fitness coaches—structuring their initial offer, which impacts client acquisition, pricing strategy, and revenue generation",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 161,
-    "kept": 58,
-    "rejected": 103,
-    "last_scan": "2026-05-08T06:25:30.696429",
+    "scanned": 168,
+    "kept": 59,
+    "rejected": 109,
+    "last_scan": "2026-05-08T06:36:46.156202",
     "platforms": [
       "Reddit",
       "YouTube",

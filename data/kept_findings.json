@@ -582,6 +582,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Creating the first coaching offer",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-08T06:35:49.217989",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for fitness coaches—structuring their initial offer, which impacts client acquisition, pricing strategy, and revenue generation",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -789,16 +799,6 @@
       "status": "keep",
       "reason": "Brian Mark is a direct competitor in the fitness business coaching space who teaches high-ticket program sales—a core business model for online fitness coaches. This finding indicates competitive positioning and pricing strategy intelligence.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
-      "text": "Search: Sam Ovens consulting business",
-      "url": "",
-      "time": "2026-04-14T21:12:08.751738",
-      "status": "keep",
-      "reason": "Contains foundational rebuild strategy from proven operator; likely includes systematic approach to business reconstruction, positioning, and growth tactics applicable to coaching/service businesses",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -1352,18 +1352,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 58,
-    "niche_rejected": 103,
-    "niche_scanned": 161,
+    "niche_kept": 59,
+    "niche_rejected": 109,
+    "niche_scanned": 168,
     "comp_kept": 21,
-    "comp_rejected": 212,
-    "comp_scanned": 233,
+    "comp_rejected": 215,
+    "comp_scanned": 236,
     "busi_kept": 58,
-    "busi_rejected": 255,
-    "busi_scanned": 314,
-    "last_scan": "2026-05-08T06:27:38.232831",
-    "total_kept": 137,
-    "total_rejected": 570,
+    "busi_rejected": 260,
+    "busi_scanned": 319,
+    "last_scan": "2026-05-08T06:39:01.733819",
+    "total_kept": 138,
+    "total_rejected": 584,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

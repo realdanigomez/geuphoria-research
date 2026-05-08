@@ -2119,13 +2119,43 @@
       "status": "reject",
       "reason": "This is exercise instruction content, not business intelligence about fitness coaching. While Vince Del Monte is mentioned in the search query, the actual finding is about a dumbbell exercise technique with no information about coaching business strategy, offers, positioning, or methods.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ripped Abs: 3 Secrets To Get Ripped Six Pack Abs - Vince Del Monte",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-08T06:36:47.640266",
+      "status": "reject",
+      "reason": "This is general fitness content about ab training, not intelligence about business strategies, coaching programs, or how fitness coaches build their businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mental",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-08T06:36:48.905264",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about competitors or business coaches for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cardio",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-08T06:36:50.195353",
+      "status": "reject",
+      "reason": "Search query alone without content, strategy, offers, or positioning details about fitness business coaching lacks actionable intelligence for understanding competitor business models or strategies.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 233,
+    "scanned": 236,
     "kept": 21,
-    "rejected": 212,
-    "last_scan": "2026-05-08T06:26:34.236159",
+    "rejected": 215,
+    "last_scan": "2026-05-08T06:37:52.425829",
     "platforms": [
       "YouTube",
       "Google",
