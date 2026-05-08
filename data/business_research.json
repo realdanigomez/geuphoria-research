@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Improve your confidence",
-      "text": "Search: Sam Ovens consulting business",
-      "url": "",
-      "time": "2026-04-14T21:12:13.303190",
-      "status": "reject",
-      "reason": "No specific business intelligence provided. Title is generic self-help content; search query alone doesn't contain scaling strategies, systems, frameworks, or tactics applicable to coaching/service businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Read one book per week",
-      "text": "Search: Sam Ovens consulting business",
-      "url": "",
-      "time": "2026-04-14T21:12:14.593641",
-      "status": "reject",
-      "reason": "No specific business intelligence provided. Title is a personal habit recommendation unrelated to scaling strategies, systems, marketing frameworks, or growth tactics for coaching/service businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "What would I consult on",
-      "text": "Search: Sam Ovens consulting business",
-      "url": "",
-      "time": "2026-04-14T21:12:19.666352",
-      "status": "reject",
-      "reason": "This is a search query without actual consulting content, frameworks, or strategies. No business intelligence is present to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How would I get my first client",
-      "text": "Search: Sam Ovens consulting business",
-      "url": "",
-      "time": "2026-04-14T21:12:20.828819",
-      "status": "reject",
-      "reason": "This is a generic question without actionable business intelligence. It lacks specific strategies, frameworks, or tactics from business mentors that would apply to scaling a coaching/service business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "5 Ways to Scale ANY Business",
-      "text": "Search: business owner scaling strategy",
-      "url": "",
-      "time": "2026-04-14T21:12:24.670286",
-      "status": "reject",
-      "reason": "Title is generic clickbait with no evidence of specific frameworks, systems, or tactics; search query suggests shallow SEO content rather than deep business intelligence from established mentors",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro",
       "text": "Search: business owner scaling strategy",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies provides no actionable intelligence or specific business lessons to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Reprogram Your Mind to Be Rich in 47 Mins",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T12:07:58.961116",
+      "status": "reject",
+      "reason": "Title is clickbait without specifics; search term alone doesn't confirm actual Dan Martell content or actionable business insights for fitness coaching context.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What is belief collecting",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T12:08:00.049516",
+      "status": "reject",
+      "reason": "Title mentions \"belief collecting\" but provides no actual content, explanation, or actionable insights—just a search term for Dan Martell without substance to extract business strategy or lessons.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to reprogram your mind",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T12:08:01.143261",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Dan Martell—no specific, actionable business intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why not me",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T12:08:02.682620",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Dan Martell — no actionable business intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Biggest mistake",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T12:08:03.806113",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategy provided - cannot assess business value without the actual article/resource material",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 320,
+    "scanned": 325,
     "kept": 58,
-    "rejected": 261,
-    "last_scan": "2026-05-08T11:38:48.838457",
+    "rejected": 266,
+    "last_scan": "2026-05-08T12:09:01.164153",
     "platforms": [
       "YouTube",
       "Google",
