@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: business owner scaling strategy",
-      "url": "",
-      "time": "2026-04-14T21:12:25.514785",
-      "status": "reject",
-      "reason": "Search query alone without actual content, frameworks, or specific tactics provides no actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Lessons Learned",
       "text": "Search: business owner scaling strategy",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, insights, or strategy provided - cannot assess business value without the actual article/resource material",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Moment I Almost Ended Everything",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T14:37:53.301172",
+      "status": "reject",
+      "reason": "Title suggests mental health crisis content; no evidence of actual Dan Martell business content, strategies, or entrepreneurship lessons present in the finding.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 325,
+    "scanned": 326,
     "kept": 58,
-    "rejected": 266,
-    "last_scan": "2026-05-08T14:08:58.916788",
+    "rejected": 267,
+    "last_scan": "2026-05-08T14:38:50.741161",
     "platforms": [
       "YouTube",
       "Google",
