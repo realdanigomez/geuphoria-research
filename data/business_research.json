@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
-      "text": "Search: Hormozi business advice",
-      "url": "",
-      "time": "2026-04-14T21:13:02.217992",
-      "status": "reject",
-      "reason": "Title is clickbait without evidence of specific, actionable business frameworks or scaling strategies in the actual content provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "No BS Business Advice to Get Rich in 2026",
       "text": "Search: Hormozi business advice",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search result title alone lacks specific insights; no actual content, strategies, or business lessons provided to evaluate for actionability",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Ranked the Best AI Tools to Get Rich in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T23:38:11.725598",
+      "status": "reject",
+      "reason": "Title promises ranking of AI tools for wealth but search term \"Dan Martell\" alone doesn't confirm the content actually delivers specific, actionable business strategies or insights from influential thinkers—appears to be clickbait without substance verification.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 336,
+    "scanned": 337,
     "kept": 59,
-    "rejected": 276,
-    "last_scan": "2026-05-08T23:09:15.157885",
+    "rejected": 277,
+    "last_scan": "2026-05-08T23:39:09.044506",
     "platforms": [
       "YouTube",
       "Google",
