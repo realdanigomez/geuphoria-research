@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Give Me 47 minutes, And I'll Fix Your Small Business",
-      "text": "Search: Hormozi business advice",
-      "url": "",
-      "time": "2026-04-14T21:13:01.235425",
-      "status": "reject",
-      "reason": "Title and search query alone lack specific actionable content; no framework, system, or tactic is described to verify business intelligence value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
       "text": "Search: Hormozi business advice",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Finding contains only a search query for Alex Hormozi with no actual content, insights, strategies, or intelligence to extract or act upon.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Full Action Plan Recap",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-08T20:18:29.717383",
+      "status": "reject",
+      "reason": "Search result title alone lacks specific insights; no actual content, strategies, or business lessons provided to evaluate for actionability",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 335,
+    "scanned": 336,
     "kept": 59,
-    "rejected": 275,
-    "last_scan": "2026-05-08T20:09:31.227407",
+    "rejected": 276,
+    "last_scan": "2026-05-08T20:19:33.824055",
     "platforms": [
       "YouTube",
       "Google",
