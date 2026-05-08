@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Lessons Learned",
-      "text": "Search: business owner scaling strategy",
-      "url": "",
-      "time": "2026-04-14T21:12:26.858607",
-      "status": "reject",
-      "reason": "Title and search query are too generic without evidence of specific scaling strategies, systems, or frameworks. No actual content provided to evaluate for actionable business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Going Up Market",
       "text": "Search: business owner scaling strategy",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests mental health crisis content; no evidence of actual Dan Martell business content, strategies, or entrepreneurship lessons present in the finding.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I’ve Tested 500+ AI Tools, These Few Will Make You Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-08T17:38:07.706999",
+      "status": "reject",
+      "reason": "Title makes unfounded wealth claims; no evidence provided that this contains specific, actionable AI tool strategies or Dan Martell's actual tested insights—appears to be clickbait without substantive business intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 326,
+    "scanned": 327,
     "kept": 58,
-    "rejected": 267,
-    "last_scan": "2026-05-08T17:08:55.874254",
+    "rejected": 268,
+    "last_scan": "2026-05-08T17:39:05.524029",
     "platforms": [
       "YouTube",
       "Google",
