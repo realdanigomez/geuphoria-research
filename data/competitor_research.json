@@ -2149,13 +2149,93 @@
       "status": "reject",
       "reason": "Search query alone without content, strategy, offers, or positioning details about fitness business coaching lacks actionable intelligence for understanding competitor business models or strategies.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Your Fitness Business is NOT Growing with Aidan Olohan",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:43.807611",
+      "status": "reject",
+      "reason": "The finding only mentions a search query for Charlie Johnson without providing any actual content, strategy, offers, or positioning intelligence about fitness business coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Being Busy vs. Being Productive",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:44.983412",
+      "status": "reject",
+      "reason": "Title and text don't match the search query; no specific intelligence about Charlie Johnson's business strategies, offers, positioning, or coaching methods is provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Chasing Vanity Metrics Instead of Revenue",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:46.028945",
+      "status": "reject",
+      "reason": "Title suggests generic business advice about metrics rather than specific intelligence about Charlie Johnson's coaching strategies, offers, or positioning for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Problem of Rushing Sales Conversations",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:47.903364",
+      "status": "reject",
+      "reason": "Finding contains only a generic sales topic title with no actual content, strategy details, offers, or specific business intelligence about fitness coaching businesses or how Charlie Johnson helps online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Singularity of Focus: Closing Open Loops",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:48.834007",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, intelligence, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Avoid Shiny Objects: Focus on Core Strategies",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:50.291186",
+      "status": "reject",
+      "reason": "Title and format suggest generic productivity advice rather than specific intelligence about Charlie Johnson's fitness business coaching strategies, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Problem Awareness vs. Brand Building",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:51.509712",
+      "status": "reject",
+      "reason": "Finding contains only a title and search query with no actual content, strategy, offers, or positioning details about Charlie Johnson or fitness business coaching approaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What to Delegate First in Your Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-09T14:07:52.418123",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate specific actionable intelligence about delegation strategies for online fitness coaches; would need actual content details to assess relevance.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 236,
+    "scanned": 244,
     "kept": 21,
-    "rejected": 215,
-    "last_scan": "2026-05-09T13:38:35.715209",
+    "rejected": 223,
+    "last_scan": "2026-05-09T14:08:49.731633",
     "platforms": [
       "YouTube",
       "Google",
