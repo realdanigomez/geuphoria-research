@@ -2229,13 +2229,53 @@
       "status": "reject",
       "reason": "Title alone doesn't indicate specific actionable intelligence about delegation strategies for online fitness coaches; would need actual content details to assess relevance.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Urgency Factor",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-09T23:07:58.033669",
+      "status": "reject",
+      "reason": "Search query alone without actual findings, content analysis, or competitive intelligence about Bedros Keuilian's strategy, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Urgency",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-09T23:07:59.070835",
+      "status": "reject",
+      "reason": "Search query alone without findings, strategy details, content analysis, or specific business intelligence about Bedros Keuilian's approach to coaching online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lifestyle Pictures",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-09T23:07:59.911120",
+      "status": "reject",
+      "reason": "Search query without actual content or intelligence about Bedros Keuilian's strategies, offers, or business positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step One Is Give Me Your Email Address",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-09T23:08:00.866100",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or any fitness business coaching intelligence.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 244,
+    "scanned": 248,
     "kept": 21,
-    "rejected": 223,
-    "last_scan": "2026-05-09T22:38:53.007308",
+    "rejected": 227,
+    "last_scan": "2026-05-09T23:09:04.471421",
     "platforms": [
       "YouTube",
       "Google",
