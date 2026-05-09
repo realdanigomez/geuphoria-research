@@ -1619,13 +1619,23 @@
       "status": "reject",
       "reason": "Generic title with no specific insights into fitness coaches' actual pain points, struggles, or systems; \"easy tips\" format typically lacks the depth needed to understand their real problems",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping an Online Fitness Coach Get Customers Through Content",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-09T21:06:45.763030",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches, and suggests content as the solution method - highly relevant to understanding their business challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 173,
-    "kept": 62,
+    "scanned": 174,
+    "kept": 63,
     "rejected": 111,
-    "last_scan": "2026-05-09T20:07:47.781598",
+    "last_scan": "2026-05-09T21:07:45.260780",
     "platforms": [
       "Reddit",
       "YouTube",
