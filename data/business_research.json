@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "No BS Business Advice to Get Rich in 2026",
-      "text": "Search: Hormozi business advice",
-      "url": "",
-      "time": "2026-04-14T21:13:03.188258",
-      "status": "reject",
-      "reason": "Title is clickbait and search query shows no evidence of actual content extracted; needs specific business framework, system, or tactic to be valuable",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The 3 Fastest Ways I Know To Grow Any Business",
       "text": "Search: Hormozi business advice",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises ranking of AI tools for wealth but search term \"Dan Martell\" alone doesn't confirm the content actually delivers specific, actionable business strategies or insights from influential thinkers—appears to be clickbait without substance verification.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Tested 500+ AI Tools, These Will Make You Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-09T00:38:12.390299",
+      "status": "reject",
+      "reason": "Title is clickbait hyperbole without evidence of actual tool testing or specific recommendations that would provide actionable business intelligence for a fitness coaching business.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 337,
+    "scanned": 338,
     "kept": 59,
-    "rejected": 277,
-    "last_scan": "2026-05-08T23:39:09.044506",
+    "rejected": 278,
+    "last_scan": "2026-05-09T00:39:09.809359",
     "platforms": [
       "YouTube",
       "Google",
