@@ -1589,13 +1589,23 @@
       "status": "reject",
       "reason": "Title promises content creation guidance but finding lacks specific pain points, data, or actionable insights about what online fitness coaches actually struggle with—too generic to inform strategic decisions.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Business Mistakes Personal Trainers Make",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-09T15:36:35.839363",
+      "status": "keep",
+      "reason": "Directly addresses pain points and failures of fitness coaches; likely contains specific mistakes in business operations, client retention, or scaling that online coaches encounter",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 170,
-    "kept": 60,
+    "scanned": 171,
+    "kept": 61,
     "rejected": 110,
-    "last_scan": "2026-05-09T15:07:38.676974",
+    "last_scan": "2026-05-09T15:37:39.112497",
     "platforms": [
       "Reddit",
       "YouTube",
