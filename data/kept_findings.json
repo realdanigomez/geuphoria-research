@@ -612,6 +612,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Personal Trainer Explains Why PT’s Stay Broke and How to Fix It",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-09T18:06:48.200049",
+      "status": "keep",
+      "reason": "Directly addresses income struggles of fitness coaches and provides solutions, which is a core pain point for understanding how to help coaches earn more and scale their businesses.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1352,18 +1362,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 61,
+    "niche_kept": 62,
     "niche_rejected": 110,
-    "niche_scanned": 171,
+    "niche_scanned": 172,
     "comp_kept": 21,
     "comp_rejected": 223,
     "comp_scanned": 244,
     "busi_kept": 60,
-    "busi_rejected": 279,
-    "busi_scanned": 340,
-    "last_scan": "2026-05-09T17:39:50.252373",
-    "total_kept": 142,
-    "total_rejected": 612,
+    "busi_rejected": 283,
+    "busi_scanned": 344,
+    "last_scan": "2026-05-09T18:10:00.742825",
+    "total_kept": 143,
+    "total_rejected": 616,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
