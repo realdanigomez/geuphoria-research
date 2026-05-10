@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Regular Updates",
-      "text": "Search: Martel SaaS playbook",
-      "url": "",
-      "time": "2026-04-14T21:13:16.632165",
-      "status": "reject",
-      "reason": "Search query alone without actual content, frameworks, or specific strategies cannot be evaluated for actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Start a SaaS Business From Scratch",
-      "text": "Search: Martel SaaS playbook",
-      "url": "",
-      "time": "2026-04-14T21:13:17.644470",
-      "status": "reject",
-      "reason": "SaaS playbook is not applicable to coaching/service business models; scaling strategies differ fundamentally from productized software businesses",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Build Systems (so your business runs without you)",
       "text": "Search: business systems automation",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "No actual content provided—only a title and search query with no insights, strategies, or substantive business lessons present to evaluate.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You'll NEVER Watch Short Form Again After Watching This",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-10T14:09:15.495151",
+      "status": "reject",
+      "reason": "Title is clickbait without visible substantive content; search query alone doesn't confirm presence of actual business insights or strategies from Charlie Morgan",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to use first principles to become a millionaire",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-10T14:09:17.011800",
+      "status": "reject",
+      "reason": "Title promises first principles approach to wealth but finding only shows a search query without actual content, strategies, or insights from Charlie Morgan that could be applied to fitness coaching business model or creator economy",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 346,
+    "scanned": 348,
     "kept": 60,
-    "rejected": 285,
-    "last_scan": "2026-05-10T13:40:32.368013",
+    "rejected": 287,
+    "last_scan": "2026-05-10T14:10:06.566180",
     "platforms": [
       "YouTube",
       "Google",
