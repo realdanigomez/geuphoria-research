@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Build Systems (so your business runs without you)",
-      "text": "Search: business systems automation",
-      "url": "",
-      "time": "2026-04-14T21:13:21.947730",
-      "status": "keep",
-      "reason": "Core business scaling principle directly applicable to coaching businesses; systems and automation are fundamental frameworks taught by Hormozi and similar mentors for moving from service delivery to scalable operations",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to build business systems",
-      "text": "Search: business systems automation",
-      "url": "",
-      "time": "2026-04-14T21:13:23.506384",
-      "status": "reject",
-      "reason": "Title and search term are too generic without specific systems, frameworks, or tactics detailed. No actionable intelligence demonstrated.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Don't start diagraming everything your business does",
-      "text": "Search: business systems automation",
-      "url": "",
-      "time": "2026-04-14T21:13:24.533044",
-      "status": "reject",
-      "reason": "Contains a directive without explaining scaling strategy, systems framework, or actionable tactics that apply to coaching/service businesses",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Don't zoom into every single step",
-      "text": "Search: business systems automation",
-      "url": "",
-      "time": "2026-04-14T21:13:25.616657",
-      "status": "reject",
-      "reason": "Title is vague without specific system or framework; text contains only a search query with no actual business intelligence, strategy, or actionable framework provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Don't create large work instructions",
       "text": "Search: business systems automation",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Title promises first principles approach to wealth but finding only shows a search query without actual content, strategies, or insights from Charlie Morgan that could be applied to fitness coaching business model or creator economy",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to build great sales culture.",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-10T14:42:40.438492",
+      "status": "reject",
+      "reason": "Search query without actual content or insights about sales culture; no actionable business strategies, frameworks, or specific intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Business Strategy Behind Market Dominance",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-10T14:42:41.472962",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided—no substantive business intelligence to extract or act upon.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The “One More Thing” Habit That’s Making You Broke",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-10T14:42:42.430993",
+      "status": "reject",
+      "reason": "Title suggests personal finance/spending habits content, not business strategy or creator economy insights relevant to fitness coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Market Pulse #34: AI's Private $1 Trillion Bubble?",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-10T14:42:43.676073",
+      "status": "reject",
+      "reason": "Title suggests AI/valuation commentary but the actual content is missing—only shows a search query for Charlie Morgan without substantive business insights, strategies, or actionable intelligence to apply to fitness coaching business.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 348,
+    "scanned": 352,
     "kept": 60,
-    "rejected": 287,
-    "last_scan": "2026-05-10T14:10:06.566180",
+    "rejected": 291,
+    "last_scan": "2026-05-10T14:43:43.868197",
     "platforms": [
       "YouTube",
       "Google",
