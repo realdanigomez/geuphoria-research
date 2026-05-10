@@ -2269,13 +2269,43 @@
       "status": "reject",
       "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or any fitness business coaching intelligence.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "$60K PERSONAL HOME GYM (take a tour!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-10T04:08:05.075863",
+      "status": "reject",
+      "reason": "Video tour of a home gym setup is consumer-focused equipment content, not business intelligence about coaching programs, strategies, or offers for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Power Rack",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-10T04:08:06.003615",
+      "status": "reject",
+      "reason": "Search term only, no content or intelligence about business strategy, offers, or positioning for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lat Pulldown",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-10T04:08:07.634502",
+      "status": "reject",
+      "reason": "The content is about lat pulldown exercise technique, not business intelligence about fitness coaches or their strategies. Mentioning Vince Del Monte in a search query doesn't make exercise form content relevant to competitor business analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 248,
+    "scanned": 251,
     "kept": 21,
-    "rejected": 227,
-    "last_scan": "2026-05-10T03:39:04.170847",
+    "rejected": 230,
+    "last_scan": "2026-05-10T04:09:10.002433",
     "platforms": [
       "YouTube",
       "Google",
