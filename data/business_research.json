@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Find your perfect coaching niche",
-      "text": "Search: coaching business operations",
-      "url": "",
-      "time": "2026-04-14T21:13:39.106147",
-      "status": "reject",
-      "reason": "Too vague and generic - lacks specific scaling strategies, systems, or frameworks that apply to coaching business growth; appears to be basic niche selection advice without actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Find your coaching idea",
       "text": "Search: coaching business operations",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is generic clickbait without actual content; search query alone doesn't indicate the resource contains substantive business strategies or insights from Dan Martell.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Core Principles of Sales: Psychology and Math",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-11T21:40:50.209158",
+      "status": "reject",
+      "reason": "Title suggests sales principles but finding only shows a search query for Charlie Morgan without actual content, principles, or actionable insights to evaluate.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 360,
+    "scanned": 361,
     "kept": 62,
-    "rejected": 297,
-    "last_scan": "2026-05-11T21:12:10.615341",
+    "rejected": 298,
+    "last_scan": "2026-05-11T21:41:49.966028",
     "platforms": [
       "YouTube",
       "Google",
