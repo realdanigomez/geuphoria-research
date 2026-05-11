@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: coaching business operations",
-      "url": "",
-      "time": "2026-04-14T21:13:36.716436",
-      "status": "reject",
-      "reason": "Generic search query with no actual content, framework, or actionable strategy provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What makes you qualified to coach",
       "text": "Search: coaching business operations",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic title with no specific insights; appears to be a search query result rather than actual content containing actionable business strategies or lessons from Charlie Morgan",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a Profitable Personal Brand (5 Simple Steps)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-11T13:10:33.754402",
+      "status": "reject",
+      "reason": "Title promises actionable steps but finding only shows a search query for Dan Martell without actual content, strategies, or insights to extract for your fitness coaching business.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 358,
+    "scanned": 359,
     "kept": 62,
-    "rejected": 295,
-    "last_scan": "2026-05-11T12:41:25.588348",
+    "rejected": 296,
+    "last_scan": "2026-05-11T13:11:32.142134",
     "platforms": [
       "YouTube",
       "Google",

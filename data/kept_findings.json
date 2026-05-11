@@ -632,6 +632,16 @@
     },
     {
       "source": "YouTube",
+      "title": "From Burnout to Breakthrough: Building a Coaching Business That Lasts with Melissa Johnson",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-11T13:08:27.318953",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout and business sustainability, which are core pain points for fitness coaches looking to scale without compromising longevity; title promises framework for building sustainable operations.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1382,18 +1392,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 63,
+    "niche_kept": 64,
     "niche_rejected": 113,
-    "niche_scanned": 176,
+    "niche_scanned": 177,
     "comp_kept": 21,
     "comp_rejected": 234,
     "comp_scanned": 255,
     "busi_kept": 62,
-    "busi_rejected": 295,
-    "busi_scanned": 358,
-    "last_scan": "2026-05-11T12:41:25.592816",
-    "total_kept": 146,
-    "total_rejected": 642,
+    "busi_rejected": 296,
+    "busi_scanned": 359,
+    "last_scan": "2026-05-11T13:11:32.146417",
+    "total_kept": 147,
+    "total_rejected": 643,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
