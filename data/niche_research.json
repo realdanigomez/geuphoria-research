@@ -1659,13 +1659,23 @@
       "status": "keep",
       "reason": "Directly addresses coach burnout and business sustainability, which are core pain points for fitness coaches looking to scale without compromising longevity; title promises framework for building sustainable operations.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Biceps Burnout! Dumbbell Bicep Workout and Cardio Training with Fitness Blender",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-11T23:08:49.778182",
+      "status": "reject",
+      "reason": "Content is a workout video tutorial, not research on fitness coach burnout, business challenges, or professional struggles. Does not provide actionable intelligence about coach pain points, marketing, or scaling.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 177,
+    "scanned": 178,
     "kept": 64,
-    "rejected": 113,
-    "last_scan": "2026-05-11T22:39:44.034268",
+    "rejected": 114,
+    "last_scan": "2026-05-11T23:09:44.108380",
     "platforms": [
       "Reddit",
       "YouTube",
