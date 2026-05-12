@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Create your coaching package",
-      "text": "Search: coaching business operations",
-      "url": "",
-      "time": "2026-04-14T21:13:41.326874",
-      "status": "reject",
-      "reason": "Too generic and operational; lacks specific scaling strategies, marketing frameworks, or growth tactics from established business mentors that would apply across coaching/service businesses",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Blanket price",
       "text": "Search: coaching business operations",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone lacks specific content, strategy, or actionable intelligence; no actual insights, frameworks, or business lessons are present to extract or learn from.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Book Appointments",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-12T07:41:11.100818",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or insights from Charlie Morgan—no actionable intelligence to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 362,
+    "scanned": 363,
     "kept": 62,
-    "rejected": 299,
-    "last_scan": "2026-05-12T07:12:07.726066",
+    "rejected": 300,
+    "last_scan": "2026-05-12T07:42:11.243852",
     "platforms": [
       "YouTube",
       "Google",
