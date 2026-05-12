@@ -642,6 +642,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Turning a Struggling Fitness Coach Into a $10K/Month Coach (Pull Day)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-12T22:09:42.967150",
+      "status": "keep",
+      "reason": "Directly addresses income transformation ($10K/month goal) and implies case study of struggling coach overcoming specific challenges, providing actionable benchmarks and strategies relevant to coach scaling goals.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1372,17 +1382,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 64,
+    "niche_kept": 65,
     "niche_rejected": 114,
-    "niche_scanned": 178,
+    "niche_scanned": 179,
     "comp_kept": 21,
     "comp_rejected": 234,
     "comp_scanned": 255,
     "busi_kept": 62,
     "busi_rejected": 309,
     "busi_scanned": 372,
-    "last_scan": "2026-05-12T21:51:42.401657",
-    "total_kept": 147,
+    "last_scan": "2026-05-12T22:12:56.280072",
+    "total_kept": 148,
     "total_rejected": 657,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
