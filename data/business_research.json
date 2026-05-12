@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Everyone Looks Like An Overnight Success",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T00:12:30.309294",
-      "status": "reject",
-      "reason": "Search result title only with no actual content, insights, or strategies provided to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "how I make $125k profit per month with a free skool group (low ticket upsells)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search result alone with no actual content, insights, or strategies provided to evaluate for business value",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch this if you run an online business but feel STUCK",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-12T16:41:38.632092",
+      "status": "reject",
+      "reason": "Title promises general business advice but no specific insights provided; requires viewing to determine if it contains actionable intelligence rather than demonstrating value upfront",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 371,
+    "scanned": 372,
     "kept": 62,
-    "rejected": 308,
-    "last_scan": "2026-05-12T16:12:40.369048",
+    "rejected": 309,
+    "last_scan": "2026-05-12T16:42:39.095027",
     "platforms": [
       "YouTube",
       "Google",
