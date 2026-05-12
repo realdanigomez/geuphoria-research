@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Find your coaching idea",
-      "text": "Search: coaching business operations",
-      "url": "",
-      "time": "2026-04-14T21:13:40.312151",
-      "status": "reject",
-      "reason": "Too vague and generic. No specific strategies, frameworks, or tactics provided—just a search term without actionable business intelligence or scaling methodology.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Create your coaching package",
       "text": "Search: coaching business operations",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests sales principles but finding only shows a search query for Charlie Morgan without actual content, principles, or actionable insights to evaluate.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Every day live | Br. Sam Ovens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-12T04:41:15.682700",
+      "status": "reject",
+      "reason": "Search query alone lacks specific content, strategy, or actionable intelligence; no actual insights, frameworks, or business lessons are present to extract or learn from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 361,
+    "scanned": 362,
     "kept": 62,
-    "rejected": 298,
-    "last_scan": "2026-05-12T04:12:01.315376",
+    "rejected": 299,
+    "last_scan": "2026-05-12T04:42:10.513095",
     "platforms": [
       "YouTube",
       "Google",
