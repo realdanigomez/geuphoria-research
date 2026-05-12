@@ -852,26 +852,6 @@
     },
     {
       "source": "YouTube",
-      "title": "You’re Wasting 80% of Your Time (here’s how to fix it)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T00:12:25.735651",
-      "status": "keep",
-      "reason": "Alex Hormozi content on time efficiency directly applies to coaching business operations, client delivery optimization, and scaling strategies—core concerns for fitness coaching entrepreneurs.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "YOU OWE IT TO YOU IN 2025 - Powerful Motivational Speech | Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T00:12:27.021162",
-      "status": "keep",
-      "reason": "Alex Hormozi motivational content provides direct business psychology and mindset frameworks applicable to fitness coaching business positioning, pricing strategies, and customer retention messaging that can inform content calendars and client onboarding narratives.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "how I make $125k profit per month with a free skool group (low ticket upsells)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -1399,11 +1379,11 @@
     "comp_rejected": 234,
     "comp_scanned": 255,
     "busi_kept": 62,
-    "busi_rejected": 300,
-    "busi_scanned": 363,
-    "last_scan": "2026-05-12T12:42:28.963524",
+    "busi_rejected": 308,
+    "busi_scanned": 371,
+    "last_scan": "2026-05-12T13:07:39.759582",
     "total_kept": 147,
-    "total_rejected": 648,
+    "total_rejected": 656,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
