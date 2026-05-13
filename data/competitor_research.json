@@ -2339,13 +2339,23 @@
       "status": "reject",
       "reason": "This is generic fitness exercise content, not business intelligence about coaches/mentors who help online fitness coaches build their businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Best Fat Loss Secret",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-13T01:10:49.008033",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about business strategy, offers, positioning, or tactics used by fitness business coaches to build their coaching businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 255,
+    "scanned": 256,
     "kept": 21,
-    "rejected": 234,
-    "last_scan": "2026-05-13T00:42:00.504816",
+    "rejected": 235,
+    "last_scan": "2026-05-13T01:11:51.677513",
     "platforms": [
       "YouTube",
       "Google",
