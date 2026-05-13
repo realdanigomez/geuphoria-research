@@ -1679,13 +1679,83 @@
       "status": "keep",
       "reason": "Directly addresses income transformation ($10K/month goal) and implies case study of struggling coach overcoming specific challenges, providing actionable benchmarks and strategies relevant to coach scaling goals.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exactly How to Start Online Fitness Coaching (it's easy)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-13T20:40:54.592549",
+      "status": "reject",
+      "reason": "Title claims \"it's easy\" without specifics; generic search term suggests surface-level content lacking the deep pain point analysis needed for coaches facing real operational challenges, client acquisition struggles, or scaling systems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Story",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-13T20:40:55.657276",
+      "status": "reject",
+      "reason": "Too generic and autobiographical; lacks specific insights into fitness coaches' concrete pain points, business metrics, or actionable strategies",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Unique Selling Proposition",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-13T20:40:58.859452",
+      "status": "reject",
+      "reason": "Too generic and lacks specific insight into fitness coaches' actual pain points, struggles, or business challenges; \"online coaching business tips\" is broad advice territory, not deep problem understanding.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Money Maker VSL",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-13T20:40:59.953366",
+      "status": "reject",
+      "reason": "Generic business VSL sales funnel without specific insights into fitness coaching pain points, client acquisition, scaling challenges, or income generation relevant to online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Master DMs to Convert High Ticket",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-13T20:41:01.157232",
+      "status": "reject",
+      "reason": "Generic high-ticket sales advice without fitness coaching context; lacks specific intelligence about fitness coaches' unique DM conversion challenges, client types, or industry-specific objections",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hidden Mindset Shift",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-13T20:41:02.074331",
+      "status": "reject",
+      "reason": "Generic mindset content lacks specific intelligence about fitness coaches' actual pain points, systems, client acquisition methods, or business operations",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How \\u0026 Where to Get Your First Coaching Clients (fast!)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-13T20:41:03.271704",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches starting their business and scaling revenue",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 179,
-    "kept": 65,
-    "rejected": 114,
-    "last_scan": "2026-05-13T20:11:56.491707",
+    "scanned": 186,
+    "kept": 66,
+    "rejected": 120,
+    "last_scan": "2026-05-13T20:42:00.468526",
     "platforms": [
       "Reddit",
       "YouTube",
