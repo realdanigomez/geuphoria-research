@@ -2349,13 +2349,23 @@
       "status": "reject",
       "reason": "Search query alone provides no specific intelligence about business strategy, offers, positioning, or tactics used by fitness business coaches to build their coaching businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness marketing for personal training studios",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-13T09:11:18.886523",
+      "status": "reject",
+      "reason": "Finding mentions Bedros Keuilian but provides no specific intelligence about his strategies, offers, positioning, or business methods—only a search query with no actual content analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 256,
+    "scanned": 257,
     "kept": 21,
-    "rejected": 235,
-    "last_scan": "2026-05-13T08:42:11.290193",
+    "rejected": 236,
+    "last_scan": "2026-05-13T09:12:18.595363",
     "platforms": [
       "YouTube",
       "Google",
