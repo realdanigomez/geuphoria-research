@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Is The Internet Marketing Space So F*cked?",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T00:12:36.366780",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Charlie Morgan - no specific, actionable intelligence present",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "4 Business Lessons I Learned From My BILLIONAIRE Mentor",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell content on AI wealth-building likely contains actionable entrepreneurship strategies applicable to scaling a fitness coaching business through AI automation and tools.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Brutally Honest Advice For Someone Trying to Make Money with AI",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-14T15:42:34.534378",
+      "status": "keep",
+      "reason": "Dan Martell content on monetizing AI provides direct entrepreneurship lessons applicable to building AI-powered fitness coaching products and business models",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 374,
-    "kept": 63,
+    "scanned": 375,
+    "kept": 64,
     "rejected": 310,
-    "last_scan": "2026-05-14T15:14:50.013373",
+    "last_scan": "2026-05-14T15:43:31.587783",
     "platforms": [
       "YouTube",
       "Google",
