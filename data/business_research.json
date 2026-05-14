@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "\\",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T00:12:35.189806",
-      "status": "reject",
-      "reason": "Search query alone contains no actual content, insights, or information to extract—just a search term without substantive business intelligence, strategies, or lessons.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Is The Internet Marketing Space So F*cked?",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title-only result with no actual content; cannot assess for specific, actionable business intelligence without the article's substantive details",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Brutally Honest Advice to Someone Who Wants to Get Rich With AI",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-14T13:43:45.471444",
+      "status": "keep",
+      "reason": "Dan Martell content on AI wealth-building likely contains actionable entrepreneurship strategies applicable to scaling a fitness coaching business through AI automation and tools.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 373,
-    "kept": 62,
+    "scanned": 374,
+    "kept": 63,
     "rejected": 310,
-    "last_scan": "2026-05-14T13:14:38.911631",
+    "last_scan": "2026-05-14T13:44:43.935651",
     "platforms": [
       "YouTube",
       "Google",
