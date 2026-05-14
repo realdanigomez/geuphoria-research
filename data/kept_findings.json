@@ -682,6 +682,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Why Experienced Personal Trainers Still Struggle and How to Fix It",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-14T05:41:13.564697",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point (client acquisition) for online fitness coaches; title suggests it contains diagnostic insights into why experienced coaches still struggle despite expertise, which reveals systemic problems beyond basic marketing tactics.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1402,17 +1412,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 68,
+    "niche_kept": 69,
     "niche_rejected": 120,
-    "niche_scanned": 188,
+    "niche_scanned": 189,
     "comp_kept": 21,
     "comp_rejected": 236,
     "comp_scanned": 257,
     "busi_kept": 62,
     "busi_rejected": 310,
     "busi_scanned": 373,
-    "last_scan": "2026-05-14T05:14:07.493863",
-    "total_kept": 151,
+    "last_scan": "2026-05-14T05:44:19.794172",
+    "total_kept": 152,
     "total_rejected": 666,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
