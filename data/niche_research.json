@@ -1789,13 +1789,23 @@
       "status": "keep",
       "reason": "Directly addresses experienced trainer struggles which maps to core pain points (client acquisition, income scaling, burnout) and implies solutions—valuable for understanding why coaches fail despite expertise.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Experienced Personal Trainers Still Struggle and How to Fix It",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-14T18:41:48.227077",
+      "status": "keep",
+      "reason": "Directly addresses experienced coach struggles; likely contains specific pain points (burnout, scaling, pricing, client retention) that reveal actionable gaps in their business model beyond just training knowledge.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 190,
-    "kept": 70,
+    "scanned": 191,
+    "kept": 71,
     "rejected": 120,
-    "last_scan": "2026-05-14T18:12:41.866236",
+    "last_scan": "2026-05-14T18:42:50.906766",
     "platforms": [
       "Reddit",
       "YouTube",
