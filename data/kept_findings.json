@@ -1480,10 +1480,10 @@
     "comp_scanned": 257,
     "busi_kept": 65,
     "busi_rejected": 310,
-    "busi_scanned": 376,
-    "last_scan": "2026-05-14T21:10:39.863457",
+    "busi_scanned": 378,
+    "last_scan": "2026-05-14T22:14:57.795850",
     "total_kept": 158,
-    "total_rejected": 668,
+    "total_rejected": 666,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
