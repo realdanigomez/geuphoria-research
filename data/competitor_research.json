@@ -2359,13 +2359,23 @@
       "status": "reject",
       "reason": "Finding mentions Bedros Keuilian but provides no specific intelligence about his strategies, offers, positioning, or business methods—only a search query with no actual content analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I'm Back",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-14T22:36:56.152068",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, positioning, or actionable intelligence about how Vince Del Monte or competitors build their fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 257,
+    "scanned": 258,
     "kept": 21,
-    "rejected": 236,
-    "last_scan": "2026-05-14T22:13:53.330363",
+    "rejected": 237,
+    "last_scan": "2026-05-14T22:37:58.373072",
     "platforms": [
       "YouTube",
       "Google",
