@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "how I make $125k profit per month with a free skool group (low ticket upsells)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T00:12:34.103113",
-      "status": "keep",
-      "reason": "Demonstrates monetization strategy (free community + low-ticket upsells) applicable to fitness coaching business model; Charlie Morgan is influential creator economy figure with proven scaling methods",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "\\",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises general business advice but no specific insights provided; requires viewing to determine if it contains actionable intelligence rather than demonstrating value upfront",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Brutal Truth About Getting Rich In Your 20's",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-14T02:53:18.269074",
+      "status": "reject",
+      "reason": "Title-only result with no actual content; cannot assess for specific, actionable business intelligence without the article's substantive details",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 372,
+    "scanned": 373,
     "kept": 62,
-    "rejected": 309,
-    "last_scan": "2026-05-14T02:14:12.298514",
+    "rejected": 310,
+    "last_scan": "2026-05-14T02:54:18.446497",
     "platforms": [
       "YouTube",
       "Google",
