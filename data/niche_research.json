@@ -1809,13 +1809,23 @@
       "status": "keep",
       "reason": "Directly addresses burnout—a critical pain point for online fitness coaches managing high client loads, content creation, and business operations simultaneously. Understanding burnout mechanisms and solutions is essential for coach retention and sustainable scaling.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Most Personal Trainers Don’t Have a Knowledge Problem",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-14T23:41:43.194730",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for fitness coaches—reveals that knowledge gaps aren't the limiting factor, suggesting the real problems lie in business/marketing/systems, which helps reframe coaching business challenges and informs better content strategy.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 192,
-    "kept": 72,
+    "scanned": 193,
+    "kept": 73,
     "rejected": 120,
-    "last_scan": "2026-05-14T22:36:54.430621",
+    "last_scan": "2026-05-14T23:42:45.385620",
     "platforms": [
       "Reddit",
       "YouTube",

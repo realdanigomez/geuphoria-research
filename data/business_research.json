@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Chess Example",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T00:12:41.241029",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or substantive information provided to evaluate for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Generals Perspective",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, article, or insights provided—cannot evaluate business value without substantive material to analyze",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reason You Haven't Made Money With AI… Yet",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-14T23:43:54.883410",
+      "status": "reject",
+      "reason": "Title references AI monetization but finding only contains a search query for Dan Martell with no actual content, insights, or actionable strategies provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 378,
+    "scanned": 379,
     "kept": 65,
-    "rejected": 310,
-    "last_scan": "2026-05-14T22:39:01.256478",
+    "rejected": 311,
+    "last_scan": "2026-05-14T23:44:52.077610",
     "platforms": [
       "YouTube",
       "Google",
