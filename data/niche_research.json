@@ -1749,13 +1749,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches starting their business and scaling revenue",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Experienced Personal Trainers Still Struggle to Get Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-14T02:11:04.552920",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for fitness coaches; understanding why experienced trainers struggle to convert potential clients reveals marketing/positioning gaps that online coaches face",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 186,
-    "kept": 66,
+    "scanned": 187,
+    "kept": 67,
     "rejected": 120,
-    "last_scan": "2026-05-14T01:42:04.094279",
+    "last_scan": "2026-05-14T02:12:06.694569",
     "platforms": [
       "Reddit",
       "YouTube",
