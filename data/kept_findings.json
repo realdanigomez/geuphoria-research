@@ -692,6 +692,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Why Experienced Personal Trainers Still Struggle and How to Fix It",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-14T15:44:39.733954",
+      "status": "keep",
+      "reason": "Directly addresses experienced trainer struggles which maps to core pain points (client acquisition, income scaling, burnout) and implies solutions—valuable for understanding why coaches fail despite expertise.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1432,9 +1442,9 @@
     }
   ],
   "stats": {
-    "niche_kept": 69,
+    "niche_kept": 70,
     "niche_rejected": 120,
-    "niche_scanned": 189,
+    "niche_scanned": 190,
     "comp_kept": 21,
     "comp_rejected": 236,
     "comp_scanned": 257,
