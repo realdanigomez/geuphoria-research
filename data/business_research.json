@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Generals Perspective",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T00:12:42.072912",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or specific business strategies from Charlie Morgan provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "This is Your Last Chance to Get Rich (Before AI Replaces You)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title references AI monetization but finding only contains a search query for Dan Martell with no actual content, insights, or actionable strategies provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "7 new businesses making \\",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-15T18:02:39.748890",
+      "status": "reject",
+      "reason": "Search query alone with incomplete title provides no specific business insights, strategies, or actionable intelligence to extract or act upon.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 379,
+    "scanned": 380,
     "kept": 65,
-    "rejected": 311,
-    "last_scan": "2026-05-15T17:45:44.315093",
+    "rejected": 312,
+    "last_scan": "2026-05-15T18:03:39.516998",
     "platforms": [
       "YouTube",
       "Google",
