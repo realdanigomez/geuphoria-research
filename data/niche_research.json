@@ -1819,13 +1819,23 @@
       "status": "keep",
       "reason": "Directly addresses a core pain point for fitness coaches—reveals that knowledge gaps aren't the limiting factor, suggesting the real problems lie in business/marketing/systems, which helps reframe coaching business challenges and informs better content strategy.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Ranked Every Lead Generation Strategy for Coaches in 2026",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-15T14:12:37.143106",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches; \"ranking\" strategies suggests comparative analysis that could inform marketing decisions and scaling efforts.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 193,
-    "kept": 73,
+    "scanned": 194,
+    "kept": 74,
     "rejected": 120,
-    "last_scan": "2026-05-15T14:01:37.807154",
+    "last_scan": "2026-05-15T14:13:37.295255",
     "platforms": [
       "Reddit",
       "YouTube",
