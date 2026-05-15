@@ -1829,13 +1829,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches; \"ranking\" strategies suggests comparative analysis that could inform marketing decisions and scaling efforts.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Simple Strategy That Kills Content Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-15T22:29:25.244763",
+      "status": "keep",
+      "reason": "Directly addresses content burnout, a critical pain point for fitness coaches managing client acquisition and marketing while delivering services; understanding burnout solutions is essential for scaling and retention.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 194,
-    "kept": 74,
+    "scanned": 195,
+    "kept": 75,
     "rejected": 120,
-    "last_scan": "2026-05-15T21:43:54.077159",
+    "last_scan": "2026-05-15T22:30:19.747421",
     "platforms": [
       "Reddit",
       "YouTube",
