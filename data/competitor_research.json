@@ -2399,13 +2399,33 @@
       "status": "reject",
       "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching competitors.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Dominate The Fitness Industry",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-16T12:44:17.613108",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Living A Comfortable Life",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-16T12:44:18.679111",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, or business approach. No actionable competitor intelligence provided.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 261,
+    "scanned": 263,
     "kept": 21,
-    "rejected": 240,
-    "last_scan": "2026-05-16T12:15:20.324513",
+    "rejected": 242,
+    "last_scan": "2026-05-16T12:45:18.259118",
     "platforms": [
       "YouTube",
       "Google",
