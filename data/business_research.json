@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What About Grok?",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T00:12:54.430288",
-      "status": "reject",
-      "reason": "Contains only a search query with no actual content, insights, or information about Dan Martell's ideas or business strategies to extract value from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Be More Productive (Quantum Mastermind Recording)",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi and Tony Robbins conversation likely contains frameworks on scaling businesses, value creation, and life philosophy applicable to coaching business model development and client psychology strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$0 - $1M Step By Step",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-17T14:46:23.921382",
+      "status": "reject",
+      "reason": "Title alone without actual content cannot be evaluated for specific, actionable business intelligence or insights from the mentioned creator",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 387,
+    "scanned": 388,
     "kept": 66,
-    "rejected": 318,
-    "last_scan": "2026-05-17T14:17:23.898095",
+    "rejected": 319,
+    "last_scan": "2026-05-17T14:47:24.074102",
     "platforms": [
       "YouTube",
       "Google",
