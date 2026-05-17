@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Be More Productive (Quantum Mastermind Recording)",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T00:12:57.892675",
-      "status": "reject",
-      "reason": "Contains only a title and search query with no actual content, insights, or actionable intelligence to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title alone without actual content cannot be evaluated for specific, actionable business intelligence or insights from the mentioned creator",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Day 1 of using Charlie Morgan's Skool Community To Start A Consultation Business",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-17T20:14:28.009028",
+      "status": "reject",
+      "reason": "Title only mentions Charlie Morgan's name without revealing specific strategies, frameworks, or actionable insights about starting a consultation business; appears to be a vague documentation of someone's first day rather than substantive business intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 388,
+    "scanned": 389,
     "kept": 66,
-    "rejected": 319,
-    "last_scan": "2026-05-17T19:47:31.351891",
+    "rejected": 320,
+    "last_scan": "2026-05-17T20:15:27.665515",
     "platforms": [
       "YouTube",
       "Google",
