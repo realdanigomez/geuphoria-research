@@ -2419,13 +2419,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, or business approach. No actionable competitor intelligence provided.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Funeral of Vince Del Monte",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-17T07:32:58.381653",
+      "status": "reject",
+      "reason": "This is about Vince Del Monte's death, not about his business strategies, coaching methods, or programs that would provide actionable intelligence for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 263,
+    "scanned": 264,
     "kept": 21,
-    "rejected": 242,
-    "last_scan": "2026-05-17T07:15:57.600127",
+    "rejected": 243,
+    "last_scan": "2026-05-17T07:34:00.376403",
     "platforms": [
       "YouTube",
       "Google",
