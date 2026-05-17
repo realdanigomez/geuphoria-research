@@ -1839,13 +1839,23 @@
       "status": "keep",
       "reason": "Directly addresses content burnout, a critical pain point for fitness coaches managing client acquisition and marketing while delivering services; understanding burnout solutions is essential for scaling and retention.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make $20,000/Month as an Online Fitness Coach in 2025 (FREE COURSE)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-17T11:44:07.149923",
+      "status": "reject",
+      "reason": "Claims revenue targets without addressing actual pain points (client acquisition, retention, pricing strategy, or systems); appears to be promotional content rather than research revealing coach struggles",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 195,
+    "scanned": 196,
     "kept": 75,
-    "rejected": 120,
-    "last_scan": "2026-05-17T11:15:07.954436",
+    "rejected": 121,
+    "last_scan": "2026-05-17T11:45:09.097673",
     "platforms": [
       "Reddit",
       "YouTube",
