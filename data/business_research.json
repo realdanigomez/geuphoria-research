@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Environment",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T00:13:00.712561",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or strategies provided—requires the actual material/article about Sam Ovens to evaluate business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How often",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and founder known for scaling companies and revenue optimization—his content on monetization strategies and business growth directly applies to fitness coaching business models and pricing strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "28 Years of Money Lessons in 18 Minutes",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-18T14:17:34.103154",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker and founder coach; this content likely contains specific money/business lessons applicable to scaling a fitness coaching business or creator economy strategies.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 390,
-    "kept": 67,
+    "scanned": 391,
+    "kept": 68,
     "rejected": 320,
-    "last_scan": "2026-05-18T13:52:27.178635",
+    "last_scan": "2026-05-18T14:18:31.441503",
     "platforms": [
       "YouTube",
       "Google",
