@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Work against them",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T00:13:02.730488",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provided. No specific business lessons or actionable intelligence present.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Heuristics",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist; \"leverage\" is a core business principle relevant to scaling fitness coaching businesses and creator economy monetization strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Money Laws I Wish I Knew in My 20s",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-18T17:47:42.154303",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker; content on money laws offers actionable financial principles applicable to fitness coaching business models and creator economy strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 392,
-    "kept": 69,
+    "scanned": 393,
+    "kept": 70,
     "rejected": 320,
-    "last_scan": "2026-05-18T16:48:39.138776",
+    "last_scan": "2026-05-18T17:48:39.865627",
     "platforms": [
       "YouTube",
       "Google",
