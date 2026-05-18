@@ -2439,10 +2439,20 @@
       "status": "reject",
       "reason": "Contains only a search query without actual findings, strategy, content, offers, or positioning intelligence about Bedros Keuilian or fitness business coaching practices.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Be Greedy",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-18T20:20:56.310068",
+      "status": "reject",
+      "reason": "Finding only contains a search query with no actual content, strategy, positioning, or actionable intelligence about the competitor or their business approach.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 265,
+    "scanned": 266,
     "kept": 21,
     "rejected": 244,
     "last_scan": "2026-05-18T20:17:36.546887",
