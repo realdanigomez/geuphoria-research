@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Fear",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T00:13:04.993059",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, article, or insights from Sam Ovens provided—cannot assess business value without substantive material to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Schedule",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content provides no specific, actionable business intelligence or strategy to extract for fitness coaching content or business strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Catch Up In Life (Using Logic)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-18T22:17:43.582315",
+      "status": "reject",
+      "reason": "Title promises logic-based life advice but lacks specific business strategies, entrepreneurial frameworks, or actionable tactics relevant to fitness coaching business operations or creator economy trends.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 394,
+    "scanned": 395,
     "kept": 70,
-    "rejected": 321,
-    "last_scan": "2026-05-18T21:48:45.186470",
+    "rejected": 322,
+    "last_scan": "2026-05-18T22:18:45.929608",
     "platforms": [
       "YouTube",
       "Google",
