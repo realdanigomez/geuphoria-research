@@ -1489,6 +1489,16 @@
       "status": "keep",
       "reason": "Alex Hormozi and Tony Robbins conversation likely contains frameworks on scaling businesses, value creation, and life philosophy applicable to coaching business model development and client psychology strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Make So Much Money it Feels Like Stealing",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-18T13:17:26.350269",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and founder known for scaling companies and revenue optimization—his content on monetization strategies and business growth directly applies to fitness coaching business models and pricing strategy.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1498,11 +1508,11 @@
     "comp_kept": 21,
     "comp_rejected": 243,
     "comp_scanned": 264,
-    "busi_kept": 66,
+    "busi_kept": 67,
     "busi_rejected": 320,
-    "busi_scanned": 389,
-    "last_scan": "2026-05-18T12:48:19.101861",
-    "total_kept": 162,
+    "busi_scanned": 390,
+    "last_scan": "2026-05-18T13:18:23.506655",
+    "total_kept": 163,
     "total_rejected": 684,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

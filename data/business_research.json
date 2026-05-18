@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T00:12:59.508014",
-      "status": "reject",
-      "reason": "Search query alone contains no actual content, insights, strategies, or information to extract or learn from",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Environment",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title only mentions Charlie Morgan's name without revealing specific strategies, frameworks, or actionable insights about starting a consultation business; appears to be a vague documentation of someone's first day rather than substantive business intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Make So Much Money it Feels Like Stealing",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-18T13:17:26.350269",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and founder known for scaling companies and revenue optimization—his content on monetization strategies and business growth directly applies to fitness coaching business models and pricing strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 389,
-    "kept": 66,
+    "scanned": 390,
+    "kept": 67,
     "rejected": 320,
-    "last_scan": "2026-05-18T12:48:19.097759",
+    "last_scan": "2026-05-18T13:18:23.502209",
     "platforms": [
       "YouTube",
       "Google",
