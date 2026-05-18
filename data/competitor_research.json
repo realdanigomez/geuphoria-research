@@ -2429,13 +2429,23 @@
       "status": "reject",
       "reason": "This is about Vince Del Monte's death, not about his business strategies, coaching methods, or programs that would provide actionable intelligence for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get Fit and Jacked The Easy Way",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-18T15:16:26.417571",
+      "status": "reject",
+      "reason": "Contains only a search query without actual findings, strategy, content, offers, or positioning intelligence about Bedros Keuilian or fitness business coaching practices.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 264,
+    "scanned": 265,
     "kept": 21,
-    "rejected": 243,
-    "last_scan": "2026-05-18T14:17:26.731619",
+    "rejected": 244,
+    "last_scan": "2026-05-18T15:17:26.121020",
     "platforms": [
       "YouTube",
       "Google",
