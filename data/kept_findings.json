@@ -962,16 +962,6 @@
     },
     {
       "source": "YouTube",
-      "title": "15 Brutal Truths I Know at 36 That I Wish I Knew at 20",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T02:11:30.049234",
-      "status": "keep",
-      "reason": "Alex Hormozi wisdom on life/business lessons is highly relevant for creator economy content; his insights on delayed realization of truths can inform messaging about business maturity, decision-making frameworks, and long-term thinking that resonates with fitness entrepreneurs building sustainable brands.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Man That Makes Millionaires: How To Turn $1,000 Into $100 Million!: Alex Hormozi | E235",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -1549,11 +1539,11 @@
     "comp_rejected": 254,
     "comp_scanned": 279,
     "busi_kept": 71,
-    "busi_rejected": 324,
-    "busi_scanned": 398,
-    "last_scan": "2026-05-19T15:19:23.371796",
+    "busi_rejected": 329,
+    "busi_scanned": 403,
+    "last_scan": "2026-05-19T15:49:26.025845",
     "total_kept": 167,
-    "total_rejected": 699,
+    "total_rejected": 704,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

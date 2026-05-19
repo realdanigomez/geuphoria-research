@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Helping 6 Business Owners Scale in 33 Minutes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T01:11:35.460316",
-      "status": "reject",
-      "reason": "Title promises scaling insights but provides no specifics; search-only entry lacks actual content, strategies, or actionable business intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Roofing \\u0026 Exterior Remodeling ($6M → $100M)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T01:11:36.682578",
-      "status": "reject",
-      "reason": "While this features Alex Hormozi, it's about roofing/exterior remodeling scaling principles, not fitness coaching or creator economy content relevant to an online fitness business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Product",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T01:11:40.381309",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, articles, or insights provided—cannot assess business value without substantive material to analyze",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Ambitious People Stay Mediocre",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T02:11:26.374397",
-      "status": "reject",
-      "reason": "Title references Alex Hormozi but finding lacks actual content, specific insights, or actionable strategies to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "15 Brutal Truths I Know at 36 That I Wish I Knew at 20",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T02:11:30.049234",
-      "status": "keep",
-      "reason": "Alex Hormozi wisdom on life/business lessons is highly relevant for creator economy content; his insights on delayed realization of truths can inform messaging about business maturity, decision-making frameworks, and long-term thinking that resonates with fitness entrepreneurs building sustainable brands.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Man That Makes Millionaires: How To Turn $1,000 Into $100 Million!: Alex Hormozi | E235",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Title is generic self-help advice; no specific business strategy, entrepreneurship lesson, or actionable intelligence present despite Alex Hormozi attribution",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Move 10x Faster In Life - Alex Hormozi (4K)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-19T15:48:19.267486",
+      "status": "reject",
+      "reason": "Search result only shows title and creator name without actual content, insights, or actionable intelligence to evaluate for business strategy value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Caring About Other People’s Opinions",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-19T15:48:20.258427",
+      "status": "reject",
+      "reason": "Generic motivational advice without specific business strategy, frameworks, or actionable intelligence applicable to fitness coaching or creator economy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Have Difficult Conversations",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-19T15:48:21.329764",
+      "status": "reject",
+      "reason": "Search result contains only a title with no actual content or insights about difficult conversations; lacks specific strategies, frameworks, or actionable intelligence needed for business application.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Heavy Burden of Unmade Decisions",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-19T15:48:22.511036",
+      "status": "reject",
+      "reason": "Title references decision-making but finding contains only a search query for Alex Hormozi with no actual content, insights, or actionable intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overcoming the Fear of What Other People Think",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-19T15:48:23.530884",
+      "status": "reject",
+      "reason": "Contains only a generic self-help title with no specific business strategy, framework, or actionable intelligence visible in the excerpt provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 398,
+    "scanned": 403,
     "kept": 71,
-    "rejected": 324,
-    "last_scan": "2026-05-19T15:19:23.367726",
+    "rejected": 329,
+    "last_scan": "2026-05-19T15:49:26.021843",
     "platforms": [
       "YouTube",
       "Google",
