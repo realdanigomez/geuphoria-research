@@ -2569,13 +2569,23 @@
       "status": "reject",
       "reason": "Finding mentions Vince Del Monte but contains no actual intelligence about his strategies, offers, positioning, or business model—just a search query without substantive competitor information.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building Muscle Mass with BABY WEIGHTS! Vince Del Monte's \\",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-19T11:47:13.139294",
+      "status": "reject",
+      "reason": "This is a fitness training content piece about building muscle with light weights, not business intelligence about coaching programs or strategies for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 278,
+    "scanned": 279,
     "kept": 21,
-    "rejected": 253,
-    "last_scan": "2026-05-19T11:40:52.753071",
+    "rejected": 254,
+    "last_scan": "2026-05-19T11:48:16.005544",
     "platforms": [
       "YouTube",
       "Google",
