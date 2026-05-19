@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Man That Makes Millionaires: How To Turn $1,000 Into $100 Million!: Alex Hormozi | E235",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T02:11:31.201217",
-      "status": "keep",
-      "reason": "Alex Hormozi interview with specific scaling methodology (\"Turn $1,000 Into $100 Million\") provides actionable business strategy and growth frameworks directly applicable to fitness coaching business model development and pricing strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Man That Makes Millionaires: Turn $0 to $10k With This Step By Step Formula! Alex Hormozi",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a generic self-help title with no specific business strategy, framework, or actionable intelligence visible in the excerpt provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Want to be a $10M+ entrepreneur? Stop taking sh*t personally.",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-19T18:18:26.765248",
+      "status": "keep",
+      "reason": "Direct insight from influential business thinker (Charlie Morgan) on founder mindset and emotional resilience—a foundational entrepreneurship lesson applicable to fitness coaching business scaling and personal brand building.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 403,
-    "kept": 71,
+    "scanned": 404,
+    "kept": 72,
     "rejected": 329,
-    "last_scan": "2026-05-19T17:39:59.097255",
+    "last_scan": "2026-05-19T18:19:26.531888",
     "platforms": [
       "YouTube",
       "Google",

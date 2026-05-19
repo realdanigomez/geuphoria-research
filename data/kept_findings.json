@@ -962,16 +962,6 @@
     },
     {
       "source": "YouTube",
-      "title": "The Man That Makes Millionaires: How To Turn $1,000 Into $100 Million!: Alex Hormozi | E235",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T02:11:31.201217",
-      "status": "keep",
-      "reason": "Alex Hormozi interview with specific scaling methodology (\"Turn $1,000 Into $100 Million\") provides actionable business strategy and growth frameworks directly applicable to fitness coaching business model development and pricing strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Thought I Was Broken — I Just Had the Wrong Words | Alex Hormozi",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -1529,6 +1519,16 @@
       "status": "keep",
       "reason": "Direct Alex Hormozi content on pricing strategy - a foundational business concept applicable to fitness coaching services and creator businesses seeking revenue optimization",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Want to be a $10M+ entrepreneur? Stop taking sh*t personally.",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-19T18:18:26.765248",
+      "status": "keep",
+      "reason": "Direct insight from influential business thinker (Charlie Morgan) on founder mindset and emotional resilience—a foundational entrepreneurship lesson applicable to fitness coaching business scaling and personal brand building.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1538,11 +1538,11 @@
     "comp_kept": 21,
     "comp_rejected": 257,
     "comp_scanned": 282,
-    "busi_kept": 71,
+    "busi_kept": 72,
     "busi_rejected": 329,
-    "busi_scanned": 403,
-    "last_scan": "2026-05-19T17:39:59.101422",
-    "total_kept": 167,
+    "busi_scanned": 404,
+    "last_scan": "2026-05-19T18:19:26.536118",
+    "total_kept": 168,
     "total_rejected": 707,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
