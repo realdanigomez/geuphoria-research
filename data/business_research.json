@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Build a Mind So Strong It Scares People",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T01:11:34.347068",
-      "status": "reject",
-      "reason": "Title is clickbait without substantive content; search-only reference to Alex Hormozi lacks actual business insights, strategies, or applicable lessons for fitness coaching business",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Helping 6 Business Owners Scale in 33 Minutes",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Direct Alex Hormozi content on pricing strategy - a foundational business concept applicable to fitness coaching services and creator businesses seeking revenue optimization",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Caring What Others Think of You So Much",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-19T14:18:16.526721",
+      "status": "reject",
+      "reason": "Title is generic self-help advice; no specific business strategy, entrepreneurship lesson, or actionable intelligence present despite Alex Hormozi attribution",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 397,
+    "scanned": 398,
     "kept": 71,
-    "rejected": 323,
-    "last_scan": "2026-05-19T13:49:21.537439",
+    "rejected": 324,
+    "last_scan": "2026-05-19T14:19:19.069692",
     "platforms": [
       "YouTube",
       "Google",
