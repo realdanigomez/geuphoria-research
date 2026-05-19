@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Schedule",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T00:13:06.047500",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Sam Ovens — no actionable intelligence or specific business strategy included.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why you aren't making as much money as you want",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises logic-based life advice but lacks specific business strategies, entrepreneurial frameworks, or actionable tactics relevant to fitness coaching business operations or creator economy trends.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If you don’t understand these money laws, you’ll never be rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-19T00:15:53.495712",
+      "status": "reject",
+      "reason": "Title is clickbait without specific money laws detailed; no actionable business intelligence or strategy provided in the excerpt shown",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 395,
+    "scanned": 396,
     "kept": 70,
-    "rejected": 322,
-    "last_scan": "2026-05-18T23:48:52.131017",
+    "rejected": 323,
+    "last_scan": "2026-05-19T00:16:50.734551",
     "platforms": [
       "YouTube",
       "Google",
