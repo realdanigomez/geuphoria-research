@@ -1869,13 +1869,73 @@
       "status": "reject",
       "reason": "Too broad and generic. \"Communication\" lacks specificity about coaches' actual pain points (e.g., client retention scripts, sales objection handling, email sequences). No actionable intelligence provided.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro - How to Grow an Online Coaching Business",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-19T22:43:46.507299",
+      "status": "reject",
+      "reason": "Too generic and introductory - lacks specific insights into fitness coaches' actual pain points, struggles, or actionable solutions for their unique challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tip 1 - Focus on creating Content that Converts",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-19T22:43:47.574188",
+      "status": "reject",
+      "reason": "Too generic and lacks specific intelligence about fitness coaches' actual pain points; \"content that converts\" is vague without data on what conversion obstacles they face or how to solve them.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tip 2 - Talk about your Offer A LOT",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-19T22:43:48.578711",
+      "status": "reject",
+      "reason": "Generic advice about marketing messaging lacks specific insight into fitness coaches' unique challenges, offer structures, or conversion barriers they face",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tip 3 - Have a Facebook Group for Leads",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-19T22:43:49.640269",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for online fitness coaches through a specific, actionable tactic (Facebook Groups as lead generation channel)",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tip 4 - Create Videos and Rank Them",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-19T22:43:50.596011",
+      "status": "reject",
+      "reason": "Generic video SEO advice without specific application to fitness coaching business models, client acquisition strategies, or fitness coach pain points",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tip 5 - Do Social Selling",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-19T22:43:51.757235",
+      "status": "reject",
+      "reason": "Too generic and vague—lacks specific tactics on how social selling addresses fitness coaches' actual pain points like client acquisition costs, conversion rates, or scaling challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 198,
-    "kept": 75,
-    "rejected": 123,
-    "last_scan": "2026-05-19T22:17:29.885846",
+    "scanned": 204,
+    "kept": 76,
+    "rejected": 128,
+    "last_scan": "2026-05-19T22:44:48.791878",
     "platforms": [
       "Reddit",
       "YouTube",
