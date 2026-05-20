@@ -1929,13 +1929,53 @@
       "status": "reject",
       "reason": "Too generic and vague—lacks specific tactics on how social selling addresses fitness coaches' actual pain points like client acquisition costs, conversion rates, or scaling challenges",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Find Your First Coaching Client",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-20T11:17:06.616645",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches starting out or scaling their business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The First Client Paradox: Why it’s easier than you think",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-20T11:17:07.758603",
+      "status": "reject",
+      "reason": "Generic motivational title lacks specifics on actual client acquisition methods, pain points, or systems—does not provide actionable intelligence for fitness coaches' real struggles",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to find coaching clients online as a beginner",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-20T11:17:08.568504",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for beginner fitness coaches trying to build their business and generate income",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Steak Restaurant Metaphor: Who to invite to your launch",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-20T11:17:10.109798",
+      "status": "reject",
+      "reason": "The steak restaurant metaphor lacks specific, actionable intelligence about fitness coach client acquisition challenges, pain points, or strategies—it's a generic launch framework without fitness coaching context.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 204,
-    "kept": 76,
-    "rejected": 128,
-    "last_scan": "2026-05-20T10:48:01.991003",
+    "scanned": 208,
+    "kept": 78,
+    "rejected": 130,
+    "last_scan": "2026-05-20T11:18:09.704430",
     "platforms": [
       "Reddit",
       "YouTube",
