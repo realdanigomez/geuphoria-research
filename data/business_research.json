@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How I'd Get Rich ASAP If Starting Over Again",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T04:11:18.714149",
-      "status": "keep",
-      "reason": "Charlie Morgan is an influential business thinker in the creator economy space; content about wealth-building strategies from established entrepreneurs provides actionable frameworks applicable to fitness coaching business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Most Valuable 40 Minutes You'll Spend This Year | Alex Hormozi Motivation",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T05:11:24.859261",
-      "status": "reject",
-      "reason": "Title only mentions motivation/inspirational content with no indication of specific business strategies, actionable insights, or concrete frameworks that would be useful for fitness coaching business operations or content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What do you do and why?",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title suggests general CEO lifestyle content without specific business insights, strategies, or actionable intelligence. Search term alone doesn't confirm substantive business methodology or framework relevant to fitness coaching entrepreneurship.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch This If You Have a Service Business",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-21T03:26:26.697931",
+      "status": "reject",
+      "reason": "Title alone suggests generic service business advice without specific actionable tactics; no evidence of substantive content, methodology, or concrete strategies provided in the finding itself.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Chiropractor",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-21T03:26:27.694773",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi—no actionable business intelligence present.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 410,
+    "scanned": 412,
     "kept": 74,
-    "rejected": 333,
-    "last_scan": "2026-05-21T03:21:00.829895",
+    "rejected": 335,
+    "last_scan": "2026-05-21T03:27:31.074218",
     "platforms": [
       "YouTube",
       "Google",

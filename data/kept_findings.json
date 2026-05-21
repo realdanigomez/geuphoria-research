@@ -1012,16 +1012,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How I'd Get Rich ASAP If Starting Over Again",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T04:11:18.714149",
-      "status": "keep",
-      "reason": "Charlie Morgan is an influential business thinker in the creator economy space; content about wealth-building strategies from established entrepreneurs provides actionable frameworks applicable to fitness coaching business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Secret to Skool's Success (Sam Ovens Interview)",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -1589,11 +1579,11 @@
     "comp_rejected": 257,
     "comp_scanned": 284,
     "busi_kept": 74,
-    "busi_rejected": 333,
-    "busi_scanned": 410,
-    "last_scan": "2026-05-21T03:21:00.834002",
+    "busi_rejected": 335,
+    "busi_scanned": 412,
+    "last_scan": "2026-05-21T03:27:31.078313",
     "total_kept": 175,
-    "total_rejected": 722,
+    "total_rejected": 724,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
