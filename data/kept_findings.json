@@ -1579,6 +1579,16 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential business figure in the creator/coaching space; content about scaling from $10k-$100k/mo directly applies to fitness coaching business growth strategies and revenue scaling challenges",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Chris took his agency from $40k/mo to $280k/mo in 8 months (w/ 85% margins)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-21T17:20:40.443318",
+      "status": "keep",
+      "reason": "Direct case study of rapid agency scaling with concrete metrics (6.5x growth, margin optimization) from proven business educator Charlie Morgan—provides replicable playbook for fitness coaching businesses looking to systematize and increase profitability.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1588,11 +1598,11 @@
     "comp_kept": 23,
     "comp_rejected": 258,
     "comp_scanned": 285,
-    "busi_kept": 75,
+    "busi_kept": 76,
     "busi_rejected": 337,
-    "busi_scanned": 415,
-    "last_scan": "2026-05-21T17:15:15.880668",
-    "total_kept": 176,
+    "busi_scanned": 416,
+    "last_scan": "2026-05-21T17:21:40.654177",
+    "total_kept": 177,
     "total_rejected": 727,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

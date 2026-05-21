@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Have Discipline",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T05:11:37.347296",
-      "status": "reject",
-      "reason": "The finding only shows a search query for \"Sam Ovens\" with a generic title about discipline, but contains no actual content, insights, strategies, or business lessons to extract or act upon.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Be Demotivated",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises productivity hacks but finding only contains a search term for Dan Martell with no actual content, strategies, or actionable insights present.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Chris took his agency from $40k/mo to $280k/mo in 8 months (w/ 85% margins)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-21T17:20:40.443318",
+      "status": "keep",
+      "reason": "Direct case study of rapid agency scaling with concrete metrics (6.5x growth, margin optimization) from proven business educator Charlie Morgan—provides replicable playbook for fitness coaching businesses looking to systematize and increase profitability.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 415,
-    "kept": 75,
+    "scanned": 416,
+    "kept": 76,
     "rejected": 337,
-    "last_scan": "2026-05-21T17:15:15.876868",
+    "last_scan": "2026-05-21T17:21:40.649969",
     "platforms": [
       "YouTube",
       "Google",
