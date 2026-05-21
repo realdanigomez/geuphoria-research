@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What do you do and why?",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T05:11:25.830887",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Hormozi that could inform fitness coaching business decisions",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Letting your dreams die for others",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi—no actionable business intelligence present.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch this if you're stuck at $10k-$100k/mo and can't scale",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-21T10:50:27.402876",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business figure in the creator/coaching space; content about scaling from $10k-$100k/mo directly applies to fitness coaching business growth strategies and revenue scaling challenges",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 412,
-    "kept": 74,
+    "scanned": 413,
+    "kept": 75,
     "rejected": 335,
-    "last_scan": "2026-05-21T10:21:24.320518",
+    "last_scan": "2026-05-21T10:51:28.253690",
     "platforms": [
       "YouTube",
       "Google",
