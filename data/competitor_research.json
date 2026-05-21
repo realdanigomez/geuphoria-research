@@ -2629,13 +2629,23 @@
       "status": "keep",
       "reason": "Direct reference to Bedros Keuilian, a leading fitness business coach, with content targeting $1M coaching business scaling—core competitor intelligence on business-building strategies for fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "From Fitness Empire to Legacy Leadership  Vince Del Monte on Purpose, Family \\u0026 Reinvention",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-21T07:49:13.071548",
+      "status": "reject",
+      "reason": "Contains personal development and life philosophy content rather than specific business strategy, offers, or positioning intelligence for building an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 284,
+    "scanned": 285,
     "kept": 23,
-    "rejected": 257,
-    "last_scan": "2026-05-21T07:20:08.203477",
+    "rejected": 258,
+    "last_scan": "2026-05-21T07:50:15.085621",
     "platforms": [
       "YouTube",
       "Google",
