@@ -2669,10 +2669,50 @@
       "status": "reject",
       "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence—just a search query with no strategy, offer details, positioning, or actionable insights about how he builds his business or helps coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "creating tension and fatigue within the muscle",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-22T20:24:32.899267",
+      "status": "reject",
+      "reason": "Contains only a generic fitness training topic (muscle tension/fatigue) with no intelligence about business strategy, coaching programs, or how fitness coaches build their businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "create tension in your bicep",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-22T20:24:34.014692",
+      "status": "reject",
+      "reason": "This is a generic fitness exercise tip with no business intelligence about coaching programs, strategies, or offers targeting online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "create more tension on the bicep",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-22T20:24:35.278752",
+      "status": "reject",
+      "reason": "Contains only a generic bicep training tip; no intelligence about fitness business coaching, mentorship programs, or strategies for building an online coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "start from a fully lengthened position",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-22T20:24:36.855116",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about fitness business coaching, strategies, offers, or positioning—it's merely a name search without substantive content about business building for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 288,
+    "scanned": 292,
     "kept": 23,
     "rejected": 261,
     "last_scan": "2026-05-22T20:20:27.041035",
