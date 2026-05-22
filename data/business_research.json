@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Create Discipline",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T05:11:39.266899",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or strategies provided to analyze for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Example",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Contains specific growth metrics and margin optimization strategy from proven entrepreneur that offers actionable scaling lessons applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Chris took his agency from $67k/mo to $220k/mo in 10 months",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-22T16:04:54.163779",
+      "status": "keep",
+      "reason": "Direct case study of agency scaling with specific revenue milestones and timeline; applicable to fitness coaching business models and demonstrates proven growth strategies from established business mentor sphere",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 417,
-    "kept": 77,
+    "scanned": 418,
+    "kept": 78,
     "rejected": 337,
-    "last_scan": "2026-05-22T15:52:39.469345",
+    "last_scan": "2026-05-22T16:05:55.031674",
     "platforms": [
       "YouTube",
       "Google",
