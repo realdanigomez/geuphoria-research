@@ -2119,13 +2119,23 @@
       "status": "reject",
       "reason": "Generic search term without specific findings, data, or insights about fitness coaches' actual struggles—no actionable intelligence provided",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 EAZY Ways To Get Online Fitness Coaching Clients in 30 Days or Less!",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-23T23:29:07.327794",
+      "status": "reject",
+      "reason": "Generic clickbait title with no substantive content provided; lacks specific tactics, data, or insights into actual pain points—appears to be promotional material rather than research intelligence.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 223,
+    "scanned": 224,
     "kept": 82,
-    "rejected": 141,
-    "last_scan": "2026-05-23T23:21:38.853885",
+    "rejected": 142,
+    "last_scan": "2026-05-23T23:30:13.284310",
     "platforms": [
       "Reddit",
       "YouTube",
