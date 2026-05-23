@@ -2789,13 +2789,83 @@
       "status": "reject",
       "reason": "Title only mentions general trust-building principles without specific intelligence about business strategy, offers, positioning, or tactics used by Charlie Johnson or similar fitness business coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $10K/Month Online Fitness Business",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-23T00:06:57.422340",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy details, or specific intelligence about how to build the business or compete effectively",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-23T00:06:58.387973",
+      "status": "reject",
+      "reason": "Search query only, no actual content or intelligence about Brian Mark's strategy, offers, positioning, or business model provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Importance of Niche in Online Coaching",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-23T00:06:59.636812",
+      "status": "reject",
+      "reason": "Finding contains only a generic title about niching without any specific intelligence about strategy, offers, positioning, or business-building tactics from Brian Mark or other fitness business coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Layer 1: Speaking to Your Past Self",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-23T00:07:00.650368",
+      "status": "reject",
+      "reason": "Finding contains only a title and search query with no actual content, strategy, offers, or positioning information about Brian Mark's business coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Layer 2: Finding Your Ideal Client Avatar",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-23T00:07:01.865571",
+      "status": "reject",
+      "reason": "This is a generic content title about client avatars with no evidence of specific strategy, offers, or positioning intelligence from Brian Mark or other fitness business coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Layer 3: Deciding on Your Niche",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-23T00:07:03.837114",
+      "status": "reject",
+      "reason": "Contains only a generic niche-selection topic title with no actual content, strategy details, or specific intelligence about how Brian Mark or other fitness business coaches help online coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Attracting Online Fitness Coaching Clients",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-23T00:07:04.963658",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy details, offers, or positioning information from Brian Mark or competitors - no actionable intelligence provided.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 300,
+    "scanned": 307,
     "kept": 24,
-    "rejected": 268,
-    "last_scan": "2026-05-22T23:51:54.673568",
+    "rejected": 275,
+    "last_scan": "2026-05-23T00:08:00.459986",
     "platforms": [
       "YouTube",
       "Google",
