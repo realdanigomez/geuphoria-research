@@ -1999,13 +1999,23 @@
       "status": "keep",
       "reason": "Directly addresses niche selection, a foundational business decision that impacts client acquisition, positioning, and revenue potential for online fitness coaches",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Most Online Fitness Coaches Are Doing the Right Things in the Wrong Order (Part 1 of 8)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-23T02:19:56.202230",
+      "status": "keep",
+      "reason": "Directly addresses execution sequencing problems for online fitness coaches, likely revealing systematic mistakes in their business operations that impact client acquisition and scaling—a core pain point for the niche.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 211,
-    "kept": 79,
+    "scanned": 212,
+    "kept": 80,
     "rejected": 132,
-    "last_scan": "2026-05-23T01:50:54.480006",
+    "last_scan": "2026-05-23T02:21:01.238303",
     "platforms": [
       "Reddit",
       "YouTube",
