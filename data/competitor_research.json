@@ -2859,13 +2859,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, strategy details, offers, or positioning information from Brian Mark or competitors - no actionable intelligence provided.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make Your First Million FASTER",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-23T06:51:09.706064",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about the competitor or their business model.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 307,
+    "scanned": 308,
     "kept": 24,
-    "rejected": 275,
-    "last_scan": "2026-05-23T06:22:10.073272",
+    "rejected": 276,
+    "last_scan": "2026-05-23T06:52:09.053912",
     "platforms": [
       "YouTube",
       "Google",
