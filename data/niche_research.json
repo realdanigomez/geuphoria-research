@@ -2029,13 +2029,63 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point with organic strategy alternative, relevant to coaches seeking sustainable business models without ad spend dependency",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Your First 5 Online Coaching Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-23T16:04:41.630385",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition—a primary pain point for fitness coaches starting out; likely contains tactical strategies for converting prospects into paying clients.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Brand Content and Offer",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-23T16:04:42.574554",
+      "status": "reject",
+      "reason": "Too generic and promotional in nature; lacks specific pain points, struggles, or actionable data about fitness coaches' actual problems with client acquisition",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Who Are You",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-23T16:04:43.814618",
+      "status": "reject",
+      "reason": "Generic title with no specific data about fitness coaches' client acquisition challenges, strategies, or pain points - lacks actionable intelligence for understanding their problems",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Who Knows You",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-23T16:04:44.846844",
+      "status": "reject",
+      "reason": "Generic title with no specific insights about fitness coach pain points, struggles, systems, or client acquisition strategies - appears to be a vague self-help concept rather than research on fitness coaching business challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Phone Book",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-23T16:04:46.635935",
+      "status": "reject",
+      "reason": "Generic search term with no insight into coach pain points, struggles, or solutions. No specific data about challenges, strategies, or outcomes that would inform business decisions.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 214,
-    "kept": 81,
-    "rejected": 133,
-    "last_scan": "2026-05-23T15:51:25.876714",
+    "scanned": 219,
+    "kept": 82,
+    "rejected": 137,
+    "last_scan": "2026-05-23T16:05:46.511027",
     "platforms": [
       "Reddit",
       "YouTube",
