@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Millionaire Maker’s Harsh Truths of Making $106M in 72hrs, Why Trump is a Psychopath | Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T06:11:19.188728",
-      "status": "reject",
-      "reason": "Title is sensationalized clickbait with unsubstantiated psychological claims about Trump; likely lacks substantive business frameworks or strategies applicable to fitness coaching business despite Hormozi mention.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Small Wins Compound Into Greatness - Alex Hormozi (4K)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content or insights; no specific strategies, frameworks, or actionable intelligence present to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $12,000,000 Business for a Stranger in 25 Minutes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-24T16:23:23.393466",
+      "status": "keep",
+      "reason": "Alex Hormozi content on scaling to $12M provides direct case study material on business growth strategies, pricing, and monetization tactics applicable to fitness coaching business model",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 421,
-    "kept": 79,
+    "scanned": 422,
+    "kept": 80,
     "rejected": 339,
-    "last_scan": "2026-05-24T16:02:26.860838",
+    "last_scan": "2026-05-24T16:24:25.677022",
     "platforms": [
       "YouTube",
       "Google",

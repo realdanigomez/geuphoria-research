@@ -1659,6 +1659,16 @@
       "status": "keep",
       "reason": "Alex Hormozi sales framework offers directly applicable B2B/service business strategies (pricing, positioning, offer design) relevant for scaling a fitness coaching business and creator monetization",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $12,000,000 Business for a Stranger in 25 Minutes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-24T16:23:23.393466",
+      "status": "keep",
+      "reason": "Alex Hormozi content on scaling to $12M provides direct case study material on business growth strategies, pricing, and monetization tactics applicable to fitness coaching business model",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1668,11 +1678,11 @@
     "comp_kept": 24,
     "comp_rejected": 280,
     "comp_scanned": 312,
-    "busi_kept": 79,
+    "busi_kept": 80,
     "busi_rejected": 339,
-    "busi_scanned": 421,
-    "last_scan": "2026-05-24T16:02:26.865056",
-    "total_kept": 185,
+    "busi_scanned": 422,
+    "last_scan": "2026-05-24T16:24:25.681259",
+    "total_kept": 186,
     "total_rejected": 761,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
