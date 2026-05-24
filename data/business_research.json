@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Small Wins Compound Into Greatness - Alex Hormozi (4K)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T07:11:23.795508",
-      "status": "keep",
-      "reason": "Alex Hormozi content on compounding small wins provides direct business strategy applicable to fitness coaching growth—ideal for teaching clients about habit stacking, progress tracking, and long-term business scaling lessons",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why business \\u0026 finance personal brands \\",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on scaling to $12M provides direct case study material on business growth strategies, pricing, and monetization tactics applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI engineer placements",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-24T21:53:36.451565",
+      "status": "reject",
+      "reason": "Search query only, no actual content or insights provided to evaluate for business value",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 422,
+    "scanned": 423,
     "kept": 80,
-    "rejected": 339,
-    "last_scan": "2026-05-24T21:31:02.072005",
+    "rejected": 340,
+    "last_scan": "2026-05-24T21:54:36.133480",
     "platforms": [
       "YouTube",
       "Google",

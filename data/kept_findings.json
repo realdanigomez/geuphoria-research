@@ -1082,16 +1082,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How Small Wins Compound Into Greatness - Alex Hormozi (4K)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T07:11:23.795508",
-      "status": "keep",
-      "reason": "Alex Hormozi content on compounding small wins provides direct business strategy applicable to fitness coaching growth—ideal for teaching clients about habit stacking, progress tracking, and long-term business scaling lessons",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Become a Millionaire When You’re Broke (ft. Charlie Morgan)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -1699,11 +1689,11 @@
     "comp_rejected": 280,
     "comp_scanned": 312,
     "busi_kept": 80,
-    "busi_rejected": 339,
-    "busi_scanned": 422,
-    "last_scan": "2026-05-24T21:31:02.075314",
+    "busi_rejected": 340,
+    "busi_scanned": 423,
+    "last_scan": "2026-05-24T21:54:36.136939",
     "total_kept": 188,
-    "total_rejected": 761,
+    "total_rejected": 762,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
