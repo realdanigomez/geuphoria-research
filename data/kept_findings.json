@@ -1691,7 +1691,7 @@
     "busi_kept": 80,
     "busi_rejected": 339,
     "busi_scanned": 422,
-    "last_scan": "2026-05-24T17:24:29.993552",
+    "last_scan": "2026-05-24T18:24:31.046992",
     "total_kept": 187,
     "total_rejected": 761,
     "ai_model": "claude-haiku-4-5",
