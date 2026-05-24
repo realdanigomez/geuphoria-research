@@ -1062,16 +1062,6 @@
     },
     {
       "source": "YouTube",
-      "title": "The Secret to Skool's Success (Sam Ovens Interview)",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T05:11:42.569254",
-      "status": "keep",
-      "reason": "Direct interview with Sam Ovens (influential business builder) likely contains actionable strategies on course creation, sales funnels, or scaling—directly applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Small Wins Compound Into Greatness - Alex Hormozi (4K)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -1659,6 +1649,16 @@
       "status": "keep",
       "reason": "Direct case study of agency scaling with specific revenue milestones and timeline; applicable to fitness coaching business models and demonstrates proven growth strategies from established business mentor sphere",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales Was Hard Until I Understood These 9 Concepts",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-24T15:23:23.176767",
+      "status": "keep",
+      "reason": "Alex Hormozi sales framework offers directly applicable B2B/service business strategies (pricing, positioning, offer design) relevant for scaling a fitness coaching business and creator monetization",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1668,12 +1668,12 @@
     "comp_kept": 24,
     "comp_rejected": 280,
     "comp_scanned": 312,
-    "busi_kept": 78,
-    "busi_rejected": 338,
-    "busi_scanned": 419,
-    "last_scan": "2026-05-24T14:51:47.724621",
-    "total_kept": 184,
-    "total_rejected": 760,
+    "busi_kept": 79,
+    "busi_rejected": 339,
+    "busi_scanned": 421,
+    "last_scan": "2026-05-24T15:24:26.962157",
+    "total_kept": 185,
+    "total_rejected": 761,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

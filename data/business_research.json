@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Sam Ovens: Why Being Happy is Bad",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T05:11:41.362406",
-      "status": "reject",
-      "reason": "Title only references Sam Ovens name without providing specific business insights, strategies, or actionable intelligence that could inform fitness coaching content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Secret to Skool's Success (Sam Ovens Interview)",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T05:11:42.569254",
-      "status": "keep",
-      "reason": "Direct interview with Sam Ovens (influential business builder) likely contains actionable strategies on course creation, sales funnels, or scaling—directly applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Millionaire Maker’s Harsh Truths of Making $106M in 72hrs, Why Trump is a Psychopath | Alex Hormozi",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search query alone without actual content, findings, or insights about Charlie Morgan's business strategies or DMCA takedown processes provides no actionable intelligence or concrete business lessons.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales Was Hard Until I Understood These 9 Concepts",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-24T15:23:23.176767",
+      "status": "keep",
+      "reason": "Alex Hormozi sales framework offers directly applicable B2B/service business strategies (pricing, positioning, offer design) relevant for scaling a fitness coaching business and creator monetization",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Started A Business in 2026, I'd Do This",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-24T15:23:24.388683",
+      "status": "reject",
+      "reason": "Search query alone without actual content or insights; no specific strategies, frameworks, or actionable intelligence present to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 419,
-    "kept": 78,
-    "rejected": 338,
-    "last_scan": "2026-05-24T14:51:47.720258",
+    "scanned": 421,
+    "kept": 79,
+    "rejected": 339,
+    "last_scan": "2026-05-24T15:24:26.957603",
     "platforms": [
       "YouTube",
       "Google",
