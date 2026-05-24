@@ -2139,13 +2139,23 @@
       "status": "keep",
       "reason": "Directly addresses a primary pain point (burnout) for fitness coaches and indicates search demand for solutions to scale clients while managing workload - core business challenge for the niche.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Online Fitness Coaches Get Qualified Leads Consistently",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-24T20:51:26.123356",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with focus on lead generation systems, a primary struggle for scaling fitness coaches",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 225,
-    "kept": 83,
+    "scanned": 226,
+    "kept": 84,
     "rejected": 142,
-    "last_scan": "2026-05-24T20:22:28.704803",
+    "last_scan": "2026-05-24T20:52:28.207212",
     "platforms": [
       "Reddit",
       "YouTube",
