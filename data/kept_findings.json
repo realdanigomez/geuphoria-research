@@ -1709,6 +1709,16 @@
       "status": "keep",
       "reason": "Direct actionable advice from influential business figure (Charlie Morgan) on monetization and scaling—applicable to fitness coaching business models and content strategy scaling to revenue benchmarks.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understand These, and You’ll Understand How to Get Rich as F*ck",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-25T14:54:23.882122",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker whose content on wealth-building and entrepreneurship directly applies to scaling a fitness coaching business; specific strategies on monetization, systems, and founder mindset would provide actionable insights for content creation and business growth.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1718,11 +1728,11 @@
     "comp_kept": 24,
     "comp_rejected": 280,
     "comp_scanned": 312,
-    "busi_kept": 81,
+    "busi_kept": 82,
     "busi_rejected": 340,
-    "busi_scanned": 424,
-    "last_scan": "2026-05-25T14:25:19.137212",
-    "total_kept": 191,
+    "busi_scanned": 425,
+    "last_scan": "2026-05-25T14:55:22.244748",
+    "total_kept": 192,
     "total_rejected": 765,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
