@@ -2149,13 +2149,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point with focus on lead generation systems, a primary struggle for scaling fitness coaches",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overcoming Burnout on Your Health and Fitness Journey with Personal Trainer Kyra WilliamsFitness",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-25T06:21:55.544633",
+      "status": "reject",
+      "reason": "Contains generic wellness content about client burnout rather than coach-specific business challenges, pain points, or operational insights that would help fitness coaches scale their businesses.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 226,
+    "scanned": 227,
     "kept": 84,
-    "rejected": 142,
-    "last_scan": "2026-05-25T05:52:50.921060",
+    "rejected": 143,
+    "last_scan": "2026-05-25T06:22:49.850678",
     "platforms": [
       "Reddit",
       "YouTube",
