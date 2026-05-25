@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T07:55:19.234092",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or information about Charlie Morgan's business strategies or lessons cannot provide actionable intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Foundations",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait-heavy and search result alone provides no specific, actionable business intelligence or strategies applicable to fitness coaching content business.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Charlie Morgan: How I’d make $40 Million again but as an African",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-25T22:24:41.019041",
+      "status": "reject",
+      "reason": "Title suggests content about Charlie Morgan's business strategies, but search result alone provides no specific, actionable intelligence, strategies, or insights—only a vague premise about hypothetical wealth-building in a different context.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 426,
+    "scanned": 427,
     "kept": 82,
-    "rejected": 341,
-    "last_scan": "2026-05-25T22:08:50.606215",
+    "rejected": 342,
+    "last_scan": "2026-05-25T22:25:44.535287",
     "platforms": [
       "YouTube",
       "Google",
