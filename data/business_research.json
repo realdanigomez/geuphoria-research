@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Become a Millionaire When You’re Broke (ft. Charlie Morgan)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T07:55:18.182012",
-      "status": "keep",
-      "reason": "Features influential business thinker (Charlie Morgan) discussing wealth-building strategies; directly applicable to creator economy and scaling business from zero, relevant for coaching business model development.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker whose content on wealth-building and entrepreneurship directly applies to scaling a fitness coaching business; specific strategies on monetization, systems, and founder mindset would provide actionable insights for content creation and business growth.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understand These, and You’ll Understand How to Get Insanely Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-25T16:54:26.032662",
+      "status": "reject",
+      "reason": "Title is clickbait-heavy and search result alone provides no specific, actionable business intelligence or strategies applicable to fitness coaching content business.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 425,
+    "scanned": 426,
     "kept": 82,
-    "rejected": 340,
-    "last_scan": "2026-05-25T15:55:18.882297",
+    "rejected": 341,
+    "last_scan": "2026-05-25T16:55:23.466343",
     "platforms": [
       "YouTube",
       "Google",
