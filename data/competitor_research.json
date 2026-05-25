@@ -2909,13 +2909,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, strategy, or business intelligence about how Vince Del Monte helps online fitness coaches build their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Setting Up an Instagram Profile for Success",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-25T15:53:21.452168",
+      "status": "reject",
+      "reason": "The finding is a generic Instagram setup guide with no specific intelligence about fitness business coaching strategies, offers, positioning, or how Brian Mark builds his coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 312,
+    "scanned": 313,
     "kept": 24,
-    "rejected": 280,
-    "last_scan": "2026-05-25T15:38:40.757857",
+    "rejected": 281,
+    "last_scan": "2026-05-25T15:54:16.029097",
     "platforms": [
       "YouTube",
       "Google",
