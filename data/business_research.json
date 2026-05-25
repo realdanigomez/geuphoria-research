@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why business \\u0026 finance personal brands \\",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T07:11:27.254293",
-      "status": "reject",
-      "reason": "Title and search query lack substantive content; no specific insights, strategies, or actionable intelligence present to extract for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Only 30 Minutes You Need To Unlock Your Potential | Alex Hormozi Motivation",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query only, no actual content or insights provided to evaluate for business value",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Channel Pain Into Profit \\u0026 Scale To 10K/Month (Raw Q\\u0026A Advice)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-25T01:23:49.874310",
+      "status": "keep",
+      "reason": "Direct actionable advice from influential business figure (Charlie Morgan) on monetization and scaling—applicable to fitness coaching business models and content strategy scaling to revenue benchmarks.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 423,
-    "kept": 80,
+    "scanned": 424,
+    "kept": 81,
     "rejected": 340,
-    "last_scan": "2026-05-25T00:54:44.350467",
+    "last_scan": "2026-05-25T01:24:51.080732",
     "platforms": [
       "YouTube",
       "Google",
