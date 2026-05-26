@@ -862,6 +862,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Tip 6 - Focus on getting Calls Booked",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-05-26T02:56:40.424147",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for online fitness coaches; \"calls booked\" is a core metric tied to revenue and business growth that coaches struggle with.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1712,9 +1722,9 @@
     }
   ],
   "stats": {
-    "niche_kept": 86,
+    "niche_kept": 87,
     "niche_rejected": 145,
-    "niche_scanned": 231,
+    "niche_scanned": 232,
     "comp_kept": 24,
     "comp_rejected": 281,
     "comp_scanned": 313,
