@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Finding things to sacrifice",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T08:41:43.061046",
-      "status": "reject",
-      "reason": "Search query alone without actual content, transcript, or insights from Sam Ovens cannot provide actionable business intelligence or strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Focus: Channeling energy into the grid",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises motivation science but finding only shows a search query for Charlie Morgan with no actual content, insights, or actionable intelligence provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Mathematical Formula to Get Insanely Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-26T18:25:45.935318",
+      "status": "reject",
+      "reason": "Title alone lacks substance; requires actual content from Dan Martell about wealth-building mechanics, specific strategies, or business frameworks to evaluate for actionable intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 435,
+    "scanned": 436,
     "kept": 83,
-    "rejected": 349,
-    "last_scan": "2026-05-26T17:56:39.278851",
+    "rejected": 350,
+    "last_scan": "2026-05-26T18:26:43.265874",
     "platforms": [
       "YouTube",
       "Google",
