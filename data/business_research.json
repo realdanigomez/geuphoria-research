@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Focus: Channeling energy into the grid",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-01T08:41:44.488269",
-      "status": "reject",
-      "reason": "Title and text don't provide specific business insights or strategies—only a vague reference to \"channeling energy into the grid\" with no content details, and a name search without context on what Sam Ovens content was actually found or what it teaches.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Risks of Distraction",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T09:41:28.124113",
-      "status": "reject",
-      "reason": "Search result page without actual content from Alex Hormozi; no specific insights, strategies, or actionable intelligence provided to analyze",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Focus on Outcomes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T09:41:29.188761",
-      "status": "reject",
-      "reason": "Search query alone without actual content, statements, or insights from Alex Hormozi cannot provide actionable business intelligence for content strategy or coaching business development.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to reprogram your brain for wealth \\u0026 success",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T09:41:33.045488",
-      "status": "reject",
-      "reason": "Title is generic self-help content about mindset; no specific business strategy, framework, or actionable intelligence provided. Search query shows no actual content was reviewed—just a search term for Charlie Morgan.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Principles",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T09:41:34.080296",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or specific business insights from Charlie Morgan - no actionable intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Belief",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T09:41:35.030866",
-      "status": "reject",
-      "reason": "Search query alone without actual content, articles, or insights from Charlie Morgan. No specific business strategies, frameworks, or actionable intelligence present to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T10:41:24.558681",
-      "status": "reject",
-      "reason": "Title appears to be clickbait without actual content provided; no specific strategies, frameworks, or actionable intelligence included to evaluate relevance to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Only 20 Ways to Make Money with AI in 2026",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Title alone lacks substance; requires actual content from Dan Martell about wealth-building mechanics, specific strategies, or business frameworks to evaluate for actionable intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens Honest Take On The AI Hype",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:52.672758",
+      "status": "reject",
+      "reason": "Search result alone without actual content, quotes, or specific insights from Sam Ovens about AI strategy that could inform business decisions",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Should You Do If You Have No Sales? | Sam Ovens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:53.729379",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business strategist in the creator/coaching economy; content addressing sales challenges provides directly applicable strategies for fitness coaching businesses scaling their client acquisition and revenue.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Decoding The Trillionaire Mind (feat. Sam Ovens)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:55.093470",
+      "status": "keep",
+      "reason": "Sam Ovens is a prominent business strategist and founder known for scaling consulting businesses and creator economy insights; this content likely contains actionable frameworks applicable to fitness coaching business models, pricing strategies, or audience building.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Work Less While Getting More Done (7th Week Sabbaticals)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:56.682144",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business thinker in the creator economy space; sabbatical strategy and productivity optimization are directly applicable to coaching business operations and content creation workflows.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Your Subconscious Mind To Solve Problems For You",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:58.369509",
+      "status": "reject",
+      "reason": "Title promises subconscious problem-solving techniques but search result alone provides no specific business strategies, frameworks, or actionable intelligence relevant to fitness coaching or creator economy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Time Management: Structure Your Days With This Framework",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:59.786902",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business thinker known for systematizing businesses and sales funnels; time management frameworks from proven entrepreneurs are directly applicable to scaling a fitness coaching business and optimizing creator productivity.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Another Alternative Way To Work (Recording 3 Pods In One Week lol)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:26:01.082994",
+      "status": "reject",
+      "reason": "Title and content don't indicate the post contains actual business insights, strategies, or lessons from Sam Ovens—it appears to be a personal productivity log about recording podcasts without demonstrating transferable business intelligence or creator economy strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 436,
-    "kept": 83,
-    "rejected": 350,
-    "last_scan": "2026-05-26T20:56:47.888739",
+    "scanned": 443,
+    "kept": 87,
+    "rejected": 353,
+    "last_scan": "2026-05-26T21:26:55.869543",
     "platforms": [
       "YouTube",
       "Google",

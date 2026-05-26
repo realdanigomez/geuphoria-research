@@ -1719,6 +1719,46 @@
       "status": "keep",
       "reason": "Contains strategic personal branding advice from influential business creator Charlie Morgan; actionable fixes applicable to fitness coaching business growth and creator positioning",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Should You Do If You Have No Sales? | Sam Ovens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:53.729379",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business strategist in the creator/coaching economy; content addressing sales challenges provides directly applicable strategies for fitness coaching businesses scaling their client acquisition and revenue.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Decoding The Trillionaire Mind (feat. Sam Ovens)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:55.093470",
+      "status": "keep",
+      "reason": "Sam Ovens is a prominent business strategist and founder known for scaling consulting businesses and creator economy insights; this content likely contains actionable frameworks applicable to fitness coaching business models, pricing strategies, or audience building.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Work Less While Getting More Done (7th Week Sabbaticals)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:56.682144",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business thinker in the creator economy space; sabbatical strategy and productivity optimization are directly applicable to coaching business operations and content creation workflows.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Time Management: Structure Your Days With This Framework",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-26T21:25:59.786902",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business thinker known for systematizing businesses and sales funnels; time management frameworks from proven entrepreneurs are directly applicable to scaling a fitness coaching business and optimizing creator productivity.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1728,12 +1768,12 @@
     "comp_kept": 24,
     "comp_rejected": 281,
     "comp_scanned": 313,
-    "busi_kept": 83,
-    "busi_rejected": 350,
-    "busi_scanned": 436,
-    "last_scan": "2026-05-26T20:56:47.893083",
-    "total_kept": 194,
-    "total_rejected": 777,
+    "busi_kept": 87,
+    "busi_rejected": 353,
+    "busi_scanned": 443,
+    "last_scan": "2026-05-26T21:26:55.875185",
+    "total_kept": 198,
+    "total_rejected": 780,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
