@@ -2209,13 +2209,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point for online fitness coaches; \"calls booked\" is a core metric tied to revenue and business growth that coaches struggle with.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Live 30-Minute Full Body Dumbbell Workout | New Summer Program Preview",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-05-26T14:53:32.930548",
+      "status": "reject",
+      "reason": "Content is a workout preview, not research into fitness coach pain points, burnout causes, business challenges, or industry problems. No actionable intelligence about coaching struggles or business operations.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 232,
+    "scanned": 233,
     "kept": 87,
-    "rejected": 145,
-    "last_scan": "2026-05-26T14:24:23.799268",
+    "rejected": 146,
+    "last_scan": "2026-05-26T14:54:27.498178",
     "platforms": [
       "Reddit",
       "YouTube",
