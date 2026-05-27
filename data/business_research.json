@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Stop Wasting Your Life (No More Distractions)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T10:41:32.734103",
-      "status": "reject",
-      "reason": "Title lacks substance; merely invoking Dan Martell's name without demonstrating actual business insights, strategies, or entrepreneurship lessons doesn't constitute actionable intelligence for fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T10:41:33.708463",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or substantive information provided about Dan Martell or business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why you procrastinate",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T10:41:34.771648",
-      "status": "reject",
-      "reason": "Title promises procrastination content but finding only shows a search query for Dan Martell with no actual insights, strategies, or business lessons included.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Signal vs Noise",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T10:41:35.866855",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Dan Martell—no actionable intelligence or specific business strategy present to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Eliminate Distractions",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T10:41:36.764252",
-      "status": "reject",
-      "reason": "Search query alone provides no actual content, insights, or strategies to analyze for business value or actionable intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Build Momentum",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Title promises \"get rich quick\" content rather than substantive business strategy; search query alone without actual content/insights from Charlie Morgan doesn't constitute actionable business intelligence",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens on Why \\",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-27T10:56:32.872640",
+      "status": "reject",
+      "reason": "Search result page with no actual content or insights from Sam Ovens; lacks specific, actionable business intelligence or strategy details.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is Sam Ovens A Legit Businessman Or A Fake Guru?",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-27T10:56:33.906805",
+      "status": "reject",
+      "reason": "Contains opinion-based critique rather than actionable business insights, strategies, or substantive lessons from Sam Ovens' actual methods or approaches.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens - 8 Things That I Use Everyday To Get More Out Of Life",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-27T10:56:35.551820",
+      "status": "reject",
+      "reason": "The finding only indicates a search for Sam Ovens without providing actual content, insights, or specific strategies that could be extracted for business or coaching content ideas.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Kitchen",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-27T10:56:36.744369",
+      "status": "reject",
+      "reason": "No actual content provided - only a search query for Sam Ovens with no insights, strategies, or substantive business information to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Computer",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-27T10:56:37.730347",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or information provided to analyze for business value.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 445,
+    "scanned": 450,
     "kept": 88,
-    "rejected": 354,
-    "last_scan": "2026-05-27T10:39:42.850513",
+    "rejected": 359,
+    "last_scan": "2026-05-27T10:57:32.619550",
     "platforms": [
       "YouTube",
       "Google",
