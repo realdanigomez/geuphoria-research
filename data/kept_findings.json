@@ -872,6 +872,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How Health And Fitness Coaches Get Clients From Content",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-27T23:25:01.254861",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; likely contains strategies for leveraging content to solve the \"how do I get clients\" problem",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1762,17 +1772,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 87,
+    "niche_kept": 88,
     "niche_rejected": 146,
-    "niche_scanned": 233,
+    "niche_scanned": 234,
     "comp_kept": 24,
     "comp_rejected": 287,
     "comp_scanned": 319,
     "busi_kept": 88,
     "busi_rejected": 359,
     "busi_scanned": 450,
-    "last_scan": "2026-05-27T22:58:13.273722",
-    "total_kept": 199,
+    "last_scan": "2026-05-27T23:28:07.491425",
+    "total_kept": 200,
     "total_rejected": 792,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
