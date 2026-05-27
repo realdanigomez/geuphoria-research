@@ -1112,16 +1112,6 @@
     },
     {
       "source": "YouTube",
-      "title": "8 Tiny Habits That Made Me Rich",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T10:41:31.730381",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker; \"tiny habits\" framework offers actionable strategies applicable to fitness coaching business growth and creator economy monetization",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Forget Work Life Balance",
       "text": "Search: Dan Martell",
       "url": "",
@@ -1759,6 +1749,16 @@
       "status": "keep",
       "reason": "Sam Ovens is an influential business thinker known for systematizing businesses and sales funnels; time management frameworks from proven entrepreneurs are directly applicable to scaling a fitness coaching business and optimizing creator productivity.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exposing My $10M/yr Organic YouTube Strategy (Imperium Mastermind Recording)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-27T05:26:05.370591",
+      "status": "keep",
+      "reason": "Charlie Morgan is a prominent creator economy figure; a $10M/yr organic YouTube strategy from an Imperium Mastermind recording offers directly applicable growth and monetization tactics for a fitness coaching content business scaling through YouTube.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1768,12 +1768,12 @@
     "comp_kept": 24,
     "comp_rejected": 281,
     "comp_scanned": 313,
-    "busi_kept": 87,
-    "busi_rejected": 353,
-    "busi_scanned": 443,
-    "last_scan": "2026-05-27T04:57:08.819420",
-    "total_kept": 198,
-    "total_rejected": 780,
+    "busi_kept": 88,
+    "busi_rejected": 354,
+    "busi_scanned": 445,
+    "last_scan": "2026-05-27T05:27:05.946219",
+    "total_kept": 199,
+    "total_rejected": 781,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
