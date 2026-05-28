@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "8 Things I Did to Stop Wasting My Evenings After Work",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T17:12:05.479719",
-      "status": "reject",
-      "reason": "General productivity advice about evening routines lacks specific business insights, strategies, or entrepreneurship lessons applicable to fitness coaching content business model or creator economy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Feed Your Mind",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T17:12:06.451882",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Dan Martell - no actionable business intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Forget Work Life Balance",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T17:12:07.625289",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker known for entrepreneurship and scaling strategies; this content likely contains actionable insights on productivity/lifestyle design applicable to fitness coaching business operations",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Schedule Family Time",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T17:12:08.503208",
-      "status": "reject",
-      "reason": "No actual content provided - only a title and search term with no insights, strategies, or substantive business lessons present",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If You're So Smart, Why Aren’t You Rich? | ALEX HORMOZI",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T19:11:35.798139",
-      "status": "reject",
-      "reason": "Search result page without substantive content; no actual insights, strategies, or lessons extractable from a title-only reference to Alex Hormozi's work.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If I Wanted To Grow An Audience In 2026, I'd Do This",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "List-based clickbait title with no actual content provided; merely mentions Charlie Morgan search query without demonstrating specific business insights, strategies, or actionable intelligence for a fitness coaching business.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Systems Thinking: How Billionaires Think",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T09:27:40.430385",
+      "status": "reject",
+      "reason": "Contains only a title and search term with no actual content, strategies, or insights to evaluate for business value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T09:27:41.565373",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or substantive information provided - lacks actionable intelligence or specific business lessons to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What is Systems Thinking",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T09:27:42.740324",
+      "status": "reject",
+      "reason": "Search query alone without actual content, context, or specific insights about systems thinking or Sam Ovens' methodology provides no actionable intelligence for business strategy or content creation.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Human Systems",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T09:27:43.694947",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or actionable business strategy provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "All Systems",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T09:27:46.774227",
+      "status": "reject",
+      "reason": "Search result only shows name with no content, strategies, lessons, or specific insights that could inform business strategy or content creation.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 456,
+    "scanned": 461,
     "kept": 91,
-    "rejected": 361,
-    "last_scan": "2026-05-28T08:58:34.210425",
+    "rejected": 366,
+    "last_scan": "2026-05-28T09:28:41.857616",
     "platforms": [
       "YouTube",
       "Google",

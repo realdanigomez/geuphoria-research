@@ -1122,16 +1122,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Forget Work Life Balance",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T17:12:07.625289",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker known for entrepreneurship and scaling strategies; this content likely contains actionable insights on productivity/lifestyle design applicable to fitness coaching business operations",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Bar For Excellence Is Embarrassingly Low",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -1809,11 +1799,11 @@
     "comp_rejected": 287,
     "comp_scanned": 319,
     "busi_kept": 91,
-    "busi_rejected": 361,
-    "busi_scanned": 456,
-    "last_scan": "2026-05-28T08:58:34.214817",
+    "busi_rejected": 366,
+    "busi_scanned": 461,
+    "last_scan": "2026-05-28T09:28:41.861860",
     "total_kept": 203,
-    "total_rejected": 794,
+    "total_rejected": 799,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
