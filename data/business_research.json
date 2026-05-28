@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "See Opportunity in Every Failure",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T15:11:39.694971",
-      "status": "reject",
-      "reason": "Generic motivational title with no specific business insights, strategies, or actionable intelligence provided. The text only contains a search query without actual content or lessons from Alex Hormozi.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Alex Hormozi's 27 Minutes of Life-Changing Advice",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,10 +2989,20 @@
       "status": "keep",
       "reason": "Sam Ovens is an influential business thinker in the creator economy; content about Skool's community platform mechanics offers actionable insights on building engaged communities for fitness coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "how to get \\",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-28T02:58:05.061538",
+      "status": "reject",
+      "reason": "Search query only, contains no actual content, insights, or substantive information to analyze",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 454,
+    "scanned": 455,
     "kept": 91,
     "rejected": 360,
     "last_scan": "2026-05-28T02:54:10.756176",

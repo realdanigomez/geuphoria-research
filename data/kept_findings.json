@@ -1813,7 +1813,7 @@
     "busi_scanned": 454,
     "last_scan": "2026-05-28T02:54:10.760592",
     "total_kept": 203,
-    "total_rejected": 793,
+    "total_rejected": 794,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
