@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "$100M Offers by Alex Hormozi | Make Irresistible Offers | Full Audiobook",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T23:11:52.335220",
-      "status": "keep",
-      "reason": "Alex Hormozi's offer-making framework is directly applicable to designing fitness coaching packages, pricing strategy, and creating compelling value propositions that convert prospects into clients.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Alex Hormozi 100M Money Models — Book Review (Summary)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "No actual content provided—only a search query for Sam Ovens with no substantive business insights, strategies, or actionable intelligence to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to actually make money with AI in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-28T21:58:12.944042",
+      "status": "reject",
+      "reason": "Title promises specific AI monetization strategies but finding only shows a search query for Dan Martell without actual content, insights, or actionable intelligence to analyze.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 470,
+    "scanned": 471,
     "kept": 94,
-    "rejected": 372,
-    "last_scan": "2026-05-28T21:29:07.767923",
+    "rejected": 373,
+    "last_scan": "2026-05-28T21:59:11.277045",
     "platforms": [
       "YouTube",
       "Google",
