@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Wanted To Grow An Audience In 2026, I'd Do This",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-01T19:57:55.356377",
-      "status": "reject",
-      "reason": "Title suggests audience growth tactics but no actual content provided to evaluate for specificity or actionability; appears to be a search result placeholder rather than substantive business insight.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Build a Brand",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search result only shows name with no content, strategies, lessons, or specific insights that could inform business strategy or content creation.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The ONLY Way AI Will Make You Rich in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-28T13:57:57.369743",
+      "status": "reject",
+      "reason": "Title promises definitive AI wealth strategy but no actual content provided to evaluate; search term alone insufficient without substantive insights, frameworks, or data to extract actionable business intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 461,
+    "scanned": 462,
     "kept": 91,
-    "rejected": 366,
-    "last_scan": "2026-05-28T13:28:46.203638",
+    "rejected": 367,
+    "last_scan": "2026-05-28T13:58:55.855515",
     "platforms": [
       "YouTube",
       "Google",
