@@ -1799,6 +1799,26 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker; content on wealth-building principles applicable to scaling fitness coaching businesses and creator economy monetization strategies",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$40M CEO: how to use praise to 100x employee productivity",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-05-28T17:28:02.567017",
+      "status": "keep",
+      "reason": "Contains actionable management strategy from influential business figure (Charlie Morgan) on employee productivity optimization, directly applicable to scaling fitness coaching businesses with team-based models.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to (Actually) Win With AI in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-05-28T17:28:06.494344",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and founder of SaaS Academy; content about winning with AI in 2026 likely contains actionable strategies for leveraging AI in business operations, product development, or marketing—directly applicable to scaling a fitness coaching content business.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1808,11 +1828,11 @@
     "comp_kept": 24,
     "comp_rejected": 287,
     "comp_scanned": 319,
-    "busi_kept": 92,
+    "busi_kept": 94,
     "busi_rejected": 369,
-    "busi_scanned": 465,
-    "last_scan": "2026-05-28T16:59:01.300855",
-    "total_kept": 204,
+    "busi_scanned": 467,
+    "last_scan": "2026-05-28T17:29:04.873151",
+    "total_kept": 206,
     "total_rejected": 802,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
