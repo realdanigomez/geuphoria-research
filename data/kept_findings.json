@@ -1769,6 +1769,36 @@
       "status": "keep",
       "reason": "Charlie Morgan is a prominent creator economy figure; a $10M/yr organic YouTube strategy from an Imperium Mastermind recording offers directly applicable growth and monetization tactics for a fitness coaching content business scaling through YouTube.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I get mentored by Alex Hormozi and Sam Ovens every day (With My AI Operating System)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T01:57:21.797135",
+      "status": "keep",
+      "reason": "Contains specific methodology from two influential business mentors (Hormozi and Ovens) on using AI as an operating system for daily mentorship - directly applicable to scaling a fitness coaching business through AI-assisted systems and decision-making frameworks.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Behind the scenes of Sam Ovens’ mastermind - $6M/year in PROFIT 🤯",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T01:57:22.999904",
+      "status": "keep",
+      "reason": "Reveals profit mechanics and operational strategies of a high-performing business figure; potential case study for scaling coaching businesses to 7-figures and understanding mastermind group ROI",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Makes Skool a Community Platform?",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-28T01:57:25.423885",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business thinker in the creator economy; content about Skool's community platform mechanics offers actionable insights on building engaged communities for fitness coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1778,12 +1808,12 @@
     "comp_kept": 24,
     "comp_rejected": 287,
     "comp_scanned": 319,
-    "busi_kept": 88,
-    "busi_rejected": 359,
-    "busi_scanned": 450,
-    "last_scan": "2026-05-28T01:28:10.198390",
-    "total_kept": 200,
-    "total_rejected": 792,
+    "busi_kept": 91,
+    "busi_rejected": 360,
+    "busi_scanned": 454,
+    "last_scan": "2026-05-28T01:58:20.231331",
+    "total_kept": 203,
+    "total_rejected": 793,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
