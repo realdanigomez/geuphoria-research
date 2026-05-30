@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Introduction",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-01T23:12:01.322152",
-      "status": "reject",
-      "reason": "Search query alone contains no actual content, insights, or information to analyze for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Every Level of Success: Which One Are You Stuck In?",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title mentions decision-making broadly, but the finding only contains a search query for Sam Ovens with no actual content, insights, or actionable intelligence provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "how to force yourself to be consistent and do hard things",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-30T00:09:28.647738",
+      "status": "keep",
+      "reason": "Alex Hormozi is a prominent business strategist known for content on consistency, discipline, and scaling—directly relevant to building a fitness coaching business and creator content strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 476,
-    "kept": 96,
+    "scanned": 477,
+    "kept": 97,
     "rejected": 376,
-    "last_scan": "2026-05-30T00:00:21.730898",
+    "last_scan": "2026-05-30T00:10:30.741892",
     "platforms": [
       "YouTube",
       "Google",
