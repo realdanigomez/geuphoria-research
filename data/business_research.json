@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Alex Hormozi: The #1 Strategy That Will Print MILLIONAIRES In 2025",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-02T02:11:49.081853",
-      "status": "reject",
-      "reason": "Title is clickbait with no actual content provided; search query alone contains no specific strategies, frameworks, or actionable business intelligence to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Overcome Self Sabotage (#1 Easiest Method)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-02T02:11:52.788595",
-      "status": "reject",
-      "reason": "Title promises self-sabotage methods but provides no actual content, strategies, or business insights. Search query alone without substantive material offers no actionable intelligence for fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If you're ambitious and in your 20s or 30s, please watch this.",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-02T06:41:57.517500",
-      "status": "reject",
-      "reason": "Title is clickbait without specific business insights; no actual content provided to evaluate actionable intelligence from Hormozi or other business figures.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Youtube advice that doesn't SUCK!",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-02T06:42:01.030076",
-      "status": "reject",
-      "reason": "Search query alone without actual content, advice, or specific insights; no substantive business intelligence to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Brutal truth of building a $50M/year consulting/agency business",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Alex Hormozi's distilled business advice offers proven frameworks for positioning, pricing, and scaling that directly apply to fitness coaching business models and content monetization strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens gave me this advice and it changed my life",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-30T03:29:24.358909",
+      "status": "reject",
+      "reason": "Title references Sam Ovens but provides no actual advice, strategy, or specific intelligence—just a vague claim without substance or detail to extract business value from.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Question",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-30T03:29:25.380411",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or information provided to evaluate for business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sams advice",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-30T03:29:26.423962",
+      "status": "reject",
+      "reason": "Contains only a search query for Sam Ovens with no actual advice, insights, or substantive content to extract for business strategy or content creation.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The feedback",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-05-30T03:29:27.542179",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Sam Ovens—no actionable intelligence or specific business strategy present.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 478,
+    "scanned": 482,
     "kept": 98,
-    "rejected": 376,
-    "last_scan": "2026-05-30T03:00:20.087155",
+    "rejected": 380,
+    "last_scan": "2026-05-30T03:30:22.740557",
     "platforms": [
       "YouTube",
       "Google",
