@@ -2469,13 +2469,23 @@
       "status": "reject",
       "reason": "Too generic and vague; lacks specific insights into fitness coaches' actual pain points, strategies, or challenges—could apply to any service business",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Truth About Muslim Men \\u0026 Fitness (Full Training Vlog)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-30T12:57:27.381057",
+      "status": "reject",
+      "reason": "Vlog about Muslim men and fitness lacks specific insights into online coaches' business challenges, pain points, or operational struggles; appears to be general fitness content rather than intelligence about the coaching industry itself.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 258,
+    "scanned": 259,
     "kept": 92,
-    "rejected": 166,
-    "last_scan": "2026-05-30T12:46:39.252835",
+    "rejected": 167,
+    "last_scan": "2026-05-30T12:58:29.550753",
     "platforms": [
       "Reddit",
       "YouTube",
