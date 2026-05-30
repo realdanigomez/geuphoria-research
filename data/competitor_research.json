@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "lessons i've learned from 4,017 days of entrepreneurship (vlog)",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:09.723261",
-      "status": "reject",
-      "reason": "Vlog about general entrepreneurship lessons lacks specific competitive intelligence about fitness coaching business models, strategies, content approaches, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "pov: the ACTUAL reality of a 26 y/o building a business in Dubai",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:10.864119",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided. The title is vague lifestyle content; the search query alone doesn't confirm the person actually coaches fitness or reveal any business strategy, offers, or positioning details.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:11.711904",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a search query name with no details about strategies, offers, programs, content approaches, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Workout \\u0026 Groceries",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:12.665005",
-      "status": "reject",
-      "reason": "No competitive intelligence provided. Search query alone lacks details about competitor strategies, content approaches, offers, programs, or positioning. Would need actual findings about Daniel Dalen's business model, messaging, or tactics to be actionable.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Deep Work \\u0026 Gym",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:13.574458",
-      "status": "reject",
-      "reason": "Search query alone provides no competitive intelligence; lacks specifics about strategies, offers, positioning, or business approach",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Goals \\u0026 Rewards",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:14.388568",
-      "status": "reject",
-      "reason": "Search query alone provides no competitive intelligence; lacks specific information about Daniel Dalen's strategy, offerings, positioning, or business model",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Work, Gym \\u0026 Plans",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:15.174624",
-      "status": "reject",
-      "reason": "Generic search query with no substantive competitive intelligence; lacks details about strategies, content approaches, offers, programs, or positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Dropping Vince at DXB",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:16.342257",
-      "status": "reject",
-      "reason": "The finding references a person and location but contains no specific information about coaching business strategies, content approaches, offers, programs, audience tactics, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Be More Productive (Quantum Mastermind Recording)",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Title is generic management advice with no specific intelligence about Charlie Johnson's fitness business coaching, strategy, offers, or positioning",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How a fitness coach went from $35k a month to $120k in 4 weeks.... (New Strategy)",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:42.869037",
+      "status": "keep",
+      "reason": "Direct case study of revenue scaling strategy from established fitness business coach (Charlie Johnson); specific metrics ($35k to $120k in 4 weeks) indicate actionable business model shift worth analyzing for competitive positioning and offer structure insights.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Bernard 3X’d His Business to $120K/Month in 30 Days",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:44.090188",
+      "status": "reject",
+      "reason": "Title claims rapid scaling results but finding contains no actual strategy, positioning, offers, or business-building methodology from Charlie Johnson or comparable fitness business coaches - only a clickbait headline without substantive competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Identifying the First Constraint: Ideal Client \\u0026 Messaging",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:45.063065",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Charlie Johnson's strategy, offers, positioning, or business model provides no actionable intelligence about fitness business coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Installing a High-Volume Content and Traffic Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:46.434108",
+      "status": "reject",
+      "reason": "Finding is just a search query with no actual content, strategy details, or actionable intelligence about the competitor's business approach, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The DM Setting System That Unlocked Massive Scale",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:47.658165",
+      "status": "keep",
+      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches scaling strategies; this title suggests actionable DM/messaging system tactics for business growth that would be directly applicable to building an online fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hiring Support to Escape the Golden Handcuffs",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:49.392829",
+      "status": "reject",
+      "reason": "No specific intelligence provided about the content, offers, positioning, or strategies of Charlie Johnson or any fitness business coach. Only a search query title without substantive details.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Restructuring the Offer \\u0026 Raising the Price",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:50.234725",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches how to structure offers and pricing strategy—directly relevant intelligence for building coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Using Data to Uncover Bottlenecks and Scale Fast",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T17:28:51.180838",
+      "status": "reject",
+      "reason": "Title suggests general business scaling advice without confirmed specific intelligence about Charlie Johnson's coaching methods, offers, or strategies for online fitness coaches",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 344,
-    "kept": 27,
-    "rejected": 303,
-    "last_scan": "2026-05-30T16:59:38.025706",
+    "scanned": 352,
+    "kept": 30,
+    "rejected": 308,
+    "last_scan": "2026-05-30T17:29:48.305140",
     "platforms": [
       "YouTube",
       "Google",
