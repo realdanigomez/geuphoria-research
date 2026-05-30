@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How do you maintain growth",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:27.804117",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fixing a Fitness Coach’s Sales Page",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:49.412033",
-      "status": "reject",
-      "reason": "Finding lacks specific details about competitor strategies, offers, or positioning; appears to be a generic search query rather than competitive intelligence with substantive insights about business models, content approaches, or market tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Helping an Online Fitness Coach Get Customers Through Content",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:50.334720",
-      "status": "reject",
-      "reason": "Search query alone provides no specific competitive intelligence about strategies, content approaches, offers, or positioning. Actual article content needed to assess competitive value.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "United Fitness Gym",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "keep",
       "reason": "Brian Mark is a recognized fitness business coach who teaches online coaches how to build their business; this title suggests specific tools/strategies that generated significant revenue, which is directly actionable competitive intelligence.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fun Tour of Vince Del Monte's Home Gym!",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T04:33:55.894384",
+      "status": "reject",
+      "reason": "Contains only a home gym tour video with no business strategy, coaching methodology, offers, or intelligence about how Vince Del Monte helps online fitness coaches build their businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Equipment",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T04:33:56.761159",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, strategy, offers, or positioning information about fitness business coaching",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cold Tub",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T04:33:57.775699",
+      "status": "reject",
+      "reason": "Search query alone provides no intelligence about competitor offerings, strategies, positioning, or business models. No actual content or findings are included to analyze.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 327,
+    "scanned": 330,
     "kept": 26,
-    "rejected": 293,
-    "last_scan": "2026-05-30T04:27:47.137520",
+    "rejected": 296,
+    "last_scan": "2026-05-30T04:35:00.379977",
     "platforms": [
       "YouTube",
       "Google",
