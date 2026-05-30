@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Every Level of Success: Which One Are You Stuck In?",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-01T23:12:04.724502",
-      "status": "reject",
-      "reason": "Search query alone without actual content from Dan Martell; no specific business insights, strategies, or actionable intelligence provided to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Alex Hormozi: The #1 Strategy That Will Print MILLIONAIRES In 2025",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi is a prominent business strategist known for content on consistency, discipline, and scaling—directly relevant to building a fitness coaching business and creator content strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "13 Years of No BS Business Advice in 79 Mins",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-30T00:59:20.423142",
+      "status": "keep",
+      "reason": "Alex Hormozi's distilled business advice offers proven frameworks for positioning, pricing, and scaling that directly apply to fitness coaching business models and content monetization strategies.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 477,
-    "kept": 97,
+    "scanned": 478,
+    "kept": 98,
     "rejected": 376,
-    "last_scan": "2026-05-30T00:10:30.741892",
+    "last_scan": "2026-05-30T01:00:23.170931",
     "platforms": [
       "YouTube",
       "Google",

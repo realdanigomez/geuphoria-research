@@ -902,56 +902,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Helping an Online Fitness Coach Get Customers Through Content",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:09:22.765172",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "I Spent $10,000 on Charlie Morgan’s Course (My Results)",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265050",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why I bought the course",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265063",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Course overview",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265067",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Problems with the course",
-      "text": "Search: Charlie Morgan coaching",
-      "url": "",
-      "time": "2026-04-12T05:09:25.265074",
-      "status": "keep",
-      "reason": "Contains competitor strategy/content data",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Should you get the course?",
       "text": "Search: Charlie Morgan coaching",
       "url": "",
@@ -1138,6 +1088,16 @@
       "time": "2026-05-22T22:56:50.478235",
       "status": "keep",
       "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches how to build their business; this search indicates potential content about his coaching methodology and market positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "HONEST Reviews of Vince Del Monte's Fitness Business Summit 2022",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T00:58:11.092082",
+      "status": "keep",
+      "reason": "Contains direct reviews of a major fitness business coach's summit offering, providing insights into his business model, positioning, offers, and what content/strategies he's teaching to online fitness coaches.",
       "track": "competitor"
     },
     {
@@ -1829,21 +1789,31 @@
       "status": "keep",
       "reason": "Alex Hormozi is a prominent business strategist known for content on consistency, discipline, and scaling—directly relevant to building a fitness coaching business and creator content strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "13 Years of No BS Business Advice in 79 Mins",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-30T00:59:20.423142",
+      "status": "keep",
+      "reason": "Alex Hormozi's distilled business advice offers proven frameworks for positioning, pricing, and scaling that directly apply to fitness coaching business models and content monetization strategies.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 90,
     "niche_rejected": 154,
     "niche_scanned": 244,
-    "comp_kept": 24,
-    "comp_rejected": 288,
-    "comp_scanned": 320,
-    "busi_kept": 97,
+    "comp_kept": 25,
+    "comp_rejected": 293,
+    "comp_scanned": 326,
+    "busi_kept": 98,
     "busi_rejected": 376,
-    "busi_scanned": 477,
-    "last_scan": "2026-05-30T00:10:30.746008",
-    "total_kept": 211,
-    "total_rejected": 818,
+    "busi_scanned": 478,
+    "last_scan": "2026-05-30T01:00:23.175221",
+    "total_kept": 213,
+    "total_rejected": 823,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
