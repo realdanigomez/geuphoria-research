@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Be More Productive (Quantum Mastermind Recording)",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:19.791092",
-      "status": "reject",
-      "reason": "No specific competitive intelligence present; only a generic productivity title with a vague reference to Sam Ovens lacking details on his actual business model, content strategy, offers, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests general business scaling advice without confirmed specific intelligence about Charlie Johnson's coaching methods, offers, or strategies for online fitness coaches",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Paid Bedros Keuilian 100k To Coach Me | Watch to Hear My Top 5 Takeaways for FREE",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-05-30T21:58:48.171486",
+      "status": "keep",
+      "reason": "Direct case study of a high-level fitness business coach's offer and implementation, with documented takeaways that reveal positioning, pricing strategy ($100k), and value proposition details useful for competitive benchmarking.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 352,
-    "kept": 30,
+    "scanned": 353,
+    "kept": 31,
     "rejected": 308,
-    "last_scan": "2026-05-30T21:29:49.465756",
+    "last_scan": "2026-05-30T21:59:48.033133",
     "platforms": [
       "YouTube",
       "Google",
