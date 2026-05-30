@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "United Fitness Gym",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:51.185166",
-      "status": "reject",
-      "reason": "Generic gym name with no specific information about coaching strategies, content approaches, offers, programs, or competitive positioning of fitness coaching mentors.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How do I get more leads as a fitness coach?",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:52.255835",
-      "status": "reject",
-      "reason": "Contains only a generic question and a name search with no actual competitive intelligence, strategies, tactics, or specific business details about any competitor's approach or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "how to scale as a fitness coach",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:52.967526",
-      "status": "reject",
-      "reason": "Generic search query without specific competitive intelligence; no actual content, strategies, offers, or positioning details provided to analyze.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "1 on 1 Coaching With Alex Hormozi Made Me Quit My Business",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:53.863711",
-      "status": "reject",
-      "reason": "Anecdotal personal experience lacking specific details about Hormozi's coaching strategies, pricing, program structure, or business model that would inform competitive analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:54.764595",
-      "status": "reject",
-      "reason": "Search query alone provides no actual competitive intelligence; lacks specific data about strategies, content, offers, programs, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Who is Alex Hormozi",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T05:37:55.678961",
-      "status": "reject",
-      "reason": "Contains only a search query without actual competitive intelligence, data, strategies, or specific information about Hormozi's business model, content approach, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Turn $0 Into $1,000,000 (FREE COURSE)",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -2999,10 +2939,70 @@
       "status": "reject",
       "reason": "Search query alone provides no intelligence about competitor offerings, strategies, positioning, or business models. No actual content or findings are included to analyze.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The GET RIPPED Shoulder Workout (MINI ROUTINE MAX GAINS!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T10:01:54.542470",
+      "status": "reject",
+      "reason": "This is a shoulder workout routine content, not business intelligence about coaching programs, business strategies, or mentor offerings for fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "HIT THE LIKE BUTTON IF YOU'RE UP FOR A CHALLENGE",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T10:01:55.508039",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaching",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "PUSH YOUR ELBOWS BACKWARDS TO GET SHOULDER EXTENSION",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T10:01:56.771011",
+      "status": "reject",
+      "reason": "This is exercise technique content (shoulder extension form), not business intelligence about fitness coaching programs, strategies, or offers for online coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "TRAINING + RECOVERY TRAINING EFFECT",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T10:01:57.754284",
+      "status": "reject",
+      "reason": "Contains only a search query result about training and recovery principles, not intelligence about business strategy, offers, positioning, or coaching programs targeting fitness coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "NO NONSENSE MUSCLE BUILDING 2.0",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T10:01:59.264221",
+      "status": "reject",
+      "reason": "Title alone without detailed content about business strategy, coaching methods, or offers. Generic product name requires actual intel on how Vince Del Monte coaches fitness coaches to be useful.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Exactly is High Ticket Fitness Coaching",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-30T10:02:00.400968",
+      "status": "reject",
+      "reason": "Title mentions high ticket fitness coaching but finding only shows a search query for Vince Del Monte with no actual content, strategy, or actionable intelligence about business building for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 330,
+    "scanned": 336,
     "kept": 26,
     "rejected": 296,
     "last_scan": "2026-05-30T09:59:27.599357",
