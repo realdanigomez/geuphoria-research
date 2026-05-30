@@ -912,6 +912,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Before You Become an Online Fitness Coach – Watch This",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-30T10:57:26.640509",
+      "status": "keep",
+      "reason": "Directly addresses pain points and struggles of aspiring/existing online fitness coaches, likely contains warnings or lessons about common pitfalls in the business model that coaches need to understand before scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How I Made $500k with a free skool group in the first 14 days",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -1792,18 +1802,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 91,
+    "niche_kept": 92,
     "niche_rejected": 160,
-    "niche_scanned": 251,
+    "niche_scanned": 252,
     "comp_kept": 26,
-    "comp_rejected": 302,
+    "comp_rejected": 296,
     "comp_scanned": 336,
     "busi_kept": 98,
     "busi_rejected": 381,
     "busi_scanned": 483,
-    "last_scan": "2026-05-30T10:00:30.508628",
-    "total_kept": 215,
-    "total_rejected": 843,
+    "last_scan": "2026-05-30T11:00:33.622819",
+    "total_kept": 216,
+    "total_rejected": 837,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

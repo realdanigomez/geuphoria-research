@@ -2399,13 +2399,23 @@
       "status": "reject",
       "reason": "Title promises a blueprint but the actual content appears to be a generic search term result without specific tactical details, systems, or proven strategies that would provide actionable intelligence for fitness coaches.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Before You Become an Online Fitness Coach – Watch This",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-30T10:57:26.640509",
+      "status": "keep",
+      "reason": "Directly addresses pain points and struggles of aspiring/existing online fitness coaches, likely contains warnings or lessons about common pitfalls in the business model that coaches need to understand before scaling.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 251,
-    "kept": 91,
+    "scanned": 252,
+    "kept": 92,
     "rejected": 160,
-    "last_scan": "2026-05-30T09:58:24.948695",
+    "last_scan": "2026-05-30T10:58:28.624675",
     "platforms": [
       "Reddit",
       "YouTube",
