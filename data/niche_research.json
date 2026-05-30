@@ -2379,13 +2379,33 @@
       "status": "reject",
       "reason": "Vague title with no substantive content about specific pain points, struggles, or actionable intelligence for online fitness coaches",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Online Fitness Coach Starting From Scratch ...EXACTLY what I Did...",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-30T08:27:17.444273",
+      "status": "keep",
+      "reason": "Addresses client acquisition pain point for fitness coaches starting out; likely contains tactical strategies for overcoming initial struggle phase which is a primary barrier for coaches entering the market.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Steal My $2.7M Online Fitness Coaching Blueprint (Exposing The 72-Hour Blitz)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-30T08:27:18.499690",
+      "status": "reject",
+      "reason": "Title promises a blueprint but the actual content appears to be a generic search term result without specific tactical details, systems, or proven strategies that would provide actionable intelligence for fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 249,
-    "kept": 90,
-    "rejected": 159,
-    "last_scan": "2026-05-30T07:58:19.492207",
+    "scanned": 251,
+    "kept": 91,
+    "rejected": 160,
+    "last_scan": "2026-05-30T08:28:20.543919",
     "platforms": [
       "Reddit",
       "YouTube",
