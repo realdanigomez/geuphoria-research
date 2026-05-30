@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Turn $0 Into $1,000,000 (FREE COURSE)",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:37:59.163508",
-      "status": "reject",
-      "reason": "Title and search query alone provide no specific intelligence about coaching strategies, content approaches, offers, programs, or audience tactics—only a generic monetization claim without competitive details.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Made $500k with a free skool group in the first 14 days",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:38:00.119693",
-      "status": "keep",
-      "reason": "Reveals specific monetization strategy and timeline for free community-based model, demonstrating rapid revenue generation tactics relevant to coaching business positioning and audience conversion methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "how to be poor for the rest of your life",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:38:01.168902",
-      "status": "reject",
-      "reason": "No specific competitive intelligence about fitness coaching strategies, content approaches, offers, programs, or audience growth tactics. Title appears unrelated to fitness industry and search query lacks substantive business details.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to break past $30k-$100k/mo as an agency, coach or consultant",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:38:02.243223",
-      "status": "keep",
-      "reason": "Reveals competitor revenue positioning strategy and growth messaging for coaching businesses in $30k-$100k/mo range, indicating market segment tactics and positioning language used to attract coaches seeking scaling strategies",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "I Ranked Every Online Business Model So You Don't Have To",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:38:03.387611",
-      "status": "reject",
-      "reason": "Title suggests general business model ranking without specific competitive intelligence about fitness coaching strategies, offers, or market positioning; search term alone doesn't indicate the content addresses fitness coaching competitors or their tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "stop being nice if you want be a young millionaire",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:38:04.183896",
-      "status": "reject",
-      "reason": "Contains no specific competitive intelligence about fitness coaching strategies, content approaches, offers, programs, or audience growth tactics. Generic motivational title unrelated to fitness industry positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Channel Pain Into Profit \\u0026 Scale To 10K/Month (Raw Q\\u0026A Advice)",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:38:05.123728",
-      "status": "keep",
-      "reason": "Contains specific scaling strategy (10K/month revenue target), Q&A format reveals coaching business monetization tactics, and positioning of Charlie Morgan as a competitor in the fitness coaching space with audience growth insights.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Channeling Negative Energy into Work",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T05:38:06.373677",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a vague article title with no details about business model, strategies, offers, pricing, audience tactics, or market positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "lessons i've learned from 4,017 days of entrepreneurship (vlog)",
       "text": "Search: Daniel Dalen online coaching",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Title mentions high ticket fitness coaching but finding only shows a search query for Vince Del Monte with no actual content, strategy, or actionable intelligence about business building for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Secrets to Scaling \\u0026 Managing an Online Fitness Business with Luke Miller",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:45.225025",
+      "status": "reject",
+      "reason": "Search query alone without accompanying content, strategy details, or specific business intelligence about scaling online fitness businesses. No actionable insights provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Coaching requires personal achievement first",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:46.232540",
+      "status": "reject",
+      "reason": "Title and text describe a general coaching philosophy without specific intelligence about business strategy, offers, positioning, or how Charlie Johnson helps fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Charlie's journey from real estate to 7-figure fitness business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:47.448960",
+      "status": "keep",
+      "reason": "Direct case study of fitness business scaling to 7-figures, likely contains specific strategies, offers, and positioning tactics applicable to online fitness coach business building.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Realizing your time \\u0026 mindset are the bottleneck",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:51.817548",
+      "status": "reject",
+      "reason": "Finding contains only a search query without any actual content, strategy, offers, or positioning information about Charlie Johnson or fitness business coaching",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The sacrifice required for financial freedom",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:52.951477",
+      "status": "reject",
+      "reason": "Title and text don't provide specific intelligence about business strategy, content, offers, or positioning—only a generic motivational topic about financial freedom with no actionable details about fitness coaching business building.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Being good at what you do as a rate limiter",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:54.071785",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Charlie Johnson or fitness business coaching that would be actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Communication \\u0026 attention to detail as two-way streets",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:55.350480",
+      "status": "reject",
+      "reason": "Contains only a generic article title about communication; no specific intelligence about Charlie Johnson's business strategy, offers, positioning, or how he helps fitness coaches build their businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hire for attitude, train for skill",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-30T15:58:56.436196",
+      "status": "reject",
+      "reason": "Title is generic management advice with no specific intelligence about Charlie Johnson's fitness business coaching, strategy, offers, or positioning",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 336,
-    "kept": 26,
-    "rejected": 296,
-    "last_scan": "2026-05-30T15:49:13.243539",
+    "scanned": 344,
+    "kept": 27,
+    "rejected": 303,
+    "last_scan": "2026-05-30T15:59:53.714569",
     "platforms": [
       "YouTube",
       "Google",
