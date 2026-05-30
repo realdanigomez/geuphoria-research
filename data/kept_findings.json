@@ -892,6 +892,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Personal Training Business, Online Fitness Coaching, and Attracting Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-29T23:57:08.772755",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches seeking to grow their business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping an Online Fitness Coach Get Customers Through Content",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1812,18 +1822,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 89,
-    "niche_rejected": 148,
-    "niche_scanned": 237,
+    "niche_kept": 90,
+    "niche_rejected": 154,
+    "niche_scanned": 244,
     "comp_kept": 24,
     "comp_rejected": 288,
     "comp_scanned": 320,
     "busi_kept": 96,
     "busi_rejected": 376,
     "busi_scanned": 476,
-    "last_scan": "2026-05-29T23:30:14.660439",
-    "total_kept": 209,
-    "total_rejected": 812,
+    "last_scan": "2026-05-30T00:00:21.735309",
+    "total_kept": 210,
+    "total_rejected": 818,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
