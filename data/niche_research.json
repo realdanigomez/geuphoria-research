@@ -2479,13 +2479,23 @@
       "status": "reject",
       "reason": "Vlog about Muslim men and fitness lacks specific insights into online coaches' business challenges, pain points, or operational struggles; appears to be general fitness content rather than intelligence about the coaching industry itself.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to close more sales and grow your fitness coaching business",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-05-30T13:57:29.661055",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and revenue growth, two critical pain points for fitness coaches scaling their businesses",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 259,
-    "kept": 92,
+    "scanned": 260,
+    "kept": 93,
     "rejected": 167,
-    "last_scan": "2026-05-30T12:58:29.550753",
+    "last_scan": "2026-05-30T13:58:29.816973",
     "platforms": [
       "Reddit",
       "YouTube",
