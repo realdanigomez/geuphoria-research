@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Fear",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:25.328105",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a search query name without details about strategies, offers, programs, positioning, or tactics",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Schedule",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, findings, or intelligence about Brian Mark's strategy, offers, positioning, or methods that could inform competitor analysis.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Establishing Urgency: Why Now, Why Me",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-31T04:59:04.820138",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Brian Mark's business strategy, offers, or coaching methods provides no actionable intelligence for building an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 358,
+    "scanned": 359,
     "kept": 32,
-    "rejected": 312,
-    "last_scan": "2026-05-31T04:30:01.405570",
+    "rejected": 313,
+    "last_scan": "2026-05-31T04:59:59.174572",
     "platforms": [
       "YouTube",
       "Google",
