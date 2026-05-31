@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How I became #1 in a \\",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T10:26:09.286083",
-      "status": "reject",
-      "reason": "Title is incomplete and search query alone provides no specific competitive intelligence about strategies, content, offers, programs, or positioning. Requires actual content analysis to be valuable.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Exit Interviews",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -2999,11 +2989,21 @@
       "status": "reject",
       "reason": "Title and search term alone provide no specific intelligence about business strategy, content, offers, or positioning—would need actual content details to assess value.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T13:01:42.620417",
+      "status": "keep",
+      "reason": "Contains direct reference to Vince Del Monte's mentorship approach and positioning as a foundational figure in online fitness coaching business, useful for understanding competitive positioning and mentor influence in the space.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 365,
-    "kept": 32,
+    "scanned": 366,
+    "kept": 33,
     "rejected": 319,
     "last_scan": "2026-05-31T12:58:16.968446",
     "platforms": [

@@ -1182,6 +1182,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T13:01:42.620417",
+      "status": "keep",
+      "reason": "Contains direct reference to Vince Del Monte's mentorship approach and positioning as a foundational figure in online fitness coaching business, useful for understanding competitive positioning and mentor influence in the space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
       "title": "$100M Leads by Alex Hormozi - Full Audiobook | How to Get Strangers to Buy Your Stuff!",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -1895,9 +1905,9 @@
     "niche_kept": 97,
     "niche_rejected": 170,
     "niche_scanned": 268,
-    "comp_kept": 32,
+    "comp_kept": 33,
     "comp_rejected": 319,
-    "comp_scanned": 365,
+    "comp_scanned": 366,
     "busi_kept": 100,
     "busi_rejected": 390,
     "busi_scanned": 494,
