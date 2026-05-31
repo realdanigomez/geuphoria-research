@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Formula for a Profitable Fitness Business with Alex Hormozi",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T08:11:06.111028",
-      "status": "keep",
-      "reason": "Specific mentor (Alex Hormozi) known for fitness business monetization strategies; likely contains tactical insights on pricing models, offer structure, and profitability frameworks directly applicable to competitive positioning analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Easiest Way To Get High Ticket Clients in 2025 (Imperium Mastermind Recording)",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T08:11:09.768998",
-      "status": "reject",
-      "reason": "Title promises high-ticket client acquisition strategy but no actual content provided to verify specifics about tactics, positioning, or competitive approaches used by this competitor.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Get Past ANY Gatekeeper (Ninja Tips)",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T08:11:10.637244",
-      "status": "reject",
-      "reason": "Generic gatekeeper advice unrelated to fitness coaching business models, strategies, or competitive positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "INTENTION",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T08:11:11.692738",
-      "status": "reject",
-      "reason": "Search query alone provides no actual competitive intelligence; lacks data on Charlie Morgan's strategies, content, offers, programs, or market positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "TONE",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T08:11:12.707018",
-      "status": "reject",
-      "reason": "Search query alone provides no competitive intelligence; lacks any actual data about Charlie Morgan's coaching business, strategies, offers, programs, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How I became #1 in a \\",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Finding is just a search query title with no actual content, strategy, offers, or positioning details about fitness business coaches or their methods.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The GET RIPPED Shoulder Workout (MINI ROUTINE MAX GAINS!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T12:29:11.195341",
+      "status": "reject",
+      "reason": "This is a shoulder workout routine for end users, not business intelligence about coaching programs, mentorship, or business strategies targeting fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "HIT THE LIKE BUTTON IF YOU'RE UP FOR A CHALLENGE",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T12:29:12.218136",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "PUSH YOUR ELBOWS BACKWARDS TO GET SHOULDER EXTENSION",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T12:29:13.239649",
+      "status": "reject",
+      "reason": "This is exercise technique content (shoulder mechanics), not business intelligence about coaching programs, strategies, or offers targeting fitness coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "TRAINING + RECOVERY TRAINING EFFECT",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T12:29:14.186283",
+      "status": "reject",
+      "reason": "Finding only contains a search query with no actual content, strategy, offer details, or actionable intelligence about how Vince Del Monte helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "NO NONSENSE MUSCLE BUILDING 2.0",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T12:29:15.649973",
+      "status": "reject",
+      "reason": "Title and search term alone provide no specific intelligence about business strategy, content, offers, or positioning—would need actual content details to assess value.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 360,
+    "scanned": 365,
     "kept": 32,
-    "rejected": 314,
-    "last_scan": "2026-05-31T12:00:14.492865",
+    "rejected": 319,
+    "last_scan": "2026-05-31T12:30:17.568933",
     "platforms": [
       "YouTube",
       "Google",
