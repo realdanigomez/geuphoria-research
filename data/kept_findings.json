@@ -932,6 +932,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Why your fitness business is struggling | Fitness Business Coach | EntreFit (833) 445-1348",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-31T06:58:02.400763",
+      "status": "keep",
+      "reason": "Directly addresses why fitness businesses struggle, which is core to understanding pain points and challenges that online fitness coaches face in their operations and growth.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "The Formula for a Profitable Fitness Business with Alex Hormozi",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1852,18 +1862,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 93,
-    "niche_rejected": 168,
-    "niche_scanned": 261,
+    "niche_kept": 94,
+    "niche_rejected": 170,
+    "niche_scanned": 264,
     "comp_kept": 32,
     "comp_rejected": 313,
     "comp_scanned": 359,
     "busi_kept": 100,
     "busi_rejected": 390,
     "busi_scanned": 494,
-    "last_scan": "2026-05-31T06:31:02.594323",
-    "total_kept": 225,
-    "total_rejected": 871,
+    "last_scan": "2026-05-31T07:01:14.018580",
+    "total_kept": 226,
+    "total_rejected": 873,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
