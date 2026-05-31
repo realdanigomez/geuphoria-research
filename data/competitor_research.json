@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Exit Interviews",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-12T10:26:10.202393",
-      "status": "reject",
-      "reason": "Search query alone provides no actual competitive intelligence; lacks substantive data on strategies, offers, programs, or positioning details needed for analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Scheduling Deep Work and Management Time",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T10:26:14.104243",
-      "status": "reject",
-      "reason": "Generic time management advice unrelated to fitness coaching business models, strategies, or competitive positioning. No specific intelligence about competitor offers, content approaches, or audience growth tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building Confidence in Sales Without Prior Results",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T10:26:15.235060",
-      "status": "reject",
-      "reason": "No specific competitive intelligence about fitness coaching business models, strategies, content approaches, or market positioning provided. Title suggests sales coaching rather than fitness coaching context.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Viewing Business as a Video Game and Aiming for Billionaire Status",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-12T10:26:16.198667",
-      "status": "reject",
-      "reason": "No specific competitive intelligence about fitness coaching business models, content strategies, offers, or audience growth tactics - only a generic business mindset concept unrelated to fitness coaching market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Closed Sam Ovens On High Performance Coaching (Funny Story)",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T10:26:21.938797",
-      "status": "reject",
-      "reason": "Title suggests anecdotal storytelling rather than systematic competitive intelligence about business models, strategies, content approaches, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T10:26:23.045669",
-      "status": "reject",
-      "reason": "Search query alone provides no substantive competitive intelligence; lacks data on actual strategies, content, offers, programs, or market positioning of Sam Ovens or competitors.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Funny Story",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "keep",
       "reason": "Contains direct reference to Vince Del Monte's mentorship approach and positioning as a foundational figure in online fitness coaching business, useful for understanding competitive positioning and mentor influence in the space.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch Me Scale a Pro Bodybuilders Business to $50k/mo in 64 Mins",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-31T14:45:37.302870",
+      "status": "keep",
+      "reason": "Contains specific case study of fitness business scaling to $50k/mo, likely includes actionable strategies from established fitness business coach Charlie Johnson relevant to online coaching business models.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Roadmap to £50K/Month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-31T14:45:38.403706",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches how to build high-revenue businesses; a roadmap to £50K/month directly addresses business scaling strategies relevant to online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Unexpected Niche Driving Most of His Leads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-31T14:45:39.535610",
+      "status": "reject",
+      "reason": "Title mentions Charlie Johnson (a known fitness business coach) but the finding itself contains no actual content, strategy, offers, or positioning details—just a generic headline about leads with no substantive intelligence provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Simple Content Fix That Changes Everything",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-31T14:45:40.505898",
+      "status": "reject",
+      "reason": "Search query only, no actual content or intelligence about Charlie Johnson's strategy, offers, positioning, or business coaching methods provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Expensive Ad Mistake Costing Him Clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-31T14:45:41.659167",
+      "status": "reject",
+      "reason": "Title suggests ad strategy content but finding contains no actual intelligence—no specific tactics, positioning details, offers, or business strategies are provided to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Market Every Fitness Coach Should Target",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-05-31T14:45:42.889257",
+      "status": "reject",
+      "reason": "Title suggests general fitness coach targeting advice rather than intelligence about a specific business coach's strategy, content, offers, or positioning that would help build an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 366,
-    "kept": 33,
-    "rejected": 319,
-    "last_scan": "2026-05-31T14:30:18.024901",
+    "scanned": 372,
+    "kept": 35,
+    "rejected": 323,
+    "last_scan": "2026-05-31T14:46:39.918508",
     "platforms": [
       "YouTube",
       "Google",
