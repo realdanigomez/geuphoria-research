@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:20.736450",
-      "status": "reject",
-      "reason": "Search query alone provides no substantive competitive intelligence; requires actual content analysis of Sam Ovens' strategies, offerings, or positioning to be actionable.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Environment",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:21.595883",
-      "status": "reject",
-      "reason": "Search query alone provides no competitive intelligence; lacks data on actual strategies, content, offers, programs, or positioning of Sam Ovens or any competitor.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How often",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:22.544443",
-      "status": "reject",
-      "reason": "Search query alone provides no competitive intelligence; lacks any data about strategies, content, offers, programs, or positioning details.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Work against them",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:23.523254",
-      "status": "reject",
-      "reason": "Contains only a search query with no actual competitive intelligence, findings, or data about strategies, content, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Heuristics",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T05:38:24.424557",
-      "status": "reject",
-      "reason": "Search query alone provides no competitive intelligence; requires actual findings about Sam Ovens' strategies, content, offers, or positioning to be actionable.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Fear",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "keep",
       "reason": "Direct case study of a high-level fitness business coach's offer and implementation, with documented takeaways that reveal positioning, pricing strategy ($100k), and value proposition details useful for competitive benchmarking.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The $1,000 Phone Script for Closing Online Fitness Packages",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-31T01:35:17.650231",
+      "status": "keep",
+      "reason": "Direct competitor intelligence on sales closing techniques and pricing strategies used by a known fitness business coach targeting online coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Getting People to Join the Call",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-31T01:35:18.614681",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Brian Mark or fitness coaching business intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Anticipating Objections",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-31T01:35:19.616382",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, positioning, or business intelligence about Brian Mark or fitness coaching business tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understanding the Pre-Frame",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-31T01:35:20.611983",
+      "status": "reject",
+      "reason": "Search query only, no actual content about Brian Mark's strategy, offers, positioning, or business-building approach for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Identifying Pain Points",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-05-31T01:35:21.603070",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, findings, or intelligence about Brian Mark's strategy, offers, positioning, or methods that could inform competitor analysis.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 353,
-    "kept": 31,
-    "rejected": 308,
-    "last_scan": "2026-05-31T01:29:54.578841",
+    "scanned": 358,
+    "kept": 32,
+    "rejected": 312,
+    "last_scan": "2026-05-31T01:36:16.135921",
     "platforms": [
       "YouTube",
       "Google",
