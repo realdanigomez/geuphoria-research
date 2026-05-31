@@ -1859,12 +1859,22 @@
       "status": "keep",
       "reason": "Alex Hormozi is a canonical business strategist for service businesses; content on scaling service businesses directly applies to fitness coaching business model challenges and growth strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make So Much Money It Feels Illegal (NO BS Way To Build $1,000,000 Business) | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-05-31T09:35:10.347642",
+      "status": "keep",
+      "reason": "Alex Hormozi is an influential business thinker who teaches scaling strategies and business model frameworks directly applicable to fitness coaching businesses; content on building million-dollar businesses contains actionable insights on pricing, offers, and growth systems relevant to creator economy coaching models.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 94,
-    "niche_rejected": 170,
-    "niche_scanned": 264,
+    "niche_rejected": 171,
+    "niche_scanned": 265,
     "comp_kept": 32,
     "comp_rejected": 314,
     "comp_scanned": 360,
