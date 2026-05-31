@@ -942,6 +942,26 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Build a $10K/Month Online Fitness Business",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-31T11:16:39.827397",
+      "status": "keep",
+      "reason": "Directly addresses income goals and business scaling challenges, which are core pain points for online fitness coaches seeking to understand revenue benchmarks and growth strategies.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to close more sales and grow your fitness coaching business",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-05-31T11:16:40.859029",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and revenue growth, core pain points for online fitness coaches; search query indicates real demand from struggling coaches seeking sales solutions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "The Formula for a Profitable Fitness Business with Alex Hormozi",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1872,17 +1892,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 94,
+    "niche_kept": 96,
     "niche_rejected": 170,
-    "niche_scanned": 265,
+    "niche_scanned": 267,
     "comp_kept": 32,
     "comp_rejected": 314,
     "comp_scanned": 360,
     "busi_kept": 100,
     "busi_rejected": 390,
     "busi_scanned": 494,
-    "last_scan": "2026-05-31T10:58:59.222746",
-    "total_kept": 226,
+    "last_scan": "2026-05-31T11:19:51.404946",
+    "total_kept": 228,
     "total_rejected": 874,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
