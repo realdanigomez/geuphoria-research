@@ -1342,16 +1342,6 @@
     },
     {
       "source": "YouTube",
-      "title": "What Makes The Perfect Business (5 Things)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-02T19:12:11.221893",
-      "status": "keep",
-      "reason": "Alex Hormozi content on business fundamentals likely contains actionable frameworks for positioning coaching offers and building scalable business models applicable to fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$100 Million Money Models by Alex Hormozi (All 16 Strategies)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2039,6 +2029,16 @@
       "status": "keep",
       "reason": "Alex Hormozi content on monetization frameworks provides direct business strategy applicable to fitness coaching business models and pricing structures",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi GOES NUCLEAR On Founder's $500M Valuation Pitch - This Got HEATED",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-01T21:01:32.443623",
+      "status": "keep",
+      "reason": "Alex Hormozi critiques a founder's $500M valuation pitch, likely containing specific lessons on valuation strategy, pitch fundamentals, and founder mindset that are directly applicable to building and scaling a fitness coaching business.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2048,12 +2048,12 @@
     "comp_kept": 41,
     "comp_rejected": 340,
     "comp_scanned": 395,
-    "busi_kept": 101,
-    "busi_rejected": 395,
-    "busi_scanned": 500,
-    "last_scan": "2026-06-01T20:02:38.579786",
-    "total_kept": 247,
-    "total_rejected": 916,
+    "busi_kept": 102,
+    "busi_rejected": 396,
+    "busi_scanned": 502,
+    "last_scan": "2026-06-01T21:02:36.679490",
+    "total_kept": 248,
+    "total_rejected": 917,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
