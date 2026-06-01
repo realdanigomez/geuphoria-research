@@ -992,16 +992,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Step by step how i'd make $10k per month asap if starting again",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-28T20:38:11.661130",
-      "status": "keep",
-      "reason": "Contains potential competitive intelligence on monetization strategy, business model scaling, and tactics from established coach Charlie Morgan that could reveal how competitors position $10k/month income claims and their underlying business approaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -1278,6 +1268,16 @@
       "time": "2026-06-01T13:00:12.318518",
       "status": "keep",
       "reason": "Identifies Vince Del Monte as a foundational mentor figure in online fitness coaching business, useful for understanding key influencers and business model originators in the space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 7-Figure Formula for Fitness Professionals (from $0)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-01T16:30:20.647754",
+      "status": "keep",
+      "reason": "Direct mention of Vince Del Monte, a primary fitness business coach competitor, with focus on monetization strategy (\"7-Figure Formula\") relevant to scaling online fitness coaching businesses.",
       "track": "competitor"
     },
     {
@@ -1985,15 +1985,15 @@
     "niche_kept": 99,
     "niche_rejected": 180,
     "niche_scanned": 280,
-    "comp_kept": 40,
-    "comp_rejected": 339,
-    "comp_scanned": 393,
+    "comp_kept": 41,
+    "comp_rejected": 340,
+    "comp_scanned": 395,
     "busi_kept": 101,
-    "busi_rejected": 393,
-    "busi_scanned": 498,
-    "last_scan": "2026-06-01T16:02:25.318092",
-    "total_kept": 240,
-    "total_rejected": 912,
+    "busi_rejected": 394,
+    "busi_scanned": 499,
+    "last_scan": "2026-06-01T16:32:27.411411",
+    "total_kept": 241,
+    "total_rejected": 914,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

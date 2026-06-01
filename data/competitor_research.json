@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Step by step how i'd make $10k per month asap if starting again",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-28T20:38:11.661130",
-      "status": "keep",
-      "reason": "Contains potential competitive intelligence on monetization strategy, business model scaling, and tactics from established coach Charlie Morgan that could reveal how competitors position $10k/month income claims and their underlying business approaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Train Your Mind To Become a Millionaire",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-28T20:38:12.541766",
-      "status": "reject",
-      "reason": "No specific competitive intelligence about fitness coaching strategies, content approaches, offers, programs, or audience growth tactics. Generic self-help/mindset content unrelated to fitness coaching business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "pov: you're a 26 year old online entrepreneur living in dubai | vlog ep. 7",
       "text": "Search: Daniel Dalen online coaching",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Identifies Vince Del Monte as a foundational mentor figure in online fitness coaching business, useful for understanding key influencers and business model originators in the space.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "A Day In The Life Ep.5: Make Money Online With Fitness",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-01T16:30:19.685175",
+      "status": "reject",
+      "reason": "Finding is just a search query title with no actual content, strategy, offers, or positioning information about fitness business coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 7-Figure Formula for Fitness Professionals (from $0)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-01T16:30:20.647754",
+      "status": "keep",
+      "reason": "Direct mention of Vince Del Monte, a primary fitness business coach competitor, with focus on monetization strategy (\"7-Figure Formula\") relevant to scaling online fitness coaching businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 393,
-    "kept": 40,
-    "rejected": 339,
-    "last_scan": "2026-06-01T16:01:21.191823",
+    "scanned": 395,
+    "kept": 41,
+    "rejected": 340,
+    "last_scan": "2026-06-01T16:31:22.928878",
     "platforms": [
       "YouTube",
       "Google",
