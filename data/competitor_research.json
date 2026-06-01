@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Mark heard about me",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-12T16:04:30.031567",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only mentions a search query without details about strategies, offers, programs, positioning, or audience tactics",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How I met Alex",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning—requires actual findings about what Bedros teaches or offers to be useful.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Highly Effective Chest Workout Techniques for a Bigger Chest (Killer Chest Workout)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-05-31T23:59:34.863429",
+      "status": "reject",
+      "reason": "This is a generic chest workout article unrelated to fitness business coaching. The search mention of Vince Del Monte doesn't indicate the content addresses business strategy, coaching programs, or how to build an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 391,
+    "scanned": 392,
     "kept": 39,
-    "rejected": 338,
-    "last_scan": "2026-05-31T23:00:35.076089",
+    "rejected": 339,
+    "last_scan": "2026-06-01T00:00:38.104588",
     "platforms": [
       "YouTube",
       "Google",
