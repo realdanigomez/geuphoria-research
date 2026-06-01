@@ -1252,16 +1252,6 @@
     },
     {
       "source": "YouTube",
-      "title": "$100M Leads by Alex Hormozi - Full Audiobook | How to Get Strangers to Buy Your Stuff!",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-02T18:12:14.083785",
-      "status": "keep",
-      "reason": "Alex Hormozi's \"$100M Leads\" contains core business strategies on customer acquisition and sales funnels directly applicable to fitness coaching business models, including lead generation tactics and conversion frameworks that can inform content strategy and pricing approaches.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I’m starting a marketing agency lol ($50M/year play)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -1959,6 +1949,16 @@
       "status": "keep",
       "reason": "Alex Hormozi is an influential business thinker who teaches scaling strategies and business model frameworks directly applicable to fitness coaching businesses; content on building million-dollar businesses contains actionable insights on pricing, offers, and growth systems relevant to creator economy coaching models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 6 Levels of Making Money",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-01T02:00:37.973419",
+      "status": "keep",
+      "reason": "Alex Hormozi content on monetization frameworks provides direct business strategy applicable to fitness coaching business models and pricing structures",
+      "track": "business"
     }
   ],
   "stats": {
@@ -1968,11 +1968,11 @@
     "comp_kept": 39,
     "comp_rejected": 339,
     "comp_scanned": 392,
-    "busi_kept": 100,
+    "busi_kept": 101,
     "busi_rejected": 392,
-    "busi_scanned": 496,
-    "last_scan": "2026-06-01T01:41:14.441894",
-    "total_kept": 236,
+    "busi_scanned": 497,
+    "last_scan": "2026-06-01T02:01:40.444991",
+    "total_kept": 237,
     "total_rejected": 906,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

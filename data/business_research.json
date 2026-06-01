@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "$100M Leads by Alex Hormozi - Full Audiobook | How to Get Strangers to Buy Your Stuff!",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-02T18:12:14.083785",
-      "status": "keep",
-      "reason": "Alex Hormozi's \"$100M Leads\" contains core business strategies on customer acquisition and sales funnels directly applicable to fitness coaching business models, including lead generation tactics and conversion frameworks that can inform content strategy and pricing approaches.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I’m starting a marketing agency lol ($50M/year play)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests sales training content, but no actual course content, strategies, or insights are provided—only a search reference to Alex Hormozi without substance to extract business intelligence from.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 6 Levels of Making Money",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-01T02:00:37.973419",
+      "status": "keep",
+      "reason": "Alex Hormozi content on monetization frameworks provides direct business strategy applicable to fitness coaching business models and pricing structures",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 496,
-    "kept": 100,
+    "scanned": 497,
+    "kept": 101,
     "rejected": 392,
-    "last_scan": "2026-06-01T01:41:14.438076",
+    "last_scan": "2026-06-01T02:01:40.440658",
     "platforms": [
       "YouTube",
       "Google",
