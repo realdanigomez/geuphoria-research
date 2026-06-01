@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I’m starting a marketing agency lol ($50M/year play)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-02T18:12:18.021940",
-      "status": "keep",
-      "reason": "Contains Charlie Morgan (influential business thinker) discussing agency scaling strategy and revenue models ($50M trajectory) - directly applicable to coaching business monetization and service-based scaling lessons.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "some high level shit you need to know to hit $1M/mo+ in 2026",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on monetization frameworks provides direct business strategy applicable to fitness coaching business models and pricing structures",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 4 Books You Need to Get Insanely Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-01T15:01:24.528170",
+      "status": "reject",
+      "reason": "Title is clickbait without substantive content; no specific book recommendations, summaries, or actionable business intelligence provided in the finding itself.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 497,
+    "scanned": 498,
     "kept": 101,
-    "rejected": 392,
-    "last_scan": "2026-06-01T14:32:21.233202",
+    "rejected": 393,
+    "last_scan": "2026-06-01T15:02:22.421820",
     "platforms": [
       "YouTube",
       "Google",

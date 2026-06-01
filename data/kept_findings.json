@@ -1282,16 +1282,6 @@
     },
     {
       "source": "YouTube",
-      "title": "I’m starting a marketing agency lol ($50M/year play)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-02T18:12:18.021940",
-      "status": "keep",
-      "reason": "Contains Charlie Morgan (influential business thinker) discussing agency scaling strategy and revenue models ($50M trajectory) - directly applicable to coaching business monetization and service-based scaling lessons.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What Makes The Perfect Business (5 Things)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -1999,11 +1989,11 @@
     "comp_rejected": 339,
     "comp_scanned": 393,
     "busi_kept": 101,
-    "busi_rejected": 392,
-    "busi_scanned": 497,
-    "last_scan": "2026-06-01T14:32:21.237334",
+    "busi_rejected": 393,
+    "busi_scanned": 498,
+    "last_scan": "2026-06-01T15:02:22.426153",
     "total_kept": 240,
-    "total_rejected": 911,
+    "total_rejected": 912,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
