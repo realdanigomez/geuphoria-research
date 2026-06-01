@@ -2619,13 +2619,43 @@
       "status": "reject",
       "reason": "Generic burnout advice without fitness coach-specific context, systems, or solutions—lacks actionable intelligence for the niche.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to stop burning out  as a man",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T09:29:01.351124",
+      "status": "reject",
+      "reason": "Contains generic burnout advice for men; lacks specific insights into fitness coach business model, client management, income challenges, or coaching-specific burnout triggers.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 Minute Upper Body Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T09:29:02.361073",
+      "status": "reject",
+      "reason": "This is a workout routine, not research about fitness coaches' business challenges, pain points, or operations. It doesn't provide intelligence on their actual struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to avoid exercise burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T09:29:03.285167",
+      "status": "reject",
+      "reason": "Generic wellness content about exerciser burnout, not about coach-specific pain points like client acquisition, marketing systems, or business scaling challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 273,
+    "scanned": 276,
     "kept": 97,
-    "rejected": 175,
-    "last_scan": "2026-06-01T08:59:53.544893",
+    "rejected": 178,
+    "last_scan": "2026-06-01T09:29:58.094280",
     "platforms": [
       "Reddit",
       "YouTube",
