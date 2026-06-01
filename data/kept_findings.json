@@ -992,6 +992,56 @@
     },
     {
       "source": "YouTube",
+      "title": "CAP 265 Preventing Coach Burnout: Strategies for Success | 3 July 2025",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T18:29:30.856834",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout prevention strategies, a critical pain point for online fitness coaches affecting retention, service quality, and business sustainability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction to Burnout in Coaching",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T18:29:31.999368",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout, a critical pain point affecting retention, business sustainability, and scaling for online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understanding Burnout for Online Coaches",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T18:29:33.795989",
+      "status": "keep",
+      "reason": "Directly addresses a major pain point (burnout) affecting online fitness coaches' sustainability and business viability; understanding burnout drivers enables development of targeted solutions for retention and scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Systems and Processes to Prevent Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T18:29:35.232836",
+      "status": "keep",
+      "reason": "Directly addresses burnout—a critical pain point for online fitness coaches—and promises systems/processes that could improve retention and sustainability of their business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Setting Boundaries and Work Hours",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-01T18:29:36.557061",
+      "status": "keep",
+      "reason": "Directly addresses burnout (core pain point), reveals coaches struggle with work-life balance and boundary-setting which impacts retention and sustainable business scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -1982,18 +2032,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 99,
+    "niche_kept": 104,
     "niche_rejected": 180,
-    "niche_scanned": 280,
+    "niche_scanned": 285,
     "comp_kept": 41,
     "comp_rejected": 340,
     "comp_scanned": 395,
     "busi_kept": 101,
-    "busi_rejected": 394,
-    "busi_scanned": 499,
-    "last_scan": "2026-06-01T18:02:24.819875",
-    "total_kept": 241,
-    "total_rejected": 914,
+    "busi_rejected": 395,
+    "busi_scanned": 500,
+    "last_scan": "2026-06-01T18:32:39.219129",
+    "total_kept": 246,
+    "total_rejected": 915,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

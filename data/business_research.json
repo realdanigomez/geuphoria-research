@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to work \\u0026 focus for 12 hours a day like a millionaire CEO",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-02T18:12:20.086237",
-      "status": "reject",
-      "reason": "Title promises actionable content but finding only shows a search query without actual insights, strategies, or substantive business lessons from Charlie Morgan.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "how to be poor for the rest of your life",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic self-help list lacking specific business strategies, frameworks, or actionable insights applicable to fitness coaching or creator economy business models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "99% of People Don’t Know How to Actually Use AI to Make Money",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-01T18:31:41.716623",
+      "status": "reject",
+      "reason": "Title is clickbait without evidence of actual content; search result alone doesn't confirm Dan Martell authored substantive business strategy about AI monetization applicable to fitness coaching.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 499,
+    "scanned": 500,
     "kept": 101,
-    "rejected": 394,
-    "last_scan": "2026-06-01T18:02:24.815415",
+    "rejected": 395,
+    "last_scan": "2026-06-01T18:32:39.214579",
     "platforms": [
       "YouTube",
       "Google",
