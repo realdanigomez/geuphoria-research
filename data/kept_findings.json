@@ -972,6 +972,26 @@
     },
     {
       "source": "YouTube",
+      "title": "day in the life of an online fitness coach + bride to be: fitness struggles, new split, calls + more",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-01T12:59:04.695625",
+      "status": "keep",
+      "reason": "Contains firsthand account of coaching workflow, client management demands, and personal fitness challenges while scaling—reveals time management pain points and work-life balance struggles relevant to coach burnout and operational bottlenecks.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Health \\u0026 Fitness Coach| “Why AM I Working Harder And Struggling To Get More Clients?”",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-01T12:59:07.197854",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific search intent showing coaches actively seeking solutions to effort-to-results disconnect, indicating a high-value problem to solve.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Step by step how i'd make $10k per month asap if starting again",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -1248,6 +1268,16 @@
       "time": "2026-05-31T16:59:34.631911",
       "status": "keep",
       "reason": "Directly addresses sales psychology for fitness coaches, likely contains actionable strategies from Charlie Johnson (a known fitness business coach), relevant to coach business development challenges",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-01T13:00:12.318518",
+      "status": "keep",
+      "reason": "Identifies Vince Del Monte as a foundational mentor figure in online fitness coaching business, useful for understanding key influencers and business model originators in the space.",
       "track": "competitor"
     },
     {
@@ -1962,18 +1992,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 97,
-    "niche_rejected": 178,
-    "niche_scanned": 276,
-    "comp_kept": 39,
+    "niche_kept": 99,
+    "niche_rejected": 180,
+    "niche_scanned": 280,
+    "comp_kept": 40,
     "comp_rejected": 339,
-    "comp_scanned": 392,
+    "comp_scanned": 393,
     "busi_kept": 101,
     "busi_rejected": 392,
     "busi_scanned": 497,
-    "last_scan": "2026-06-01T12:37:31.778597",
-    "total_kept": 237,
-    "total_rejected": 909,
+    "last_scan": "2026-06-01T13:02:18.268298",
+    "total_kept": 240,
+    "total_rejected": 911,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

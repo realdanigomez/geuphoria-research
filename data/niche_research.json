@@ -2649,13 +2649,53 @@
       "status": "reject",
       "reason": "Generic wellness content about exerciser burnout, not about coach-specific pain points like client acquisition, marketing systems, or business scaling challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "day in the life of an online fitness coach + bride to be: fitness struggles, new split, calls + more",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-01T12:59:04.695625",
+      "status": "keep",
+      "reason": "Contains firsthand account of coaching workflow, client management demands, and personal fitness challenges while scaling—reveals time management pain points and work-life balance struggles relevant to coach burnout and operational bottlenecks.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is An Online Fitness Coach ACTUALLY Worth It??",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-01T12:59:05.719490",
+      "status": "reject",
+      "reason": "Contains opinion/debate format rather than specific data about actual pain points, struggles, or actionable intelligence for coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Health \\u0026 Fitness Coach| “Why AM I Working Harder And Struggling To Get More Clients?”",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-01T12:59:07.197854",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific search intent showing coaches actively seeking solutions to effort-to-results disconnect, indicating a high-value problem to solve.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Coaching Your Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-01T12:59:08.208850",
+      "status": "reject",
+      "reason": "Too generic and vague - doesn't reveal specific pain points, struggles, or actionable insights relevant to online fitness coaches' actual challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 276,
-    "kept": 97,
-    "rejected": 178,
-    "last_scan": "2026-06-01T12:35:25.627520",
+    "scanned": 280,
+    "kept": 99,
+    "rejected": 180,
+    "last_scan": "2026-06-01T13:00:10.528077",
     "platforms": [
       "Reddit",
       "YouTube",
