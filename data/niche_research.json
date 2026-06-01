@@ -2739,13 +2739,33 @@
       "status": "keep",
       "reason": "Directly addresses burnout (core pain point), reveals coaches struggle with work-life balance and boundary-setting which impacts retention and sustainable business scaling.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro: How to get your first coaching clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-01T19:59:25.203907",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for new fitness coaches struggling to build their practice and generate income.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 1: Get clear on your coaching value",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-01T19:59:26.340422",
+      "status": "reject",
+      "reason": "Too generic and foundational; lacks specific insights into coaches' actual pain points, acquisition strategies, or systems that would help them solve real problems",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 285,
-    "kept": 104,
-    "rejected": 180,
-    "last_scan": "2026-06-01T19:30:28.178182",
+    "scanned": 287,
+    "kept": 105,
+    "rejected": 181,
+    "last_scan": "2026-06-01T20:00:27.321800",
     "platforms": [
       "Reddit",
       "YouTube",

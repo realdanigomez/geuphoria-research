@@ -1042,6 +1042,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Intro: How to get your first coaching clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-01T19:59:25.203907",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for new fitness coaches struggling to build their practice and generate income.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -2032,18 +2042,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 104,
-    "niche_rejected": 180,
-    "niche_scanned": 285,
+    "niche_kept": 105,
+    "niche_rejected": 181,
+    "niche_scanned": 287,
     "comp_kept": 41,
     "comp_rejected": 340,
     "comp_scanned": 395,
     "busi_kept": 101,
     "busi_rejected": 395,
     "busi_scanned": 500,
-    "last_scan": "2026-06-01T19:32:36.435564",
-    "total_kept": 246,
-    "total_rejected": 915,
+    "last_scan": "2026-06-01T20:02:38.579786",
+    "total_kept": 247,
+    "total_rejected": 916,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
