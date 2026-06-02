@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "pov: you're a 26 year old online entrepreneur living in dubai | vlog ep. 7",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-28T20:38:16.174810",
-      "status": "reject",
-      "reason": "Vlog content about lifestyle in Dubai lacks specific competitive intelligence about fitness coaching business models, strategies, offers, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Flight to Dubai from Hong Kong",
       "text": "Search: Daniel Dalen online coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Direct mention of Vince Del Monte, a primary fitness business coach competitor, with focus on monetization strategy (\"7-Figure Formula\") relevant to scaling online fitness coaching businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "ELLIE MARIE: How This Fitness Enthusiast \\u0026 Injured Dancer Became A 6 Figure Online Fitness Coach",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-02T05:00:44.061223",
+      "status": "reject",
+      "reason": "This is a case study about an individual fitness coach's personal success story, not intelligence about business-building programs, mentors, or strategies targeting online fitness coaches as clients.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 395,
+    "scanned": 396,
     "kept": 41,
-    "rejected": 340,
-    "last_scan": "2026-06-02T04:31:50.629533",
+    "rejected": 341,
+    "last_scan": "2026-06-02T05:01:45.974334",
     "platforms": [
       "YouTube",
       "Google",
