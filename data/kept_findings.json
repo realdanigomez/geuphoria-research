@@ -1082,6 +1082,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Tip 6 - Focus on getting Calls Booked",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-06-02T21:00:30.615662",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point—booking calls is a primary bottleneck for converting prospects into paying clients, a core struggle for online fitness coaches scaling their business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
       "text": "Search: Sam Ovens coaching",
       "url": "",
@@ -2062,17 +2072,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 108,
+    "niche_kept": 109,
     "niche_rejected": 184,
-    "niche_scanned": 293,
+    "niche_scanned": 294,
     "comp_kept": 41,
     "comp_rejected": 342,
     "comp_scanned": 397,
     "busi_kept": 102,
     "busi_rejected": 399,
     "busi_scanned": 505,
-    "last_scan": "2026-06-02T20:14:16.381896",
-    "total_kept": 251,
+    "last_scan": "2026-06-02T21:03:35.421316",
+    "total_kept": 252,
     "total_rejected": 925,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
