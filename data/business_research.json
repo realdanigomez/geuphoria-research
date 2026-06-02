@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "$100 Million Money Models by Alex Hormozi (All 16 Strategies)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-02T23:12:24.056741",
-      "status": "keep",
-      "reason": "Alex Hormozi's documented money models provide directly applicable pricing, packaging, and monetization strategies that can be adapted for fitness coaching business models, product launches, and scaling approaches.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "You’re not behind (yet): How to learn AI in 18 minutes",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait without substantive content; no actual book recommendations, business frameworks, or actionable strategies provided in the finding itself.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Millionaire explains: how to 10x ur motivation to get \\",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-02T17:01:42.334596",
+      "status": "reject",
+      "reason": "Title appears clickbait without substantive content; search query alone doesn't indicate the resource contains actual business insights, strategies, or specific intelligence from the mentioned creator.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 503,
+    "scanned": 504,
     "kept": 102,
-    "rejected": 397,
-    "last_scan": "2026-06-02T16:03:26.224391",
+    "rejected": 398,
+    "last_scan": "2026-06-02T17:02:42.527214",
     "platforms": [
       "YouTube",
       "Google",
