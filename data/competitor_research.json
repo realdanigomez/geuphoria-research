@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Flight to Dubai from Hong Kong",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-28T20:38:17.005011",
-      "status": "reject",
-      "reason": "No fitness coaching intelligence present. This appears to be a flight booking result unrelated to competitor analysis, coaching strategies, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Touchdown in Dubai",
       "text": "Search: Daniel Dalen online coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "This is a case study about an individual fitness coach's personal success story, not intelligence about business-building programs, mentors, or strategies targeting online fitness coaches as clients.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vince Del Monte's A Day In The Life Ep. 9: Crazy Leg Workout to Build Muscle!",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-02T12:01:00.819064",
+      "status": "reject",
+      "reason": "This is a workout content video, not business intelligence about coaching strategies, offers, or how to build an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 396,
+    "scanned": 397,
     "kept": 41,
-    "rejected": 341,
-    "last_scan": "2026-06-02T11:32:01.799018",
+    "rejected": 342,
+    "last_scan": "2026-06-02T12:02:03.232838",
     "platforms": [
       "YouTube",
       "Google",
