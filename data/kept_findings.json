@@ -2139,6 +2139,16 @@
       "status": "keep",
       "reason": "Alex Hormozi critiques a founder's $500M valuation pitch, likely containing specific lessons on valuation strategy, pitch fundamentals, and founder mindset that are directly applicable to building and scaling a fitness coaching business.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 21 Principles of the Top 0.01%",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-03T23:33:48.921624",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and founder known for scaling companies and creator economy insights; a principles framework from a recognized business thinker offers actionable frameworks for business growth and strategy that could inform coaching program development or content positioning.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2148,11 +2158,11 @@
     "comp_kept": 47,
     "comp_rejected": 354,
     "comp_scanned": 415,
-    "busi_kept": 102,
+    "busi_kept": 103,
     "busi_rejected": 410,
-    "busi_scanned": 516,
-    "last_scan": "2026-06-03T23:04:47.264097",
-    "total_kept": 262,
+    "busi_scanned": 517,
+    "last_scan": "2026-06-03T23:34:46.618400",
+    "total_kept": 263,
     "total_rejected": 959,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
