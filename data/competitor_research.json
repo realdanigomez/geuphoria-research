@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Touchdown in Dubai",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-28T20:38:18.003435",
-      "status": "reject",
-      "reason": "Search query alone provides no competitive intelligence; lacks information about actual coaching strategies, content, offers, programs, or market positioning details.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "First day in Dubai",
       "text": "Search: Daniel Dalen online coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "This is a workout content video, not business intelligence about coaching strategies, offers, or how to build an online fitness coaching business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only 7 Apps You Need for Fitness Coaching",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-03T00:01:48.420587",
+      "status": "reject",
+      "reason": "Brian Mark is a fitness business coach, but the finding is about general fitness apps, not business strategy or coaching intelligence specific to building an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 397,
+    "scanned": 398,
     "kept": 41,
-    "rejected": 342,
-    "last_scan": "2026-06-02T23:32:45.356836",
+    "rejected": 343,
+    "last_scan": "2026-06-03T00:02:43.093271",
     "platforms": [
       "YouTube",
       "Google",
