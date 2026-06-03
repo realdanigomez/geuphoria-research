@@ -2959,13 +2959,33 @@
       "status": "reject",
       "reason": "Generic coaching discussion lacks specific insights into online fitness coaches' measurable pain points, business metrics, or actionable strategies for scaling, marketing, or client acquisition.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building size without overdoing food or PEDs",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-03T14:31:25.142401",
+      "status": "reject",
+      "reason": "Finding discusses client nutrition/training strategy rather than coach business problems like burnout causes, prevention, or solutions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How coaches handle arrogant athletes",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-03T14:31:26.117510",
+      "status": "reject",
+      "reason": "Addresses general coaching psychology rather than fitness coach-specific pain points like client acquisition, revenue models, systematization, or scaling challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 307,
+    "scanned": 309,
     "kept": 113,
-    "rejected": 193,
-    "last_scan": "2026-06-03T14:02:17.076570",
+    "rejected": 195,
+    "last_scan": "2026-06-03T14:32:21.039829",
     "platforms": [
       "Reddit",
       "YouTube",
