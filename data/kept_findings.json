@@ -1132,16 +1132,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T21:38:03.699052",
-      "status": "keep",
-      "reason": "Sam Ovens is a prominent fitness/business coaching entrepreneur; content about his rebuilding strategy provides actionable intelligence on positioning, business model pivots, and audience retention tactics relevant to coaching business operations.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Helping a Personal Trainer Get to $1M/Year",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -1448,6 +1438,36 @@
       "time": "2026-06-03T11:32:15.495413",
       "status": "keep",
       "reason": "Bedros Keuilian is a prominent fitness business coach who teaches automation strategies to online fitness entrepreneurs; this finding captures his specific positioning on business automation, directly relevant to understanding competitor offerings and strategies in the online fitness coaching space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built This Fitness Coach a $38k Month Business in 45 Minutes",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:31.797495",
+      "status": "keep",
+      "reason": "Direct case study of fitness coach business growth strategy and tactics from Charlie Johnson, a recognized fitness business coach, showing specific revenue results and methodology that could reveal business-building frameworks relevant to online fitness coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Clarity Around Your Offer Solves 80% of Your Problems",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:34.476016",
+      "status": "keep",
+      "reason": "Direct reference to Charlie Johnson Fitness, a known online fitness business coach, with focus on offer clarity—a core business-building strategy relevant to how fitness coaches structure their offerings and solve client acquisition problems.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a Content Machine That Works Without You",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:39.472675",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches how to build scalable content systems and automate their business operations - directly relevant competitive intelligence for understanding business coaching strategies in this space.",
       "track": "competitor"
     },
     {
@@ -2135,15 +2155,15 @@
     "niche_kept": 113,
     "niche_rejected": 195,
     "niche_scanned": 309,
-    "comp_kept": 44,
-    "comp_rejected": 349,
-    "comp_scanned": 407,
+    "comp_kept": 47,
+    "comp_rejected": 354,
+    "comp_scanned": 415,
     "busi_kept": 102,
     "busi_rejected": 407,
     "busi_scanned": 513,
-    "last_scan": "2026-06-03T17:04:30.201671",
-    "total_kept": 259,
-    "total_rejected": 951,
+    "last_scan": "2026-06-03T17:34:44.543394",
+    "total_kept": 262,
+    "total_rejected": 956,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

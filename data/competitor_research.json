@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "source": "Skool",
-      "title": "What is the most effective way to build (and maintain ...",
-      "text": "Search: fitness coaching site:skool.com",
-      "url": "",
-      "time": "2026-04-28T20:52:08.438877",
-      "status": "reject",
-      "reason": "This is a search query without results or findings; it contains no actual competitive intelligence about strategies, content, offers, programs, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "Skool",
-      "title": "Who else is a coach looking to integrate AI?",
-      "text": "Search: fitness coaching site:skool.com",
-      "url": "",
-      "time": "2026-04-28T20:52:09.712450",
-      "status": "reject",
-      "reason": "This is a search query framework, not actual competitive intelligence. It contains no specific data about competitors, their strategies, offers, positioning, or tactics—only a method to find them.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sam Ovens - How I'd Start Over And Rebuild My Business From Scratch",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T21:38:03.699052",
-      "status": "keep",
-      "reason": "Sam Ovens is a prominent fitness/business coaching entrepreneur; content about his rebuilding strategy provides actionable intelligence on positioning, business model pivots, and audience retention tactics relevant to coaching business operations.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Cut unimportant costs",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T21:38:04.815866",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided. Only contains a search query name without details about strategies, content, offers, programs, audience tactics, or market positioning of the competitor.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Get a job",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T21:38:05.815249",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a generic job search reference with no details about fitness coaching strategies, offers, programs, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Improve your confidence",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T21:38:07.196717",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a generic confidence improvement title with a vague search reference that lacks details about strategies, offerings, programs, positioning, or audience tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Read one book per week",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T21:38:07.983846",
-      "status": "reject",
-      "reason": "Contains only a generic productivity habit with no specific competitive intelligence about fitness coaching business models, strategies, offers, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "What would I consult on",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T21:38:09.224139",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only shows a search query without details about strategies, content, offers, programs, or market positioning of Sam Ovens or competitors.",
-      "track": "competitor"
-    },
-    {
       "source": "YouTube",
       "title": "Scaling an In-Person Personal Training Business",
       "text": "Search: Alex Hormozi fitness coach",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, positioning, or methods for helping fitness coaches build their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built This Fitness Coach a $38k Month Business in 45 Minutes",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:31.797495",
+      "status": "keep",
+      "reason": "Direct case study of fitness coach business growth strategy and tactics from Charlie Johnson, a recognized fitness business coach, showing specific revenue results and methodology that could reveal business-building frameworks relevant to online fitness coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro: What Every Struggling Coach Needs to Hear",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:32.969335",
+      "status": "reject",
+      "reason": "Finding is only a search query title with no actual content, strategy details, offers, or business intelligence provided",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Clarity Around Your Offer Solves 80% of Your Problems",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:34.476016",
+      "status": "keep",
+      "reason": "Direct reference to Charlie Johnson Fitness, a known online fitness business coach, with focus on offer clarity—a core business-building strategy relevant to how fitness coaches structure their offerings and solve client acquisition problems.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Truth About Posting More Content (And Why It's Not Enough)",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:35.889761",
+      "status": "reject",
+      "reason": "Title suggests general content strategy advice rather than specific intelligence about Charlie Johnson's business model, offers, or coaching methods for fitness entrepreneurs.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Invisible System That Gets Clients Without Burnout",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:38.119970",
+      "status": "reject",
+      "reason": "Title alone suggests general client-getting advice without evidence of specific business strategy, positioning, or operational intelligence about how Charlie Johnson actually coaches online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a Content Machine That Works Without You",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:39.472675",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches how to build scalable content systems and automate their business operations - directly relevant competitive intelligence for understanding business coaching strategies in this space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Create Offers That Are Easy to Say Yes To",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:40.741094",
+      "status": "reject",
+      "reason": "Title is generic sales/copywriting advice; no specific intelligence about Charlie Johnson's business model, offers, or fitness coaching strategies included",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Perfect Ad Strategy to Fill Your Pipeline Daily",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-03T17:32:42.163133",
+      "status": "reject",
+      "reason": "Title suggests general ad strategy content; search term alone doesn't confirm it contains specific intelligence about fitness business coaching, client acquisition systems, or positioning strategies for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 407,
-    "kept": 44,
-    "rejected": 349,
-    "last_scan": "2026-06-03T17:03:26.797965",
+    "scanned": 415,
+    "kept": 47,
+    "rejected": 354,
+    "last_scan": "2026-06-03T17:33:40.425958",
     "platforms": [
       "YouTube",
       "Google",
