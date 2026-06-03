@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "These Rules Made me So Rich I Questioned The Meaning of Life",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-02T23:12:31.371417",
-      "status": "reject",
-      "reason": "Title is clickbait without specific business rules or strategies provided; mere attribution to Dan Martell without substantive content details does not constitute actionable intelligence for fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro Summary",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait without specific insights; search result alone doesn't confirm content includes actionable business strategies or substantive lessons from Dan Martell's work",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Important 20 Minutes You'll Spend Today | Chris Williamson x Alex Hormozi Motivation",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-03T02:02:58.149868",
+      "status": "reject",
+      "reason": "Motivation content without specific business strategies, frameworks, or actionable intelligence applicable to fitness coaching business model or operations.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 505,
+    "scanned": 506,
     "kept": 102,
-    "rejected": 399,
-    "last_scan": "2026-06-03T01:33:49.130340",
+    "rejected": 400,
+    "last_scan": "2026-06-03T02:04:02.319625",
     "platforms": [
       "YouTube",
       "Google",

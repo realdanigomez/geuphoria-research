@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "source": "YouTube",
-      "title": "First day in Dubai",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-28T20:38:19.094385",
-      "status": "reject",
-      "reason": "Contains only a travel reference and a name search with no substantive information about coaching business, strategies, content, offers, programs, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Arriving at the apartment and working with Vince",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-28T20:38:20.157615",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a vague reference to someone named Vince and a search query without details about business model, strategy, content, offers, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Thoughts and Future",
-      "text": "Search: Daniel Dalen online coaching",
-      "url": "",
-      "time": "2026-04-28T20:38:21.316728",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a search query without findings, data, strategies, offers, or market positioning details",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sam Ovens vs Jordan Belford - Why Sam Doesn't Like Jordan's Sales Technique",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-28T20:38:24.899691",
-      "status": "reject",
-      "reason": "Contains opinion-based comparison without specific details about business strategies, content approaches, offers, or market positioning that would inform competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Status and the Illusion of Luxury Spending",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-28T20:51:05.368106",
-      "status": "reject",
-      "reason": "No competitive intelligence about fitness coaching business models, strategies, content approaches, offers, programs, or audience growth tactics present in the finding.",
-      "track": "competitor"
-    },
-    {
       "source": "Skool",
       "title": "Fit Pro Alpha ( Premium )",
       "text": "Search: fitness coaching site:skool.com",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Brian Mark is a fitness business coach, but the finding is about general fitness apps, not business strategy or coaching intelligence specific to building an online fitness coaching business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "7 Steps to Keep Clients for Life as a Coach",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-03T02:01:52.156525",
+      "status": "reject",
+      "reason": "Title suggests general client retention advice for coaches, but finding lacks specific details about Brian Mark's strategy, positioning, offers, or business-building methods that would constitute actionable competitor intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "$10M Instagram Blueprint - Full Course",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-03T02:01:56.225499",
+      "status": "keep",
+      "reason": "Brian Mark is a recognized fitness business coach who teaches online coaching business models; this course likely contains strategy and positioning intelligence relevant to how successful coaches build their offers and scale via Instagram.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You’re Fit You Can Make $1M… 11 Principles to Follow",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-03T02:01:57.484938",
+      "status": "reject",
+      "reason": "Title is clickbait about fitness income potential but finding doesn't include actual content, principles, or business strategy details that would constitute actionable intelligence for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Be The Go To Coach In Your Niche",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-03T02:01:59.478140",
+      "status": "keep",
+      "reason": "Brian Mark is a direct competitor in the fitness business coaching space who teaches coaches how to differentiate and dominate their niche—understanding his positioning strategy is valuable for market intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Content Mistake Costing Fitness Coaches Thousands Every Month",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-03T02:02:00.636971",
+      "status": "reject",
+      "reason": "Title suggests general fitness coaching content advice, not specific intelligence about business coaches/mentors who help online fitness coaches build their businesses. Search term \"Brian Mark fitness coaching\" is too broad to confirm this targets fitness business coaches specifically.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 398,
-    "kept": 41,
-    "rejected": 343,
-    "last_scan": "2026-06-03T01:32:44.878378",
+    "scanned": 403,
+    "kept": 43,
+    "rejected": 346,
+    "last_scan": "2026-06-03T02:02:56.387484",
     "platforms": [
       "YouTube",
       "Google",
