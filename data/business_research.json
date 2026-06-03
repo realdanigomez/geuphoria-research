@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Ignore Advice From The Bottom",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-02T23:12:33.197288",
-      "status": "reject",
-      "reason": "Title alone provides no specific insight; search result without actual content or actionable business lesson cannot be evaluated for applicability to fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Cave You Fear To Enter",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-02T23:12:34.108553",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or substantive information to extract actionable business insights or strategies",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Simple Scales",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-02T23:12:34.971116",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Dan Martell—no actionable intelligence to extract for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Spend Money",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-02T23:12:35.866264",
-      "status": "reject",
-      "reason": "Title and search query alone provide no specific insights, strategies, or actionable intelligence without actual content details about what Dan Martell said or taught.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Give me 25 minutes, and you’ll get more done than 97% of people",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T00:12:30.450102",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker known for productivity and scaling strategies; a 25-minute productivity framework could yield actionable content for fitness coaching business operations and client time management messaging.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "POV: You’re Building a $1 Billion Company",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T00:12:31.463478",
-      "status": "reject",
-      "reason": "Search result only shows title/author without substantive content; no specific strategies, frameworks, or actionable insights provided to evaluate business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Top 9 AI Trends I'm Betting My Bank Account On in 2026",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Search query alone without actual content, advice, or insights provided—cannot evaluate substance or actionability",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Manage ADHD Without Medication",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-03T15:33:34.560711",
+      "status": "reject",
+      "reason": "Contains only a search query for Dan Martell without any actual business content, strategies, or insights to extract or learn from.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mind",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-03T15:33:35.752476",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, article, or insights provided—cannot assess business value without the material itself.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Body",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-03T15:33:37.126581",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Dan Martell provides no actionable intelligence or specific business strategy to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Time",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-03T15:33:38.291961",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, article, or insights from Dan Martell provided—cannot evaluate business value without substantive material to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Team",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-03T15:33:39.428779",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Dan Martell cannot provide actionable business intelligence or strategy information.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Turn ADHD Into a Superpower",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-03T15:33:40.820506",
+      "status": "reject",
+      "reason": "Title promises ADHD productivity hack but finding only contains a search query for Dan Martell with no actual content, strategy, or insights provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 507,
+    "scanned": 513,
     "kept": 102,
-    "rejected": 401,
-    "last_scan": "2026-06-03T15:16:50.793823",
+    "rejected": 407,
+    "last_scan": "2026-06-03T15:34:38.474682",
     "platforms": [
       "YouTube",
       "Google",
