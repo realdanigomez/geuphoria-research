@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "Skool",
-      "title": "Fit Pro Alpha ( Premium )",
-      "text": "Search: fitness coaching site:skool.com",
-      "url": "",
-      "time": "2026-04-28T20:52:03.629352",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable competitive intelligence; no data about strategies, offers, positioning, or actual competitor analysis included.",
-      "track": "competitor"
-    },
-    {
-      "source": "Skool",
-      "title": "9Mile Marathon Running School",
-      "text": "Search: fitness coaching site:skool.com",
-      "url": "",
-      "time": "2026-04-28T20:52:04.510957",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a search query with no actual findings, data, or insights about competitor strategies, content, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "Skool",
-      "title": "Hello · Certified Tai Chi Instructors",
-      "text": "Search: fitness coaching site:skool.com",
-      "url": "",
-      "time": "2026-04-28T20:52:06.520734",
-      "status": "reject",
-      "reason": "Generic search result with no specific competitive intelligence about strategies, content approaches, offers, programs, or market positioning of any fitness coaching competitor.",
-      "track": "competitor"
-    },
-    {
-      "source": "Skool",
-      "title": "Community- What a day ❤️ · GOOSIFY 🍎🐛🦋🌈⭐️🩷",
-      "text": "Search: fitness coaching site:skool.com",
-      "url": "",
-      "time": "2026-04-28T20:52:07.469466",
-      "status": "reject",
-      "reason": "Search query syntax with no actual competitive data, findings, or intelligence about fitness coaching business strategies, mentors, or market positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "Skool",
       "title": "What is the most effective way to build (and maintain ...",
       "text": "Search: fitness coaching site:skool.com",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Title suggests general fitness coaching content advice, not specific intelligence about business coaches/mentors who help online fitness coaches build their businesses. Search term \"Brian Mark fitness coaching\" is too broad to confirm this targets fitness business coaches specifically.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Automate Your Fitness Business | Bedros Keuilian | Entrepreneurship",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-06-03T11:32:15.495413",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a prominent fitness business coach who teaches automation strategies to online fitness entrepreneurs; this finding captures his specific positioning on business automation, directly relevant to understanding competitor offerings and strategies in the online fitness coaching space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Market a Fitness Boot Camp to the Affluent",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-06-03T11:32:16.827427",
+      "status": "reject",
+      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategies, offers, or business methods—only a generic article title about marketing boot camps to affluent clients, which is not specific competitor intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Suspend Disbelief",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-06-03T11:32:17.942402",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or intelligence about how Bedros Keuilian helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Categories of Affluent",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-06-03T11:32:19.093154",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, positioning, or methods for helping fitness coaches build their business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 403,
-    "kept": 43,
-    "rejected": 346,
-    "last_scan": "2026-06-03T11:03:05.063137",
+    "scanned": 407,
+    "kept": 44,
+    "rejected": 349,
+    "last_scan": "2026-06-03T11:33:18.814450",
     "platforms": [
       "YouTube",
       "Google",
