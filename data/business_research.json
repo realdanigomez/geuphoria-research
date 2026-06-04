@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Defend Your Downtime",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T06:12:29.407490",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategy details provides no actionable intelligence for business strategy or content creation.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to make progress faster than everyone",
       "text": "Search: \"Alex Hormozi\" site:youtube.com",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "No actual content provided—only a title and search query without substantive business insights, strategies, or specific lessons from Charlie Morgan or others that could inform fitness coaching business strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Problem With High Ticket",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-04T01:33:45.567712",
+      "status": "reject",
+      "reason": "Search result only, no actual content to evaluate for actionable business insights or strategies",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 518,
+    "scanned": 519,
     "kept": 103,
-    "rejected": 411,
-    "last_scan": "2026-06-04T01:04:48.323081",
+    "rejected": 412,
+    "last_scan": "2026-06-04T01:34:48.510607",
     "platforms": [
       "YouTube",
       "Google",
