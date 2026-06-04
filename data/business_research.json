@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Alex Hormozi's Best Content is NOT on YouTube, here's why",
-      "text": "Search: \"Alex Hormozi\" site:youtube.com",
-      "url": "",
-      "time": "2026-05-03T06:13:10.711905",
-      "status": "reject",
-      "reason": "Title claims insight about Hormozi's content strategy but provides no actual findings, data, or actionable intelligence—just a search query with no results shown or analysis provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Skool Games Event Recording Q1 2026 ft. Alex Hormozi + ...",
-      "text": "Search: \"Alex Hormozi\" site:youtube.com",
-      "url": "",
-      "time": "2026-05-03T06:13:11.588180",
-      "status": "reject",
-      "reason": "Search query result without actual content; no specific insights, strategies, or actionable intelligence provided—only a reference to where content might exist.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi's Landing Page Strategy for 2026",
-      "text": "Search: \"Alex Hormozi\" site:youtube.com",
-      "url": "",
-      "time": "2026-05-03T06:13:12.519088",
-      "status": "reject",
-      "reason": "Search query only, no actual content or strategy details provided to evaluate for actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Sell ANYTHING For 10x The Price",
       "text": "Search: \"Alex Hormozi\" site:youtube.com",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Contains no business insights, strategies, or entrepreneurship lessons; merely a personal health management topic that happens to reference Dan Martell in search context but lacks actual business content or his teachings.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Importance Of Quarterly Reviews",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-04T08:04:11.561439",
+      "status": "reject",
+      "reason": "Title mentions quarterly reviews but no actual content provided to evaluate for specific, actionable business intelligence or strategies from Sam Ovens or other business thinkers.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Quarterly Reviews",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-04T08:04:12.606220",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens; no specific business intelligence or actionable lessons present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Do Quarterly Reviews",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-04T08:04:14.722963",
+      "status": "reject",
+      "reason": "Title indicates generic productivity content; no actual content provided to assess Sam Ovens' specific insights on quarterly reviews for business strategy or creator economy applications",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 520,
+    "scanned": 523,
     "kept": 103,
-    "rejected": 413,
-    "last_scan": "2026-06-04T07:35:03.502150",
+    "rejected": 416,
+    "last_scan": "2026-06-04T08:05:10.793127",
     "platforms": [
       "YouTube",
       "Google",
