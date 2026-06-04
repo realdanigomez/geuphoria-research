@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Thoughts on the Market: AI Productivity and Employment Resilience",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-03T10:12:43.271590",
-      "status": "reject",
-      "reason": "Search query without actual content; no demonstrable business insights, strategies, or creator economy lessons present to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Charlie Munger: “EBITDA = Bullsh*t Earnings?”",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker who teaches scalable business systems and founder mindset; \"tiny habits\" content aligns with actionable frameworks applicable to fitness coaching business growth and personal development strategies for creators.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $10M Business with AI (Zero Employees)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-04T14:34:27.284241",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business builder/investor; \"building $10M business with zero employees\" contains directly actionable scaling strategy relevant to creator economy and lean business model lessons applicable to fitness coaching operations.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 527,
-    "kept": 105,
+    "scanned": 528,
+    "kept": 106,
     "rejected": 418,
-    "last_scan": "2026-06-04T14:05:18.782466",
+    "last_scan": "2026-06-04T14:35:24.709050",
     "platforms": [
       "YouTube",
       "Google",
