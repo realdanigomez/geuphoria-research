@@ -1132,26 +1132,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Helping a Personal Trainer Get to $1M/Year",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-28T22:38:24.798412",
-      "status": "keep",
-      "reason": "Contains actionable competitive intelligence on high-revenue business model strategies from a recognized fitness coaching mentor, relevant to understanding scaling tactics and positioning in the online coaching market.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi’s $100M Advice For Online Fitness Coaches",
-      "text": "Search: Alex Hormozi fitness coach",
-      "url": "",
-      "time": "2026-04-29T00:07:55.769708",
-      "status": "keep",
-      "reason": "Contains competitive intelligence on a major figure's positioning, messaging approach, and likely business model/offer structure that directly applies to online fitness coaching market strategy",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "I've Coached 50,000 Men. You All Have The Same Problem.",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -2169,6 +2149,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business builder/investor; \"building $10M business with zero employees\" contains directly actionable scaling strategy relevant to creator economy and lean business model lessons applicable to fitness coaching operations.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Aman scaled a coaching offer from $4k to $130k/mo in 18 months",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-04T18:25:38.013677",
+      "status": "keep",
+      "reason": "Demonstrates proven scaling methodology for high-ticket coaching offers with concrete revenue milestones, directly applicable to fitness coaching business model optimization and pricing strategy development.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2176,14 +2166,14 @@
     "niche_rejected": 197,
     "niche_scanned": 313,
     "comp_kept": 47,
-    "comp_rejected": 354,
-    "comp_scanned": 415,
-    "busi_kept": 106,
+    "comp_rejected": 359,
+    "comp_scanned": 420,
+    "busi_kept": 107,
     "busi_rejected": 419,
-    "busi_scanned": 529,
-    "last_scan": "2026-06-04T17:35:26.567270",
-    "total_kept": 268,
-    "total_rejected": 970,
+    "busi_scanned": 530,
+    "last_scan": "2026-06-04T18:26:42.125177",
+    "total_kept": 269,
+    "total_rejected": 975,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

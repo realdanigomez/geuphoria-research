@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Listen to my call with Sam Ovens. He's...",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-03T10:12:50.519339",
-      "status": "reject",
-      "reason": "Title and search query alone provide no specific, actionable intelligence—actual call content needed to evaluate business insights or strategy lessons.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro: Jonathan sets up the episode and talks about having Sam Ovens as a guest",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait promise without evidence of specific business strategies, entrepreneurship lessons, or actionable intelligence from Hormozi's actual content or methodologies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Aman scaled a coaching offer from $4k to $130k/mo in 18 months",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-04T18:25:38.013677",
+      "status": "keep",
+      "reason": "Demonstrates proven scaling methodology for high-ticket coaching offers with concrete revenue milestones, directly applicable to fitness coaching business model optimization and pricing strategy development.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 529,
-    "kept": 106,
+    "scanned": 530,
+    "kept": 107,
     "rejected": 419,
-    "last_scan": "2026-06-04T17:35:26.562795",
+    "last_scan": "2026-06-04T18:26:42.120373",
     "platforms": [
       "YouTube",
       "Google",
