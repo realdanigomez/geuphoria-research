@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to make progress faster than everyone",
-      "text": "Search: \"Alex Hormozi\" site:youtube.com",
-      "url": "",
-      "time": "2026-05-03T06:13:09.568313",
-      "status": "reject",
-      "reason": "Search query alone without actual content, transcript, or insights - no specific actionable intelligence present to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Alex Hormozi's Best Content is NOT on YouTube, here's why",
       "text": "Search: \"Alex Hormozi\" site:youtube.com",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search result only, no actual content to evaluate for actionable business insights or strategies",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Manage My ADHD Without Medication",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-04T05:04:04.363698",
+      "status": "reject",
+      "reason": "Contains no business insights, strategies, or entrepreneurship lessons; merely a personal health management topic that happens to reference Dan Martell in search context but lacks actual business content or his teachings.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 519,
+    "scanned": 520,
     "kept": 103,
-    "rejected": 412,
-    "last_scan": "2026-06-04T04:34:51.033814",
+    "rejected": 413,
+    "last_scan": "2026-06-04T05:05:02.963550",
     "platforms": [
       "YouTube",
       "Google",
