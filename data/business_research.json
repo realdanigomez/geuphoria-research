@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Sell ANYTHING For 10x The Price",
-      "text": "Search: \"Alex Hormozi\" site:youtube.com",
-      "url": "",
-      "time": "2026-05-03T06:13:13.466404",
-      "status": "reject",
-      "reason": "Search query only, no actual content provided to evaluate for actionable business insights or strategies",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "What Andy Learned from 10 Hours With Alex Hormozi",
-      "text": "Search: \"Alex Hormozi\" site:youtube.com",
-      "url": "",
-      "time": "2026-05-03T06:13:14.421856",
-      "status": "reject",
-      "reason": "Search query without actual content or findings; no specific insights, strategies, or lessons present to evaluate for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Charlie Morgan reveals how he got to $10K a month #charliemorgan",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title indicates generic productivity content; no actual content provided to assess Sam Ovens' specific insights on quarterly reviews for business strategy or creator economy applications",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You'll Find This Video When You Need it Most",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-04T11:04:09.878350",
+      "status": "reject",
+      "reason": "Title is vague clickbait with no specific business insight, strategy, or actionable intelligence provided. Search reference alone doesn't indicate the content contains useful business lessons.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You're in Your 20s or 30s, Here's How to Win (at Anything)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-04T11:04:10.840911",
+      "status": "reject",
+      "reason": "Title is generic self-help clickbait without evidence the content contains Hormozi's specific frameworks or actionable business strategies relevant to fitness coaching business model",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 523,
+    "scanned": 525,
     "kept": 103,
-    "rejected": 416,
-    "last_scan": "2026-06-04T10:35:07.780139",
+    "rejected": 418,
+    "last_scan": "2026-06-04T11:05:13.111773",
     "platforms": [
       "YouTube",
       "Google",
