@@ -1132,6 +1132,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Marketing For Personal Trainers | THIS Is How To Get Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-04T06:31:52.681996",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches seeking sustainable business growth and revenue scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Helping a Personal Trainer Get to $1M/Year",
       "text": "Search: Alex Hormozi fitness coach",
       "url": "",
@@ -2152,17 +2162,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 113,
+    "niche_kept": 114,
     "niche_rejected": 196,
-    "niche_scanned": 310,
+    "niche_scanned": 311,
     "comp_kept": 47,
     "comp_rejected": 354,
     "comp_scanned": 415,
     "busi_kept": 103,
     "busi_rejected": 413,
     "busi_scanned": 520,
-    "last_scan": "2026-06-04T06:05:00.701063",
-    "total_kept": 263,
+    "last_scan": "2026-06-04T06:35:00.316814",
+    "total_kept": 264,
     "total_rejected": 963,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
