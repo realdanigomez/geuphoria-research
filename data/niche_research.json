@@ -2979,13 +2979,23 @@
       "status": "reject",
       "reason": "Addresses general coaching psychology rather than fitness coach-specific pain points like client acquisition, revenue models, systematization, or scaling challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "6 Change Workout Partners",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-04T04:31:51.857348",
+      "status": "reject",
+      "reason": "Generic workout advice unrelated to fitness coach business operations, pain points, or professional challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 309,
+    "scanned": 310,
     "kept": 113,
-    "rejected": 195,
-    "last_scan": "2026-06-04T04:02:44.473934",
+    "rejected": 196,
+    "last_scan": "2026-06-04T04:32:46.055361",
     "platforms": [
       "Reddit",
       "YouTube",
