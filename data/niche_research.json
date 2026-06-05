@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "introduction",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:09:08.255754",
-      "status": "keep",
-      "reason": "Score 1: relevant pain/goal/identity markers",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "why is online training baller 💢🏋️",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:09:08.255768",
-      "status": "keep",
-      "reason": "Score 1: relevant pain/goal/identity markers",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "online training vs in person training 🏋️‍♂️👨‍",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:09:08.255779",
-      "status": "keep",
-      "reason": "Score 1: relevant pain/goal/identity markers",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "marketing",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:09:08.255787",
-      "status": "keep",
-      "reason": "Score 1: relevant pain/goal/identity markers",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "how to become a specialist",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Contains generic lifestyle content without specific insights into business pain points, client acquisition strategies, marketing tactics, systems, or scaling challenges that online fitness coaches face.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Famous Fitness Trainer Sued By Client For No Gains.",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-05T11:25:04.735042",
+      "status": "reject",
+      "reason": "Sensationalized lawsuit story lacks actionable intelligence about fitness coaches' actual business problems, client acquisition strategies, or operational challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Motivate Different Types of Clients As A Personal Trainer",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-05T11:25:06.578441",
+      "status": "reject",
+      "reason": "Addresses client motivation tactics rather than coaches' business problems like acquisition, retention, income, marketing systems, or scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Who Are the Three Types of Clients Based on Their Motivation Levels",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-05T11:25:07.800446",
+      "status": "reject",
+      "reason": "Generic motivational typology lacks specific intelligence on client acquisition strategies, coach pain points, or business/marketing systems that directly impact fitness coaches' income and scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Unmotivated Client",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-05T11:25:08.762743",
+      "status": "reject",
+      "reason": "Generic search term lacks specific insight into coach pain points, struggles, or business challenges; provides no actionable intelligence about their actual problems",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 313,
+    "scanned": 317,
     "kept": 115,
-    "rejected": 197,
-    "last_scan": "2026-06-05T07:53:43.503238",
+    "rejected": 201,
+    "last_scan": "2026-06-05T11:26:08.526651",
     "platforms": [
       "Reddit",
       "YouTube",
