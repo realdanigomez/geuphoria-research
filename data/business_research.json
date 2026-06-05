@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Sam joins the call",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-03T10:12:53.423780",
-      "status": "reject",
-      "reason": "No actual content provided—only a title and search query with no business insights, strategies, or actionable intelligence included.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How long Sam has been off social media",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and founder known for scaling businesses and creator economy insights; content about his AI monetization strategies could directly inform how to leverage AI in fitness coaching business models",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi Answers Your Questions",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-05T17:00:36.679700",
+      "status": "reject",
+      "reason": "Search result page with no substantive content or specific insights visible; lacks actionable business intelligence, strategies, or lessons needed for content creation or business strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 532,
+    "scanned": 533,
     "kept": 108,
-    "rejected": 420,
-    "last_scan": "2026-06-05T14:09:20.525760",
+    "rejected": 421,
+    "last_scan": "2026-06-05T17:01:39.520864",
     "platforms": [
       "YouTube",
       "Google",
