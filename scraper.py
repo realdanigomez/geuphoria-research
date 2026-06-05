@@ -117,6 +117,13 @@ NICHE_IDENTITY = ['i am a coach','as a trainer','my coaching business','online c
     'online trainer','virtual training','remote coaching','certified trainer','nasm','ace',
     'issa','cscs','coaching certification','fitness cert','cpt']
 
+# 2026-06-05: document-the-journey reception signal (Objective v2 / "Teach From the Journey").
+# Surfaces how the niche talks about + responds to build-in-public / journey content.
+JOURNEY_SIGNAL = ['build in public','building in public','document the journey','documenting my journey',
+    'document my journey','founder vlog','behind the scenes','day in the life','no clients yet',
+    'first client','starting from zero','sharing my journey','show the process','what i learned',
+    'posting every day','30 day challenge','100 days']
+
 COMP_STRATEGY = ['vince del monte','bedros keuilian','charlie johnson','brian mark',
     'fitness coach mentor','fitness business coach','online fitness coach program',
     'fitness coach community','fitness coaching mentorship','help fitness coaches',
@@ -146,9 +153,10 @@ def classify_local(title, text, track):
         pain     = sum(1 for w in NICHE_PAIN     if w in combined)
         goal     = sum(1 for w in NICHE_GOALS    if w in combined)
         identity = sum(1 for w in NICHE_IDENTITY if w in combined)
-        score = pain * 2 + goal + identity
+        journey  = sum(1 for w in JOURNEY_SIGNAL if w in combined)
+        score = pain * 2 + goal + identity + journey
         if score >= 2:
-            return 'keep', f'Local score {score}: {pain} pain, {goal} goal, {identity} identity'
+            return 'keep', f'Local score {score}: {pain} pain, {goal} goal, {identity} identity, {journey} journey'
         return 'reject', f'Local score {score}: below threshold'
     elif track == 'competitor':
         strat = sum(1 for w in COMP_STRATEGY if w in combined)

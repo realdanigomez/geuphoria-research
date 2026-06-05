@@ -12,6 +12,8 @@ HARDCODED_CHANNELS = [
     {"name": "Sam Ovens",      "handle": "sam_ovens"},
     {"name": "Dan Martell",    "handle": "danmartell"},
     {"name": "Mark Coles",     "handle": "MarkColesM10"},
+    # 2026-06-05: document-the-journey / personal-brand inspiration (cross-pollination, like Hormozi/Martell)
+    {"name": "Caleb Ralston",  "handle": "CalebRalston"},
 ]
 
 # Keyword searches to surface additional relevant channels
@@ -22,6 +24,10 @@ KEYWORD_SEARCHES = [
     "fitness coach scale 10k month",
     "online coaching client acquisition",
     "personal trainer business systems",
+    # 2026-06-05: journey / build-in-public reception in the niche
+    "fitness coach build in public",
+    "online coach document journey",
+    "fitness coach founder vlog",
 ]
 
 # Outlier detection thresholds
