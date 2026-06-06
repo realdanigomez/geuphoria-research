@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "sales",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:09:08.255822",
-      "status": "keep",
-      "reason": "Score 1: relevant pain/goal/identity markers",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "how much to charge",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses financial struggles of fitness coaches, a core pain point affecting client acquisition capacity, pricing strategy, and business sustainability decisions.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Recap",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-06T17:09:42.937152",
+      "status": "reject",
+      "reason": "Generic title with no specific insights about fitness coaches' actual pain points, struggles, or solutions—lacks actionable detail needed for niche research.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 318,
+    "scanned": 319,
     "kept": 116,
-    "rejected": 201,
-    "last_scan": "2026-06-06T15:52:27.681773",
+    "rejected": 202,
+    "last_scan": "2026-06-06T17:10:45.197803",
     "platforms": [
       "Reddit",
       "YouTube",
