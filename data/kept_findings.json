@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "how much to charge",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:09:08.255831",
-      "status": "keep",
-      "reason": "Score 1: relevant pain/goal/identity markers",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "sales calls",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:09:08.255838",
-      "status": "keep",
-      "reason": "Score 1: relevant pain/goal/identity markers",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Online Fitness Coaches Struggle to Hit $10K-$40K Months (and the 2 Skills That Fix It)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1082,6 +1062,26 @@
     },
     {
       "source": "YouTube",
+      "title": "Why Most Online Fitness Coaches Struggle To Get Clients (And How To Fix It)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-06T20:07:00.492521",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with implied solutions for a primary struggle affecting coach revenue and business viability",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Online Fitness Coaches Struggle To Get Clients (And How To Fix It)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-06T20:07:04.024539",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; title suggests contains solutions to a core business problem affecting their revenue and growth.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "I've Coached 50,000 Men. You All Have The Same Problem.",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -2102,17 +2102,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 116,
+    "niche_kept": 118,
     "niche_rejected": 202,
-    "niche_scanned": 319,
+    "niche_scanned": 321,
     "comp_kept": 47,
     "comp_rejected": 359,
     "comp_scanned": 420,
     "busi_kept": 108,
     "busi_rejected": 427,
     "busi_scanned": 539,
-    "last_scan": "2026-06-06T18:50:18.351863",
-    "total_kept": 271,
+    "last_scan": "2026-06-06T20:10:09.120573",
+    "total_kept": 273,
     "total_rejected": 988,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
