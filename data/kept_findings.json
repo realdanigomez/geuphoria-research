@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Online Fitness Coaches Struggle to Hit $10K-$40K Months (and the 2 Skills That Fix It)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:11.385815",
-      "status": "keep",
-      "reason": "Directly addresses income ceiling problems ($10K-$40K months) and identifies specific skill gaps causing failure—core pain point for scaling fitness coaches and essential for understanding their business obstacles.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to get clients as an online fitness coach using Instagram and Tiktok",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2089,21 +2079,31 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and founder known for scaling businesses and creator economy insights; content about his AI monetization strategies could directly inform how to leverage AI in fitness coaching business models",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I wanted to build wealth from scratch (again), I’d do this",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-08T22:11:26.547346",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker specializing in scaling and wealth-building; this title suggests actionable wealth-building strategies that could inform content on financial independence and entrepreneurship fundamentals for the fitness coaching creator economy.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 118,
-    "niche_rejected": 202,
-    "niche_scanned": 321,
+    "niche_rejected": 203,
+    "niche_scanned": 322,
     "comp_kept": 47,
     "comp_rejected": 359,
     "comp_scanned": 420,
-    "busi_kept": 108,
+    "busi_kept": 109,
     "busi_rejected": 429,
-    "busi_scanned": 541,
-    "last_scan": "2026-06-08T20:13:51.933194",
-    "total_kept": 273,
-    "total_rejected": 990,
+    "busi_scanned": 542,
+    "last_scan": "2026-06-08T22:12:28.027627",
+    "total_kept": 274,
+    "total_rejected": 991,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

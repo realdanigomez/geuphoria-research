@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Online Fitness Coaches Struggle to Hit $10K-$40K Months (and the 2 Skills That Fix It)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:11.385815",
-      "status": "keep",
-      "reason": "Directly addresses income ceiling problems ($10K-$40K months) and identifies specific skill gaps causing failure—core pain point for scaling fitness coaches and essential for understanding their business obstacles.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How Online Fitness Coaches Will Get RICH In 2026 (Full Plan)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; title suggests contains solutions to a core business problem affecting their revenue and growth.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Warm Up Rule",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-08T22:09:13.395039",
+      "status": "reject",
+      "reason": "Contains generic fitness content about warm-up exercises; does not address online fitness coaches' business problems, pain points, or operational challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 321,
+    "scanned": 322,
     "kept": 118,
-    "rejected": 202,
-    "last_scan": "2026-06-08T20:11:40.854814",
+    "rejected": 203,
+    "last_scan": "2026-06-08T22:10:12.400091",
     "platforms": [
       "Reddit",
       "YouTube",
