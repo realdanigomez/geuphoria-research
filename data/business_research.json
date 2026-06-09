@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Cancel Your Morning Alarm",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T17:12:55.527154",
-      "status": "reject",
-      "reason": "Title alone lacks specific business insight; search query indicates content not yet reviewed for actual business strategy, entrepreneurship lessons, or actionable intelligence from the mentioned influencer.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Upgrade Your TV to a Library",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T17:12:56.787646",
-      "status": "reject",
-      "reason": "The finding is just a title and search term with no actual content, insights, or substantive information about Dan Martell's business strategies or lessons that could inform fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Turn Off All Notifications",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T17:12:57.754890",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provides no actionable intelligence or business lessons to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Hack Your Algorithm",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T17:12:58.683602",
-      "status": "reject",
-      "reason": "Search query alone provides no actual content, insights, or strategies to extract—just a name reference with no accompanying information or teaching.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Enjoy the Life You Have",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-04T03:13:05.849077",
-      "status": "reject",
-      "reason": "Search result contains only a title with no actual content, strategy, or insights from Alex Hormozi to extract actionable business intelligence from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Brutally Honest Truths That Give You an Unfair Advantage in Life",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Title promises psychology insights but finding only shows a search query for Dan Martell with no actual content, strategies, or specific intelligence provided to evaluate.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi - Peace Or Power | Ep. 158 PART 1",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-09T20:56:23.401596",
+      "status": "keep",
+      "reason": "Alex Hormozi content on decision-making framework (Peace vs Power) offers actionable business strategy applicable to coaching business positioning, pricing, and growth decisions",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Everyone Respects Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-09T20:56:24.658386",
+      "status": "reject",
+      "reason": "Contains only a vague title with no actual content, insights, or actionable business intelligence provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Peace, Purpose \\u0026 “Why Bother?”",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-09T20:56:25.627286",
+      "status": "reject",
+      "reason": "Title and text provide no actual content to evaluate; appears to be a search query rather than a substantive article or insight with actionable business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "George Challenges Alex’s Sacrifice",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-09T20:56:27.040065",
+      "status": "reject",
+      "reason": "No specific business insights, strategies, or actionable intelligence provided—appears to be a vague reference to a personal disagreement rather than substantive business content from Alex Hormozi",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Control, Standards \\u0026 Letting Go",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-09T20:56:28.058714",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate specific business insights; would need to verify actual content contains actionable Hormozi strategies or business lessons before classifying as valuable",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 543,
-    "kept": 109,
-    "rejected": 430,
-    "last_scan": "2026-06-09T18:35:18.129299",
+    "scanned": 548,
+    "kept": 110,
+    "rejected": 434,
+    "last_scan": "2026-06-09T20:57:30.284957",
     "platforms": [
       "YouTube",
       "Google",
