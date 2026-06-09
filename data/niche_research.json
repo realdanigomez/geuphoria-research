@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Online Fitness Coaches Will Get RICH In 2026 (Full Plan)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:12.892127",
-      "status": "reject",
-      "reason": "Title is clickbait speculation about future wealth with no evidence the content addresses actual pain points; search query suggests surface-level struggle content rather than deep diagnostic insights into specific coach problems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "introduction",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:14.007248",
-      "status": "reject",
-      "reason": "Too vague and generic; \"introduction\" with a search query provides no actual data, insights, or findings about fitness coaches' specific pain points, struggles, or solutions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "why is online training baller 💢🏋️",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:14.895938",
-      "status": "reject",
-      "reason": "Generic motivational content with no specific pain points, data, or actionable intelligence about fitness coach struggles",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "online training vs in person training 🏋️‍♂️👨‍",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:15.817123",
-      "status": "reject",
-      "reason": "Generic comparison topic lacks specificity about coaches' actual pain points, struggles, or actionable business intelligence for scaling/client acquisition/systems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "marketing",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Contains generic fitness content about warm-up exercises; does not address online fitness coaches' business problems, pain points, or operational challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Welcome \\u0026 Intro",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-09T10:32:42.717132",
+      "status": "reject",
+      "reason": "Generic intro/welcome content with no specific data, insights, or actionable intelligence about fitness coach pain points—search term alone doesn't constitute a finding.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Meet Carl Hardwick",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-09T10:32:43.693853",
+      "status": "reject",
+      "reason": "Generic profile piece without specific pain points, struggles, or actionable insights about fitness coaching business challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why This Masterclass",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-09T10:32:44.750835",
+      "status": "reject",
+      "reason": "Generic masterclass landing page lacks specific insights into actual pain points, struggles, or solutions relevant to online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pillar 1: Positioning",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-09T10:32:45.842528",
+      "status": "reject",
+      "reason": "Generic positioning advice without specific data about fitness coaches' actual struggles, pain points, or actionable strategies to address them.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 322,
+    "scanned": 326,
     "kept": 118,
-    "rejected": 203,
-    "last_scan": "2026-06-09T06:48:35.317732",
+    "rejected": 207,
+    "last_scan": "2026-06-09T10:33:48.842154",
     "platforms": [
       "Reddit",
       "YouTube",
