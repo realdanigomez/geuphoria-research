@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "13 Hacks to be 99.9% More Disciplined That Cost Nothing",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-03T17:12:54.353247",
-      "status": "reject",
-      "reason": "Title promises discipline hacks but no actual content provided to evaluate for specific business strategy, entrepreneurship lessons, or creator economy insights relevant to fitness coaching business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Cancel Your Morning Alarm",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker specializing in scaling and wealth-building; this title suggests actionable wealth-building strategies that could inform content on financial independence and entrepreneurship fundamentals for the fitness coaching creator economy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Multi-Millionaire CEO Explains: The Psychology of Making Money",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-09T16:31:30.089967",
+      "status": "reject",
+      "reason": "Title promises psychology insights but finding only shows a search query for Dan Martell with no actual content, strategies, or specific intelligence provided to evaluate.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 542,
+    "scanned": 543,
     "kept": 109,
-    "rejected": 429,
-    "last_scan": "2026-06-09T13:45:43.345261",
+    "rejected": 430,
+    "last_scan": "2026-06-09T16:32:27.804817",
     "platforms": [
       "YouTube",
       "Google",
