@@ -1072,6 +1072,16 @@
     },
     {
       "source": "YouTube",
+      "title": "The 3 B’s of Avoiding PT Burnout: What’s Actually Worked for Me",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-10T15:27:06.448230",
+      "status": "keep",
+      "reason": "Directly addresses burnout—a core pain point for online fitness coaches—and promises specific strategies (\"3 B's\") that could reveal actionable tactics for preventing burnout and improving sustainability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "I've Coached 50,000 Men. You All Have The Same Problem.",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -2102,17 +2112,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 118,
+    "niche_kept": 119,
     "niche_rejected": 207,
-    "niche_scanned": 326,
+    "niche_scanned": 327,
     "comp_kept": 47,
     "comp_rejected": 359,
     "comp_scanned": 420,
     "busi_kept": 110,
     "busi_rejected": 435,
     "busi_scanned": 549,
-    "last_scan": "2026-06-10T11:39:44.483097",
-    "total_kept": 275,
+    "last_scan": "2026-06-10T15:30:07.200189",
+    "total_kept": 276,
     "total_rejected": 1001,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

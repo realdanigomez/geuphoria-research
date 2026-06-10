@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "marketing",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:16.806216",
-      "status": "reject",
-      "reason": "Too vague and generic. \"Marketing\" with only a search term provides no specific pain point, data, or actionable intelligence about what fitness coaches actually struggle with in their marketing efforts.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "how to become a specialist",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic positioning advice without specific data about fitness coaches' actual struggles, pain points, or actionable strategies to address them.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 3 B’s of Avoiding PT Burnout: What’s Actually Worked for Me",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-10T15:27:06.448230",
+      "status": "keep",
+      "reason": "Directly addresses burnout—a core pain point for online fitness coaches—and promises specific strategies (\"3 B's\") that could reveal actionable tactics for preventing burnout and improving sustainability.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 326,
-    "kept": 118,
+    "scanned": 327,
+    "kept": 119,
     "rejected": 207,
-    "last_scan": "2026-06-10T11:37:38.813418",
+    "last_scan": "2026-06-10T15:28:00.962829",
     "platforms": [
       "Reddit",
       "YouTube",
