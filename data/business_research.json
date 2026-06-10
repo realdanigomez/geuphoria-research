@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Brutally Honest Truths That Give You an Unfair Advantage in Life",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-04T05:43:10.152033",
-      "status": "reject",
-      "reason": "Title is generic self-help clickbait; no specific business strategies, frameworks, or actionable insights provided in the excerpt. Merely referencing Alex Hormozi's name without substantive content doesn't constitute useful business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$100M CEO Explains: How to Get Ahead of 99% of People with AI",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title alone doesn't indicate specific business insights; would need to verify actual content contains actionable Hormozi strategies or business lessons before classifying as valuable",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build Serious Wealth by Thinking Like the Top 1%",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-10T07:54:27.151971",
+      "status": "reject",
+      "reason": "Title is generic wealth advice clickbait; finding only indicates a search query for Dan Martell without actual content, strategies, or insights to extract for fitness coaching business strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 548,
+    "scanned": 549,
     "kept": 110,
-    "rejected": 434,
-    "last_scan": "2026-06-10T03:30:09.389045",
+    "rejected": 435,
+    "last_scan": "2026-06-10T07:55:24.196017",
     "platforms": [
       "YouTube",
       "Google",
