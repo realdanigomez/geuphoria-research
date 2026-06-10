@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "source": "YouTube",
-      "title": "$100M CEO Explains: How to Get Ahead of 99% of People with AI",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T07:43:17.711332",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business figure whose insights on AI competitive advantage could provide actionable strategies for scaling a fitness coaching business and staying ahead in the creator economy.",
-      "track": "business"
-    },
-    {
       "source": "Google",
       "title": "Guide to the Best AI Tools for Small Businesses in 2026",
       "text": "Search: AI tools entrepreneurs 2026",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is generic wealth advice clickbait; finding only indicates a search query for Dan Martell without actual content, strategies, or insights to extract for fitness coaching business strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "4 Ways To Know Who To Trust",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-10T21:07:55.657127",
+      "status": "reject",
+      "reason": "Title is generic advice without specific content visible; search-only reference to Hormozi without demonstrated business strategy, tactics, or actionable intelligence for fitness coaching business model.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 549,
+    "scanned": 550,
     "kept": 110,
-    "rejected": 435,
-    "last_scan": "2026-06-10T18:16:37.167865",
+    "rejected": 436,
+    "last_scan": "2026-06-10T21:08:58.055239",
     "platforms": [
       "YouTube",
       "Google",
