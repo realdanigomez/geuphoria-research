@@ -2089,6 +2089,16 @@
       "status": "keep",
       "reason": "Alex Hormozi content on decision-making framework (Peace vs Power) offers actionable business strategy applicable to coaching business positioning, pricing, and growth decisions",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Otavio Went From $10K/mo to $270k/mo by 21 years old (Coaching Offer)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-11T18:34:23.125228",
+      "status": "keep",
+      "reason": "Demonstrates scaling strategy from $10K to $270K MRR through coaching offers—direct case study applicable to fitness coaching business model, pricing strategy, and offer architecture lessons",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2098,11 +2108,11 @@
     "comp_kept": 47,
     "comp_rejected": 359,
     "comp_scanned": 420,
-    "busi_kept": 110,
+    "busi_kept": 111,
     "busi_rejected": 437,
-    "busi_scanned": 551,
-    "last_scan": "2026-06-11T15:06:01.733555",
-    "total_kept": 276,
+    "busi_scanned": 552,
+    "last_scan": "2026-06-11T18:35:23.455739",
+    "total_kept": 277,
     "total_rejected": 1003,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
