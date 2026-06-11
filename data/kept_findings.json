@@ -1402,16 +1402,6 @@
     },
     {
       "source": "Google",
-      "title": "Guide to the Best AI Tools for Small Businesses in 2026",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:31.343848",
-      "status": "keep",
-      "reason": "Provides current AI tool recommendations and entrepreneurial applications that could inform content strategy for scaling a fitness coaching business, including operational efficiency and content creation opportunities.",
-      "track": "business"
-    },
-    {
-      "source": "Google",
       "title": "How I'd Start a Business From Zero in 2026 Using AI Faster ...",
       "text": "Search: AI tools entrepreneurs 2026",
       "url": "",
@@ -2109,11 +2099,11 @@
     "comp_rejected": 359,
     "comp_scanned": 420,
     "busi_kept": 110,
-    "busi_rejected": 436,
-    "busi_scanned": 550,
-    "last_scan": "2026-06-11T11:26:20.779811",
+    "busi_rejected": 437,
+    "busi_scanned": 551,
+    "last_scan": "2026-06-11T15:06:01.733555",
     "total_kept": 276,
-    "total_rejected": 1002,
+    "total_rejected": 1003,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Google",
-      "title": "Guide to the Best AI Tools for Small Businesses in 2026",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:31.343848",
-      "status": "keep",
-      "reason": "Provides current AI tool recommendations and entrepreneurial applications that could inform content strategy for scaling a fitness coaching business, including operational efficiency and content creation opportunities.",
-      "track": "business"
-    },
-    {
-      "source": "Google",
       "title": "The Only 20 Ways to Make Money with AI in 2026",
       "text": "Search: AI tools entrepreneurs 2026",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is generic advice without specific content visible; search-only reference to Hormozi without demonstrated business strategy, tactics, or actionable intelligence for fitness coaching business model.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Only GUARANTEED Way to Win with AI in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-11T15:05:04.014292",
+      "status": "reject",
+      "reason": "Title promises guaranteed AI success but search result shows only a name with no actual content, strategies, or actionable insights provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 550,
+    "scanned": 551,
     "kept": 110,
-    "rejected": 436,
-    "last_scan": "2026-06-11T11:26:20.775608",
+    "rejected": 437,
+    "last_scan": "2026-06-11T15:06:01.729853",
     "platforms": [
       "YouTube",
       "Google",
