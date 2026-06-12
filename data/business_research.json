@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Stop automating tasks yourself",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T15:22:34.832271",
-      "status": "keep",
-      "reason": "Dan Martell is a recognized business strategist and founder known for delegation and scaling frameworks; \"Stop automating tasks yourself\" directly addresses a core business principle (outsourcing vs. internal automation) relevant to fitness coaching business operations and scaling.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to make money as a teenager",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, article, or insights provided - cannot evaluate business value without substantive material to analyze",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Otavio Zerbini Went From $10K/mo to $270k/mo by 21 years old (Coaching Offer)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-12T14:13:59.386435",
+      "status": "keep",
+      "reason": "Demonstrates scaling strategy from $10K to $270K MRR in coaching business - specific revenue milestones and age context provide actionable benchmarks for coaching offer optimization and growth tactics relevant to fitness coaching monetization.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 561,
-    "kept": 113,
+    "scanned": 562,
+    "kept": 114,
     "rejected": 444,
-    "last_scan": "2026-06-12T11:02:16.663449",
+    "last_scan": "2026-06-12T14:14:59.144542",
     "platforms": [
       "YouTube",
       "Google",
