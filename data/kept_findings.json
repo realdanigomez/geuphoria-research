@@ -2079,6 +2079,16 @@
       "status": "keep",
       "reason": "Demonstrates scaling strategy from $10K to $270K MRR in coaching business - specific revenue milestones and age context provide actionable benchmarks for coaching offer optimization and growth tactics relevant to fitness coaching monetization.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "4 Ways To Know Who To Trust (Before It's Too Late)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-12T17:22:43.663502",
+      "status": "keep",
+      "reason": "Alex Hormozi trust-vetting framework likely contains actionable criteria for evaluating coaches, partners, and vendors—directly applicable to scaling a fitness coaching business and protecting against bad partnerships.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2088,11 +2098,11 @@
     "comp_kept": 47,
     "comp_rejected": 359,
     "comp_scanned": 420,
-    "busi_kept": 114,
+    "busi_kept": 115,
     "busi_rejected": 444,
-    "busi_scanned": 562,
-    "last_scan": "2026-06-12T14:14:59.149150",
-    "total_kept": 280,
+    "busi_scanned": 563,
+    "last_scan": "2026-06-12T17:23:46.075092",
+    "total_kept": 281,
     "total_rejected": 1010,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
