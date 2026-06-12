@@ -1401,36 +1401,6 @@
       "track": "competitor"
     },
     {
-      "source": "Google",
-      "title": "How to Use AI to Build and Validate a Startup Idea in 2026",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:34.921618",
-      "status": "keep",
-      "reason": "Provides actionable AI tools and validation frameworks for entrepreneurs to test startup viability, directly applicable to building fitness coaching products and validating market fit before scaling.",
-      "track": "business"
-    },
-    {
-      "source": "Google",
-      "title": "AI TOOLS TIER LIST (2026) | Dan Martell",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:36.846476",
-      "status": "keep",
-      "reason": "Dan Martell's AI tools tier list provides actionable intelligence on which tools entrepreneurs should prioritize in 2026, directly applicable to optimizing fitness coaching business operations, client delivery systems, and content creation workflows.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Give me 14 minutes, and I’ll Make You Annoyingly Consistent",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T15:22:31.582485",
-      "status": "keep",
-      "reason": "Dan Martell content on consistency directly applies to building habit-based fitness coaching programs and creating systematic client retention strategies that drive recurring revenue",
-      "track": "business"
-    },
-    {
       "source": "YouTube",
       "title": "Stop automating tasks yourself",
       "text": "Search: Dan Martell",
@@ -2099,6 +2069,16 @@
       "status": "keep",
       "reason": "Dan Martell content on AI competitive advantage provides actionable insights for positioning a fitness coaching business in the creator economy and leveraging AI for content differentiation.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "A Recipe For Domination: Long Term Thinking, Moats And Asymmetric Warfare",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:12.436870",
+      "status": "keep",
+      "reason": "Contains strategic business frameworks from influential entrepreneur Sam Ovens on competitive advantage (moats), long-term positioning, and asymmetric tactics—directly applicable to fitness coaching business strategy and content differentiation.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2108,12 +2088,12 @@
     "comp_kept": 47,
     "comp_rejected": 359,
     "comp_scanned": 420,
-    "busi_kept": 112,
-    "busi_rejected": 437,
-    "busi_scanned": 553,
-    "last_scan": "2026-06-12T06:41:49.021672",
-    "total_kept": 278,
-    "total_rejected": 1003,
+    "busi_kept": 113,
+    "busi_rejected": 444,
+    "busi_scanned": 561,
+    "last_scan": "2026-06-12T11:02:16.667873",
+    "total_kept": 279,
+    "total_rejected": 1010,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

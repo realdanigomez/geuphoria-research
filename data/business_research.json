@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "source": "Google",
-      "title": "How to Use AI to Build and Validate a Startup Idea in 2026",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:34.921618",
-      "status": "keep",
-      "reason": "Provides actionable AI tools and validation frameworks for entrepreneurs to test startup viability, directly applicable to building fitness coaching products and validating market fit before scaling.",
-      "track": "business"
-    },
-    {
-      "source": "Google",
-      "title": "I tried 70+ best AI tools in 2026",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:35.764374",
-      "status": "reject",
-      "reason": "Generic listicle without specific insights, strategies, or actionable intelligence for fitness coaching business model or creator economy",
-      "track": "business"
-    },
-    {
-      "source": "Google",
-      "title": "AI TOOLS TIER LIST (2026) | Dan Martell",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:36.846476",
-      "status": "keep",
-      "reason": "Dan Martell's AI tools tier list provides actionable intelligence on which tools entrepreneurs should prioritize in 2026, directly applicable to optimizing fitness coaching business operations, client delivery systems, and content creation workflows.",
-      "track": "business"
-    },
-    {
-      "source": "Google",
-      "title": "How To Use AI in 2026: AI Tools Explained for Beginners",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:37.767553",
-      "status": "reject",
-      "reason": "Generic overview of AI tools lacks specific business application, strategy, or entrepreneurial lessons relevant to fitness coaching or creator economy",
-      "track": "business"
-    },
-    {
-      "source": "Google",
-      "title": "How I'd Turn a Side Hustle Into a 7-Figure Business in 12 ...",
-      "text": "Search: AI tools entrepreneurs 2026",
-      "url": "",
-      "time": "2026-05-04T12:13:38.967233",
-      "status": "reject",
-      "reason": "Title promises 7-figure framework but no actual content provided to evaluate; search query alone doesn't demonstrate specific actionable strategies or insights applicable to fitness coaching business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Give me 14 minutes, and I’ll Make You Annoyingly Consistent",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T15:22:31.582485",
-      "status": "keep",
-      "reason": "Dan Martell content on consistency directly applies to building habit-based fitness coaching programs and creating systematic client retention strategies that drive recurring revenue",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "ADHD should be the reason you win",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T15:22:32.726949",
-      "status": "reject",
-      "reason": "Title alone lacks specific actionable intelligence; Dan Martell search result without actual content details, insights, or strategies provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop waiting on luck",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T15:22:33.719095",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or substantive material to extract actionable business strategy or lessons",
-      "track": "business"
-    },
-    {
       "source": "YouTube",
       "title": "Stop automating tasks yourself",
       "text": "Search: Dan Martell",
@@ -2999,13 +2919,93 @@
       "status": "keep",
       "reason": "Dan Martell content on AI competitive advantage provides actionable insights for positioning a fitness coaching business in the creator economy and leveraging AI for content differentiation.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "A Recipe For Domination: Long Term Thinking, Moats And Asymmetric Warfare",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:12.436870",
+      "status": "keep",
+      "reason": "Contains strategic business frameworks from influential entrepreneur Sam Ovens on competitive advantage (moats), long-term positioning, and asymmetric tactics—directly applicable to fitness coaching business strategy and content differentiation.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Having a Moat",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:13.928142",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies about moats—no actionable intelligence to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Create a Funnel Creator System",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:15.948430",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided; no specific actionable intelligence to extract or apply to fitness coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Create a Brand",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:17.387900",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategy from Sam Ovens—no actionable intelligence to extract for business strategy or content ideas.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a Team",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:18.444238",
+      "status": "reject",
+      "reason": "Search result is a generic title with no specific content, strategies, or actionable intelligence provided to evaluate business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Competitive Advantage",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:19.508672",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens—no specific business intelligence to extract or apply",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Multi-Channel Attribution",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:20.643116",
+      "status": "reject",
+      "reason": "Search query alone without substantive content about attribution models, strategies, or insights. No actionable intelligence or specific business lessons present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Asymmetric Warfare",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-06-12T11:01:21.811134",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights provided - cannot evaluate business value without substantive material to analyze",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 553,
-    "kept": 112,
-    "rejected": 437,
-    "last_scan": "2026-06-12T06:41:49.017348",
+    "scanned": 561,
+    "kept": 113,
+    "rejected": 444,
+    "last_scan": "2026-06-12T11:02:16.663449",
     "platforms": [
       "YouTube",
       "Google",
