@@ -1082,6 +1082,16 @@
     },
     {
       "source": "YouTube",
+      "title": "The DM Mistake That Cost Me Hundreds of Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-12T21:14:13.418765",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point through DM strategy failures—reveals specific messaging mistakes online fitness coaches make when prospecting, highly relevant to scaling client base.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "I've Coached 50,000 Men. You All Have The Same Problem.",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -2092,17 +2102,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 119,
+    "niche_kept": 120,
     "niche_rejected": 207,
-    "niche_scanned": 327,
+    "niche_scanned": 328,
     "comp_kept": 47,
     "comp_rejected": 359,
     "comp_scanned": 420,
     "busi_kept": 115,
     "busi_rejected": 444,
     "busi_scanned": 563,
-    "last_scan": "2026-06-12T19:31:39.694577",
-    "total_kept": 281,
+    "last_scan": "2026-06-12T21:17:22.199564",
+    "total_kept": 282,
     "total_rejected": 1010,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "how to become a specialist",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:17.854025",
-      "status": "reject",
-      "reason": "Generic career advice about specialization without specific context to online fitness coaches' actual struggles, pain points, or how specialization solves their particular business problems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "sales",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses burnout—a core pain point for online fitness coaches—and promises specific strategies (\"3 B's\") that could reveal actionable tactics for preventing burnout and improving sustainability.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The DM Mistake That Cost Me Hundreds of Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-12T21:14:13.418765",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point through DM strategy failures—reveals specific messaging mistakes online fitness coaches make when prospecting, highly relevant to scaling client base.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 327,
-    "kept": 119,
+    "scanned": 328,
+    "kept": 120,
     "rejected": 207,
-    "last_scan": "2026-06-12T19:29:31.685894",
+    "last_scan": "2026-06-12T21:15:16.036186",
     "platforms": [
       "Reddit",
       "YouTube",
