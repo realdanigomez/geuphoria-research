@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "sales",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-04-12T05:36:19.354692",
-      "status": "reject",
-      "reason": "Generic search term with no actual findings, data, or insights about fitness coaches' specific problems, pain points, or solutions—just a search query without content analysis.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to get clients as an online fitness coach using Instagram and Tiktok",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point through DM strategy failures—reveals specific messaging mistakes online fitness coaches make when prospecting, highly relevant to scaling client base.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How We Closed Over $50M  In Sales With This Exact Script",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-13T00:19:38.118001",
+      "status": "reject",
+      "reason": "The finding is a generic sales script claiming $50M in sales with no fitness industry specificity, target market breakdown, or actionable tactics relevant to online fitness coaches' actual pain points (client acquisition, retention, pricing strategy, platform selection, etc.).",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 328,
+    "scanned": 329,
     "kept": 120,
-    "rejected": 207,
-    "last_scan": "2026-06-12T22:56:52.698183",
+    "rejected": 208,
+    "last_scan": "2026-06-13T00:20:41.276903",
     "platforms": [
       "Reddit",
       "YouTube",
