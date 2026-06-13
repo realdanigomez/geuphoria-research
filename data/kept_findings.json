@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to get clients as an online fitness coach using Instagram and Tiktok",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-04-12T05:36:22.908497",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with specific platform tactics (Instagram/TikTok), which is a primary income driver and struggle for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to get your first 10 clients as an online fitness coach if you don't have a following #onlinefit",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2123,17 +2113,17 @@
   ],
   "stats": {
     "niche_kept": 120,
-    "niche_rejected": 208,
-    "niche_scanned": 329,
+    "niche_rejected": 213,
+    "niche_scanned": 334,
     "comp_kept": 49,
     "comp_rejected": 359,
     "comp_scanned": 422,
     "busi_kept": 115,
     "busi_rejected": 444,
     "busi_scanned": 563,
-    "last_scan": "2026-06-13T08:31:54.903126",
+    "last_scan": "2026-06-13T11:01:25.817541",
     "total_kept": 284,
-    "total_rejected": 1011,
+    "total_rejected": 1016,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
