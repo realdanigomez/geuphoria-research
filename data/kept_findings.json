@@ -1082,6 +1082,26 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Build a Sustainable Coaching Business Without Burnout | Dr. Karolina LaBrecque",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-14T15:24:12.014772",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout and business sustainability—core pain points for scaling fitness coaching businesses, likely contains operational strategies to prevent attrition and maintain profitability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro: The burnout epidemic among coaches \\u0026 trainers",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-14T15:24:13.163857",
+      "status": "keep",
+      "reason": "Directly addresses burnout—a primary pain point for fitness coaches affecting retention, pricing power, and ability to scale their business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "I've Coached 50,000 Men. You All Have The Same Problem.",
       "text": "Search: Charlie Morgan coaching business",
       "url": "",
@@ -2112,17 +2132,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 120,
+    "niche_kept": 122,
     "niche_rejected": 213,
-    "niche_scanned": 334,
+    "niche_scanned": 336,
     "comp_kept": 49,
     "comp_rejected": 359,
     "comp_scanned": 422,
     "busi_kept": 115,
     "busi_rejected": 444,
     "busi_scanned": 563,
-    "last_scan": "2026-06-14T13:15:57.336729",
-    "total_kept": 284,
+    "last_scan": "2026-06-14T15:27:12.868759",
+    "total_kept": 286,
     "total_rejected": 1016,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
