@@ -1442,16 +1442,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How to be more consistent than 99% of people (just copy me)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T15:34:41.637677",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker known for scaling companies and founder mentorship; a content piece on consistency from him offers actionable frameworks applicable to fitness coaching business operations, client retention strategies, and personal brand building.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "D Students make the BEST entrepreneurs",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2139,11 +2129,11 @@
     "comp_rejected": 359,
     "comp_scanned": 422,
     "busi_kept": 115,
-    "busi_rejected": 445,
-    "busi_scanned": 564,
-    "last_scan": "2026-06-14T21:54:05.967548",
+    "busi_rejected": 446,
+    "busi_scanned": 565,
+    "last_scan": "2026-06-14T23:09:16.793982",
     "total_kept": 287,
-    "total_rejected": 1017,
+    "total_rejected": 1018,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
