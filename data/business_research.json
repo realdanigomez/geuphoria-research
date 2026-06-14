@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "D Students will make the best entrepreneurs",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-04T15:22:36.926012",
-      "status": "reject",
-      "reason": "Title alone lacks substance; no actual content provided to evaluate for actionable business insights or entrepreneurship strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to be more consistent than 99% of people (just copy me)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi trust-vetting framework likely contains actionable criteria for evaluating coaches, partners, and vendors—directly applicable to scaling a fitness coaching business and protecting against bad partnerships.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Do You Know If You Can Trust Someone?",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-14T18:11:47.911863",
+      "status": "reject",
+      "reason": "Title suggests generic trust advice; no evidence of specific business strategy, entrepreneurship lessons, or actionable insights from Hormozi's actual business framework or creator economy lessons despite the search tag.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 563,
+    "scanned": 564,
     "kept": 115,
-    "rejected": 444,
-    "last_scan": "2026-06-14T16:57:21.047703",
+    "rejected": 445,
+    "last_scan": "2026-06-14T18:12:50.345640",
     "platforms": [
       "YouTube",
       "Google",
