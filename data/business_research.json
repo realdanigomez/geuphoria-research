@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If you’re ambitious but inconsistent, please watch this",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-05T05:09:32.884325",
-      "status": "reject",
-      "reason": "Title suggests motivational content about consistency rather than specific business insights, strategies, or actionable intelligence for a fitness coaching business",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Don't say these words in business",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Charlie Morgan content on scaling sales teams to $1M/mo provides directly applicable operational strategies for growing a fitness coaching business's revenue and team structure.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I partnered with a $3bn Company To Give Everything Away For FREE",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-16T18:16:30.424836",
+      "status": "keep",
+      "reason": "Charlie Morgan partnership case study demonstrates monetization strategy through free value distribution and brand partnerships—applicable playbook for fitness coaches scaling through strategic alliances and lead generation models.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 567,
-    "kept": 116,
+    "scanned": 568,
+    "kept": 117,
     "rejected": 447,
-    "last_scan": "2026-06-16T13:13:56.723401",
+    "last_scan": "2026-06-16T18:17:30.663345",
     "platforms": [
       "YouTube",
       "Google",
