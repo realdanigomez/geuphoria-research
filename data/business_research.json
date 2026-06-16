@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Don't say these words in business",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-05T06:09:44.764655",
-      "status": "reject",
-      "reason": "Title promises specific language advice but no actual content provided to evaluate; appears to be just a search query without substance or actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "D Students make the BEST entrepreneurs",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Charlie Morgan partnership case study demonstrates monetization strategy through free value distribution and brand partnerships—applicable playbook for fitness coaches scaling through strategic alliances and lead generation models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I partnered with a $3bn Company To Give Everythng I've Built Away",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-16T21:26:48.686407",
+      "status": "keep",
+      "reason": "Charlie Morgan partnership case study likely contains specific strategies on business scaling, partnership mechanics, and value creation lessons applicable to fitness coaching business models and creator economy growth",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 568,
-    "kept": 117,
+    "scanned": 569,
+    "kept": 118,
     "rejected": 447,
-    "last_scan": "2026-06-16T18:17:30.663345",
+    "last_scan": "2026-06-16T21:27:48.921948",
     "platforms": [
       "YouTube",
       "Google",
