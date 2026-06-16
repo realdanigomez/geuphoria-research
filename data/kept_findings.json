@@ -1442,16 +1442,6 @@
     },
     {
       "source": "YouTube",
-      "title": "D Students make the BEST entrepreneurs",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-05T06:09:46.605867",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker and this explores counter-intuitive entrepreneur traits (non-traditional success paths) that could inspire content about unconventional paths to fitness business success or how to identify coachable personalities in your audience.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Give Me 96 Minutes \\u0026 I'll Delete Your Fear of Failure | Dan Martell",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2149,6 +2139,16 @@
       "status": "keep",
       "reason": "Charlie Morgan partnership case study likely contains specific strategies on business scaling, partnership mechanics, and value creation lessons applicable to fitness coaching business models and creator economy growth",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I partnered with a $3bn Company To Give Everything I've Built Away",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-16T23:04:10.939653",
+      "status": "keep",
+      "reason": "Charlie Morgan partnership case study demonstrates scaling strategy, value exchange dynamics, and business decision-making framework valuable for coaching business growth and creator monetization models",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2158,11 +2158,11 @@
     "comp_kept": 50,
     "comp_rejected": 366,
     "comp_scanned": 430,
-    "busi_kept": 118,
+    "busi_kept": 119,
     "busi_rejected": 447,
-    "busi_scanned": 569,
-    "last_scan": "2026-06-16T21:27:48.926283",
-    "total_kept": 291,
+    "busi_scanned": 570,
+    "last_scan": "2026-06-16T23:05:12.070753",
+    "total_kept": 292,
     "total_rejected": 1026,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
