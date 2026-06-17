@@ -1102,6 +1102,16 @@
     },
     {
       "source": "YouTube",
+      "title": "New Trainer? Here's Exactly How to Get Your First 10 Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-17T21:02:41.275799",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for new online fitness coaches lacking revenue and business foundation",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Bedros Keuilian Fitness Business Expert",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2162,17 +2172,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 123,
+    "niche_kept": 124,
     "niche_rejected": 213,
-    "niche_scanned": 337,
+    "niche_scanned": 338,
     "comp_kept": 50,
     "comp_rejected": 366,
     "comp_scanned": 430,
     "busi_kept": 121,
     "busi_rejected": 452,
     "busi_scanned": 577,
-    "last_scan": "2026-06-17T18:43:17.005454",
-    "total_kept": 294,
+    "last_scan": "2026-06-17T21:05:47.096533",
+    "total_kept": 295,
     "total_rejected": 1031,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
