@@ -1112,6 +1112,26 @@
     },
     {
       "source": "YouTube",
+      "title": "How To Find Your Niche As An Online Fitness Coach In 2026",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-18T09:52:20.920678",
+      "status": "keep",
+      "reason": "Directly addresses niche selection, a foundational problem for coach client acquisition and positioning that impacts all downstream business metrics",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Not sustainable",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-18T09:52:30.129883",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point (burnout) affecting fitness coaches' sustainability, income stability, and ability to scale their business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Bedros Keuilian Fitness Business Expert",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2182,17 +2202,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 124,
+    "niche_kept": 126,
     "niche_rejected": 213,
-    "niche_scanned": 338,
+    "niche_scanned": 340,
     "comp_kept": 51,
     "comp_rejected": 373,
     "comp_scanned": 438,
     "busi_kept": 121,
     "busi_rejected": 452,
     "busi_scanned": 577,
-    "last_scan": "2026-06-18T05:18:27.761651",
-    "total_kept": 296,
+    "last_scan": "2026-06-18T09:55:29.591038",
+    "total_kept": 298,
     "total_rejected": 1038,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
