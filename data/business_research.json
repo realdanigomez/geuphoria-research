@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Give Me 20 Minutes and I’ll Make You Insanely Rich",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-05T12:40:04.144892",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker and entrepreneur known for scaling/exit strategies and founder advice; his content on wealth-building and business growth directly applies to coaching business model development and pricing strategy",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Only 14 Ways to Make Money with AI in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-05T18:35:19.355330",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist in the creator/SaaS space; a piece about AI monetization strategies aligns with emerging creator economy trends and business model innovation relevant to fitness coaching content businesses exploring AI tools and revenue diversification.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "\\",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title promises condensed learning content but lacks specific business strategies, entrepreneurship lessons, or creator economy insights relevant to fitness coaching business operations or content strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Luke SOLD His Marketing Agency For Multi-7 Figures at 22 Years Old",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-18T18:44:14.415804",
+      "status": "keep",
+      "reason": "Features Charlie Morgan (influential business/creator economy figure) discussing agency exit strategy and early-stage entrepreneurship lessons applicable to fitness coaching business model scaling and exit planning.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Investor Explains: How to Invest in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-18T18:44:18.207840",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business figure; content on investment strategies from major investors provides actionable business intelligence and financial decision-making frameworks relevant to scaling fitness coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 578,
-    "kept": 121,
+    "scanned": 580,
+    "kept": 123,
     "rejected": 453,
-    "last_scan": "2026-06-18T16:30:50.126088",
+    "last_scan": "2026-06-18T18:45:15.697540",
     "platforms": [
       "YouTube",
       "Google",

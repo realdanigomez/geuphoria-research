@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Build a $1M Coaching Business | 4 SIMPLE Methods",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-04-12T05:36:42.187586",
-      "status": "keep",
-      "reason": "Directly addresses revenue scaling goals for coaching businesses, which is a primary pain point for fitness coaches seeking to grow beyond 6-figure income and understand business model methods.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Preventing Physical \\u0026 Emotional Burnout As A Trainer",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1152,6 +1142,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How Our Clients (Health + Fitness Coaches) Get More Clients On Instagram",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-18T18:42:06.548807",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (a primary pain point for fitness coaches) with platform-specific tactics on Instagram, which is essential for scaling their business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Bedros Keuilian Fitness Business Expert",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -1499,26 +1499,6 @@
       "status": "keep",
       "reason": "Charlie Johnson is a recognized fitness business coach who teaches online fitness coaches scaling strategies; this search indicates content about business growth tactics relevant to competitive positioning and offer development.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Give Me 20 Minutes and I’ll Make You Insanely Rich",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-05T12:40:04.144892",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker and entrepreneur known for scaling/exit strategies and founder advice; his content on wealth-building and business growth directly applies to coaching business model development and pricing strategy",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Only 14 Ways to Make Money with AI in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-05T18:35:19.355330",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist in the creator/SaaS space; a piece about AI monetization strategies aligns with emerging creator economy trends and business model innovation relevant to fitness coaching content businesses exploring AI tools and revenue diversification.",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2219,20 +2199,40 @@
       "status": "keep",
       "reason": "Alex Hormozi content on wealth-building psychology provides actionable business principles applicable to fitness coaching monetization, pricing strategy, and scaling—core topics for a fitness business operator seeking to understand client value perception and revenue models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Luke SOLD His Marketing Agency For Multi-7 Figures at 22 Years Old",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-18T18:44:14.415804",
+      "status": "keep",
+      "reason": "Features Charlie Morgan (influential business/creator economy figure) discussing agency exit strategy and early-stage entrepreneurship lessons applicable to fitness coaching business model scaling and exit planning.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Investor Explains: How to Invest in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-18T18:44:18.207840",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business figure; content on investment strategies from major investors provides actionable business intelligence and financial decision-making frameworks relevant to scaling fitness coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 128,
+    "niche_kept": 129,
     "niche_rejected": 215,
-    "niche_scanned": 344,
+    "niche_scanned": 345,
     "comp_kept": 51,
     "comp_rejected": 377,
     "comp_scanned": 442,
-    "busi_kept": 121,
+    "busi_kept": 123,
     "busi_rejected": 453,
-    "busi_scanned": 578,
-    "last_scan": "2026-06-18T16:30:50.130455",
-    "total_kept": 300,
+    "busi_scanned": 580,
+    "last_scan": "2026-06-18T18:45:15.701854",
+    "total_kept": 303,
     "total_rejected": 1045,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

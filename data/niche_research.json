@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Build a $1M Coaching Business | 4 SIMPLE Methods",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-04-12T05:36:42.187586",
-      "status": "keep",
-      "reason": "Directly addresses revenue scaling goals for coaching businesses, which is a primary pain point for fitness coaches seeking to grow beyond 6-figure income and understand business model methods.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Preventing Physical \\u0026 Emotional Burnout As A Trainer",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Anecdotal lifestyle story lacks specific insight into fitness coaches' actual pain points, struggles, or business mechanics; no actionable intelligence about client acquisition, scaling, marketing systems, or income generation.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Our Clients (Health + Fitness Coaches) Get More Clients On Instagram",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-06-18T18:42:06.548807",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (a primary pain point for fitness coaches) with platform-specific tactics on Instagram, which is essential for scaling their business.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 344,
-    "kept": 128,
+    "scanned": 345,
+    "kept": 129,
     "rejected": 215,
-    "last_scan": "2026-06-18T16:28:43.259939",
+    "last_scan": "2026-06-18T18:43:06.401993",
     "platforms": [
       "Reddit",
       "YouTube",
