@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Light Or Heavy Weights for Building Muscle Mass Fast? Vince Del Monte's \\",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T00:10:28.217899",
-      "status": "reject",
-      "reason": "This is generic fitness content about weight selection for muscle building, not intelligence about business strategies, offers, or positioning for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Full Body Workout #6 for Skinny Guys to Build Muscle",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T00:10:29.672308",
-      "status": "reject",
-      "reason": "This is a generic workout program for skinny guys, not intelligence about business coaches or programs that help online fitness coaches build their businesses. Vince Del Monte is only mentioned in the search query, not analyzed as a competitor or business mentor.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Breathing Back Squats | 1 set of 20 reps | Tempo 30X0",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T00:10:30.874563",
-      "status": "reject",
-      "reason": "Contains only a generic exercise tutorial with a search query; no actionable business intelligence about fitness coaching strategies, positioning, offers, or business-building tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Decline EZ Bar Curl Pullover | 3 sets of 11-14 reps | Tempo 4110 | Rest 60 sec",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T00:10:31.849560",
-      "status": "reject",
-      "reason": "This is a workout exercise demonstration, not competitive intelligence about fitness business coaches or their strategies for building online coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Bedros Keuilian Fitness Business Expert",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-01T00:10:35.798432",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a recognized fitness business coach who teaches online fitness coaches business strategy, offers, and positioning - directly matches the target competitor track criteria.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "BEDROS KEUILIAN Gym Sales/Marketing Expert",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-01T00:10:36.898507",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a direct competitor offering gym sales/marketing expertise; tracking his positioning and strategies is valuable for understanding the competitive landscape in fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "ERINN Assistant Manager",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-01T00:10:37.949355",
-      "status": "reject",
-      "reason": "Finding contains only a job title and search query with no actual content, data, or intelligence about Bedros Keuilian's strategy, offers, positioning, or business approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "FRANK SHAMROCK Gym Expert",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-01T00:10:39.167974",
-      "status": "reject",
-      "reason": "Finding only mentions Bedros Keuilian's name in a search query without providing any actual intelligence about his strategy, offers, positioning, or business model for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Create A Six Figure Fitness Business",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Finding contains only a search query without any actual content, strategy, offers, or positioning information about Vince Del Monte or fitness business coaching.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lean Muscle Building Diet (IF YOU’RE MORE THAN 12% BODY FAT!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:17:59.411860",
+      "status": "reject",
+      "reason": "Contains general diet content for fitness clients, not business intelligence about coaching programs, strategies, or positioning for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "2500 Calorie Shred Meal Plan",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:18:00.320343",
+      "status": "reject",
+      "reason": "This is a generic meal plan article, not intelligence about fitness business coaches or their strategies for building online coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Customize Your Macros to Your Training Day",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:18:01.817624",
+      "status": "reject",
+      "reason": "Contains only a generic macro customization article title with a search query name; lacks specific intelligence about business strategy, offers, positioning, or programs targeting fitness coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keep Nutrition Simple",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:18:03.018358",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about business strategies, offers, positioning, or coaching methodologies - just confirms Vince Del Monte exists as a search result without substantive competitive data.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Protein",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:18:03.979648",
+      "status": "reject",
+      "reason": "Search term alone without actual content, strategy, or business intelligence about how Vince Del Monte helps online fitness coaches build their business",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fat-Free Cottage Cheese",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:18:04.928290",
+      "status": "reject",
+      "reason": "Search result about cottage cheese nutrition is unrelated to fitness business coaching intelligence, despite mentioning Vince Del Monte in the search query.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Macros on Training Days",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:18:06.145195",
+      "status": "reject",
+      "reason": "This is a nutrition/training content piece, not business intelligence about fitness coaching coaches or their strategies for building online coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Eat Foods That You Enjoy",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-18T23:18:07.264024",
+      "status": "reject",
+      "reason": "This is generic nutrition advice with no business intelligence about coaching systems, strategy, positioning, or business-building tactics for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 442,
+    "scanned": 450,
     "kept": 51,
-    "rejected": 377,
-    "last_scan": "2026-06-18T21:23:39.172500",
+    "rejected": 385,
+    "last_scan": "2026-06-18T23:19:09.644344",
     "platforms": [
       "YouTube",
       "Google",
