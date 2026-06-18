@@ -1132,6 +1132,26 @@
     },
     {
       "source": "YouTube",
+      "title": "More Followers Won't Fix Your Coaching Brand",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-18T16:27:33.039049",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point (follower obsession vs. actual business results) that prevents coaches from building sustainable brands and acquiring quality clients—essential for scaling beyond vanity metrics.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sound familiar? The new coach spiral",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-18T16:27:38.643336",
+      "status": "keep",
+      "reason": "Directly addresses pain points of online fitness coaches (struggling/burnout) and implies systemic issues coaches face repeatedly - valuable for understanding coach struggles and potential scaling/retention problems",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Bedros Keuilian Fitness Business Expert",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2202,18 +2222,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 126,
-    "niche_rejected": 213,
-    "niche_scanned": 340,
+    "niche_kept": 128,
+    "niche_rejected": 215,
+    "niche_scanned": 344,
     "comp_kept": 51,
     "comp_rejected": 377,
     "comp_scanned": 442,
     "busi_kept": 121,
-    "busi_rejected": 452,
-    "busi_scanned": 577,
-    "last_scan": "2026-06-18T12:53:16.807103",
-    "total_kept": 298,
-    "total_rejected": 1042,
+    "busi_rejected": 453,
+    "busi_scanned": 578,
+    "last_scan": "2026-06-18T16:30:50.130455",
+    "total_kept": 300,
+    "total_rejected": 1045,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
