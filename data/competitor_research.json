@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "source": "Facebook",
-      "title": "Coach for 1:1 sessions with excellent results?",
-      "text": "Search: online coach community site:facebook.com",
-      "url": "",
-      "time": "2026-04-29T04:08:58.992577",
-      "status": "reject",
-      "reason": "This is a search query, not a finding. Contains no data about competitor strategies, content, offers, programs, or positioning—only a generic Facebook search instruction.",
-      "track": "competitor"
-    },
-    {
-      "source": "Facebook",
-      "title": "If you were going to hire an online coach",
-      "text": "Search: online coach community site:facebook.com",
-      "url": "",
-      "time": "2026-04-29T04:09:00.028352",
-      "status": "reject",
-      "reason": "This is only a search query syntax example with no actual findings, data, competitor information, strategies, or actionable intelligence about fitness coaching competitors or their approaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "Facebook",
-      "title": "What helped you start as a coach?",
-      "text": "Search: online coach community site:facebook.com",
-      "url": "",
-      "time": "2026-04-29T04:09:01.061593",
-      "status": "reject",
-      "reason": "This is a generic search query with no actual findings, data, or intelligence about competitors, their strategies, offers, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "Facebook",
-      "title": "Online coach for riding fitness recommendations?",
-      "text": "Search: online coach community site:facebook.com",
-      "url": "",
-      "time": "2026-04-29T04:09:01.885725",
-      "status": "reject",
-      "reason": "Generic search query with no actual competitive intelligence, findings, or specific business information about coaches, strategies, content, offers, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Monk Like Discipline: What It Really Takes To Win",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-29T05:08:15.254976",
-      "status": "reject",
-      "reason": "Title is generic motivational content with no specific competitive intelligence about fitness coaching business models, strategies, offers, or market positioning. Search query alone does not indicate the content discusses fitness coaching competitors or their tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Here's what we're going to cover",
-      "text": "Search: Sam Ovens coaching",
-      "url": "",
-      "time": "2026-04-29T05:08:16.458913",
-      "status": "reject",
-      "reason": "No specific competitive intelligence provided; only a generic table of contents header with a search query lacking details on strategies, offers, programs, or market positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to change your life so you can live like your favorite 'guru'",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-29T10:08:21.883779",
-      "status": "reject",
-      "reason": "Finding lacks specific competitive intelligence about coaching strategies, programs, offers, or market positioning; contains only a generic article title without substantive details about business models or audience tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Make Ads That Slap (For Info \\u0026 Agency Offers)",
-      "text": "Search: Charlie Morgan coaching business",
-      "url": "",
-      "time": "2026-04-29T11:08:32.504402",
-      "status": "reject",
-      "reason": "Generic ad copywriting advice not specific to fitness coaching competitors, their strategies, offers, or market positioning",
-      "track": "competitor"
-    },
-    {
       "source": "YouTube",
       "title": "The 5 BEST Fat Burning Exercises FOR MEN! (LOSE WEIGHT FAST!)",
       "text": "Search: Vince Del Monte fitness coach",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Finding is a generic title without specific actionable intelligence about Charlie Johnson's business model, strategy, offers, or positioning for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The #1 Reason Your Fitness Coaching Business Isn't Growing in 2025",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:19.925342",
+      "status": "reject",
+      "reason": "Title indicates general fitness coaching growth challenges, but the finding provides no actual content, strategy details, or business-building intelligence from the competitor analysis—just a search query without results or insights.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction: Why Your Online Fitness Business is Struggling",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:20.973949",
+      "status": "reject",
+      "reason": "Search query alone without actual content about business strategies, offers, or positioning from Charlie Johnson or similar fitness business coaches provides no actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Experience Scaling Fitness Businesses",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:22.058774",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online fitness coaches scaling strategies; this search indicates content about business growth tactics relevant to competitive positioning and offer development.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Crowded Market Dilemma Explained",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:22.939632",
+      "status": "reject",
+      "reason": "Finding is just a search query title with no actual content, strategy details, offers, or competitive intelligence provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Market Sophistication \\u0026 Competition Growth",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:24.061593",
+      "status": "reject",
+      "reason": "No specific intelligence provided about Charlie Johnson's strategy, content, offers, or positioning—only a search query with no actual findings or analysis included.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Rise \\u0026 Fall of Marketing Strategies",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:25.289380",
+      "status": "reject",
+      "reason": "Title discusses general marketing strategies without evidence of specific content about fitness business coaching, Charlie Johnson's methods, or actionable intelligence for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Importance of Resource Allocation",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:26.310206",
+      "status": "reject",
+      "reason": "Search result title is generic and doesn't indicate specific intelligence about Charlie Johnson's business strategies, offers, or positioning for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Balancing Innovation with Proven Strategies",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-18T05:16:27.284146",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Charlie Johnson's strategies, offers, or business methods provides no actionable intelligence about competitor positioning or tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 430,
-    "kept": 50,
-    "rejected": 366,
-    "last_scan": "2026-06-18T00:18:08.815632",
+    "scanned": 438,
+    "kept": 51,
+    "rejected": 373,
+    "last_scan": "2026-06-18T05:17:24.519488",
     "platforms": [
       "YouTube",
       "Google",
