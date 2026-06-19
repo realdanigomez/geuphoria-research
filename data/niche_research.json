@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Preventing Physical \\u0026 Emotional Burnout As A Trainer",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T05:36:45.720562",
-      "status": "keep",
-      "reason": "Directly addresses trainer burnout, a core pain point for online fitness coaches; content likely contains strategies to prevent burnout which impacts client retention, business sustainability, and coach longevity.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "BURNOUT in the GYM: How to Recognize it, Fix it \\u0026 Avoid It!",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition (a primary pain point for fitness coaches) with platform-specific tactics on Instagram, which is essential for scaling their business.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Reinvent the Wheel",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-19T19:45:28.284698",
+      "status": "reject",
+      "reason": "Generic motivational title with no specific data about fitness coach pain points, struggles, or actionable intelligence for the niche",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 345,
+    "scanned": 346,
     "kept": 129,
-    "rejected": 215,
-    "last_scan": "2026-06-19T17:54:33.518369",
+    "rejected": 216,
+    "last_scan": "2026-06-19T19:46:31.639231",
     "platforms": [
       "Reddit",
       "YouTube",
