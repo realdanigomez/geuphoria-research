@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Build a $10M Solo AI Business (Zero Code)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-06T05:35:40.222960",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker who teaches scaling strategies; \"solo AI business\" and \"zero code\" are directly relevant to creator economy trends and entrepreneurship lessons applicable to fitness coaching businesses seeking automation and growth.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Change Your Life",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title alone is vague clickbait without substantive content; requires actual article/video content to assess whether it contains specific Hormozi insights or actionable business lessons",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Top AI Expert: Use THIS Strategy To Get Rich",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-20T12:27:47.563407",
+      "status": "reject",
+      "reason": "Title promises strategy but provides no actual content—only a search term for a known business figure. Without specific insights, frameworks, or actionable advice, this is clickbait lacking substantive business intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 582,
+    "scanned": 583,
     "kept": 124,
-    "rejected": 454,
-    "last_scan": "2026-06-20T10:59:25.173130",
+    "rejected": 455,
+    "last_scan": "2026-06-20T12:28:44.732759",
     "platforms": [
       "YouTube",
       "Google",

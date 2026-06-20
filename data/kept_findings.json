@@ -1472,16 +1472,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How to Build a $10M Solo AI Business (Zero Code)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-06T05:35:40.222960",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker who teaches scaling strategies; \"solo AI business\" and \"zero code\" are directly relevant to creator economy trends and entrepreneurship lessons applicable to fitness coaching businesses seeking automation and growth.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "14 Years of Marketing Advice in 35 Minutes",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2209,11 +2199,11 @@
     "comp_rejected": 385,
     "comp_scanned": 450,
     "busi_kept": 124,
-    "busi_rejected": 454,
-    "busi_scanned": 582,
-    "last_scan": "2026-06-20T10:59:25.177282",
+    "busi_rejected": 455,
+    "busi_scanned": 583,
+    "last_scan": "2026-06-20T12:28:44.736988",
     "total_kept": 304,
-    "total_rejected": 1055,
+    "total_rejected": 1056,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
