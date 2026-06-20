@@ -1482,16 +1482,6 @@
     },
     {
       "source": "YouTube",
-      "title": "14 Years of Marketing Advice in 35 Minutes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-06T06:05:43.048443",
-      "status": "keep",
-      "reason": "Alex Hormozi's condensed marketing advice offers proven frameworks and strategies directly applicable to fitness coaching business model, positioning, and customer acquisition — core needs for scaling a coaching content business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why I Switched From ChatGPT to Claude (without losing anything)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2199,6 +2189,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker in the creator/entrepreneur space; content about AI wealth-building strategies aligns with business strategy and creator economy trends relevant to fitness coaching entrepreneurs",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Luke SOLD His Marketing Agency For MILLIONS at 22 Years Old",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-20T23:45:49.953431",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business figure in the creator economy; agency exit strategies and early-stage founder lessons are directly applicable to scaling fitness coaching businesses and understanding monetization pathways.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2208,11 +2208,11 @@
     "comp_kept": 52,
     "comp_rejected": 387,
     "comp_scanned": 453,
-    "busi_kept": 124,
+    "busi_kept": 125,
     "busi_rejected": 456,
-    "busi_scanned": 584,
-    "last_scan": "2026-06-20T22:06:50.241112",
-    "total_kept": 305,
+    "busi_scanned": 585,
+    "last_scan": "2026-06-20T23:46:53.546569",
+    "total_kept": 306,
     "total_rejected": 1059,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
