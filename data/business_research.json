@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Change Your Life",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-06T06:05:41.825809",
-      "status": "reject",
-      "reason": "Search query alone without actual content from Alex Hormozi; no specific insights, strategies, or actionable intelligence provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "14 Years of Marketing Advice in 35 Minutes",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises strategy but provides no actual content—only a search term for a known business figure. Without specific insights, frameworks, or actionable advice, this is clickbait lacking substantive business intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The NEW Way to Build A Business with Al",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-20T19:23:17.893280",
+      "status": "reject",
+      "reason": "Title promises \"NEW Way\" but provides no specific insights, strategies, or actionable content—only a search reference to Dan Martell without substantive business methodology or lessons included.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 583,
+    "scanned": 584,
     "kept": 124,
-    "rejected": 455,
-    "last_scan": "2026-06-20T17:56:53.085987",
+    "rejected": 456,
+    "last_scan": "2026-06-20T19:24:16.430138",
     "platforms": [
       "YouTube",
       "Google",
