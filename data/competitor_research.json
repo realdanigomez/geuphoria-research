@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Many Personal Training Sessions Do You Need To Sell",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-01T00:10:44.303019",
-      "status": "reject",
-      "reason": "Finding references a business coach (Bedros Keuilian) but contains no actual intelligence about his strategy, content, offers, or positioning—only a generic article title about selling sessions with no substantive details provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I made Nathan Johnson an 88k per month Online Fitness Business.",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T00:10:48.340334",
-      "status": "keep",
-      "reason": "Direct case study of online fitness business scaling strategy from Charlie Johnson (known fitness business coach), demonstrates specific revenue model ($88k/month) and business-building methodology relevant to understanding competitor positioning and offers.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Introduction and background on Nathan Johnson's growth",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title alone doesn't indicate specific business strategy, offer details, or actionable intelligence about how Vince Del Monte helps coaches build their business—just a general statement about certifications.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vince Del Monte's Promise to YOU",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-21T11:32:45.510840",
+      "status": "reject",
+      "reason": "No specific intelligence provided about business strategy, offers, positioning, or coaching methods—only a generic title with a search query lacking substantive competitor details.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tarzan Workout Program To Build Muscle (HOW ALEXANDER SKARSGARD GAINED 25 LBS OF MUSCLE?!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-21T11:32:46.792490",
+      "status": "reject",
+      "reason": "This is a celebrity workout program article; while Vince Del Monte is mentioned in the search query, the content focuses on building muscle through a Tarzan workout routine, not on fitness business coaching strategies or intelligence about coaches who mentor online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 453,
+    "scanned": 455,
     "kept": 52,
-    "rejected": 387,
-    "last_scan": "2026-06-21T08:29:47.663690",
+    "rejected": 389,
+    "last_scan": "2026-06-21T11:33:49.433724",
     "platforms": [
       "YouTube",
       "Google",
