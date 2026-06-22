@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "BURNOUT in the GYM: How to Recognize it, Fix it \\u0026 Avoid It!",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T05:36:46.764152",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout—a core pain point for online fitness coaches—and promises recognition, solutions, and prevention strategies that could inform content on sustainable business practices and client retention.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Mental / Physical Burnout signs",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1142,16 +1132,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How to Start an Online Fitness Business (Full Blueprint)",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-01T00:11:00.243570",
-      "status": "keep",
-      "reason": "Brian Mark is a known fitness business coach who teaches online coaching monetization strategies; searching for his content indicates competitor intelligence on business model positioning and offers targeting fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Sell High Ticket Fitness Coaching Programs",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -1478,6 +1458,16 @@
       "time": "2026-06-22T14:35:23.998923",
       "status": "keep",
       "reason": "Direct intelligence from a fitness business summit featuring Vince Del Monte, a primary competitor in the online fitness coaching business education space, likely containing strategy and positioning insights applicable to the industry.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Types Of Content You Need To Grow Your Fitness Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-06-22T21:31:13.507192",
+      "status": "keep",
+      "reason": "Directly relevant - Charlie Johnson is a named fitness business coach targeting online fitness coaches; content about growing fitness business strategy is core competitive intelligence for the track.",
       "track": "competitor"
     },
     {
@@ -2213,17 +2203,17 @@
   ],
   "stats": {
     "niche_kept": 129,
-    "niche_rejected": 216,
-    "niche_scanned": 346,
-    "comp_kept": 53,
-    "comp_rejected": 389,
-    "comp_scanned": 456,
+    "niche_rejected": 217,
+    "niche_scanned": 347,
+    "comp_kept": 54,
+    "comp_rejected": 396,
+    "comp_scanned": 464,
     "busi_kept": 126,
     "busi_rejected": 463,
     "busi_scanned": 593,
-    "last_scan": "2026-06-22T18:46:15.612713",
-    "total_kept": 308,
-    "total_rejected": 1068,
+    "last_scan": "2026-06-22T21:33:26.994560",
+    "total_kept": 309,
+    "total_rejected": 1076,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

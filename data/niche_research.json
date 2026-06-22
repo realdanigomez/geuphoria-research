@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "BURNOUT in the GYM: How to Recognize it, Fix it \\u0026 Avoid It!",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T05:36:46.764152",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout—a core pain point for online fitness coaches—and promises recognition, solutions, and prevention strategies that could inform content on sustainable business practices and client retention.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Working out isn’t really a choice.",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic motivational title with no specific data about fitness coach pain points, struggles, or actionable intelligence for the niche",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Men’s Mental Health, ADHD, Injury Set Backs \\u0026 More | Train \\u0026 Explain: Tough Questions While Training",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-06-22T21:30:11.968604",
+      "status": "reject",
+      "reason": "Contains general fitness content about client issues (mental health, ADHD, injuries) but lacks specific intelligence about fitness coach business problems, systems, or scaling strategies that would directly address their operational pain points.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 346,
+    "scanned": 347,
     "kept": 129,
-    "rejected": 216,
-    "last_scan": "2026-06-22T18:43:59.327579",
+    "rejected": 217,
+    "last_scan": "2026-06-22T21:31:06.756137",
     "platforms": [
       "Reddit",
       "YouTube",
