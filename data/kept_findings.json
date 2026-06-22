@@ -2199,6 +2199,16 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential business figure in the creator economy; agency exit strategies and early-stage founder lessons are directly applicable to scaling fitness coaching businesses and understanding monetization pathways.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "“You Can’t Make It!” How I Would Make 100K in 3 Months in 2026 | Alex Hormozi x Jack Neel",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-22T18:45:05.926241",
+      "status": "keep",
+      "reason": "Alex Hormozi's specific strategies for generating $100K in 3 months provide directly applicable business scaling tactics and revenue models relevant to fitness coaching monetization and creator economy growth.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2208,12 +2218,12 @@
     "comp_kept": 53,
     "comp_rejected": 389,
     "comp_scanned": 456,
-    "busi_kept": 125,
-    "busi_rejected": 457,
-    "busi_scanned": 586,
-    "last_scan": "2026-06-22T14:37:30.723026",
-    "total_kept": 307,
-    "total_rejected": 1062,
+    "busi_kept": 126,
+    "busi_rejected": 463,
+    "busi_scanned": 593,
+    "last_scan": "2026-06-22T18:46:15.612713",
+    "total_kept": 308,
+    "total_rejected": 1068,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
