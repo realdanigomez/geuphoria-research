@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Introduction and background on Nathan Johnson's growth",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T00:10:49.575373",
-      "status": "reject",
-      "reason": "No actual content provided about Nathan Johnson or Charlie Johnson's business strategies, offers, or methods—only a search query header with no substantive intelligence about fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "First focus: Content creation strategies for his niche",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "This is a celebrity workout program article; while Vince Del Monte is mentioned in the search query, the content focuses on building muscle through a Tarzan workout routine, not on fitness business coaching strategies or intelligence about coaches who mentor online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Nashville Recap of Fitness Business Summit 2022 with Vince Del Monte",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-06-22T14:35:23.998923",
+      "status": "keep",
+      "reason": "Direct intelligence from a fitness business summit featuring Vince Del Monte, a primary competitor in the online fitness coaching business education space, likely containing strategy and positioning insights applicable to the industry.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 455,
-    "kept": 52,
+    "scanned": 456,
+    "kept": 53,
     "rejected": 389,
-    "last_scan": "2026-06-22T08:38:38.746873",
+    "last_scan": "2026-06-22T14:36:26.293080",
     "platforms": [
       "YouTube",
       "Google",
