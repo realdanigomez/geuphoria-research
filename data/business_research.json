@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What Is the Half-Life of this Decision",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-06T13:36:03.459838",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Sam Ovens—no specific actionable intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why I Switched From ChatGPT to Claude (without losing anything)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on wealth-building mindsets provides directly applicable lessons on business scaling, pricing strategy, and entrepreneurial psychology that can inform coaching offer design and customer positioning strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Claude: Beginner to Pro in Under 15 Minutes",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-23T23:08:53.239385",
+      "status": "reject",
+      "reason": "No actual content provided - only a title and search term with no substantive business insights, strategies, or lessons from Dan Martell or other business thinkers to extract actionable intelligence from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 595,
+    "scanned": 596,
     "kept": 127,
-    "rejected": 464,
-    "last_scan": "2026-06-23T21:48:40.506205",
+    "rejected": 465,
+    "last_scan": "2026-06-23T23:09:51.545708",
     "platforms": [
       "YouTube",
       "Google",

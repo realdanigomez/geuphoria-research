@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Working out is a gift that you will miss when it is gone.",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T05:36:49.301539",
-      "status": "reject",
-      "reason": "Motivational content about personal workout benefits does not address fitness coaches' business pain points, operations, or professional challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Mental / Physical Burnout signs",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains generic Q&A content about fitness training rather than addressing fitness coaches' specific pain points like burnout causes, mitigation strategies, income challenges, or business scaling issues.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Complete Online Fitness Coaching Course (All 9 Lessons in One Video)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-23T23:06:38.737849",
+      "status": "reject",
+      "reason": "Contains a sales pitch for a coaching course rather than insights into actual fitness coach pain points or struggles; no substantive data about their real problems",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 348,
+    "scanned": 349,
     "kept": 129,
-    "rejected": 218,
-    "last_scan": "2026-06-23T21:46:34.026549",
+    "rejected": 219,
+    "last_scan": "2026-06-23T23:07:41.846228",
     "platforms": [
       "Reddit",
       "YouTube",
