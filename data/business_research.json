@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Did I Start Doing It this Year",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-06T13:36:02.383062",
-      "status": "reject",
-      "reason": "Title is vague and doesn't indicate specific business insights; search term alone doesn't confirm substantive content exists about business strategy, entrepreneurship lessons, or creator economy trends that would be actionable for fitness coaching content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What Is the Half-Life of this Decision",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search result title only without actual content, strategies, or insights from Alex Hormozi on hiring practices. Requires the full article/transcript to evaluate business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi - Why Most People Will Never Be Rich (Part 2) | EP. 159",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-23T09:35:37.635927",
+      "status": "keep",
+      "reason": "Alex Hormozi content on wealth-building mindsets provides directly applicable lessons on business scaling, pricing strategy, and entrepreneurial psychology that can inform coaching offer design and customer positioning strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 594,
-    "kept": 126,
+    "scanned": 595,
+    "kept": 127,
     "rejected": 464,
-    "last_scan": "2026-06-23T05:49:45.887544",
+    "last_scan": "2026-06-23T09:36:40.100826",
     "platforms": [
       "YouTube",
       "Google",
