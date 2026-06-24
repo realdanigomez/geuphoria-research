@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Mental / Physical Burnout signs",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T05:36:50.509630",
-      "status": "keep",
-      "reason": "Directly addresses burnout, a core pain point for online fitness coaches affecting retention, pricing power, and business sustainability. Understanding burnout signs enables coaches to identify when they need systems/delegation to scale.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Lack of Motivation",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains a sales pitch for a coaching course rather than insights into actual fitness coach pain points or struggles; no substantive data about their real problems",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "9 Lessons to Build a $10K/Month Online Coaching Business",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-24T12:04:30.724459",
+      "status": "keep",
+      "reason": "Directly addresses revenue scaling ($10K/month target) and business building, which are core goals/pain points for online fitness coaches seeking income growth and business systems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 349,
-    "kept": 129,
+    "scanned": 350,
+    "kept": 130,
     "rejected": 219,
-    "last_scan": "2026-06-24T09:24:00.601311",
+    "last_scan": "2026-06-24T12:05:33.681314",
     "platforms": [
       "Reddit",
       "YouTube",
