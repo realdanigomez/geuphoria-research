@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Offer",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-01T00:11:21.424210",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or intelligence about Brian Mark's offers, strategy, positioning, or business model",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Facebook and Instagram",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic course overview without specific business strategy, positioning, or offer details that would provide competitive intelligence for online fitness coaches building their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "9 Lessons to Build a $10K/Month Online Coaching Business",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-24T17:26:48.468156",
+      "status": "keep",
+      "reason": "Brian Mark is a direct competitor in the fitness business coaching space; this content likely contains specific strategies and lessons for building online coaching revenue models, which is core intelligence for understanding positioning and offers in this market.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 468,
-    "kept": 56,
+    "scanned": 469,
+    "kept": 57,
     "rejected": 398,
-    "last_scan": "2026-06-24T15:19:23.042231",
+    "last_scan": "2026-06-24T17:27:43.285270",
     "platforms": [
       "YouTube",
       "Google",
