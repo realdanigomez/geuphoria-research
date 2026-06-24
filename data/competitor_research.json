@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Limiting Beliefs",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-01T00:11:18.883347",
-      "status": "reject",
-      "reason": "Search query alone without actual content about Brian Mark's strategy, offers, positioning, or business model provides no actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Market",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "This is a general shoulder workout article, not intelligence about fitness business coaching, mentorship programs, or business strategies for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Full Online Fitness Coaching Course (From $0 to $10K/Month)",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-06-24T05:35:27.757707",
+      "status": "keep",
+      "reason": "Brian Mark is a prominent fitness business coach teaching online coaching monetization strategies; this course title indicates specific revenue benchmarks ($0-$10K/month) and structured business progression relevant to competitor positioning and offer architecture.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 466,
-    "kept": 55,
+    "scanned": 467,
+    "kept": 56,
     "rejected": 397,
-    "last_scan": "2026-06-24T01:26:24.158206",
+    "last_scan": "2026-06-24T05:36:23.221977",
     "platforms": [
       "YouTube",
       "Google",
