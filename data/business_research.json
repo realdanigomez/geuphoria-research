@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "These words are gonna kill your business in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-06T20:36:20.681966",
-      "status": "reject",
-      "reason": "Title promises business insights but finding contains only a search term with no actual content, strategy, or specific intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Make Ads That Slap (For Info \\u0026 Agency Offers)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and systems expert; content on building AI-powered systems for goal achievement directly applies to scaling a fitness coaching business through automation and operational efficiency.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "It Took Me 40+ Years to Realize What I’ll Tell You In 9 Minutes",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-24T21:11:07.946806",
+      "status": "reject",
+      "reason": "Title is clickbait without evidence of actual content; search result alone doesn't confirm Dan Martell insight is present or relevant to fitness coaching business strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 598,
+    "scanned": 599,
     "kept": 128,
-    "rejected": 466,
-    "last_scan": "2026-06-24T19:12:35.522330",
+    "rejected": 467,
+    "last_scan": "2026-06-24T21:12:08.461912",
     "platforms": [
       "YouTube",
       "Google",
