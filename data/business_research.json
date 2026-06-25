@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Making a free course as a moat against competitors",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-07T03:06:27.946966",
-      "status": "keep",
-      "reason": "Charlie Morgan's strategy on using free courses as competitive moats is directly applicable to fitness coaching—free content can build audience trust, create switching costs, and establish authority against competitors while generating backend revenue opportunities.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The arms race of flex marketing and selling the dream",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait hyperbole about AI; search result shows only a name mention with no substantive business content, strategy, or actionable intelligence included.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I became a millionaire at 21. Here's my advice for 20-30 yr olds.",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-25T18:33:41.498044",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential creator economy figure; his millionaire-at-21 content likely contains specific strategies on monetization, audience building, or scaling that directly apply to coaching business models and creator revenue streams.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 601,
-    "kept": 128,
+    "scanned": 602,
+    "kept": 129,
     "rejected": 469,
-    "last_scan": "2026-06-25T16:24:11.570117",
+    "last_scan": "2026-06-25T18:34:43.850147",
     "platforms": [
       "YouTube",
       "Google",
