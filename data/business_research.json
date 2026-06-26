@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to make progress faster than everyone",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-07T08:36:30.648413",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provided—cannot evaluate substantive business value without the material itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Your New Identity",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-07T11:06:48.461845",
-      "status": "reject",
-      "reason": "Search query alone without content details, articles, or specific insights from Dan Martell cannot be evaluated for actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Only AI Tools You’ll Ever Need to Get Rich in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-07T17:07:13.126932",
-      "status": "reject",
-      "reason": "Title is clickbait hyperbole without evidence of actual Dan Martell content or specific, actionable AI tools/strategies relevant to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "the dark side of $1M/mo (managing 'extreme' burnout)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-07T18:37:04.997986",
-      "status": "keep",
-      "reason": "Addresses real entrepreneurial challenges and burnout management at scale, directly relevant to fitness coaching creators scaling to high revenue—offers cautionary lessons and management strategies for rapid growth.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Learn Anything Faster Than Everyone Else",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Title suggests clickbait course promotion without evidence of specific actionable business strategies, frameworks, or insights from Charlie Morgan included in the finding itself.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Future of AI (Do This Before 2027)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-26T19:48:01.960442",
+      "status": "reject",
+      "reason": "Title promises AI insights but search result alone provides no specific strategies, actionable intelligence, or substantive business content to extract or repurpose for fitness coaching audience.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Only 5% of the World Has Ever Paid for AI",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-26T19:48:03.057337",
+      "status": "reject",
+      "reason": "Title claims a statistic but the text only contains a search query for Dan Martell with no actual content, insights, or actionable intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Easiest Thing to Sell With AI Right Now",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-26T19:48:04.155672",
+      "status": "reject",
+      "reason": "Title mentions AI and Dan Martell but finding contains only a search query with no actual content, insights, strategies, or specific intelligence to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Marcus and Sophie Framework",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-26T19:48:05.340194",
+      "status": "reject",
+      "reason": "Title mentions a framework but provides no actual content, details, or actionable insights about what the framework contains or how it applies to business strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 604,
+    "scanned": 608,
     "kept": 130,
-    "rejected": 470,
-    "last_scan": "2026-06-26T17:47:32.649960",
+    "rejected": 474,
+    "last_scan": "2026-06-26T19:49:02.782997",
     "platforms": [
       "YouTube",
       "Google",

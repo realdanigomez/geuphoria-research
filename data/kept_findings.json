@@ -1502,16 +1502,6 @@
     },
     {
       "source": "YouTube",
-      "title": "the dark side of $1M/mo (managing 'extreme' burnout)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-07T18:37:04.997986",
-      "status": "keep",
-      "reason": "Addresses real entrepreneurial challenges and burnout management at scale, directly relevant to fitness coaching creators scaling to high revenue—offers cautionary lessons and management strategies for rapid growth.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Building a $2,500,000 Business for a Stranger in 36 Minutes",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2249,11 +2239,11 @@
     "comp_rejected": 398,
     "comp_scanned": 469,
     "busi_kept": 130,
-    "busi_rejected": 470,
-    "busi_scanned": 604,
-    "last_scan": "2026-06-26T17:47:32.654609",
+    "busi_rejected": 474,
+    "busi_scanned": 608,
+    "last_scan": "2026-06-26T19:49:02.787406",
     "total_kept": 319,
-    "total_rejected": 1092,
+    "total_rejected": 1096,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
