@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The arms race of flex marketing and selling the dream",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-07T03:06:29.354764",
-      "status": "reject",
-      "reason": "Title mentions Charlie Morgan but the actual finding contains no excerpt, quotes, or specific insights from him—just a generic topic about flex marketing with no actionable intelligence or substantive business strategy provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Find An Expertise",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-07T04:07:56.074044",
-      "status": "reject",
-      "reason": "Search query alone contains no substantive business content, strategies, or insights—merely indicates intent to find information about Charlie Morgan without actual findings or intelligence to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to make progress faster than everyone",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential creator economy figure; his millionaire-at-21 content likely contains specific strategies on monetization, audience building, or scaling that directly apply to coaching business models and creator revenue streams.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Cyrus went from $3.5k/mo to $70k/mo in 7 months (health coaching offer)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-26T17:46:30.613103",
+      "status": "keep",
+      "reason": "Direct case study of scaling a health coaching offer from $3.5k to $70k MRR in 7 months with likely tactical strategies applicable to fitness coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Turn $0 Into $1,000,000 (FREE COURSE)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-06-26T17:46:32.334014",
+      "status": "reject",
+      "reason": "Title suggests clickbait course promotion without evidence of specific actionable business strategies, frameworks, or insights from Charlie Morgan included in the finding itself.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 602,
-    "kept": 129,
-    "rejected": 469,
-    "last_scan": "2026-06-26T15:40:44.029614",
+    "scanned": 604,
+    "kept": 130,
+    "rejected": 470,
+    "last_scan": "2026-06-26T17:47:32.649960",
     "platforms": [
       "YouTube",
       "Google",
