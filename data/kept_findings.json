@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Most Nutrition Coaches Burnout (And How to Avoid It)",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T10:25:11.385417",
-      "status": "keep",
-      "reason": "Directly addresses burnout—a critical pain point for online fitness coaches—and implies solutions for retention and sustainability, which impacts business viability and scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How \\u0026 Where to Get Your First Coaching Clients (fast!)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-04-12T14:10:22.755701",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches, and promises specific methods rather than generic advice",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Where to find your first coaching clients",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1128,6 +1108,16 @@
       "time": "2026-06-25T04:43:35.399681",
       "status": "keep",
       "reason": "Directly addresses coach burnout (explicit search term) and explores mental health angles that could inform content strategy for coaches struggling with sustainability and client retention messaging around lifestyle balance.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "A Realistic Day in My Life as an Online Fitness Coach (When Motivation Is Low)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-27T17:59:33.355789",
+      "status": "keep",
+      "reason": "Directly addresses emotional/psychological burnout and motivation struggles—a critical pain point affecting coach retention, client delivery quality, and business sustainability that most coaches experience but rarely discuss openly.",
       "track": "niche"
     },
     {
@@ -2252,18 +2242,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 132,
-    "niche_rejected": 224,
-    "niche_scanned": 357,
+    "niche_kept": 133,
+    "niche_rejected": 229,
+    "niche_scanned": 363,
     "comp_kept": 57,
     "comp_rejected": 399,
     "comp_scanned": 470,
     "busi_kept": 132,
     "busi_rejected": 477,
     "busi_scanned": 613,
-    "last_scan": "2026-06-27T16:40:11.024645",
-    "total_kept": 321,
-    "total_rejected": 1100,
+    "last_scan": "2026-06-27T18:02:47.497081",
+    "total_kept": 322,
+    "total_rejected": 1105,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
