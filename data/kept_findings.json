@@ -2229,6 +2229,26 @@
       "status": "keep",
       "reason": "Direct case study of scaling a health coaching offer from $3.5k to $70k MRR in 7 months with likely tactical strategies applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Theory of Constraints and the Right Problem to Solve",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-27T10:06:28.984199",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist; Theory of Constraints is a proven business framework for identifying bottlenecks and prioritizing high-impact problems—directly applicable to fitness coaching business scaling and content strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Is the Number One Constraint in Any Business",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-27T10:06:30.842645",
+      "status": "keep",
+      "reason": "Direct reference to Dan Martell (influential business strategist) discussing a fundamental business constraint—likely contains actionable strategy applicable to fitness coaching business scaling and positioning.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2238,11 +2258,11 @@
     "comp_kept": 57,
     "comp_rejected": 398,
     "comp_scanned": 469,
-    "busi_kept": 130,
+    "busi_kept": 132,
     "busi_rejected": 476,
-    "busi_scanned": 610,
-    "last_scan": "2026-06-27T07:50:08.650685",
-    "total_kept": 319,
+    "busi_scanned": 612,
+    "last_scan": "2026-06-27T10:07:28.071575",
+    "total_kept": 321,
     "total_rejected": 1098,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
