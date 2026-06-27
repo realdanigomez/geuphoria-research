@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Distractions Come Dressed as Easy Opportunities",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-08T06:37:57.780958",
-      "status": "reject",
-      "reason": "Title alone suggests a general productivity concept, but no actual content provided to verify if it contains Hormozi's specific frameworks, case studies, or actionable business strategies applicable to fitness coaching business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Regretting the Opportunities Not Taken",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Direct reference to Dan Martell (influential business strategist) discussing a fundamental business constraint—likely contains actionable strategy applicable to fitness coaching business scaling and positioning.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Will Nas Scale Or Fail? | Episode 1",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-27T16:39:08.307998",
+      "status": "reject",
+      "reason": "Title suggests general speculation about someone named Nas with no evidence of actual business strategy, frameworks, or actionable insights from the mentioned Alex Hormozi search term.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 612,
+    "scanned": 613,
     "kept": 132,
-    "rejected": 476,
-    "last_scan": "2026-06-27T15:04:44.128557",
+    "rejected": 477,
+    "last_scan": "2026-06-27T16:40:11.020175",
     "platforms": [
       "YouTube",
       "Google",
