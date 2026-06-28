@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Regretting the Opportunities Not Taken",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-08T06:37:59.274932",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or specific lessons from Alex Hormozi - no actionable intelligence to extract for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Sell",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests general speculation about someone named Nas with no evidence of actual business strategy, frameworks, or actionable insights from the mentioned Alex Hormozi search term.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 Entrepreneurs Compete For $100,000 - Episode 1",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-28T07:50:29.330769",
+      "status": "reject",
+      "reason": "Title suggests competition format content but no actual business strategies, insights, or lessons are provided in the description - appears to be entertainment-focused rather than educational business content.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 613,
+    "scanned": 614,
     "kept": 132,
-    "rejected": 477,
-    "last_scan": "2026-06-28T03:34:38.193070",
+    "rejected": 478,
+    "last_scan": "2026-06-28T07:51:31.465044",
     "platforms": [
       "YouTube",
       "Google",
