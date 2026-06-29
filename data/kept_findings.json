@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Where to find your first coaching clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-04-12T14:10:29.130637",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches starting out or scaling their business",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Strategies For Avoiding Burnout As A Trainer \\u0026 Training Yourself",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1118,6 +1108,16 @@
       "time": "2026-06-27T17:59:33.355789",
       "status": "keep",
       "reason": "Directly addresses emotional/psychological burnout and motivation struggles—a critical pain point affecting coach retention, client delivery quality, and business sustainability that most coaches experience but rarely discuss openly.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why New Coaches Quit (It's Not What You Think)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-06-29T10:06:58.399309",
+      "status": "keep",
+      "reason": "Directly addresses coach retention and underlying reasons for burnout/quitting—a critical pain point for understanding why coaches fail and what interventions could improve business sustainability.",
       "track": "niche"
     },
     {
@@ -2242,18 +2242,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 133,
-    "niche_rejected": 229,
-    "niche_scanned": 363,
+    "niche_kept": 134,
+    "niche_rejected": 231,
+    "niche_scanned": 366,
     "comp_kept": 57,
     "comp_rejected": 404,
     "comp_scanned": 475,
     "busi_kept": 132,
     "busi_rejected": 478,
     "busi_scanned": 614,
-    "last_scan": "2026-06-29T05:13:41.159438",
-    "total_kept": 322,
-    "total_rejected": 1111,
+    "last_scan": "2026-06-29T10:10:08.330382",
+    "total_kept": 323,
+    "total_rejected": 1113,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
