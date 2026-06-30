@@ -2269,6 +2269,16 @@
       "status": "keep",
       "reason": "Dan Martell content on time optimization/productivity systems offers directly applicable operational strategies for fitness coaching business scaling and content creation efficiency",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 CEOs Compete For $100,000 - Episode 1",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-30T20:30:15.553642",
+      "status": "keep",
+      "reason": "Alex Hormozi is a prominent business strategist known for scaling companies and creator economy insights; competitive CEO format likely contains actionable business lessons applicable to fitness coaching business models",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2278,11 +2288,11 @@
     "comp_kept": 57,
     "comp_rejected": 404,
     "comp_scanned": 475,
-    "busi_kept": 136,
+    "busi_kept": 137,
     "busi_rejected": 488,
-    "busi_scanned": 628,
-    "last_scan": "2026-06-30T18:21:21.669404",
-    "total_kept": 327,
+    "busi_scanned": 629,
+    "last_scan": "2026-06-30T20:31:18.586468",
+    "total_kept": 328,
     "total_rejected": 1123,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
