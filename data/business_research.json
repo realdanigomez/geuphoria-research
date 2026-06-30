@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Affiliate Play",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-08T20:08:28.646385",
-      "status": "reject",
-      "reason": "Finding contains only a search query for Alex Hormozi with no actual content, insights, strategies, or intelligence to extract or act upon.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Full Action Plan Recap",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-08T20:18:29.717383",
-      "status": "reject",
-      "reason": "Search result title alone lacks specific insights; no actual content, strategies, or business lessons provided to evaluate for actionability",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Ranked the Best AI Tools to Get Rich in 2026",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Alex Hormozi is a prominent business strategist known for scaling companies and creator economy insights; competitive CEO format likely contains actionable business lessons applicable to fitness coaching business models",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 Business Owners Compete For $100,000 - Episode 1",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-06-30T23:18:35.770029",
+      "status": "reject",
+      "reason": "Title indicates a competition format show, but without preview of actual content, strategies, or insights from the business owners featured, this appears to be entertainment rather than a source of specific, actionable business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start a 1-Person AI Business (With Zero Code)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-30T23:18:42.524910",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker in the creator/SaaS space; \"1-Person AI Business\" offers actionable strategies for bootstrapped entrepreneurs that could inform low-overhead business models for fitness coaching platforms or digital products.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 629,
-    "kept": 137,
-    "rejected": 488,
-    "last_scan": "2026-06-30T22:00:49.785033",
+    "scanned": 631,
+    "kept": 138,
+    "rejected": 489,
+    "last_scan": "2026-06-30T23:19:40.843423",
     "platforms": [
       "YouTube",
       "Google",
