@@ -1492,16 +1492,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Building a $2,500,000 Business for a Stranger in 36 Minutes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-08T20:08:20.635222",
-      "status": "keep",
-      "reason": "Alex Hormozi is a highly influential business strategist known for scaling businesses; a case study on building a $2.5M business contains actionable frameworks on growth strategy, sales systems, and business mechanics applicable to fitness coaching operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Everything I Learned From Being Around the Top 0.01%",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2249,6 +2239,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker known for efficiency and delegation strategies; content about time-saving systems aligns with creator economy productivity content that could inform coaching business operations and client value propositions.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Started Over With $0, Here’s My Exact Plan to get to $1M",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-06-30T00:03:14.271329",
+      "status": "keep",
+      "reason": "Dan Martell's $0 to $1M plan provides actionable scaling strategies and business fundamentals applicable to fitness coaching businesses seeking growth frameworks and revenue acceleration tactics.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2258,11 +2258,11 @@
     "comp_kept": 57,
     "comp_rejected": 404,
     "comp_scanned": 475,
-    "busi_kept": 133,
+    "busi_kept": 134,
     "busi_rejected": 486,
-    "busi_scanned": 623,
-    "last_scan": "2026-06-29T22:38:41.348128",
-    "total_kept": 324,
+    "busi_scanned": 624,
+    "last_scan": "2026-06-30T00:04:11.387615",
+    "total_kept": 325,
     "total_rejected": 1121,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
