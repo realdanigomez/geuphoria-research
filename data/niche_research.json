@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Strategies For Avoiding Burnout As A Trainer \\u0026 Training Yourself",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T14:10:35.843647",
-      "status": "keep",
-      "reason": "Directly addresses trainer burnout, a critical pain point for fitness coaches affecting retention, client quality, and business sustainability; likely contains strategies applicable to coach operations and self-care systems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Training Clients",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "generic advice about camera anxiety lacks specificity to fitness coaching business models, client acquisition strategies, or operational pain points unique to online fitness coaches",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Top Automations I Use To Run My 7-Figure Online Coaching Business",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-07-01T21:58:14.272155",
+      "status": "keep",
+      "reason": "Directly addresses systems and automation strategies that impact scalability and operational efficiency—core pain points for coaches managing multiple clients while trying to reach 7-figure revenue without burnout.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 366,
-    "kept": 134,
+    "scanned": 367,
+    "kept": 135,
     "rejected": 231,
-    "last_scan": "2026-07-01T20:23:33.260136",
+    "last_scan": "2026-07-01T21:59:11.724233",
     "platforms": [
       "Reddit",
       "YouTube",
