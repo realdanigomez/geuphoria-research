@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I Ranked the Best AI Tools to Get Rich in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-08T23:38:11.725598",
-      "status": "reject",
-      "reason": "Title promises ranking of AI tools for wealth but search term \"Dan Martell\" alone doesn't confirm the content actually delivers specific, actionable business strategies or insights from influential thinkers—appears to be clickbait without substance verification.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Tested 500+ AI Tools, These Will Make You Rich",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker in the creator/SaaS space; \"1-Person AI Business\" offers actionable strategies for bootstrapped entrepreneurs that could inform low-overhead business models for fitness coaching platforms or digital products.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Reprogram Your Brain To Get Rich ASAP",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-01T01:40:55.224558",
+      "status": "reject",
+      "reason": "Search query only, no actual content. No business insights, strategies, or actionable intelligence present to evaluate.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 631,
+    "scanned": 632,
     "kept": 138,
-    "rejected": 489,
-    "last_scan": "2026-06-30T23:19:40.843423",
+    "rejected": 490,
+    "last_scan": "2026-07-01T01:41:55.448675",
     "platforms": [
       "YouTube",
       "Google",
