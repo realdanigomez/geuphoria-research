@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Everything I Learned From Being Around the Top 0.01%",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-09T10:39:50.962419",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business figure known for scaling companies and mentoring founders; content about lessons from top 0.01% likely contains actionable frameworks applicable to fitness coaching business strategy and founder mindset.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Being broke is your superpower",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Demonstrates rapid content production systems and workflow optimization tactics relevant to scaling a fitness coaching content business, with potential insights into batching, templates, and efficiency frameworks that could apply to video creation strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You’re Not Behind (Yet): Master AI in under 15 minutes",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-02T20:03:06.158066",
+      "status": "reject",
+      "reason": "Title is clickbait without substance; no actual content provided to evaluate for actionable AI strategy or Dan Martell insights relevant to fitness coaching business",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 634,
+    "scanned": 635,
     "kept": 140,
-    "rejected": 490,
-    "last_scan": "2026-07-02T18:15:27.203933",
+    "rejected": 491,
+    "last_scan": "2026-07-02T20:04:03.542081",
     "platforms": [
       "YouTube",
       "Google",
