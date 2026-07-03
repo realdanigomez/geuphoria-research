@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Make Time For Yourself",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T14:10:40.170847",
-      "status": "reject",
-      "reason": "Generic self-care advice without specific insights into fitness coach burnout causes, solutions, or business impact",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Problems With Your Average Trainer",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses what works for online fitness coaches with 10 years of real experience—likely contains specific strategies for client acquisition, retention, and business sustainability that are highly relevant to the niche's core struggles.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Burnout Body Class: Full Body",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-07-03T17:21:59.401804",
+      "status": "reject",
+      "reason": "Generic fitness class content with no insights into coach burnout causes, prevention strategies, or business/operational solutions that would help fitness coaches address their own burnout challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 370,
+    "scanned": 371,
     "kept": 138,
-    "rejected": 231,
-    "last_scan": "2026-07-03T15:33:49.658055",
+    "rejected": 232,
+    "last_scan": "2026-07-03T17:22:54.119371",
     "platforms": [
       "Reddit",
       "YouTube",
