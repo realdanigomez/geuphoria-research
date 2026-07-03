@@ -2319,6 +2319,16 @@
       "status": "keep",
       "reason": "Demonstrates rapid content production systems and workflow optimization tactics relevant to scaling a fitness coaching content business, with potential insights into batching, templates, and efficiency frameworks that could apply to video creation strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Went From -$25K to $30 Million (My Story)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-03T01:10:45.410086",
+      "status": "keep",
+      "reason": "Founder journey from financial hardship to $30M reveals scaling strategies and business principles directly applicable to coaching business model development and revenue growth tactics.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2328,11 +2338,11 @@
     "comp_kept": 57,
     "comp_rejected": 404,
     "comp_scanned": 475,
-    "busi_kept": 140,
+    "busi_kept": 141,
     "busi_rejected": 491,
-    "busi_scanned": 635,
-    "last_scan": "2026-07-02T23:05:15.113154",
-    "total_kept": 334,
+    "busi_scanned": 636,
+    "last_scan": "2026-07-03T01:11:45.743974",
+    "total_kept": 335,
     "total_rejected": 1126,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
