@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Take It All Personal",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T14:10:39.162457",
-      "status": "reject",
-      "reason": "Generic title with no specific insights about fitness coach burnout causes, solutions, or data that would inform business decisions or content strategy.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Make Time For Yourself",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses burnout—a critical pain point for fitness coaches—and promises symptom identification that could help coaches recognize and address their own burnout before it impacts business viability and client retention.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 Years as an Online Fitness Coach (Here's What Actually Works)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-03T15:32:46.182855",
+      "status": "keep",
+      "reason": "Directly addresses what works for online fitness coaches with 10 years of real experience—likely contains specific strategies for client acquisition, retention, and business sustainability that are highly relevant to the niche's core struggles.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 369,
-    "kept": 137,
+    "scanned": 370,
+    "kept": 138,
     "rejected": 231,
-    "last_scan": "2026-07-03T13:22:12.005330",
+    "last_scan": "2026-07-03T15:33:49.658055",
     "platforms": [
       "Reddit",
       "YouTube",
