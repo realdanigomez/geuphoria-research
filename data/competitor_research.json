@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Low Pulley Standing Trap 3 Raise w/ Rope | 3 sets of 11-14 reps | Tempo 2012 | Rest 30 sec",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T03:10:18.017239",
-      "status": "reject",
-      "reason": "This is an exercise demonstration video unrelated to fitness business coaching, mentorship, or strategies for building an online coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Triceps Pulley Pressdowns w/ Rope | 3 sets of 11-14 reps | Tempo 3012 | Rest 30 sec",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T03:10:19.229658",
-      "status": "reject",
-      "reason": "This is an exercise demonstration video, not competitive intelligence about fitness business coaching. It contains no information about business strategy, positioning, offers, or coaching programs for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "$5k to $50k a month coaching business in 16 weeks with Chris Mouton",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title is about supplement information, not business coaching. Search term mentions Vince Del Monte but finding contains no actual content about his business strategy, coaching methods, offers, or how he builds his coaching business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Books to Live By",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-03T20:13:13.281557",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Starting a Fitness Boot Camp Business",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-03T20:13:14.177156",
+      "status": "reject",
+      "reason": "Finding only mentions Bedros Keuilian's name in a search query without providing any actual intelligence about his strategy, content, offers, positioning, or business approach.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 476,
+    "scanned": 478,
     "kept": 57,
-    "rejected": 405,
-    "last_scan": "2026-07-03T18:47:48.111589",
+    "rejected": 407,
+    "last_scan": "2026-07-03T20:14:14.041756",
     "platforms": [
       "YouTube",
       "Google",
