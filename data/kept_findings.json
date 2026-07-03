@@ -2369,6 +2369,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and this content likely contains actionable AI productivity hacks applicable to fitness coaching business operations, marketing automation, and content creation workflows.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "40 Hacks to Use AI So Well It Feels Unfair",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-03T21:41:13.692009",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and this title suggests specific, actionable AI tactics that could be applied to fitness coaching operations (content creation, customer management, scaling).",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2378,11 +2388,11 @@
     "comp_kept": 57,
     "comp_rejected": 407,
     "comp_scanned": 478,
-    "busi_kept": 144,
+    "busi_kept": 145,
     "busi_rejected": 496,
-    "busi_scanned": 644,
-    "last_scan": "2026-07-03T20:15:17.031852",
-    "total_kept": 339,
+    "busi_scanned": 645,
+    "last_scan": "2026-07-03T21:42:11.715440",
+    "total_kept": 340,
     "total_rejected": 1135,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

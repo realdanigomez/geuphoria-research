@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Business Strategy Behind Market Dominance",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-10T14:42:41.472962",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provided—no substantive business intelligence to extract or act upon.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The “One More Thing” Habit That’s Making You Broke",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests a Charlie Morgan reference, but the finding contains no actual content, strategies, or specific insights—only a search query without substantive business intelligence or actionable lessons.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "40 Hacks to Use AI So Well It Feels Unfair",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-03T21:41:13.692009",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and this title suggests specific, actionable AI tactics that could be applied to fitness coaching operations (content creation, customer management, scaling).",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 644,
-    "kept": 144,
+    "scanned": 645,
+    "kept": 145,
     "rejected": 496,
-    "last_scan": "2026-07-03T20:15:17.027373",
+    "last_scan": "2026-07-03T21:42:11.710871",
     "platforms": [
       "YouTube",
       "Google",
