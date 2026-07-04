@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "source": "YouTube",
-      "title": "Problems With Your Average Trainer",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-12T14:10:41.198910",
-      "status": "keep",
-      "reason": "Directly addresses trainer burnout, a core pain point for fitness coaches affecting retention, quality of service delivery, and business sustainability.",
-      "track": "niche"
-    },
-    {
       "source": "Google",
       "title": "As jobs dry up, personal trainers are going door-to-door",
       "text": "Search: personal trainer business challenges",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic fitness class content with no insights into coach burnout causes, prevention strategies, or business/operational solutions that would help fitness coaches address their own burnout challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-07-04T14:26:59.948249",
+      "status": "keep",
+      "reason": "Directly addresses three core pain points for online fitness coaches: client acquisition (getting clients), onboarding systems, and retention—all critical to scaling a coaching business and reducing churn-related revenue loss.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 371,
-    "kept": 138,
+    "scanned": 372,
+    "kept": 139,
     "rejected": 232,
-    "last_scan": "2026-07-04T12:43:53.205655",
+    "last_scan": "2026-07-04T14:27:59.445006",
     "platforms": [
       "Reddit",
       "YouTube",
