@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Google",
-      "title": "As jobs dry up, personal trainers are going door-to-door",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-04-12T14:10:51.741245",
-      "status": "keep",
-      "reason": "Reveals desperation-driven prospecting tactics indicating broader client acquisition crisis; shows market saturation pressures that drive trainers toward inefficient channels, highlighting demand for better online/digital client acquisition systems.",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
       "title": "Personal Trainer Career: Unsustainable or Simply ...",
       "text": "Search: personal trainer business challenges",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses three core pain points for online fitness coaches: client acquisition (getting clients), onboarding systems, and retention—all critical to scaling a coaching business and reducing churn-related revenue loss.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Ultimate Guide to Getting Coaching Clients || Full Training",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-07-04T17:00:59.613700",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches; likely contains specific strategies for getting coaching clients rather than general fitness content.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 372,
-    "kept": 139,
+    "scanned": 373,
+    "kept": 140,
     "rejected": 232,
-    "last_scan": "2026-07-04T15:43:04.285716",
+    "last_scan": "2026-07-04T17:01:59.495300",
     "platforms": [
       "Reddit",
       "YouTube",
