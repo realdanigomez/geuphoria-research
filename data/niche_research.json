@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Google",
-      "title": "Personal Trainer Career: Unsustainable or Simply ...",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-04-12T14:10:52.701121",
-      "status": "keep",
-      "reason": "Directly addresses business sustainability challenges and viability concerns that are core pain points for online fitness coaches evaluating their career path and business model decisions.",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
       "title": "What happens when clients lose their trainers?",
       "text": "Search: personal trainer business challenges",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches; likely contains specific strategies for getting coaching clients rather than general fitness content.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "2 Years as an Online Fitness Coach: Lessons I Wish I Knew Earlier",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-06T10:12:36.286995",
+      "status": "keep",
+      "reason": "Directly addresses pain points and lessons learned from experience as online fitness coach; likely contains specific insights about struggles, systems, or scaling that coaches face",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 373,
-    "kept": 140,
+    "scanned": 374,
+    "kept": 141,
     "rejected": 232,
-    "last_scan": "2026-07-06T05:54:09.055933",
+    "last_scan": "2026-07-06T10:13:38.639556",
     "platforms": [
       "Reddit",
       "YouTube",
