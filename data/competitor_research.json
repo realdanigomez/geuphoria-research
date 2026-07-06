@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "$5k to $50k a month coaching business in 16 weeks with Chris Mouton",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:22.015845",
-      "status": "reject",
-      "reason": "Search query alone does not contain specific intelligence about business strategy, offers, positioning, or actionable coaching methods. Chris Mouton program details are not described.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "From $5K to $50K/Month: Chris Mooten’s Breakthrough Story",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:23.087890",
-      "status": "reject",
-      "reason": "The finding is a testimonial/case study about a client's revenue results, not intelligence about the coach's strategy, positioning, offers, or business-building methods that would inform online fitness coaching business practices.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Ignorance Tax: What You Don’t Know Is Costing You",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:23.999847",
-      "status": "reject",
-      "reason": "Title and search query alone provide no specific intelligence about business strategy, content, offers, or positioning—actual finding details needed to assess competitor value.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Doing Things in the Right Order: The Hidden Business Skill",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:25.051607",
-      "status": "reject",
-      "reason": "Title discusses general business methodology without demonstrating specific content about fitness coaching business models, strategies, or offers from the search result itself.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "When Risk Becomes the Shortcut to Growth",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:26.241644",
-      "status": "reject",
-      "reason": "Title is generic growth philosophy with no specific content shown about fitness business coaching, strategies, offers, or positioning. Search term alone doesn't confirm the article contains competitor intelligence about online fitness coach builders.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Raising Prices \\u0026 Believing You’re Worth It",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:27.257039",
-      "status": "reject",
-      "reason": "Title suggests general mindset content about pricing rather than specific business strategy, tactics, or offers for online fitness coaches. No actionable competitor intelligence evident from title alone.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Role of Environment: Moving, Mentorship \\u0026 Momentum",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Finding only mentions Bedros Keuilian's name in a search query without providing any actual intelligence about his strategy, content, offers, positioning, or business approach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start Online Fitness Coaching in 2026 (Everything you Need to Know)",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-06T17:20:45.095990",
+      "status": "reject",
+      "reason": "Title suggests general fitness coaching advice rather than specific intelligence about business coaches or their strategies for helping online fitness coaches build their businesses. No indication of mentor/coach/program content targeting fitness coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 5-Step Online Coaching Blueprint",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-06T17:20:46.547973",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy, offers, or positioning details from Charlie Johnson's blueprint provides no actionable competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Content Strategy That Gets You Seen",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-06T17:20:48.220156",
+      "status": "reject",
+      "reason": "Search query alone with no content details provided; cannot assess whether actual intelligence about fitness business coaching strategies, offers, or positioning is present.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Turning Views Into Qualified Leads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-06T17:20:49.225505",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or specific intelligence about Charlie Johnson's strategy, offers, or positioning for fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Sales Framework That Closes Clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-06T17:20:50.153901",
+      "status": "reject",
+      "reason": "Title alone suggests general sales framework without evidence of specific intelligence about fitness business coaching, competitor strategies, or offers targeting online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pricing for Long-Term Growth",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-06T17:20:51.221681",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Charlie Johnson's pricing strategy, business model, or specific tactics provides no actionable intelligence for building an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 478,
+    "scanned": 484,
     "kept": 57,
-    "rejected": 407,
-    "last_scan": "2026-07-06T14:07:12.923229",
+    "rejected": 413,
+    "last_scan": "2026-07-06T17:21:48.235868",
     "platforms": [
       "YouTube",
       "Google",
