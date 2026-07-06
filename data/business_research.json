@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Market Pulse #34: AI's Private $1 Trillion Bubble?",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-10T14:42:43.676073",
-      "status": "reject",
-      "reason": "Title suggests AI/valuation commentary but the actual content is missing—only shows a search query for Charlie Morgan without substantive business insights, strategies, or actionable intelligence to apply to fitness coaching business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Ranked Every Online Business Model So You Don't Have To",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Direct business strategy content from influential creator (Charlie Morgan) with quantifiable success metrics and likely contains actionable lessons applicable to fitness coaching business model scaling.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$0 to $1,000,000 SMMA Course (18+ Hours)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-06T05:55:16.880515",
+      "status": "reject",
+      "reason": "No actual content provided—only a title and search query. Cannot assess for specific, actionable business insights, strategies, or lessons without the substantive material itself.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 646,
+    "scanned": 647,
     "kept": 146,
-    "rejected": 496,
-    "last_scan": "2026-07-06T01:16:44.626594",
+    "rejected": 497,
+    "last_scan": "2026-07-06T05:56:16.988486",
     "platforms": [
       "YouTube",
       "Google",
