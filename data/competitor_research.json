@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Role of Environment: Moving, Mentorship \\u0026 Momentum",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:28.613050",
-      "status": "reject",
-      "reason": "Title alone suggests general fitness/mentorship content without evidence of specific business strategy, offers, or positioning intelligence for online fitness coaches. Search query indicates potential relevance but finding lacks detailed content to confirm actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Building a Personal Brand That Converts Followers to Clients",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content about Charlie Johnson's pricing strategy, business model, or specific tactics provides no actionable intelligence for building an online fitness coaching business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Lose Body Fat \\u0026 Get RIPPED! (Advanced Fat Loss Workout)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-07T04:32:37.946338",
+      "status": "reject",
+      "reason": "This is a generic fat loss workout video, not business intelligence about fitness coaching business builders or their strategies for helping coaches grow their businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 484,
+    "scanned": 485,
     "kept": 57,
-    "rejected": 413,
-    "last_scan": "2026-07-07T00:07:09.246716",
+    "rejected": 414,
+    "last_scan": "2026-07-07T04:33:39.950565",
     "platforms": [
       "YouTube",
       "Google",
