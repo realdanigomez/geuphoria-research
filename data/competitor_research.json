@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Building a Personal Brand That Converts Followers to Clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-01T09:40:29.512991",
-      "status": "reject",
-      "reason": "Title alone doesn't indicate specific business strategy, offers, or positioning intelligence for online fitness coaches. Search term suggests generic personal branding content rather than fitness business coaching expertise.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Lose Fat Build Muscle Workout (DIFFERENT! HARDER! BETTER!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T12:40:27.350388",
-      "status": "reject",
-      "reason": "This is a generic workout content piece, not intelligence about fitness business coaches or their strategies for building online coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Gaba Squat",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "This is a generic fat loss workout video, not business intelligence about fitness coaching business builders or their strategies for helping coaches grow their businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What If I Fail",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-07T16:28:16.503944",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Dont Need Money",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-07T16:28:17.539102",
+      "status": "reject",
+      "reason": "Finding only mentions a search query without any actual content, strategy, offers, or positioning information about Bedros Keuilian or competitive intelligence that would be actionable for building an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 485,
+    "scanned": 487,
     "kept": 57,
-    "rejected": 414,
-    "last_scan": "2026-07-07T13:34:15.916946",
+    "rejected": 416,
+    "last_scan": "2026-07-07T16:29:17.264199",
     "platforms": [
       "YouTube",
       "Google",
