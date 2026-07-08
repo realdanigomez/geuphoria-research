@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "source": "YouTube",
-      "title": "Split Stance One-Arm Row",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T12:40:29.897624",
-      "status": "reject",
-      "reason": "Contains only a generic exercise tutorial with a search query; no business strategy, positioning, offers, or actionable intelligence about fitness coaching business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "ERIC BACH: How A Scattered \\u0026 Struggling Father Became a Millionaire Fitness Coach",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-01T17:10:55.640254",
-      "status": "reject",
-      "reason": "Contains a testimonial/case study format but no specific, actionable intelligence about business strategies, offers, positioning, or tactics that online fitness coaches can learn from. Vince Del Monte mention is only in the search query, not substantive content analysis.",
-      "track": "competitor"
-    },
-    {
       "source": "Twitter/X",
       "title": "Planable (@PlanableApp) / Posts / X - Twitter",
       "text": "Search: \"Vince Del Monte\" site:twitter.com",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title alone indicates general fitness business content; no evidence of specific strategies, offers, positioning, or business-building intelligence for online fitness coaches in the provided text snippet.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mental Toughness",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-08T15:29:36.232204",
+      "status": "reject",
+      "reason": "Finding contains only a search query for Vince Del Monte with no actual intelligence about his strategies, offers, positioning, or business-building methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Barbell Complex Progression Model",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-08T15:29:39.970987",
+      "status": "reject",
+      "reason": "This is a training methodology article, not business intelligence about fitness coaching mentors, programs, or communities. It lacks actionable insights about building an online coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 488,
+    "scanned": 490,
     "kept": 57,
-    "rejected": 417,
-    "last_scan": "2026-07-08T13:02:08.735478",
+    "rejected": 419,
+    "last_scan": "2026-07-08T15:30:42.191657",
     "platforms": [
       "YouTube",
       "Google",
