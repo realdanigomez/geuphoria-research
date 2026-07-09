@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Build a Profitable Personal Brand (5 Simple Steps)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-11T13:10:33.754402",
-      "status": "reject",
-      "reason": "Title promises actionable steps but finding only shows a search query for Dan Martell without actual content, strategies, or insights to extract for your fitness coaching business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Actually Make Money Online This Year",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a title claim without substantive content, strategy, or specific insights about AI's impact on investment decisions. Requires actual details to evaluate business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI is Completely Changing How I Invest My Money in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-09T21:22:18.056690",
+      "status": "reject",
+      "reason": "Title only mentions AI and investing generically without specific strategies, actionable insights, or content relevant to fitness coaching business operations, creator economy, or applicable business frameworks.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 653,
+    "scanned": 654,
     "kept": 149,
-    "rejected": 500,
-    "last_scan": "2026-07-09T19:43:37.403475",
+    "rejected": 501,
+    "last_scan": "2026-07-09T21:23:15.604215",
     "platforms": [
       "YouTube",
       "Google",
