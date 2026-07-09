@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Actually Make Money Online This Year",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-11T15:40:46.998723",
-      "status": "reject",
-      "reason": "Title is generic clickbait without actual content; search query alone doesn't indicate the resource contains substantive business strategies or insights from Dan Martell.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Core Principles of Sales: Psychology and Math",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-11T21:40:50.209158",
-      "status": "reject",
-      "reason": "Title suggests sales principles but finding only shows a search query for Charlie Morgan without actual content, principles, or actionable insights to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Every day live | Br. Sam Ovens",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-12T04:41:15.682700",
-      "status": "reject",
-      "reason": "Search query alone lacks specific content, strategy, or actionable intelligence; no actual insights, frameworks, or business lessons are present to extract or learn from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Book Appointments",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Title only mentions AI and investing generically without specific strategies, actionable insights, or content relevant to fitness coaching business operations, creator economy, or applicable business frameworks.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted to Go From $0 to $10M in 12 Months, I’d Do This",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-09T22:50:58.062924",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and this title promises specific scaling methodology ($0-$10M in 12 months) that could inform content strategy, pricing models, and growth frameworks for the fitness coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How much time should you spend on mindset and visualization?",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-07-09T22:51:01.712487",
+      "status": "reject",
+      "reason": "Title is about fitness/mindset practice, not business strategy. Search reference to Sam Ovens is insufficient without actual business insights, strategies, or creator economy content in the finding itself.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Gain Laser Focus In a World of Distraction",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-07-09T22:51:02.733597",
+      "status": "reject",
+      "reason": "Contains only a search query for Sam Ovens without actual content, insights, or strategies to extract for business/content strategy purposes.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 654,
-    "kept": 149,
-    "rejected": 501,
-    "last_scan": "2026-07-09T21:23:15.604215",
+    "scanned": 657,
+    "kept": 150,
+    "rejected": 503,
+    "last_scan": "2026-07-09T22:51:57.651553",
     "platforms": [
       "YouTube",
       "Google",
