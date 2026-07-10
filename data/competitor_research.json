@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Twitter/X",
-      "title": "Turbolince (@turbolincemtb) / Posts / X - Twitter",
-      "text": "Search: \"Vince Del Monte\" site:twitter.com",
-      "url": "",
-      "time": "2026-05-02T04:11:17.869231",
-      "status": "reject",
-      "reason": "Link to Twitter search results page rather than actual competitive intelligence about business strategy, offers, or positioning of fitness business coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "Twitter/X",
       "title": "Franco Cella #OndaCivica   (@sardikus) / Posts / X - Twitter",
       "text": "Search: \"Vince Del Monte\" site:twitter.com",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a search query for Bedros Keuilian without actual competitive intelligence, strategy, content, offers, or positioning information about his business model or approach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "A Simple WORKOUT ROUTINE for Serious Mass Gain (HUGE PUMP!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-10T15:53:41.224668",
+      "status": "reject",
+      "reason": "This is a generic mass gain workout routine content, not intelligence about fitness business coaching, mentorship programs, or strategies for building an online fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 492,
+    "scanned": 493,
     "kept": 57,
-    "rejected": 421,
-    "last_scan": "2026-07-10T13:27:41.887064",
+    "rejected": 422,
+    "last_scan": "2026-07-10T15:54:44.284152",
     "platforms": [
       "YouTube",
       "Google",
