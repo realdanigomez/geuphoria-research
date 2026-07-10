@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Mental Awareness",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-12T13:06:39.578716",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens provides no actionable intelligence for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Mental Cognition",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on business transformation provides directly applicable strategies for scaling fitness coaching businesses, pricing models, and client acquisition that align with creator economy trends in the fitness niche.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Can I Help A Stranger Build A $1,000,000 Sticker Business? - Episode 2",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-10T23:05:10.562680",
+      "status": "keep",
+      "reason": "Alex Hormozi content on scaling a sticker business to $1M provides direct case study insights on productization, distribution channels, and monetization strategies applicable to coaching business models.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 660,
-    "kept": 153,
+    "scanned": 661,
+    "kept": 154,
     "rejected": 503,
-    "last_scan": "2026-07-10T22:01:46.831356",
+    "last_scan": "2026-07-10T23:06:13.251442",
     "platforms": [
       "YouTube",
       "Google",
