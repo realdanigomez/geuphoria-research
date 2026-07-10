@@ -2389,6 +2389,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and this title promises specific scaling methodology ($0-$10M in 12 months) that could inform content strategy, pricing models, and growth frameworks for the fitness coaching business.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Design The Perfect Offer in Under 10 Minutes",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-10T00:03:58.548403",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist specializing in offer design and scaling; content on rapid offer creation provides directly actionable frameworks for fitness coaches building their service offerings and pricing models",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2398,11 +2408,11 @@
     "comp_kept": 57,
     "comp_rejected": 419,
     "comp_scanned": 490,
-    "busi_kept": 150,
+    "busi_kept": 151,
     "busi_rejected": 503,
-    "busi_scanned": 657,
-    "last_scan": "2026-07-09T22:51:57.655838",
-    "total_kept": 348,
+    "busi_scanned": 658,
+    "last_scan": "2026-07-10T00:04:56.202450",
+    "total_kept": 349,
     "total_rejected": 1156,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
