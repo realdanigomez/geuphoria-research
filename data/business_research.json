@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Thinking from First Principles",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-12T13:06:44.848038",
-      "status": "reject",
-      "reason": "Search result alone with no actual content, insights, or strategies provided to evaluate for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Watch this if you run an online business but feel STUCK",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies from Dan Martell that could be applied to fitness coaching business",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Should I Take Advantage Of My Clients?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-11T23:54:14.339652",
+      "status": "reject",
+      "reason": "Title suggests ethical dilemma content but search result alone provides no actual business insight, strategy, or specific intelligence to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 665,
+    "scanned": 666,
     "kept": 154,
-    "rejected": 507,
-    "last_scan": "2026-07-11T22:47:01.298468",
+    "rejected": 508,
+    "last_scan": "2026-07-11T23:55:11.568081",
     "platforms": [
       "YouTube",
       "Google",
