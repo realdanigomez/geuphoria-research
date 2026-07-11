@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Cognition Layer",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-12T13:06:43.911327",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies; no specific actionable intelligence provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Thinking from First Principles",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title lacks specificity and content appears to be clickbait without substantive business strategy or actionable intelligence present; simply mentioning a search for Dan Martell doesn't constitute actual insights from influential business thinkers.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Time Rule",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-11T20:44:59.042492",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Dan Martell that could be applied to fitness coaching business",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 664,
+    "scanned": 665,
     "kept": 154,
-    "rejected": 506,
-    "last_scan": "2026-07-11T19:46:06.679601",
+    "rejected": 507,
+    "last_scan": "2026-07-11T20:45:56.138199",
     "platforms": [
       "YouTube",
       "Google",
