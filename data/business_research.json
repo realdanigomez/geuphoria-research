@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Pattern Recognition",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-12T13:06:42.804950",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or information provided to evaluate for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Cognition Layer",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone provides no actual content, insights, or strategies - only a search term without substantive business intelligence to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If Your Competitors Are Stealing Your Clients, Watch This",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-11T19:45:09.375192",
+      "status": "reject",
+      "reason": "Title lacks specificity and content appears to be clickbait without substantive business strategy or actionable intelligence present; simply mentioning a search for Dan Martell doesn't constitute actual insights from influential business thinkers.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 663,
+    "scanned": 664,
     "kept": 154,
-    "rejected": 505,
-    "last_scan": "2026-07-11T18:31:47.698847",
+    "rejected": 506,
+    "last_scan": "2026-07-11T19:46:06.679601",
     "platforms": [
       "YouTube",
       "Google",
