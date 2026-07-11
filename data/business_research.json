@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Do You Troubleshoot a Problem",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-12T13:06:41.848852",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or specific troubleshooting methodology provided; no actionable business intelligence present",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Pattern Recognition",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests a competition show format, but no evidence of specific business strategies, insights, or actionable intelligence from Alex Hormozi or other entrepreneurs included in the excerpt provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Outreach Epiphany",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-11T16:29:33.030502",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, insights, or strategies - only a search term without substantive business intelligence to extract.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 662,
+    "scanned": 663,
     "kept": 154,
-    "rejected": 504,
-    "last_scan": "2026-07-11T15:32:20.639392",
+    "rejected": 505,
+    "last_scan": "2026-07-11T16:30:33.530466",
     "platforms": [
       "YouTube",
       "Google",
