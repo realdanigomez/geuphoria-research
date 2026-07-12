@@ -2439,6 +2439,16 @@
       "status": "keep",
       "reason": "Alex Hormozi content on scaling a sticker business to $1M provides direct case study insights on productization, distribution channels, and monetization strategies applicable to coaching business models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Values Will Crush Your Competition",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-12T05:44:15.539641",
+      "status": "keep",
+      "reason": "Dan Martell content on values-driven competitive advantage is directly applicable to positioning a fitness coaching business and building defensible differentiation beyond commoditized training programs.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2448,11 +2458,11 @@
     "comp_kept": 57,
     "comp_rejected": 422,
     "comp_scanned": 493,
-    "busi_kept": 154,
+    "busi_kept": 155,
     "busi_rejected": 508,
-    "busi_scanned": 666,
-    "last_scan": "2026-07-12T02:30:52.439313",
-    "total_kept": 353,
+    "busi_scanned": 667,
+    "last_scan": "2026-07-12T05:45:13.851172",
+    "total_kept": 354,
     "total_rejected": 1164,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
