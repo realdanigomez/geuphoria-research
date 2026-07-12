@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Brutal Truth About Getting Rich In Your 20's",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-14T02:53:18.269074",
-      "status": "reject",
-      "reason": "Title-only result with no actual content; cannot assess for specific, actionable business intelligence without the article's substantive details",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Brutally Honest Advice to Someone Who Wants to Get Rich With AI",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-14T13:43:45.471444",
-      "status": "keep",
-      "reason": "Dan Martell content on AI wealth-building likely contains actionable entrepreneurship strategies applicable to scaling a fitness coaching business through AI automation and tools.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Brutally Honest Advice For Someone Trying to Make Money with AI",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-14T15:42:34.534378",
-      "status": "keep",
-      "reason": "Dan Martell content on monetizing AI provides direct entrepreneurship lessons applicable to building AI-powered fitness coaching products and business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to run a hyper-profitable business partnership (like me)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-14T17:13:49.812158",
-      "status": "keep",
-      "reason": "Charlie Morgan is an influential business thinker in the creator economy space; content about hyper-profitable business partnerships offers directly applicable strategies for scaling a fitness coaching business model and could generate content ideas around partnership structures, revenue optimization, and business growth tactics.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Bucket 1 They Play",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Dan Martell content on values-driven competitive advantage is directly applicable to positioning a fitness coaching business and building defensible differentiation beyond commoditized training programs.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "33 NEW Business Ideas With $1M Potential in 2025",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-12T17:00:53.397731",
+      "status": "reject",
+      "reason": "Generic listicle title lacks specificity; no actual content provided to verify if it contains actionable business strategies or insights from established business thinkers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I got a 75% show \\u0026 30% sales conversion rate (just copy me)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-12T17:00:54.493511",
+      "status": "keep",
+      "reason": "Direct conversion optimization tactics from established business figure Charlie Morgan; specific metrics (75% show rate, 30% sales conversion) provide actionable benchmarks for fitness coaching business model and sales funnel strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "why 99% of men die poor lol",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-12T17:00:55.643869",
+      "status": "reject",
+      "reason": "Title is clickbait sensationalism with no actual content provided; merely naming Charlie Morgan in search history doesn't constitute actionable business insight or strategy applicable to fitness coaching content business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alexander the Great",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-12T17:00:56.752354",
+      "status": "reject",
+      "reason": "Title is about Alexander the Great, not Charlie Morgan or business strategy. Search query doesn't match content, indicating poor relevance to fitness coaching business or creator economy insights.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 667,
-    "kept": 155,
-    "rejected": 508,
-    "last_scan": "2026-07-12T15:59:49.415586",
+    "scanned": 671,
+    "kept": 156,
+    "rejected": 511,
+    "last_scan": "2026-07-12T17:01:57.688664",
     "platforms": [
       "YouTube",
       "Google",
