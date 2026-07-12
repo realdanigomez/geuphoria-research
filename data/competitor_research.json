@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Twitter/X",
-      "title": "Franco Cella #OndaCivica   (@sardikus) / Posts / X - Twitter",
-      "text": "Search: \"Vince Del Monte\" site:twitter.com",
-      "url": "",
-      "time": "2026-05-02T04:11:19.161776",
-      "status": "reject",
-      "reason": "This is a search result page link with no actual content or intelligence about fitness business coaching strategies, offers, or positioning. It's merely a Twitter profile without displayed posts or substantive information.",
-      "track": "competitor"
-    },
-    {
-      "source": "Twitter/X",
       "title": "Vecchio (@oldfede) / Posts / X - Twitter",
       "text": "Search: \"Vince Del Monte\" site:twitter.com",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "This is a generic mass gain workout routine content, not intelligence about fitness business coaching, mentorship programs, or strategies for building an online fitness coaching business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Big Legs Made Easy: The Best Rep Range for Bigger Legs!",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-12T13:13:57.517715",
+      "status": "reject",
+      "reason": "This is generic leg training content, not business intelligence about fitness coaches or their strategies. It's a workout guide, not information about how coaches build their businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 493,
+    "scanned": 494,
     "kept": 57,
-    "rejected": 422,
-    "last_scan": "2026-07-12T11:38:04.876941",
+    "rejected": 423,
+    "last_scan": "2026-07-12T13:15:00.035588",
     "platforms": [
       "YouTube",
       "Google",
