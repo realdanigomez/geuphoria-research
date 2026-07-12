@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "source": "YouTube",
-      "title": "8 Muscle Building Diet RULES (EVERYTHING YOU MUST KNOW!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-02T05:40:52.879136",
-      "status": "reject",
-      "reason": "This is generic muscle building diet content for end consumers, not business intelligence about how fitness coaches build their coaching business, programs, or positioning strategies.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Video Overview",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-02T05:40:54.013376",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, strategy, positioning, or business intelligence provided about Vince Del Monte or his coaching program",
-      "track": "competitor"
-    },
-    {
       "source": "LinkedIn",
       "title": "Fitness CEOs: The Missing Piece to Unlock $10M in ...",
       "text": "Search: fitness business mentor site:linkedin.com",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search query alone provides no actionable intelligence about business strategy, offers, positioning, or coaching methods—requires actual content analysis to be useful.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Business Marketing - Bedros Keuilian",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-12T18:03:26.471666",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a fitness business coach who teaches online coaches marketing and business scaling strategies; search indicates potential positioning, offer, or marketing approach intelligence worth investigating.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Owning a Fitness Franchise Is a No-Brainer | Bedros Keuilian | FBBC",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-12T18:03:27.503236",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a primary fitness business coach competitor; his positioning on franchise ownership reveals alternative business model strategy and messaging that could impact online coaching positioning",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 496,
-    "kept": 58,
+    "scanned": 498,
+    "kept": 60,
     "rejected": 424,
-    "last_scan": "2026-07-12T17:00:48.622740",
+    "last_scan": "2026-07-12T18:04:27.551781",
     "platforms": [
       "YouTube",
       "Google",
