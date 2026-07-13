@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "LinkedIn",
-      "title": "Fix Your Fitness Business Strategy for More Clients",
-      "text": "Search: fitness business mentor site:linkedin.com",
-      "url": "",
-      "time": "2026-05-02T15:11:21.149323",
-      "status": "reject",
-      "reason": "Search query only, no actual content or intelligence about specific mentors, programs, strategies, or offers provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "text | Fitness Business Resource: Jim Thomas Consulting ...",
-      "text": "Search: fitness business mentor site:linkedin.com",
-      "url": "",
-      "time": "2026-05-02T15:11:22.213253",
-      "status": "reject",
-      "reason": "No specific details about Jim Thomas Consulting's strategy, content, offers, or positioning provided; appears to be a search result header without substantive competitor intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Replace 9-5 with Coaching Business | Luisa Zhou posted ...",
-      "text": "Search: fitness business mentor site:linkedin.com",
-      "url": "",
-      "time": "2026-05-02T15:11:23.290432",
-      "status": "reject",
-      "reason": "Title and search query alone provide no specific intelligence about competitor offerings, strategy, positioning, or business model - requires actual content to evaluate relevance.",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
       "title": "Coaching Business Growth Tips | Alvin Brown posted on ...",
       "text": "Search: fitness business mentor site:linkedin.com",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "This is a generic biographical question with no specific intelligence about business strategy, offers, positioning, or how Vince Del Monte helps online fitness coaches build their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Facebook Works",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-13T23:28:05.875054",
+      "status": "reject",
+      "reason": "Finding only contains a search query without any actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building A Fan Page",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-13T23:28:07.118531",
+      "status": "reject",
+      "reason": "Finding only references a search query without actual content, intelligence, or findings about Bedros Keuilian's business strategy, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Low Barrier Offers",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-13T23:28:07.959238",
+      "status": "reject",
+      "reason": "Search query alone without actual findings about offers, strategy, or positioning provides no actionable competitive intelligence.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 499,
+    "scanned": 502,
     "kept": 60,
-    "rejected": 425,
-    "last_scan": "2026-07-13T22:30:51.395616",
+    "rejected": 428,
+    "last_scan": "2026-07-13T23:29:12.017504",
     "platforms": [
       "YouTube",
       "Google",
