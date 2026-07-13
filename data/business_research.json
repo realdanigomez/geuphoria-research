@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Bucket 1 They Play",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-14T21:14:02.484659",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or substantive information provided to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Bucket 2 Delete",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is about Alexander the Great, not Charlie Morgan or business strategy. Search query doesn't match content, indicating poor relevance to fitness coaching business or creator economy insights.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Reinvent Yourself and Level Up Your Life in 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-13T02:31:25.421197",
+      "status": "reject",
+      "reason": "Title is generic self-help advice with no specific business insights, strategies, or entrepreneurship lessons evident. Merely mentioning Dan Martell in search context doesn't indicate the content contains his actual frameworks or business intelligence.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 671,
+    "scanned": 672,
     "kept": 156,
-    "rejected": 511,
-    "last_scan": "2026-07-12T23:53:39.391444",
+    "rejected": 512,
+    "last_scan": "2026-07-13T02:32:23.111682",
     "platforms": [
       "YouTube",
       "Google",
