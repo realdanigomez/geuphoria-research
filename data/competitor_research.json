@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "LinkedIn",
-      "title": "Fitness CEOs: The Missing Piece to Unlock $10M in ...",
-      "text": "Search: fitness business mentor site:linkedin.com",
-      "url": "",
-      "time": "2026-05-02T15:11:20.224088",
-      "status": "reject",
-      "reason": "Title alone doesn't provide specific intelligence about competitors, their strategies, content, offers, or positioning. Appears to be a search result placeholder without substantive competitive details.",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
       "title": "Fix Your Fitness Business Strategy for More Clients",
       "text": "Search: fitness business mentor site:linkedin.com",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Bedros Keuilian is a primary fitness business coach competitor; his positioning on franchise ownership reveals alternative business model strategy and messaging that could impact online coaching positioning",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vince, how did you get into the fitness industry?",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-13T15:21:08.276067",
+      "status": "reject",
+      "reason": "This is a generic biographical question with no specific intelligence about business strategy, offers, positioning, or how Vince Del Monte helps online fitness coaches build their business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 498,
+    "scanned": 499,
     "kept": 60,
-    "rejected": 424,
-    "last_scan": "2026-07-13T12:21:39.713657",
+    "rejected": 425,
+    "last_scan": "2026-07-13T15:22:10.461047",
     "platforms": [
       "YouTube",
       "Google",
