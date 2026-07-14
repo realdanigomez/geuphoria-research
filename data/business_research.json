@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "44 Brutal Truths I Wish I Knew at 24",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-15T22:31:29.446525",
-      "status": "reject",
-      "reason": "Title promises brutal truths but no specific content provided to evaluate; mere attribution to Dan Martell without excerpt or detail doesn't guarantee actionable business intelligence for fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "7 Insane Use Cases For Manus AI (with Zero Code)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests clickbait/entertainment content rather than substantive business insights; no evidence of specific strategies, frameworks, or lessons applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "how to build a system to actually get rich in 30 minutes",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-14T17:14:06.980725",
+      "status": "reject",
+      "reason": "Title alone lacks specific, actionable insights; no content provided to verify if it contains substantive business strategy or merely clickbait framing",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 676,
+    "scanned": 677,
     "kept": 159,
-    "rejected": 513,
-    "last_scan": "2026-07-14T15:58:47.891298",
+    "rejected": 514,
+    "last_scan": "2026-07-14T17:15:07.246108",
     "platforms": [
       "YouTube",
       "Google",
