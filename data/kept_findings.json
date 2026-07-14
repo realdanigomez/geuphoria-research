@@ -2479,6 +2479,16 @@
       "status": "keep",
       "reason": "Direct case study from Alex Hormozi on scaling a coaching business to $3M, provides actionable business model lessons applicable to fitness coaching monetization and growth strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Information Is Free, Implementation Is Paid",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-14T03:56:45.536557",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist in the creator economy space; this concept directly applies to fitness coaching positioning (selling implementation/accountability rather than information alone)",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2488,11 +2498,11 @@
     "comp_kept": 61,
     "comp_rejected": 429,
     "comp_scanned": 504,
-    "busi_kept": 158,
+    "busi_kept": 159,
     "busi_rejected": 512,
-    "busi_scanned": 674,
-    "last_scan": "2026-07-14T00:56:16.715062",
-    "total_kept": 364,
+    "busi_scanned": 675,
+    "last_scan": "2026-07-14T03:57:43.876882",
+    "total_kept": 365,
     "total_rejected": 1179,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
