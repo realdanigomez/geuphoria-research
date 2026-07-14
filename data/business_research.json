@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What to Do When You Quit Your Job: The 4 P's",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-15T21:44:59.975876",
-      "status": "reject",
-      "reason": "Title suggests general career advice rather than specific business insights, strategies, or entrepreneurship lessons relevant to fitness coaching or creator economy",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "44 Brutal Truths I Wish I Knew at 24",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist in the creator economy space; this concept directly applies to fitness coaching positioning (selling implementation/accountability rather than information alone)",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Can I Build a $3,000,000 Sticker Business in 31 Minutes?",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-14T08:36:27.514420",
+      "status": "reject",
+      "reason": "Title suggests clickbait/entertainment content rather than substantive business insights; no evidence of specific strategies, frameworks, or lessons applicable to fitness coaching business model",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 675,
+    "scanned": 676,
     "kept": 159,
-    "rejected": 512,
-    "last_scan": "2026-07-14T06:10:56.766726",
+    "rejected": 513,
+    "last_scan": "2026-07-14T08:37:30.017801",
     "platforms": [
       "YouTube",
       "Google",
