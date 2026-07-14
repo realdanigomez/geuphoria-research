@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Automate",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-28T20:07:01.623730",
-      "status": "reject",
-      "reason": "Generic search term without specific data, insights, or actionable intelligence about coach burnout causes, solutions, or metrics",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Pricing",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses coach burnout and provides first-hand strategies from an established fitness coach; relevant to understanding how coaches balance personal development with client work while managing energy.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Find Your Dream Online Fitness Clients | EntreFit Podcast |Fitness Business Coach | Sean Garner",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-14T23:50:36.813360",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with podcast content from fitness business coach; \"struggling\" search intent indicates targeting coaches facing growth challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 384,
-    "kept": 145,
+    "scanned": 385,
+    "kept": 146,
     "rejected": 238,
-    "last_scan": "2026-07-14T22:33:53.089597",
+    "last_scan": "2026-07-14T23:51:40.427716",
     "platforms": [
       "Reddit",
       "YouTube",

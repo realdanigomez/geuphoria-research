@@ -1132,6 +1132,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Find Your Dream Online Fitness Clients | EntreFit Podcast |Fitness Business Coach | Sean Garner",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-14T23:50:36.813360",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with podcast content from fitness business coach; \"struggling\" search intent indicates targeting coaches facing growth challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How To Sell High Ticket Fitness Coaching Programs",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2492,17 +2502,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 145,
+    "niche_kept": 146,
     "niche_rejected": 238,
-    "niche_scanned": 384,
+    "niche_scanned": 385,
     "comp_kept": 61,
     "comp_rejected": 431,
     "comp_scanned": 506,
     "busi_kept": 159,
     "busi_rejected": 515,
     "busi_scanned": 678,
-    "last_scan": "2026-07-14T22:36:00.545131",
-    "total_kept": 365,
+    "last_scan": "2026-07-14T23:53:48.426443",
+    "total_kept": 366,
     "total_rejected": 1184,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
