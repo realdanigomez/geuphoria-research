@@ -1532,6 +1532,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Be the Fitness Authority in Your Community | Bedros Keuilian | Fitness Business",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-14T00:54:11.594704",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a prominent fitness business coach who teaches online coaches how to build authority and grow their business; this resource likely contains positioning and community authority strategies applicable to online fitness coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
       "title": "Alex Hormozi x Tony Robbins - A Brutally Honest Conversation On The Game Of Life",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2459,21 +2469,31 @@
       "status": "keep",
       "reason": "Direct synthesis of two influential business thinkers' frameworks (Hormozi & Ovens) compressed into digestible format; likely contains actionable lessons on scaling, positioning, or offer architecture applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Can I Help a Sticker Coach Build a $3,000,000 Business?",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-14T00:55:13.717524",
+      "status": "keep",
+      "reason": "Direct case study from Alex Hormozi on scaling a coaching business to $3M, provides actionable business model lessons applicable to fitness coaching monetization and growth strategy.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 145,
     "niche_rejected": 238,
     "niche_scanned": 384,
-    "comp_kept": 60,
-    "comp_rejected": 428,
-    "comp_scanned": 502,
-    "busi_kept": 157,
+    "comp_kept": 61,
+    "comp_rejected": 429,
+    "comp_scanned": 504,
+    "busi_kept": 158,
     "busi_rejected": 512,
-    "busi_scanned": 673,
-    "last_scan": "2026-07-13T23:30:16.902513",
-    "total_kept": 362,
-    "total_rejected": 1178,
+    "busi_scanned": 674,
+    "last_scan": "2026-07-14T00:56:16.715062",
+    "total_kept": 364,
+    "total_rejected": 1179,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

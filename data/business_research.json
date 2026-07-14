@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Real Reason You Haven't Made Money With AI… Yet",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-14T23:43:54.883410",
-      "status": "reject",
-      "reason": "Title references AI monetization but finding only contains a search query for Dan Martell with no actual content, insights, or actionable strategies provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "7 new businesses making \\",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Direct synthesis of two influential business thinkers' frameworks (Hormozi & Ovens) compressed into digestible format; likely contains actionable lessons on scaling, positioning, or offer architecture applicable to fitness coaching business model",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Can I Help a Sticker Coach Build a $3,000,000 Business?",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-14T00:55:13.717524",
+      "status": "keep",
+      "reason": "Direct case study from Alex Hormozi on scaling a coaching business to $3M, provides actionable business model lessons applicable to fitness coaching monetization and growth strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 673,
-    "kept": 157,
+    "scanned": 674,
+    "kept": 158,
     "rejected": 512,
-    "last_scan": "2026-07-13T23:30:16.897596",
+    "last_scan": "2026-07-14T00:56:16.710878",
     "platforms": [
       "YouTube",
       "Google",
