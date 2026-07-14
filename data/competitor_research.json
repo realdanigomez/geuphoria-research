@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "LinkedIn",
-      "title": "Leadership Lessons in the Fitness Industry | Darrin Cohen ...",
-      "text": "Search: fitness business mentor site:linkedin.com",
-      "url": "",
-      "time": "2026-05-03T08:11:52.651273",
-      "status": "reject",
-      "reason": "Title and search query indicate general fitness industry leadership content, not specific business coaching strategies, offers, or positioning tactics for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Kavin Williams' Post",
-      "text": "Search: fitness business mentor site:linkedin.com",
-      "url": "",
-      "time": "2026-05-03T08:11:53.775901",
-      "status": "reject",
-      "reason": "Search query alone provides no actual intelligence about competitor offerings, positioning, or strategies—only indicates a search was performed with no results or analysis included.",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
       "title": "Hassaan Ahmed's Post",
       "text": "Search: fitness business mentor site:linkedin.com",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Bedros Keuilian is a prominent fitness business coach who teaches online coaches how to build authority and grow their business; this resource likely contains positioning and community authority strategies applicable to online fitness coaching businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 False Myths Online Coaches Need to Stop Believing",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-14T12:08:25.109437",
+      "status": "reject",
+      "reason": "Title suggests general mindset content for online coaches rather than specific intelligence about business strategy, offers, or positioning of fitness business mentors/programs.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to INCREASE Muscle Mass with Eccentric-Based Training (The Right Way!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-14T12:08:26.015557",
+      "status": "reject",
+      "reason": "This is educational content about eccentric training for muscle building, not intelligence about business coaches who help online fitness coaches build their businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 504,
+    "scanned": 506,
     "kept": 61,
-    "rejected": 429,
-    "last_scan": "2026-07-14T10:44:33.332275",
+    "rejected": 431,
+    "last_scan": "2026-07-14T12:08:42.819728",
     "platforms": [
       "YouTube",
       "Google",
