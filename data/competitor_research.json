@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "source": "LinkedIn",
-      "title": "Hassaan Ahmed's Post",
-      "text": "Search: fitness business mentor site:linkedin.com",
-      "url": "",
-      "time": "2026-05-03T08:11:54.990434",
-      "status": "reject",
-      "reason": "This is a search query, not actual competitor intelligence. It contains no specific information about any mentor's strategy, offers, positioning, or content—only a generic search instruction.",
-      "track": "competitor"
-    },
-    {
       "source": "Facebook",
       "title": "Online coaching platform for fitness and strength",
       "text": "Search: online fitness coaching community site:facebook.co",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "This is educational content about eccentric training for muscle building, not intelligence about business coaches who help online fitness coaches build their businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Start A Fitness Bootcamp Business",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-15T16:19:13.917414",
+      "status": "reject",
+      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategy, offers, positioning, or content—only a search query with no results or analysis included.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 506,
+    "scanned": 507,
     "kept": 61,
-    "rejected": 431,
-    "last_scan": "2026-07-15T14:48:15.087608",
+    "rejected": 432,
+    "last_scan": "2026-07-15T16:20:14.002549",
     "platforms": [
       "YouTube",
       "Google",
