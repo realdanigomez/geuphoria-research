@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Bucket 1 They Play",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-16T04:52:23.525763",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or substantive material to analyze for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Bucket 2 Delete",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, strategy details, or actionable insights from Dan Martell's AI methodology provided",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Tried to Build a $3,000,000 Sticker Business in 31 Minutes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-15T12:52:45.688773",
+      "status": "keep",
+      "reason": "Alex Hormozi case study on rapid business validation and unit economics scaling, applicable to service-based fitness coaching business models and productization strategies.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 678,
-    "kept": 159,
+    "scanned": 679,
+    "kept": 160,
     "rejected": 515,
-    "last_scan": "2026-07-15T11:14:23.471747",
+    "last_scan": "2026-07-15T12:53:49.976910",
     "platforms": [
       "YouTube",
       "Google",
