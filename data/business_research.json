@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Bucket 3 Install",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-16T04:52:25.459802",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or actionable intelligence from Dan Martell's work provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Alex Hormozi x Tony Robbins - A Brutally Honest Conversation On The Game Of Life",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell's guide on building AI agents is directly relevant to creator economy trends and emerging AI/tech strategies that fitness coaches can leverage for business automation and content scaling.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $3,000,000 Business for a Stranger in 31 Minutes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-15T17:48:02.373565",
+      "status": "keep",
+      "reason": "Alex Hormozi's case study on rapid business scaling likely contains specific frameworks, positioning strategies, or offer architecture lessons directly applicable to coaching business growth and client acquisition models.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 680,
-    "kept": 161,
+    "scanned": 681,
+    "kept": 162,
     "rejected": 515,
-    "last_scan": "2026-07-15T16:21:17.477988",
+    "last_scan": "2026-07-15T17:49:04.642840",
     "platforms": [
       "YouTube",
       "Google",
