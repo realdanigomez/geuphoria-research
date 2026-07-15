@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Alex Hormozi x Tony Robbins - A Brutally Honest Conversation On The Game Of Life",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-16T10:15:17.926152",
-      "status": "keep",
-      "reason": "Alex Hormozi and Tony Robbins conversation likely contains frameworks on scaling businesses, value creation, and life philosophy applicable to coaching business model development and client psychology strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$0 - $1M Step By Step",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi's case study on rapid business scaling likely contains specific frameworks, positioning strategies, or offer architecture lessons directly applicable to coaching business growth and client acquisition models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "NEW: Alex Hormozi Answers Your Questions on Reddit",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-15T21:58:42.432341",
+      "status": "reject",
+      "reason": "Post is just a search result link with no actual content, questions, or answers visible - cannot assess if it contains actionable business insights without the actual Q&A material.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 681,
+    "scanned": 682,
     "kept": 162,
-    "rejected": 515,
-    "last_scan": "2026-07-15T20:34:35.400572",
+    "rejected": 516,
+    "last_scan": "2026-07-15T21:59:44.704473",
     "platforms": [
       "YouTube",
       "Google",
