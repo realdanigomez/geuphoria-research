@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Day 1 of using Charlie Morgan's Skool Community To Start A Consultation Business",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-17T20:14:28.009028",
-      "status": "reject",
-      "reason": "Title only mentions Charlie Morgan's name without revealing specific strategies, frameworks, or actionable insights about starting a consultation business; appears to be a vague documentation of someone's first day rather than substantive business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Make So Much Money it Feels Like Stealing",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title and search term alone lack specific, actionable business intelligence or strategy insights needed for content creation or business strategy development.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make $250,000,000 Online | Jason Fladlien",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-16T17:47:18.754761",
+      "status": "reject",
+      "reason": "Title promises extreme revenue claims without evidence of actual content substance; search query for \"Charlie Morgan business\" suggests incomplete/misdirected research note rather than vetted business insight from established creator economy figures.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 683,
+    "scanned": 684,
     "kept": 162,
-    "rejected": 517,
-    "last_scan": "2026-07-16T16:18:05.288742",
+    "rejected": 518,
+    "last_scan": "2026-07-16T17:48:18.498966",
     "platforms": [
       "YouTube",
       "Google",
