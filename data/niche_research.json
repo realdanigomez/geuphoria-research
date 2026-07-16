@@ -1,66 +1,6 @@
 {
   "entries": [
     {
-      "source": "YouTube",
-      "title": "How to Avoid Coaching Burnout",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-28T20:07:03.936911",
-      "status": "keep",
-      "reason": "Directly addresses a primary pain point for online fitness coaches (burnout), which impacts retention, client quality, and business sustainability. Understanding burnout causes and solutions is strategically relevant to scaling and maintaining a healthy coaching business.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How do I get more leads as a fitness coach?",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-04-28T20:37:04.256621",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches; indicates demand for lead generation strategies and tactics specific to the fitness coaching industry.",
-      "track": "niche"
-    },
-    {
-      "source": "Skool",
-      "title": "Fit Pro Alpha ( Premium )",
-      "text": "Search: fitness coaching community site:skool.com",
-      "url": "",
-      "time": "2026-04-28T22:38:05.650117",
-      "status": "reject",
-      "reason": "Generic community platform name without specific pain points, strategies, or insights about fitness coach problems revealed",
-      "track": "niche"
-    },
-    {
-      "source": "Skool",
-      "title": "Community- What a day ❤️ · GOOSIFY 🍎🐛🦋🌈⭐️🩷",
-      "text": "Search: fitness coaching community site:skool.com",
-      "url": "",
-      "time": "2026-04-28T22:38:06.605292",
-      "status": "reject",
-      "reason": "Generic community post about daily experiences lacks specific intelligence about fitness coaches' business challenges, pain points, or actionable insights for the niche",
-      "track": "niche"
-    },
-    {
-      "source": "Skool",
-      "title": "9Mile Marathon Running School",
-      "text": "Search: fitness coaching community site:skool.com",
-      "url": "",
-      "time": "2026-04-28T22:38:07.564208",
-      "status": "reject",
-      "reason": "Generic fitness community reference with no insight into online coaches' specific pain points, business models, or operational challenges",
-      "track": "niche"
-    },
-    {
-      "source": "Skool",
-      "title": "Bonus Day Homework · The AI Advantage",
-      "text": "Search: fitness coaching community site:skool.com",
-      "url": "",
-      "time": "2026-04-28T22:38:10.042912",
-      "status": "reject",
-      "reason": "General search query about Skool communities lacks specific intelligence about fitness coaches' actual pain points, struggles, or actionable solutions; no data or insights provided.",
-      "track": "niche"
-    },
-    {
       "source": "Skool",
       "title": "DAY 2: What Was Your Biggest Breakthrough? 🚀 · The AI ...",
       "text": "Search: fitness coaching community site:skool.com",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Generic search term without specific pain point data, income figures, client acquisition metrics, or actionable insights into what coaches are actually struggling with.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Coaches: Here’s Your Step-by-Step 30-Day Content Plan (That Actually Gets Clients)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-16T10:56:15.734541",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point through content strategy—a core struggle for online fitness coaches monetizing their expertise",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 5-day system that solves “What do I post today?”",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-16T10:56:16.944856",
+      "status": "keep",
+      "reason": "Directly addresses content creation friction, a primary pain point limiting client acquisition and marketing consistency for online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Day 1: B-roll content (lifestyle, authenticity, and trust)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-16T10:56:18.184636",
+      "status": "reject",
+      "reason": "No specific intelligence provided—only a generic content creation topic (B-roll) without data on actual coach pain points, struggles, goals, or business metrics",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Day 2: Carousel posts for education and authority",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-16T10:56:19.385840",
+      "status": "reject",
+      "reason": "Generic carousel post tactic lacks specific insight into fitness coaches' actual pain points; \"struggling\" is too vague and the content appears to be a template rather than research revealing concrete problems coaches face.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Day 3: Talking head video to build authority",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-16T10:56:20.617189",
+      "status": "reject",
+      "reason": "Vague content about video format lacks specific insight into actual fitness coach pain points, struggles, or actionable solutions for their core business challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Day 4: Client stories and testimonials that convert",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-16T10:56:22.164374",
+      "status": "reject",
+      "reason": "Contains generic conversion tactics rather than specific intelligence about fitness coaches' actual struggles, pain points, or operational challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 386,
-    "kept": 146,
-    "rejected": 239,
-    "last_scan": "2026-07-16T08:40:43.392028",
+    "scanned": 392,
+    "kept": 148,
+    "rejected": 243,
+    "last_scan": "2026-07-16T10:57:24.531755",
     "platforms": [
       "Reddit",
       "YouTube",
