@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "$0 - $1M Step By Step",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-17T14:46:23.921382",
-      "status": "reject",
-      "reason": "Title alone without actual content cannot be evaluated for specific, actionable business intelligence or insights from the mentioned creator",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Day 1 of using Charlie Morgan's Skool Community To Start A Consultation Business",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Post is just a search result link with no actual content, questions, or answers visible - cannot assess if it contains actionable business insights without the actual Q&A material.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Being Broke. Get Busy.",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-16T03:48:11.087354",
+      "status": "reject",
+      "reason": "Title and search term alone lack specific, actionable business intelligence or strategy insights needed for content creation or business strategy development.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 682,
+    "scanned": 683,
     "kept": 162,
-    "rejected": 516,
-    "last_scan": "2026-07-16T00:04:57.760313",
+    "rejected": 517,
+    "last_scan": "2026-07-16T03:49:13.814872",
     "platforms": [
       "YouTube",
       "Google",
