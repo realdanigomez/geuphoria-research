@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Facebook",
-      "title": "Finding new clients for remote coaching?",
-      "text": "Search: online fitness coaching community site:facebook.co",
-      "url": "",
-      "time": "2026-05-03T21:42:39.705386",
-      "status": "reject",
-      "reason": "This is a search query, not actual intelligence. It contains no specific information about competitor strategies, offers, positioning, or business models—just a generic question about client acquisition with no substantive details or findings to analyze.",
-      "track": "competitor"
-    },
-    {
-      "source": "Facebook",
       "title": "What are some tips for online coaching?",
       "text": "Search: online fitness coaching community site:facebook.co",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual findings, content, strategy details, or intelligence about Bedros Keuilian's business approach, offers, or positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build Commitment",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-07-16T16:15:49.598000",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, data, or intelligence about Bedros Keuilian's strategy, offers, positioning, or business model",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 509,
+    "scanned": 510,
     "kept": 61,
-    "rejected": 434,
-    "last_scan": "2026-07-16T14:33:37.057354",
+    "rejected": 435,
+    "last_scan": "2026-07-16T16:17:01.821277",
     "platforms": [
       "YouTube",
       "Google",
