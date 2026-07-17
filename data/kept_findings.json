@@ -1572,23 +1572,13 @@
     },
     {
       "source": "YouTube",
-      "title": "If you don’t understand Leverage, you don’t understand money",
-      "text": "Search: Dan Martell",
+      "title": "How to Be Fearless - 8 Lessons to SCALE Your Fitness Business!",
+      "text": "Search: Vince Del Monte fitness coach",
       "url": "",
-      "time": "2026-05-18T16:47:40.768060",
+      "time": "2026-07-17T17:37:35.325007",
       "status": "keep",
-      "reason": "Dan Martell is an influential business strategist; \"leverage\" is a core business principle relevant to scaling fitness coaching businesses and creator economy monetization strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "5 Money Laws I Wish I Knew in My 20s",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-18T17:47:42.154303",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker; content on money laws offers actionable financial principles applicable to fitness coaching business models and creator economy strategy.",
-      "track": "business"
+      "reason": "Vince Del Monte is a recognized fitness business coach; this content likely contains scaling strategies and business lessons directly applicable to online fitness coaches seeking growth tactics.",
+      "track": "competitor"
     },
     {
       "source": "YouTube",
@@ -2529,21 +2519,31 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker known for sales and entrepreneurship strategies; \"closing deals\" is directly applicable to fitness coaching business models (client acquisition, high-ticket coaching offers, partnership negotiations).",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $3,000,000 Business for a Stranger in 31 Minutes - Episode 2",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-17T17:38:49.222986",
+      "status": "keep",
+      "reason": "Direct access to Alex Hormozi's business-building methodology and rapid value creation framework applicable to service-based fitness coaching businesses, plus demonstrable case study of scaling mechanics within compressed timeframe.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 152,
     "niche_rejected": 253,
     "niche_scanned": 406,
-    "comp_kept": 62,
-    "comp_rejected": 436,
-    "comp_scanned": 512,
-    "busi_kept": 163,
-    "busi_rejected": 519,
-    "busi_scanned": 686,
-    "last_scan": "2026-07-17T16:18:40.160961",
-    "total_kept": 377,
-    "total_rejected": 1208,
+    "comp_kept": 63,
+    "comp_rejected": 443,
+    "comp_scanned": 520,
+    "busi_kept": 164,
+    "busi_rejected": 520,
+    "busi_scanned": 688,
+    "last_scan": "2026-07-17T17:39:53.034065",
+    "total_kept": 379,
+    "total_rejected": 1216,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

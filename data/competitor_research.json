@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "source": "Facebook",
-      "title": "Personalized online fitness coaching program available",
-      "text": "Search: online fitness coaching community site:facebook.co",
-      "url": "",
-      "time": "2026-05-03T21:42:42.872161",
-      "status": "reject",
-      "reason": "No specific intelligence about fitness business coaches, their strategies, offers, or positioning. Generic search result about general fitness coaching without competitor analysis value.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Create Offers That People Want to Buy",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-04T01:12:04.969121",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about how Bedros Keuilian helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "What Is an Objection",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-04T01:12:05.995656",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offer, or positioning information about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "What Is the Cut Method",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-04T01:12:07.813427",
-      "status": "reject",
-      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategies, offers, positioning, or business methods—only a generic article title about \"the Cut Method\" with no content details provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Ad Copy",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-04T01:12:08.716501",
-      "status": "reject",
-      "reason": "Search query alone without any ad copy, strategy details, positioning, or business intelligence content provided - no actionable competitive findings to analyze.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Super Bodybuilding Foods That Build Muscle Fast",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-05T02:45:40.656226",
-      "status": "reject",
-      "reason": "This is general muscle-building nutrition content, not intelligence about business coaches or programs that help online fitness coaches build their businesses. The search mention of Vince Del Monte is insufficient without actual content about his coaching methodology, business strategies, or offers.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "MMA Shoulder Workout Warmup",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-05T02:45:42.123340",
-      "status": "reject",
-      "reason": "This is an MMA shoulder workout article, not intelligence about fitness business coaching. The search mention of Vince Del Monte is incidental and provides no actionable insights about his business strategies, offers, or coaching methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "What do you do to stay motivated?",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-05T02:45:43.188015",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about competitor strategy, offers, positioning, or business-building methods. Requires actual content analysis, not just a name mention.",
-      "track": "competitor"
-    },
-    {
       "source": "YouTube",
       "title": "How To Sell High Ticket Fitness Coaching Programs",
       "text": "Search: Brian Mark fitness coaching",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Title alone suggests general coaching strategies without evidence of specific business-building intelligence, competitive positioning, or actionable tactics relevant to online fitness coaches' business models.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Be Fearless - 8 Lessons to SCALE Your Fitness Business!",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:35.325007",
+      "status": "keep",
+      "reason": "Vince Del Monte is a recognized fitness business coach; this content likely contains scaling strategies and business lessons directly applicable to online fitness coaches seeking growth tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Paradox of Progress",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:36.298088",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, strategy, offers, or business intelligence about how Vince Del Monte helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Reality Doc",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:37.739180",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy details, offers, or actionable intelligence about Vince Del Monte's business approach or coaching methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Death Spiral",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:38.788062",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual content, data, or intelligence about competitor strategies, offers, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Developing Your Team Members",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:39.679216",
+      "status": "reject",
+      "reason": "Contains only a search query for Vince Del Monte with no actual content, strategy, offers, or positioning information to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understanding What Drives Your Team Members",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:40.992184",
+      "status": "reject",
+      "reason": "Title discusses team management/leadership, not fitness business coaching strategy, offers, or positioning for online fitness coaches. Search term mentions Vince Del Monte but content doesn't appear to deliver competitor intelligence on his methods, positioning, or business model.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Own Your Vulnerability",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:42.648149",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about business strategy, offers, positioning, or how Vince Del Monte helps coaches build their business. Actual content needed.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get Excited about Mistakes Disappointments and Failures",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-17T17:37:44.525418",
+      "status": "reject",
+      "reason": "No actionable intelligence about business building strategies, offers, or positioning. The title suggests mindset content unrelated to how online fitness coaches build their businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 512,
-    "kept": 62,
-    "rejected": 436,
-    "last_scan": "2026-07-17T16:17:36.696474",
+    "scanned": 520,
+    "kept": 63,
+    "rejected": 443,
+    "last_scan": "2026-07-17T17:38:47.157837",
     "platforms": [
       "YouTube",
       "Google",
