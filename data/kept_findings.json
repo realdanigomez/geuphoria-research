@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro \\u0026 Hard Truth",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-28T23:37:01.988514",
-      "status": "keep",
-      "reason": "Directly addresses burnout, a critical pain point for online fitness coaches affecting retention, business sustainability, and scaling potential.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Industry Problems",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-28T23:37:03.140331",
-      "status": "keep",
-      "reason": "Directly addresses burnout, a core pain point for fitness coaches that impacts retention, service quality, and business sustainability—understanding this issue helps develop solutions for coach longevity and scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Personal Trainer Burnout | Jeff From Sorta Healthy Talks About The Trainer Lifestyle",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1138,6 +1118,26 @@
       "time": "2026-07-16T10:56:16.944856",
       "status": "keep",
       "reason": "Directly addresses content creation friction, a primary pain point limiting client acquisition and marketing consistency for online fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-07-17T02:32:27.959457",
+      "status": "keep",
+      "reason": "Directly addresses three core pain points for online fitness coaches: client onboarding systems, retention strategies, and communication frameworks—all critical for scaling without burnout and improving client acquisition ROI.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exactly How To Build A $10k/mo Online Coaching Business",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-07-17T02:32:28.970897",
+      "status": "keep",
+      "reason": "Directly addresses income goal ($10k/mo) and business model scaling—core pain point for coaches seeking revenue benchmarks and growth strategies",
       "track": "niche"
     },
     {
@@ -2522,18 +2522,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 148,
-    "niche_rejected": 243,
-    "niche_scanned": 392,
+    "niche_kept": 150,
+    "niche_rejected": 249,
+    "niche_scanned": 400,
     "comp_kept": 62,
     "comp_rejected": 436,
     "comp_scanned": 512,
     "busi_kept": 162,
     "busi_rejected": 519,
     "busi_scanned": 685,
-    "last_scan": "2026-07-16T23:59:11.414604",
-    "total_kept": 372,
-    "total_rejected": 1198,
+    "last_scan": "2026-07-17T02:35:39.130846",
+    "total_kept": 374,
+    "total_rejected": 1204,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
