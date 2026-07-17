@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What to Do When You Don’t Know What to Do",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-18T20:17:39.035431",
-      "status": "reject",
-      "reason": "Search query alone without actual content provides no specific, actionable business intelligence or strategy to extract for fitness coaching content or business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Catch Up In Life (Using Logic)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises universal sales principle but provides no actual content, strategy, or actionable insight—just a name search with no substantive business lesson or framework to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Let Your Customers Feel Their Pain",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-17T20:28:12.592240",
+      "status": "reject",
+      "reason": "Title lacks specificity and text only contains a name search with no actual content, insights, or strategies to extract for business application.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 688,
+    "scanned": 689,
     "kept": 164,
-    "rejected": 520,
-    "last_scan": "2026-07-17T19:05:24.763783",
+    "rejected": 521,
+    "last_scan": "2026-07-17T20:29:10.161182",
     "platforms": [
       "YouTube",
       "Google",
