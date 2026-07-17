@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Exactly How to Get Clients As An Online Fitness Coach (it's Easy)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-04-29T07:07:09.803386",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition—a primary pain point for online fitness coaches—and promises actionable strategies rather than theory",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Avoid Trainer Burnout",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-04-29T08:37:22.242193",
-      "status": "keep",
-      "reason": "Directly addresses trainer burnout, a core pain point affecting retention, service quality, and business sustainability for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "The Impending Downfall Of Online Fitness Coaching...",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1152,6 +1132,16 @@
     },
     {
       "source": "YouTube",
+      "title": "If I Were A PT and Starting Over, This Is How I'd Make $100k A Year",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-17T22:13:21.042420",
+      "status": "keep",
+      "reason": "Directly addresses income goals ($100k) and business strategy/systems for fitness coaches, providing actionable framework for a core pain point (scaling revenue)",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Comprehensive Health with Vince Del Monte—Fitness Business Coach",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1569,16 +1559,6 @@
       "status": "keep",
       "reason": "Vince Del Monte is a recognized fitness business coach; this content likely contains scaling strategies and business lessons directly applicable to online fitness coaches seeking growth tactics.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Small Business Owners Always Undercharge",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-19T08:18:05.908129",
-      "status": "keep",
-      "reason": "Direct Alex Hormozi content on pricing strategy - a foundational business concept applicable to fitness coaching services and creator businesses seeking revenue optimization",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2519,21 +2499,31 @@
       "status": "keep",
       "reason": "Direct access to Alex Hormozi's business-building methodology and rapid value creation framework applicable to service-based fitness coaching businesses, plus demonstrable case study of scaling mechanics within compressed timeframe.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get More Done Than 99% of People",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-17T22:15:40.508419",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker and this productivity content likely contains actionable strategies applicable to coaching business operations, team scaling, and creator efficiency",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 152,
-    "niche_rejected": 253,
-    "niche_scanned": 406,
+    "niche_kept": 153,
+    "niche_rejected": 258,
+    "niche_scanned": 412,
     "comp_kept": 63,
     "comp_rejected": 445,
     "comp_scanned": 522,
-    "busi_kept": 164,
-    "busi_rejected": 521,
-    "busi_scanned": 689,
-    "last_scan": "2026-07-17T21:23:29.721352",
-    "total_kept": 379,
-    "total_rejected": 1219,
+    "busi_kept": 165,
+    "busi_rejected": 524,
+    "busi_scanned": 693,
+    "last_scan": "2026-07-17T22:16:41.859202",
+    "total_kept": 381,
+    "total_rejected": 1227,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
