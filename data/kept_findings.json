@@ -2589,6 +2589,16 @@
       "status": "keep",
       "reason": "Alex Hormozi's case study on a $1.1M sticker business provides scalable business model insights and growth strategies applicable to coaching content monetization and product diversification.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How She Makes $1.1M With Stickers | Building a Business for a Stranger - Episode 2",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-18T17:56:24.554854",
+      "status": "keep",
+      "reason": "Alex Hormozi content featuring a real case study on monetizing a simple product (stickers) to $1.1M demonstrates scalable business model principles applicable to fitness coaching (packaging, positioning, distribution) and provides actionable insights on building businesses with limited resources.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2596,14 +2606,14 @@
     "niche_rejected": 266,
     "niche_scanned": 422,
     "comp_kept": 70,
-    "comp_rejected": 468,
-    "comp_scanned": 552,
-    "busi_kept": 169,
+    "comp_rejected": 472,
+    "comp_scanned": 556,
+    "busi_kept": 170,
     "busi_rejected": 526,
-    "busi_scanned": 699,
-    "last_scan": "2026-07-18T16:57:15.677799",
-    "total_kept": 394,
-    "total_rejected": 1260,
+    "busi_scanned": 700,
+    "last_scan": "2026-07-18T17:57:27.977987",
+    "total_kept": 395,
+    "total_rejected": 1264,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
