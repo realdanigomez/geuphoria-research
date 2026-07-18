@@ -2579,6 +2579,36 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker and this productivity content likely contains actionable strategies applicable to coaching business operations, team scaling, and creator efficiency",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "13 Years of Marketing Advice in 85 Mins",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-18T13:38:19.005326",
+      "status": "keep",
+      "reason": "Alex Hormozi is a highly influential business strategist in the creator economy space; content condensing 13 years of marketing advice offers directly applicable strategies for fitness coaching business models, pricing psychology, and customer acquisition—core competencies for scaling a coaching business.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Customers So Fast It Feels ILLEGAL",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-18T13:38:20.241621",
+      "status": "keep",
+      "reason": "Alex Hormozi is a prominent business strategist known for customer acquisition frameworks; a piece titled \"How To Get Customers So Fast It Feels ILLEGAL\" likely contains specific tactics on scaling customer growth that directly applies to fitness coaching business strategy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $5,000,000 Business for a Stranger in 42 Mins",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-18T13:38:21.334691",
+      "status": "keep",
+      "reason": "Alex Hormozi content on rapid business scaling contains directly applicable strategies for positioning fitness coaching as a high-ticket service and structuring offers that the business can reference or adapt.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2588,12 +2618,12 @@
     "comp_kept": 70,
     "comp_rejected": 468,
     "comp_scanned": 552,
-    "busi_kept": 165,
-    "busi_rejected": 525,
-    "busi_scanned": 694,
-    "last_scan": "2026-07-18T12:02:00.963188",
-    "total_kept": 390,
-    "total_rejected": 1257,
+    "busi_kept": 168,
+    "busi_rejected": 526,
+    "busi_scanned": 698,
+    "last_scan": "2026-07-18T13:39:23.488256",
+    "total_kept": 393,
+    "total_rejected": 1258,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
