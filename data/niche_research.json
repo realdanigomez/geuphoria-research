@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "Google",
-      "title": "Why Personal Trainers Fail: A Simple Business Plan",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:24.923775",
-      "status": "keep",
-      "reason": "Directly addresses why personal trainers fail in business, likely covering root causes of client acquisition, pricing, systems, and scaling challenges that online fitness coaches face",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
-      "title": "Should Personal Trainers and Coaches Be Licensed by ...",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:26.093595",
-      "status": "reject",
-      "reason": "Title suggests regulatory/licensing debate rather than business pain points, challenges, or actionable strategies for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
-      "title": "Personal Trainer? Want to grow your business with a no ...",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:27.439523",
-      "status": "reject",
-      "reason": "Title is truncated and text only shows a search query without actual findings, data, or insights about trainer business challenges. No specific intelligence provided.",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
-      "title": "How to Start Your Own Personal Training Business",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:28.465570",
-      "status": "reject",
-      "reason": "Generic overview of starting a PT business lacks specific insight into pain points of established online fitness coaches (client acquisition strategies, scaling systems, burnout factors, pricing models, etc.)",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
       "title": "Personal Trainers / Group Fitness Instructors",
       "text": "Search: personal trainer business challenges",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Generic search term with no insights into coach pain points, struggles, or specific problems - lacks actionable intelligence about their actual challenges or needs.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "HOW TO GET MORE CLIENTS AS A PERSONAL TRAINER? MY TOP 5 TIPS",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-07-18T03:52:14.260713",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches; likely contains specific strategies for lead generation and conversion that could reveal competitive positioning or untapped marketing channels.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Away Free Content",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-07-18T03:52:15.586728",
+      "status": "reject",
+      "reason": "Generic advice without specific data on fitness coaches' client acquisition challenges, conversion rates, or content strategy effectiveness for this niche",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Think About Your Audience",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-07-18T03:52:16.676048",
+      "status": "reject",
+      "reason": "Generic advice about audience consideration lacks specific insight into fitness coaches' actual pain points, client acquisition strategies, or business challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start Online Fitness Coaching in 2026 (Everything you Need to Know)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-07-18T03:52:20.665262",
+      "status": "reject",
+      "reason": "Generic how-to guide lacks specific insights into actual pain points, struggles, or solutions fitness coaches face; unlikely to contain actionable intelligence beyond surface-level advice.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 416,
-    "kept": 154,
-    "rejected": 261,
-    "last_scan": "2026-07-18T00:54:58.996922",
+    "scanned": 420,
+    "kept": 155,
+    "rejected": 264,
+    "last_scan": "2026-07-18T03:53:17.599146",
     "platforms": [
       "Reddit",
       "YouTube",

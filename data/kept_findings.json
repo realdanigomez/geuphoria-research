@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Google",
-      "title": "Why Personal Trainers Fail: A Simple Business Plan",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:24.923775",
-      "status": "keep",
-      "reason": "Directly addresses why personal trainers fail in business, likely covering root causes of client acquisition, pricing, systems, and scaling challenges that online fitness coaches face",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
       "title": "Personal Trainers / Group Fitness Instructors",
       "text": "Search: personal trainer business challenges",
       "url": "",
@@ -1142,6 +1132,16 @@
     },
     {
       "source": "YouTube",
+      "title": "HOW TO GET MORE CLIENTS AS A PERSONAL TRAINER? MY TOP 5 TIPS",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-07-18T03:52:14.260713",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches; likely contains specific strategies for lead generation and conversion that could reveal competitive positioning or untapped marketing channels.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Comprehensive Health with Vince Del Monte—Fitness Business Coach",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1598,6 +1598,36 @@
       "time": "2026-07-18T00:55:10.991064",
       "status": "keep",
       "reason": "Brian Mark is a recognized fitness business coach who teaches scaling strategies; this title indicates content about progressive business growth frameworks specifically for online fitness coaches, which is directly actionable competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Quit STRUGGLING Financially: $5K/Month Fitness Business Blueprint",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-18T03:53:24.160585",
+      "status": "keep",
+      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches how to build profitable businesses; searching for his $5K/Month blueprint indicates specific business model strategy and positioning tactics relevant to competitor analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction: Scaling from 0 to $5K/month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-18T03:53:25.497660",
+      "status": "keep",
+      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches how to scale revenue; this search indicates content exists on his scaling methodology which is directly relevant competitor intelligence for business model strategies.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Using Free Coaching to Build Social Proof",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-18T03:53:29.621958",
+      "status": "keep",
+      "reason": "Charlie Johnson is a prominent fitness business coach who teaches online coaches how to build social proof through free coaching—a core business strategy for client acquisition and credibility building.",
       "track": "competitor"
     },
     {
@@ -2552,18 +2582,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 154,
-    "niche_rejected": 261,
-    "niche_scanned": 416,
-    "comp_kept": 67,
-    "comp_rejected": 455,
-    "comp_scanned": 536,
+    "niche_kept": 155,
+    "niche_rejected": 264,
+    "niche_scanned": 420,
+    "comp_kept": 70,
+    "comp_rejected": 460,
+    "comp_scanned": 544,
     "busi_kept": 165,
     "busi_rejected": 524,
     "busi_scanned": 693,
-    "last_scan": "2026-07-18T00:57:09.415394",
-    "total_kept": 386,
-    "total_rejected": 1240,
+    "last_scan": "2026-07-18T03:55:31.911066",
+    "total_kept": 390,
+    "total_rejected": 1248,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
