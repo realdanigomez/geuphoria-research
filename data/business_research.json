@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Move 10x Faster In Life - Alex Hormozi (4K)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-19T15:48:19.267486",
-      "status": "reject",
-      "reason": "Search result only shows title and creator name without actual content, insights, or actionable intelligence to evaluate for business strategy value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Stop Caring About Other People’s Opinions",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, article, or insights from Dan Martell cannot provide actionable business intelligence or strategy",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Operate A Business",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-18T12:01:00.966378",
+      "status": "reject",
+      "reason": "Generic title with no specific content provided; search query alone doesn't demonstrate actionable business insights or strategies applicable to fitness coaching business model.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 693,
+    "scanned": 694,
     "kept": 165,
-    "rejected": 524,
-    "last_scan": "2026-07-18T11:02:57.072897",
+    "rejected": 525,
+    "last_scan": "2026-07-18T12:02:00.958485",
     "platforms": [
       "YouTube",
       "Google",
