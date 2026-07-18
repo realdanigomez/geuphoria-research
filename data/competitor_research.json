@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Lat Pulldown",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-10T04:08:07.634502",
-      "status": "reject",
-      "reason": "The content is about lat pulldown exercise technique, not business intelligence about fitness coaches or their strategies. Mentioning Vince Del Monte in a search query doesn't make exercise form content relevant to competitor business analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Gain Muscle Without Weights (10 SECOND ACTIVATION DRILL!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-10T18:38:36.616442",
-      "status": "reject",
-      "reason": "Contains only a generic fitness tip unrelated to business coaching; no intelligence about fitness business strategies, coaching programs, or how coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "READY TO JACK UP YOUR CHEST WITHOUT WEIGHT? DROP A BIG THUMBS UP!",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Interview and workout content lacks specific business strategy, positioning, or offer intelligence relevant to coaching online fitness coaches. No actionable competitor business insights provided.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Best Business Coaches To Hire",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-07-18T11:00:59.736899",
+      "status": "reject",
+      "reason": "Title is generic and search term alone doesn't confirm the content discusses fitness business coaches or contains actionable strategy/positioning intelligence specific to online fitness coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scott Oliver",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-07-18T11:01:00.992151",
+      "status": "reject",
+      "reason": "Finding mentions Brian Mark in a search context but provides no actual intelligence about Scott Oliver, his offerings, strategies, or positioning that would be useful for understanding the competitive landscape of fitness business coaching.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 550,
+    "scanned": 552,
     "kept": 70,
-    "rejected": 466,
-    "last_scan": "2026-07-18T09:56:41.628336",
+    "rejected": 468,
+    "last_scan": "2026-07-18T11:01:56.447355",
     "platforms": [
       "YouTube",
       "Google",
