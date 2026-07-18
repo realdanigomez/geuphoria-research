@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Google",
-      "title": "How to Build a Risk Management Plan for Your Fitness ...",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:31.644372",
-      "status": "keep",
-      "reason": "Addresses risk management as a business operational challenge for fitness coaches, relevant to scaling operations and protecting income streams",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
       "title": "Going from personal trainer to gym owner is a complete ...",
       "text": "Search: personal trainer business challenges",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic launch advice without specific insights into fitness coaches' unique pain points, business models, client acquisition strategies, or scaling challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Brand Priorities",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-18T20:05:03.793226",
+      "status": "reject",
+      "reason": "Generic search term without specific insights about fitness coach pain points, struggles, or actionable solutions - lacks concrete data on what coaches actually struggle with",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 422,
+    "scanned": 423,
     "kept": 155,
-    "rejected": 266,
-    "last_scan": "2026-07-18T18:59:34.713371",
+    "rejected": 267,
+    "last_scan": "2026-07-18T20:06:06.491050",
     "platforms": [
       "Reddit",
       "YouTube",
