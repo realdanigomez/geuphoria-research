@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Google",
-      "title": "14 Program Design Tips for Personal Trainers",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:30.675306",
-      "status": "keep",
-      "reason": "Addresses program design efficiency, a core pain point for coaches scaling their business without increasing time investment per client",
-      "track": "niche"
-    },
-    {
-      "source": "Google",
       "title": "How to Build a Risk Management Plan for Your Fitness ...",
       "text": "Search: personal trainer business challenges",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic search term without specific data about coach pain points, struggles, or actionable solutions - lacks insight into actual problems fitness coaches face",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Want to Start an Online Coaching Business? Here's 3 Big DOS and DON'TS When Launching From Scratch.",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-07-18T16:54:11.080976",
+      "status": "reject",
+      "reason": "Generic launch advice without specific insights into fitness coaches' unique pain points, business models, client acquisition strategies, or scaling challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 421,
+    "scanned": 422,
     "kept": 155,
-    "rejected": 265,
-    "last_scan": "2026-07-18T15:54:22.434586",
+    "rejected": 266,
+    "last_scan": "2026-07-18T16:55:08.211122",
     "platforms": [
       "Reddit",
       "YouTube",
