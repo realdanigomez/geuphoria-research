@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Funeral of Vince Del Monte",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-17T07:32:58.381653",
-      "status": "reject",
-      "reason": "This is about Vince Del Monte's death, not about his business strategies, coaching methods, or programs that would provide actionable intelligence for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Get Fit and Jacked The Easy Way",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Brian Mark is a recognized fitness business coach who teaches high-ticket coaching sales strategies; this resource likely contains specific positioning, pricing, and sales tactics applicable to online fitness coaches building their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a High Ticket Online Fitness Coaching Offer ($1000+)",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-07-19T14:38:27.485444",
+      "status": "keep",
+      "reason": "Directly addresses high-ticket offer pricing strategy ($1000+), a core business model for online fitness coaches; Brian Mark is a recognized fitness business coach whose content targets this audience.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 563,
-    "kept": 71,
+    "scanned": 564,
+    "kept": 72,
     "rejected": 478,
-    "last_scan": "2026-07-19T13:12:37.136677",
+    "last_scan": "2026-07-19T14:39:22.287009",
     "platforms": [
       "YouTube",
       "Google",

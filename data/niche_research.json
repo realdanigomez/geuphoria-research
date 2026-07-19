@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I Tried 21 Ways to Get Coaching Clients, These Are the Best",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-01T05:09:14.050528",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition methods with comparative analysis of 21 strategies, providing coaches with tested approaches to solve their most critical pain point: getting clients.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "What Does An Online Fitness Coach Actually Do?",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic search query with no insight into specific pain points, struggles, or actionable intelligence for online fitness coaches",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Quit Your Job In 2026 And Become An Online Fitness Coach",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-19T14:37:15.223996",
+      "status": "reject",
+      "reason": "Generic career transition advice without specific pain points, struggles, or actionable intelligence relevant to fitness coaches' actual business challenges like client acquisition, pricing, retention, or scaling.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 424,
+    "scanned": 425,
     "kept": 155,
-    "rejected": 268,
-    "last_scan": "2026-07-19T13:11:34.384705",
+    "rejected": 269,
+    "last_scan": "2026-07-19T14:38:18.019276",
     "platforms": [
       "Reddit",
       "YouTube",
