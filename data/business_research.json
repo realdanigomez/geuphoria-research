@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How CEOs Schedule Their Day",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-21T01:20:04.019622",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business figure known for founder scaling strategies and productivity systems; CEO scheduling insights could provide actionable frameworks for structuring coaching business operations and team management.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Realistic Day in the Life as a CEO",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-21T01:20:05.530360",
-      "status": "reject",
-      "reason": "Title alone doesn't confirm the content contains actionable business insights or strategies—it's merely a vague lifestyle piece. Without evidence of specific business lessons, frameworks, or strategies from Dan Martell, this reads as generic \"day in the life\" content rather than strategic intelligence for a fitness coaching business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Multi-Million Dollar Morning Routine",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Alex Hormozi content featuring a real case study on monetizing a simple product (stickers) to $1.1M demonstrates scalable business model principles applicable to fitness coaching (packaging, positioning, distribution) and provides actionable insights on building businesses with limited resources.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why AI won't make you rich in 2026",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-19T04:28:51.086724",
+      "status": "reject",
+      "reason": "Search query only with no actual content, insights, or substantive information provided to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Unrelenting Discipline",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-19T04:28:54.701253",
+      "status": "reject",
+      "reason": "Search query without actual content or insights; no specific business strategy, framework, or actionable intelligence provided to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 700,
+    "scanned": 702,
     "kept": 170,
-    "rejected": 526,
-    "last_scan": "2026-07-19T01:02:21.626062",
+    "rejected": 528,
+    "last_scan": "2026-07-19T04:29:54.422991",
     "platforms": [
       "YouTube",
       "Google",

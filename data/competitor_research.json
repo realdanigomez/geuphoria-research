@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Get Personal Training Clients From Facebook",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-15T23:13:50.913612",
-      "status": "reject",
-      "reason": "Finding only mentions a name search with no actual content, strategy, offers, or positioning details about how Bedros Keuilian helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-15T23:13:51.778434",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, strategy, offers, or positioning information about Bedros Keuilian or competitor intelligence provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "What is Facebook",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-15T23:13:52.788616",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching competitors.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Dominate The Fitness Industry",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-16T12:44:17.613108",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Living A Comfortable Life",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-16T12:44:18.679111",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, or business approach. No actionable competitor intelligence provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Funeral of Vince Del Monte",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Contains generic fitness modeling advice unrelated to business coaching or strategies for building an online fitness coaching business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Deadlifts",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-19T04:27:42.918635",
+      "status": "reject",
+      "reason": "This is a generic deadlift article with no information about fitness business coaching, mentorship programs, or strategies for building an online coaching business. Merely mentioning Vince Del Monte in a search query does not constitute competitor intelligence about coaching business models or offerings.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Clean and Press",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-19T04:27:44.033474",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about business strategy, offers, positioning, or coaching methods—it's just a search term without substantive content about how Vince Del Monte helps fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Bench Press",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-19T04:27:45.064673",
+      "status": "reject",
+      "reason": "Only mentions a name without providing strategy, content, offers, positioning, or business intelligence about how Vince Del Monte helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pullups",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-19T04:27:46.256061",
+      "status": "reject",
+      "reason": "Search query alone without content, strategy, offers, or business intelligence about fitness coaching business building",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Sell High Ticket Coaching (35M Sales Secrets)",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-07-19T04:27:55.096242",
+      "status": "keep",
+      "reason": "Brian Mark is a recognized fitness business coach who teaches high-ticket coaching sales strategies; this resource likely contains specific positioning, pricing, and sales tactics applicable to online fitness coaches building their business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 558,
-    "kept": 70,
-    "rejected": 474,
-    "last_scan": "2026-07-19T01:01:18.260819",
+    "scanned": 563,
+    "kept": 71,
+    "rejected": 478,
+    "last_scan": "2026-07-19T04:28:49.486443",
     "platforms": [
       "YouTube",
       "Google",
