@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Day in the Life of a CEO",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-21T01:20:09.061843",
-      "status": "reject",
-      "reason": "Title suggests general CEO lifestyle content without specific business insights, strategies, or actionable intelligence. Search term alone doesn't confirm substantive business methodology or framework relevant to fitness coaching entrepreneurship.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Watch This If You Have a Service Business",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist known for growth and scaling expertise; a piece questioning referral strategy likely contains actionable insights on customer acquisition channels and business model optimization relevant to fitness coaching growth.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Referrals Will Sink Your Business",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-19T19:05:43.180416",
+      "status": "keep",
+      "reason": "Dan Martell content on referral strategy risks provides actionable intelligence on growth channel pitfalls and business model vulnerabilities relevant to fitness coaching scaling",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 704,
-    "kept": 171,
+    "scanned": 705,
+    "kept": 172,
     "rejected": 529,
-    "last_scan": "2026-07-19T17:59:06.431601",
+    "last_scan": "2026-07-19T19:06:40.575103",
     "platforms": [
       "YouTube",
       "Google",
