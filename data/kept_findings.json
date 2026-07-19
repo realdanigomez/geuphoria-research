@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "source": "Google",
-      "title": "Going from personal trainer to gym owner is a complete ...",
-      "text": "Search: personal trainer business challenges",
-      "url": "",
-      "time": "2026-05-01T00:09:32.859566",
-      "status": "keep",
-      "reason": "Directly addresses transition challenges that online coaches face when scaling (business structure, operational complexity, financial management) - reveals pain points around growth and systems that apply to coach business models",
-      "track": "niche"
-    },
-    {
       "source": "YouTube",
       "title": "I Tried 21 Ways to Get Coaching Clients, These Are the Best",
       "text": "Search: fitness coach getting clients",
@@ -2593,17 +2583,17 @@
   ],
   "stats": {
     "niche_kept": 155,
-    "niche_rejected": 267,
-    "niche_scanned": 423,
+    "niche_rejected": 268,
+    "niche_scanned": 424,
     "comp_kept": 71,
     "comp_rejected": 478,
     "comp_scanned": 563,
     "busi_kept": 170,
     "busi_rejected": 529,
     "busi_scanned": 703,
-    "last_scan": "2026-07-19T07:07:59.482106",
+    "last_scan": "2026-07-19T09:28:47.758652",
     "total_kept": 396,
-    "total_rejected": 1274,
+    "total_rejected": 1275,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
