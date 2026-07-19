@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Multi-Million Dollar Morning Routine",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-21T01:20:06.631414",
-      "status": "reject",
-      "reason": "Title alone lacks specific actionable insights; requires actual content from Dan Martell to assess business value beyond generic routine topic",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What it’s Like to Live Like a $100M CEO (Day in the life of Dan Martell)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query without actual content or insights; no specific business strategy, framework, or actionable intelligence provided to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Acquisition System Blueprint",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-19T07:06:59.710421",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or specific insights—no actionable intelligence to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 702,
+    "scanned": 703,
     "kept": 170,
-    "rejected": 528,
-    "last_scan": "2026-07-19T04:29:54.422991",
+    "rejected": 529,
+    "last_scan": "2026-07-19T07:07:59.478483",
     "platforms": [
       "YouTube",
       "Google",
