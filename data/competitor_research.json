@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Get Fit and Jacked The Easy Way",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-18T15:16:26.417571",
-      "status": "reject",
-      "reason": "Contains only a search query without actual findings, strategy, content, offers, or positioning intelligence about Bedros Keuilian or fitness business coaching practices.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Be Greedy",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses high-ticket offer pricing strategy ($1000+), a core business model for online fitness coaches; Brian Mark is a recognized fitness business coach whose content targets this audience.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dips",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-19T16:55:53.417120",
+      "status": "reject",
+      "reason": "Search query alone without actual content about fitness business coaching, strategy, or offers provides no actionable intelligence.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 564,
+    "scanned": 565,
     "kept": 72,
-    "rejected": 478,
-    "last_scan": "2026-07-19T15:56:38.934841",
+    "rejected": 479,
+    "last_scan": "2026-07-19T16:56:55.480749",
     "platforms": [
       "YouTube",
       "Google",
