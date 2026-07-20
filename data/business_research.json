@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Chris took his agency from $40k/mo to $280k/mo in 8 months (w/ 85% margins)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-21T17:20:40.443318",
-      "status": "keep",
-      "reason": "Direct case study of rapid agency scaling with concrete metrics (6.5x growth, margin optimization) from proven business educator Charlie Morgan—provides replicable playbook for fitness coaching businesses looking to systematize and increase profitability.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Chris took his agency from $67k/mo to $220k/mo in 8 months (w/ 85% margins)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-22T12:21:34.353126",
-      "status": "keep",
-      "reason": "Contains specific growth metrics and margin optimization strategy from proven entrepreneur that offers actionable scaling lessons applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Chris took his agency from $67k/mo to $220k/mo in 10 months",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title lacks specificity and text only shows a search query for Alex Hormozi without actual insights, strategies, or substantive content to extract actionable intelligence from.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi: People Are Going Broke For Stupid Reasons! Instead You Should Do This...",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-20T13:26:53.848588",
+      "status": "reject",
+      "reason": "Title-only search result with no actual content or insights provided; cannot verify if specific actionable business strategies or lessons are included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Businesses Never Reach $10 Million",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-20T13:26:55.092544",
+      "status": "reject",
+      "reason": "Title alone suggests business scaling insight, but no actual content provided to verify if it contains specific, actionable strategies beyond a generic threshold claim.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 710,
+    "scanned": 712,
     "kept": 172,
-    "rejected": 534,
-    "last_scan": "2026-07-20T11:23:58.220010",
+    "rejected": 536,
+    "last_scan": "2026-07-20T13:27:57.883337",
     "platforms": [
       "YouTube",
       "Google",
