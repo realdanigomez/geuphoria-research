@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "DMCA takedown agency",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-23T09:21:46.747747",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or insights about Charlie Morgan's business strategies or DMCA takedown processes provides no actionable intelligence or concrete business lessons.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Sales Was Hard Until I Understood These 9 Concepts",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi is a highly influential business strategist known for pricing frameworks and value-based selling—directly applicable to fitness coaching service monetization and product strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi’s Warning: Don’t Make These AI Businesses, They Will All Fail...",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-20T20:20:06.930849",
+      "status": "reject",
+      "reason": "Title is clickbait-style without actual substantive content; no specific AI business warnings, strategies, or actionable insights provided in the finding itself.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 713,
+    "scanned": 714,
     "kept": 173,
-    "rejected": 536,
-    "last_scan": "2026-07-20T18:55:23.798168",
+    "rejected": 537,
+    "last_scan": "2026-07-20T20:21:09.546668",
     "platforms": [
       "YouTube",
       "Google",
