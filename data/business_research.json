@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Building a $12,000,000 Business for a Stranger in 25 Minutes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-24T16:23:23.393466",
-      "status": "keep",
-      "reason": "Alex Hormozi content on scaling to $12M provides direct case study material on business growth strategies, pricing, and monetization tactics applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "AI engineer placements",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a title and vague search query with no actual content, insights, or actionable intelligence about Charlie Morgan's business strategies or AI applications.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "One Partner Can Make You Millions",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-21T17:54:44.697319",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist known for scaling businesses and partnership dynamics; a piece titled \"One Partner Can Make You Millions\" likely contains actionable insights on partnership selection, equity decisions, and scaling strategy applicable to fitness coaching business models.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 716,
-    "kept": 173,
+    "scanned": 717,
+    "kept": 174,
     "rejected": 539,
-    "last_scan": "2026-07-21T16:23:59.746164",
+    "last_scan": "2026-07-21T17:55:42.907096",
     "platforms": [
       "YouTube",
       "Google",

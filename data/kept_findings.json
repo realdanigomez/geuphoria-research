@@ -1592,16 +1592,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Building a $12,000,000 Business for a Stranger in 25 Minutes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-24T16:23:23.393466",
-      "status": "keep",
-      "reason": "Alex Hormozi content on scaling to $12M provides direct case study material on business growth strategies, pricing, and monetization tactics applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Channel Pain Into Profit \\u0026 Scale To 10K/Month (Raw Q\\u0026A Advice)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2539,6 +2529,16 @@
       "status": "keep",
       "reason": "Alex Hormozi is a highly influential business strategist known for pricing frameworks and value-based selling—directly applicable to fitness coaching service monetization and product strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "One Partner Can Make You Millions",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-21T17:54:44.697319",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist known for scaling businesses and partnership dynamics; a piece titled \"One Partner Can Make You Millions\" likely contains actionable insights on partnership selection, equity decisions, and scaling strategy applicable to fitness coaching business models.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2548,11 +2548,11 @@
     "comp_kept": 72,
     "comp_rejected": 480,
     "comp_scanned": 566,
-    "busi_kept": 173,
+    "busi_kept": 174,
     "busi_rejected": 539,
-    "busi_scanned": 716,
-    "last_scan": "2026-07-21T16:23:59.750548",
-    "total_kept": 402,
+    "busi_scanned": 717,
+    "last_scan": "2026-07-21T17:55:42.911415",
+    "total_kept": 403,
     "total_rejected": 1293,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
