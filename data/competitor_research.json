@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Bonus",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T00:19:02.230394",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about competitor strategies, offers, positioning, or business model—just a name validation without substantive content analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Progression",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T00:19:03.410017",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning - would need actual article/resource content to evaluate relevance.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Outro",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T00:19:04.613461",
-      "status": "reject",
-      "reason": "This is just a search query with no actual content, strategy, offer details, or actionable intelligence about how competitors build their business or position themselves.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Bonus",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T02:46:45.651068",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning. Actual findings must contain substantive information about their business model, messaging, or approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Progression",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T02:46:47.371541",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about strategy, content, offers, or positioning. Actual findings content needed to assess competitor business model.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Outro",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T02:46:48.357186",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning—just a name reference without analysis or insight.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Build Bulging Biceps With Lighter Weights!",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T02:46:49.509022",
-      "status": "reject",
-      "reason": "This is a bicep training article unrelated to online fitness coaching business strategy. Vince Del Monte is mentioned only in the search query, not as the article subject. No business intelligence, positioning, or offer details are present.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Be Greedy",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-19T02:46:53.731712",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or his business coaching approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "4 Minute Fat Burning Workout Part 1 of 2",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Episode title about fake wealth/Lamborghini scams doesn't contain specific intelligence about fitness business coaching strategies, offers, or positioning - appears to be general lifestyle/fraud commentary unrelated to competitor business models.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to go from $0 to $100k a month as a personal trainer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:20.875239",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online trainers how to scale their coaching business to six figures; this search indicates content likely covers monetization strategies, business models, and scaling tactics directly applicable to online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Trainers Really Get to $100K/Month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:22.662447",
+      "status": "keep",
+      "reason": "Charlie Johnson is a prominent fitness business coach who teaches online coaches scaling strategies; this search indicates content about high-level revenue models and likely contains specific tactics for reaching $100K/month that competitors are consuming.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 1: One Person, One Problem, One Pain",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:23.814173",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about the competitor or their business coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 2: Build an Offer That Actually Sells",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:25.213936",
+      "status": "reject",
+      "reason": "Title indicates generic sales funnel advice without evidence of specific intelligence about Charlie Johnson's offer, strategy, or fitness business coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 3: Build Authority Fast With Content",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:26.307370",
+      "status": "reject",
+      "reason": "Finding is just a search query without actual content, strategy, offers, or positioning intelligence about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 4: Create a Lead Generation Engine",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:27.443346",
+      "status": "reject",
+      "reason": "Finding mentions Charlie Johnson as a search term but contains no actual intelligence about his strategy, offers, positioning, or business model — just a generic lead generation title without specific competitor insights.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 5: Close With Confidence \\u0026 Deliver Fast Results",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:28.396213",
+      "status": "reject",
+      "reason": "Title alone provides generic coaching advice without specific intelligence about business models, strategies, or offers targeting online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 6: Scale With Systems, Team \\u0026 Automation",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:29.484584",
+      "status": "reject",
+      "reason": "Title alone indicates general scaling advice without evidence of specific competitor strategies, offers, positioning, or business model intelligence relevant to online fitness coaching businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 566,
-    "kept": 72,
-    "rejected": 480,
-    "last_scan": "2026-07-21T20:45:27.729624",
+    "scanned": 574,
+    "kept": 74,
+    "rejected": 486,
+    "last_scan": "2026-07-21T22:03:27.642598",
     "platforms": [
       "YouTube",
       "Google",

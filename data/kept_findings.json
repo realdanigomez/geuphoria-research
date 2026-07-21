@@ -1592,6 +1592,26 @@
     },
     {
       "source": "YouTube",
+      "title": "How to go from $0 to $100k a month as a personal trainer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:20.875239",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online trainers how to scale their coaching business to six figures; this search indicates content likely covers monetization strategies, business models, and scaling tactics directly applicable to online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Trainers Really Get to $100K/Month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-07-21T22:02:22.662447",
+      "status": "keep",
+      "reason": "Charlie Johnson is a prominent fitness business coach who teaches online coaches scaling strategies; this search indicates content about high-level revenue models and likely contains specific tactics for reaching $100K/month that competitors are consuming.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
       "title": "How To Channel Pain Into Profit \\u0026 Scale To 10K/Month (Raw Q\\u0026A Advice)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2539,21 +2559,31 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist known for scaling businesses and partnership dynamics; a piece titled \"One Partner Can Make You Millions\" likely contains actionable insights on partnership selection, equity decisions, and scaling strategy applicable to fitness coaching business models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Cold Calling, Do This Instead",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-21T22:03:34.834740",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist known for sales and growth tactics; a piece titled \"Stop Cold Calling, Do This Instead\" likely contains actionable alternatives to traditional outreach that could apply to fitness coaching business acquisition strategies.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 157,
     "niche_rejected": 274,
     "niche_scanned": 432,
-    "comp_kept": 72,
-    "comp_rejected": 480,
-    "comp_scanned": 566,
-    "busi_kept": 174,
+    "comp_kept": 74,
+    "comp_rejected": 486,
+    "comp_scanned": 574,
+    "busi_kept": 175,
     "busi_rejected": 539,
-    "busi_scanned": 717,
-    "last_scan": "2026-07-21T20:46:31.007111",
-    "total_kept": 403,
-    "total_rejected": 1293,
+    "busi_scanned": 718,
+    "last_scan": "2026-07-21T22:04:33.231330",
+    "total_kept": 406,
+    "total_rejected": 1299,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "AI engineer placements",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-24T21:53:36.451565",
-      "status": "reject",
-      "reason": "Search query only, no actual content or insights provided to evaluate for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Channel Pain Into Profit \\u0026 Scale To 10K/Month (Raw Q\\u0026A Advice)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist known for scaling businesses and partnership dynamics; a piece titled \"One Partner Can Make You Millions\" likely contains actionable insights on partnership selection, equity decisions, and scaling strategy applicable to fitness coaching business models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Cold Calling, Do This Instead",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-21T22:03:34.834740",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist known for sales and growth tactics; a piece titled \"Stop Cold Calling, Do This Instead\" likely contains actionable alternatives to traditional outreach that could apply to fitness coaching business acquisition strategies.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 717,
-    "kept": 174,
+    "scanned": 718,
+    "kept": 175,
     "rejected": 539,
-    "last_scan": "2026-07-21T20:46:31.002718",
+    "last_scan": "2026-07-21T22:04:33.228328",
     "platforms": [
       "YouTube",
       "Google",
