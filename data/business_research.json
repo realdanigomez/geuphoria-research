@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Started A Business in 2026, I'd Do This",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-24T15:23:24.388683",
-      "status": "reject",
-      "reason": "Search query alone without actual content or insights; no specific strategies, frameworks, or actionable intelligence present to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Building a $12,000,000 Business for a Stranger in 25 Minutes",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait without actual content; no specific business insights, strategies, or actionable intelligence provided to evaluate.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$10K/mo FREE AI Masterclass",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-21T16:22:59.235822",
+      "status": "reject",
+      "reason": "Contains only a title and vague search query with no actual content, insights, or actionable intelligence about Charlie Morgan's business strategies or AI applications.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 715,
+    "scanned": 716,
     "kept": 173,
-    "rejected": 538,
-    "last_scan": "2026-07-21T14:36:35.500030",
+    "rejected": 539,
+    "last_scan": "2026-07-21T16:23:59.746164",
     "platforms": [
       "YouTube",
       "Google",
