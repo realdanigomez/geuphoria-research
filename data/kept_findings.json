@@ -1592,16 +1592,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Sales Was Hard Until I Understood These 9 Concepts",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-24T15:23:23.176767",
-      "status": "keep",
-      "reason": "Alex Hormozi sales framework offers directly applicable B2B/service business strategies (pricing, positioning, offer design) relevant for scaling a fitness coaching business and creator monetization",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Building a $12,000,000 Business for a Stranger in 25 Minutes",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2559,11 +2549,11 @@
     "comp_rejected": 479,
     "comp_scanned": 565,
     "busi_kept": 173,
-    "busi_rejected": 537,
-    "busi_scanned": 714,
-    "last_scan": "2026-07-21T02:36:13.545024",
+    "busi_rejected": 538,
+    "busi_scanned": 715,
+    "last_scan": "2026-07-21T05:50:12.878962",
     "total_kept": 402,
-    "total_rejected": 1290,
+    "total_rejected": 1291,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
