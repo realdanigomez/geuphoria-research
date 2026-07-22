@@ -1082,6 +1082,16 @@
     },
     {
       "source": "YouTube",
+      "title": "What I WISH I Knew Before Becoming A Personal Trainer",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-22T07:08:01.511178",
+      "status": "keep",
+      "reason": "Directly addresses pain points and regrets of fitness coaches, likely containing lessons about business setup, client management, or common pitfalls that online coaches can learn from to avoid costly mistakes",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Comprehensive Health with Vince Del Monte—Fitness Business Coach",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2572,18 +2582,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 157,
-    "niche_rejected": 275,
-    "niche_scanned": 433,
+    "niche_kept": 158,
+    "niche_rejected": 278,
+    "niche_scanned": 437,
     "comp_kept": 74,
     "comp_rejected": 486,
     "comp_scanned": 574,
     "busi_kept": 175,
     "busi_rejected": 539,
     "busi_scanned": 718,
-    "last_scan": "2026-07-22T04:18:29.487981",
-    "total_kept": 406,
-    "total_rejected": 1300,
+    "last_scan": "2026-07-22T07:11:13.227208",
+    "total_kept": 407,
+    "total_rejected": 1303,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
