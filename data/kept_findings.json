@@ -1092,6 +1092,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Struggling to Get Clients for Your Online Fitness Coaching Business? Here’s What I’m Doing!",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-23T03:52:41.347811",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with promised specific tactics/strategies that online fitness coaches actively search for and struggle with",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Comprehensive Health with Vince Del Monte—Fitness Business Coach",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2572,18 +2582,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 158,
-    "niche_rejected": 278,
-    "niche_scanned": 437,
+    "niche_kept": 159,
+    "niche_rejected": 279,
+    "niche_scanned": 439,
     "comp_kept": 74,
     "comp_rejected": 486,
     "comp_scanned": 574,
     "busi_kept": 176,
     "busi_rejected": 540,
     "busi_scanned": 720,
-    "last_scan": "2026-07-23T00:08:34.455358",
-    "total_kept": 408,
-    "total_rejected": 1304,
+    "last_scan": "2026-07-23T03:55:50.914485",
+    "total_kept": 409,
+    "total_rejected": 1305,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

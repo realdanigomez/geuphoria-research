@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "Quora",
-      "title": "For fitness coaches: What part of weekly client checkins ...",
-      "text": "Search: personal trainer business site:quora.com",
-      "url": "",
-      "time": "2026-05-03T03:10:51.008148",
-      "status": "reject",
-      "reason": "Title is incomplete and provides no substantive information about actual pain points, challenges, or solutions for fitness coaches—appears to be a fragment without clear insights.",
-      "track": "niche"
-    },
-    {
-      "source": "Quora",
-      "title": "How to earn money to open a gym",
-      "text": "Search: personal trainer business site:quora.com",
-      "url": "",
-      "time": "2026-05-03T03:10:52.007393",
-      "status": "reject",
-      "reason": "Generic gym business advice, not specific to online fitness coaches' actual pain points like client acquisition, systems, or scaling digital coaching",
-      "track": "niche"
-    },
-    {
-      "source": "Quora",
       "title": "What should I look for in a fitness professional who can ...",
       "text": "Search: personal trainer business site:quora.com",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Too vague and broad. Contains no specific data about fitness coaches' actual problems, pain points, or actionable insights—just a search query without findings or analysis.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Struggling to Get Clients for Your Online Fitness Coaching Business? Here’s What I’m Doing!",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-23T03:52:41.347811",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with promised specific tactics/strategies that online fitness coaches actively search for and struggle with",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "he was struggling with online fitness coaching for years until he did this",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-23T03:52:42.466660",
+      "status": "reject",
+      "reason": "Title is clickbait without specific problem or solution details; no actionable intelligence provided about actual pain points, struggles, or solutions for online fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 437,
-    "kept": 158,
-    "rejected": 278,
-    "last_scan": "2026-07-23T00:06:26.384048",
+    "scanned": 439,
+    "kept": 159,
+    "rejected": 279,
+    "last_scan": "2026-07-23T03:53:44.727667",
     "platforms": [
       "Reddit",
       "YouTube",
