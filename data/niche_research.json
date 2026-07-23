@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Quora",
-      "title": "What should I look for in a fitness professional who can ...",
-      "text": "Search: personal trainer business site:quora.com",
-      "url": "",
-      "time": "2026-05-03T03:10:52.998496",
-      "status": "reject",
-      "reason": "This is a search query about what clients should look for in trainers, not insights into fitness coaches' actual pain points, struggles, or business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "Quora",
       "title": "Is using personalized apps for client management in ...",
       "text": "Search: personal trainer business site:quora.com",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait without specific problem or solution details; no actionable intelligence provided about actual pain points, struggles, or solutions for online fitness coaches.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "\\",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-07-23T06:27:46.172932",
+      "status": "reject",
+      "reason": "Generic search query with no substantive data about coach pain points, struggles, or solutions; lacks specific insights into actual problems or business challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 439,
+    "scanned": 440,
     "kept": 159,
-    "rejected": 279,
-    "last_scan": "2026-07-23T03:53:44.727667",
+    "rejected": 280,
+    "last_scan": "2026-07-23T06:28:46.705478",
     "platforms": [
       "Reddit",
       "YouTube",
