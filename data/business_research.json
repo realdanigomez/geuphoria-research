@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Understand These, and You’ll Understand How to Get Insanely Rich",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-25T16:54:26.032662",
-      "status": "reject",
-      "reason": "Title is clickbait-heavy and search result alone provides no specific, actionable business intelligence or strategies applicable to fitness coaching content business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Charlie Morgan: How I’d make $40 Million again but as an African",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait hyperbole with no actual content provided; mere mention of \"Charlie Morgan business\" search query lacks substantive insights, strategies, or specific business intelligence applicable to fitness coaching content.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens: How I Built a Billion Dollar Software Company",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-07-23T12:59:30.541241",
+      "status": "reject",
+      "reason": "Title only mentions Sam Ovens without providing specific strategies, lessons, or actionable business intelligence; requires actual content to evaluate relevance to fitness coaching business model.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 720,
+    "scanned": 721,
     "kept": 176,
-    "rejected": 540,
-    "last_scan": "2026-07-23T11:26:27.719620",
+    "rejected": 541,
+    "last_scan": "2026-07-23T13:00:25.446931",
     "platforms": [
       "YouTube",
       "Google",
