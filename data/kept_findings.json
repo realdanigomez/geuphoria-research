@@ -1632,16 +1632,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Why Your Personal Brand Won't Grow (6 Fixes)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-26T00:24:35.614952",
-      "status": "keep",
-      "reason": "Contains strategic personal branding advice from influential business creator Charlie Morgan; actionable fixes applicable to fitness coaching business growth and creator positioning",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What Should You Do If You Have No Sales? | Sam Ovens",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2589,6 +2579,16 @@
       "status": "keep",
       "reason": "Direct case study from influential business thinker on scaling community platforms to unicorn status; applicable strategies for building creator economy business models and membership/community monetization relevant to fitness coaching SaaS.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $1,000,000 Business for a Stranger in 42 Minutes - Episode 1",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-23T19:56:31.997138",
+      "status": "keep",
+      "reason": "Alex Hormozi is a highly influential business strategist in the creator/coaching space; a case study on rapid business building offers actionable frameworks for scaling fitness coaching businesses and monetization models.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2598,11 +2598,11 @@
     "comp_kept": 74,
     "comp_rejected": 486,
     "comp_scanned": 574,
-    "busi_kept": 177,
+    "busi_kept": 178,
     "busi_rejected": 541,
-    "busi_scanned": 722,
-    "last_scan": "2026-07-23T18:14:23.765021",
-    "total_kept": 410,
+    "busi_scanned": 723,
+    "last_scan": "2026-07-23T19:57:34.738198",
+    "total_kept": 411,
     "total_rejected": 1307,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
