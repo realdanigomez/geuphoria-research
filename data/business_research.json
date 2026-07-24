@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "stop being nice if you want be a young millionaire",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-26T00:24:36.786395",
-      "status": "reject",
-      "reason": "Title references Charlie Morgan but finding contains no actual content, quotes, strategies, or specific business insights to extract—just a clickbait headline without substantive business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I told myself I was rich until it came true",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi is a highly influential business strategist in the creator/coaching space; a case study on rapid business building offers actionable frameworks for scaling fitness coaching businesses and monetization models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Can I Help an Autism Coach Build a $6,000,000/yr Business? | Scale or Fail - Episode 3",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-24T18:58:37.606665",
+      "status": "keep",
+      "reason": "Alex Hormozi analyzes scaling strategies for a service-based coaching business, offering directly applicable frameworks for growing a fitness coaching business from startup to multi-million dollar revenue",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 723,
-    "kept": 178,
+    "scanned": 724,
+    "kept": 179,
     "rejected": 541,
-    "last_scan": "2026-07-24T17:06:05.302850",
+    "last_scan": "2026-07-24T18:59:39.747377",
     "platforms": [
       "YouTube",
       "Google",
