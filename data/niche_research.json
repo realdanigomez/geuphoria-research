@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "source": "Quora",
-      "title": "Is using personalized apps for client management in ...",
-      "text": "Search: personal trainer business site:quora.com",
-      "url": "",
-      "time": "2026-05-03T03:10:54.056733",
-      "status": "reject",
-      "reason": "Title is incomplete/truncated and text shows only a search query without actual findings, insights, or specific intelligence about coach pain points or solutions",
-      "track": "niche"
-    },
-    {
       "source": "Facebook",
       "title": "Ready to start a profitable online fitness coaching business ...",
       "text": "Search: fitness coaching business site:facebook.com",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic search query with no substantive data about coach pain points, struggles, or solutions; lacks specific insights into actual problems or business challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "From Teacher to $20K a Month Fitness Coach",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-25T18:28:03.860943",
+      "status": "keep",
+      "reason": "Directly addresses income potential and career transition pain point for fitness coaches; likely contains specific strategies for reaching $20K/month milestone that coaches aspire to achieve.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 440,
-    "kept": 159,
+    "scanned": 441,
+    "kept": 160,
     "rejected": 280,
-    "last_scan": "2026-07-25T17:29:36.052674",
+    "last_scan": "2026-07-25T18:29:06.386672",
     "platforms": [
       "Reddit",
       "YouTube",
