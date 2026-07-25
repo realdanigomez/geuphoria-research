@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "4 Minute Fat Burning Workout Part 1 of 2",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-19T06:16:53.826402",
-      "status": "reject",
-      "reason": "This is a generic fat-burning workout video, not intelligence about business coaches or programs that help online fitness coaches build their business. It lacks strategy, positioning, or offer details relevant to the coaching industry.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Vince Del Monte's A Day In The Life Ep.1: Interval Training Workouts for Abs",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title alone indicates general scaling advice without evidence of specific competitor strategies, offers, positioning, or business model intelligence relevant to online fitness coaching businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pre Workout Nutrition: My Muscle Building Pre Workout Meal",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-25T10:11:05.513443",
+      "status": "reject",
+      "reason": "Contains generic pre-workout nutrition advice, not business intelligence about fitness coaching programs or strategies for online coaches",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 574,
+    "scanned": 575,
     "kept": 74,
-    "rejected": 486,
-    "last_scan": "2026-07-25T08:31:11.099092",
+    "rejected": 487,
+    "last_scan": "2026-07-25T10:12:07.716208",
     "platforms": [
       "YouTube",
       "Google",
