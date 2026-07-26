@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Gaming Addict to Millionaire: How My Obsession Turned into a Cash Cow!",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-26T04:54:52.054151",
-      "status": "reject",
-      "reason": "Title is clickbait without evidence of actual business strategy, methodology, or actionable lessons. Searching \"Charlie Morgan business\" suggests content may not authentically feature the creator or contain substantive business frameworks applicable to fitness coaching.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "WITH VIDEO GAME ADDICTION",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi competitive analysis content demonstrates real-world scaling strategies, pricing decisions, and business model evaluation under pressure—directly applicable to positioning and growth strategy for fitness coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $1,000,000/yr Business for a Stranger in 36 Minutes | Scale or Fail - Episode 3",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-26T22:33:59.822908",
+      "status": "keep",
+      "reason": "Alex Hormozi content on rapid business scaling and monetization strategies directly applicable to fitness coaching business model development and revenue optimization",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 727,
-    "kept": 182,
+    "scanned": 728,
+    "kept": 183,
     "rejected": 541,
-    "last_scan": "2026-07-26T21:31:21.667449",
+    "last_scan": "2026-07-26T22:35:03.399517",
     "platforms": [
       "YouTube",
       "Google",
