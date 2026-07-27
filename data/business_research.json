@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The science to destroy low motivation",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-26T16:55:38.225212",
-      "status": "reject",
-      "reason": "Title promises motivation science but finding only shows a search query for Charlie Morgan with no actual content, insights, or actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Mathematical Formula to Get Insanely Rich",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on scaling businesses to $6M/yr provides direct entrepreneurship lessons on business growth strategies and revenue scaling applicable to fitness coaching business models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How She Makes $770,000/yr Helping Autism Parents | Scale or Fail Episode 3",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-27T13:39:01.698686",
+      "status": "keep",
+      "reason": "Contains case study of scaling a service-based business to $770k/yr revenue with insights applicable to fitness coaching business models, audience building, and monetization strategies for helping a specific niche.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 729,
-    "kept": 184,
+    "scanned": 730,
+    "kept": 185,
     "rejected": 541,
-    "last_scan": "2026-07-27T10:42:24.872817",
+    "last_scan": "2026-07-27T13:40:04.452337",
     "platforms": [
       "YouTube",
       "Google",
