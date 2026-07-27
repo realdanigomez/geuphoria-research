@@ -2649,6 +2649,16 @@
       "status": "keep",
       "reason": "Alex Hormozi content on rapid business scaling and monetization strategies directly applicable to fitness coaching business model development and revenue optimization",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $6,000,000/yr Business for a Stranger in 36 Minutes | Scale or Fail Episode 3",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-27T06:50:06.183785",
+      "status": "keep",
+      "reason": "Alex Hormozi content on scaling businesses to $6M/yr provides direct entrepreneurship lessons on business growth strategies and revenue scaling applicable to fitness coaching business models.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2658,11 +2668,11 @@
     "comp_kept": 74,
     "comp_rejected": 490,
     "comp_scanned": 578,
-    "busi_kept": 183,
+    "busi_kept": 184,
     "busi_rejected": 541,
-    "busi_scanned": 728,
-    "last_scan": "2026-07-27T03:25:08.587505",
-    "total_kept": 417,
+    "busi_scanned": 729,
+    "last_scan": "2026-07-27T06:51:08.675434",
+    "total_kept": 418,
     "total_rejected": 1312,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
