@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How I Got Rich Quick With Dopamine Detox",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-27T05:26:06.439445",
-      "status": "reject",
-      "reason": "Title promises \"get rich quick\" content rather than substantive business strategy; search query alone without actual content/insights from Charlie Morgan doesn't constitute actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Sam Ovens on Why \\",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests general life advice rather than specific business strategy or fitness coaching insights; would need to verify if content contains Dan Martell's actual business frameworks before classifying as valuable business intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You only need 6 months to change your life",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-29T19:12:03.267185",
+      "status": "reject",
+      "reason": "Title is generic motivational claim with no actionable business strategy, and search mention of Dan Martell without actual content from him or business insights doesn't constitute specific, actionable intelligence for a fitness coaching business.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 739,
+    "scanned": 740,
     "kept": 186,
-    "rejected": 549,
-    "last_scan": "2026-07-29T17:49:10.557375",
+    "rejected": 550,
+    "last_scan": "2026-07-29T19:13:00.409671",
     "platforms": [
       "YouTube",
       "Google",
