@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Emotional State of Burnout",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-03T16:10:44.786930",
-      "status": "keep",
-      "reason": "Directly addresses burnout, a core pain point for fitness coaches affecting retention, client quality, and business sustainability—understanding emotional dimensions enables targeted solutions for this high-impact problem.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "A Realistic Day in A Life of an Online Fitness Coach",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-04T01:10:54.311075",
-      "status": "keep",
-      "reason": "Directly addresses the lived experience and daily realities of online fitness coaches, which reveals pain points, time management challenges, and operational struggles relevant to business optimization and scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Avoid Instructor Burnout",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-04T08:07:28.698373",
-      "status": "keep",
-      "reason": "Directly addresses instructor burnout, a critical pain point for online fitness coaches affecting retention, business sustainability, and scaling capacity.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Fighting Fitness Burnout | GymTalk with Mesa Fitness",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1122,6 +1092,16 @@
     },
     {
       "source": "YouTube",
+      "title": "The New YouTube Strategy for Getting Group Coaching Clients",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-07-29T16:18:44.634196",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategy for coaching businesses, which is a primary pain point for online fitness coaches seeking scalable revenue without 1-on-1 saturation.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Stop Marketing. Start Demonstrating | How to start a coaching business",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1639,16 +1619,6 @@
       "status": "keep",
       "reason": "Direct competitor intelligence on Brian Mark's niche-finding methodology for acquiring fitness coaching clients - core business strategy relevant to online fitness coach positioning and client acquisition tactics.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Exposing My $10M/yr Organic YouTube Strategy (Imperium Mastermind Recording)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-27T05:26:05.370591",
-      "status": "keep",
-      "reason": "Charlie Morgan is a prominent creator economy figure; a $10M/yr organic YouTube strategy from an Imperium Mastermind recording offers directly applicable growth and monetization tactics for a fitness coaching content business scaling through YouTube.",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2642,18 +2612,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 161,
-    "niche_rejected": 281,
-    "niche_scanned": 443,
+    "niche_kept": 162,
+    "niche_rejected": 289,
+    "niche_scanned": 452,
     "comp_kept": 75,
     "comp_rejected": 497,
     "comp_scanned": 586,
     "busi_kept": 186,
-    "busi_rejected": 547,
-    "busi_scanned": 737,
-    "last_scan": "2026-07-29T14:45:56.428034",
-    "total_kept": 422,
-    "total_rejected": 1325,
+    "busi_rejected": 549,
+    "busi_scanned": 739,
+    "last_scan": "2026-07-29T16:21:51.657272",
+    "total_kept": 423,
+    "total_rejected": 1335,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
