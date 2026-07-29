@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "Facebook",
-      "title": "5 ways to scale your online fitness coaching business (or ...",
-      "text": "Search: fitness coaching business site:facebook.com",
-      "url": "",
-      "time": "2026-05-03T09:11:12.899548",
-      "status": "reject",
-      "reason": "Title suggests scaling strategies but finding is only a Facebook search query with no actual content, insights, or actionable intelligence provided",
-      "track": "niche"
-    },
-    {
-      "source": "Facebook",
       "title": "Coaches relying on sessions for income?",
       "text": "Search: fitness coaching business site:facebook.com",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains generic \"how to start\" advice without specific insights into fitness coaches' actual pain points, struggles, or operational challenges; lacks depth on their unique problems around scaling, client retention, or systems.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Online Fitness Coach Proved You Don't Need a Big Following to Make $8k/mo | NextGenCEO Testimonial",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-07-29T00:59:49.796258",
+      "status": "keep",
+      "reason": "Contains direct evidence of income validation ($8k/mo), business model proof (doesn't require large following), and targets the exact pain point of audience-building anxiety that fitness coaches struggle with.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 442,
-    "kept": 160,
+    "scanned": 443,
+    "kept": 161,
     "rejected": 281,
-    "last_scan": "2026-07-28T23:29:24.395483",
+    "last_scan": "2026-07-29T01:00:53.059494",
     "platforms": [
       "Reddit",
       "YouTube",

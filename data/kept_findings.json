@@ -1112,23 +1112,13 @@
     },
     {
       "source": "YouTube",
-      "title": "Comprehensive Health with Vince Del Monte—Fitness Business Coach",
-      "text": "Search: Vince Del Monte fitness coach",
+      "title": "Online Fitness Coach Proved You Don't Need a Big Following to Make $8k/mo | NextGenCEO Testimonial",
+      "text": "Search: online fitness coach struggling",
       "url": "",
-      "time": "2026-05-20T06:17:52.436768",
+      "time": "2026-07-29T00:59:49.796258",
       "status": "keep",
-      "reason": "Vince Del Monte is a direct competitor in the fitness business coaching space; tracking his positioning and offerings provides actionable intelligence on competitor strategy and market positioning for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build a $1M Coaching Business | 4 SIMPLE Methods",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-20T11:18:13.627507",
-      "status": "keep",
-      "reason": "Direct reference to Bedros Keuilian, a leading fitness business coach, with content targeting $1M coaching business scaling—core competitor intelligence on business-building strategies for fitness coaches.",
-      "track": "competitor"
+      "reason": "Contains direct evidence of income validation ($8k/mo), business model proof (doesn't require large following), and targets the exact pain point of audience-building anxiety that fitness coaches struggle with.",
+      "track": "niche"
     },
     {
       "source": "YouTube",
@@ -2682,18 +2672,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 160,
+    "niche_kept": 161,
     "niche_rejected": 281,
-    "niche_scanned": 442,
+    "niche_scanned": 443,
     "comp_kept": 75,
-    "comp_rejected": 492,
-    "comp_scanned": 581,
+    "comp_rejected": 497,
+    "comp_scanned": 586,
     "busi_kept": 185,
     "busi_rejected": 541,
     "busi_scanned": 730,
-    "last_scan": "2026-07-28T23:31:31.269999",
-    "total_kept": 420,
-    "total_rejected": 1314,
+    "last_scan": "2026-07-29T01:03:07.802102",
+    "total_kept": 421,
+    "total_rejected": 1319,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
