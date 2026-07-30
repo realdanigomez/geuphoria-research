@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Human Systems",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T09:27:43.694947",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or actionable business strategy provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "All Systems",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "No actual content provided - only a title and search query with no substantive business insights, strategies, or teachings from Charlie Morgan that could inform fitness coaching business decisions.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Decision Making Masterclass (Imperium Mastermind)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T17:57:57.728687",
+      "status": "reject",
+      "reason": "No actual content provided - only a title and search query with no substantive insights, strategies, or teachings to extract actionable intelligence from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 754,
+    "scanned": 755,
     "kept": 187,
-    "rejected": 563,
-    "last_scan": "2026-07-30T16:27:13.767435",
+    "rejected": 564,
+    "last_scan": "2026-07-30T17:58:57.548443",
     "platforms": [
       "YouTube",
       "Google",
