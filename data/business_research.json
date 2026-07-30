@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Behind the scenes of Sam Ovens’ mastermind - $6M/year in PROFIT 🤯",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T01:57:22.999904",
-      "status": "keep",
-      "reason": "Reveals profit mechanics and operational strategies of a high-performing business figure; potential case study for scaling coaching businesses to 7-figures and understanding mastermind group ROI",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sam Ovens discuss what’s happening with Consulting.com right now",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T01:57:24.189394",
-      "status": "reject",
-      "reason": "No actual content provided - only a search query for Sam Ovens with no details about what insights, strategies, or lessons are discussed regarding Consulting.com",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "What Makes Skool a Community Platform?",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T01:57:25.423885",
-      "status": "keep",
-      "reason": "Sam Ovens is an influential business thinker in the creator economy; content about Skool's community platform mechanics offers actionable insights on building engaged communities for fitness coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "how to get \\",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-28T02:58:05.061538",
-      "status": "reject",
-      "reason": "Search query only, contains no actual content, insights, or substantive information to analyze",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "16 Books That Will Make You Rich in 2025",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-28T05:27:20.940950",
-      "status": "reject",
-      "reason": "List-based clickbait title with no actual content provided; merely mentions Charlie Morgan search query without demonstrating specific business insights, strategies, or actionable intelligence for a fitness coaching business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Systems Thinking: How Billionaires Think",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T09:27:40.430385",
-      "status": "reject",
-      "reason": "Contains only a title and search term with no actual content, strategies, or insights to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T09:27:41.565373",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or substantive information provided - lacks actionable intelligence or specific business lessons to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "What is Systems Thinking",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T09:27:42.740324",
-      "status": "reject",
-      "reason": "Search query alone without actual content, context, or specific insights about systems thinking or Sam Ovens' methodology provides no actionable intelligence for business strategy or content creation.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Human Systems",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies from Dan Martell - no specific intelligence to extract for business strategy or content ideas",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "REPROGRAM Your Subconscious Mind to Scale Your Business \\u0026 Get Rich Fast (6-Hour Mindset Course)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:05.137374",
+      "status": "reject",
+      "reason": "Contains only a course title and search term with no actual content, insights, strategies, or substantive information from Charlie Morgan or other business thinkers that could inform fitness coaching business decisions.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction, who I am \\u0026 why to watch",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:06.089463",
+      "status": "reject",
+      "reason": "This is a generic introduction video with no specific business insights, strategies, or actionable intelligence present in the provided text.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Module 1: Creating a Powerful Vision",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:07.192677",
+      "status": "reject",
+      "reason": "Title indicates generic vision-setting content; no specific business insights, strategies, or actionable intelligence evident without actual content details about Charlie Morgan's approach or framework.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Module 2: Mastering Your Identity \\u0026 Self Image",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:08.458703",
+      "status": "reject",
+      "reason": "Title indicates self-help/identity content; no evidence of actual Charlie Morgan business strategy, entrepreneurship lessons, or creator economy insights in the description provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Module 3: Unlocking Your True Motivation",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:09.868706",
+      "status": "reject",
+      "reason": "Title promises motivation content but finding shows only a search query for Charlie Morgan with no actual business insights, strategies, or content from the influential thinker included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Module 4: Reprogramming Your Subconscious Mind",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:11.204475",
+      "status": "reject",
+      "reason": "Title indicates subconscious reprogramming content; search query mentions Charlie Morgan but no actual business insights, strategies, or creator economy lessons are present in the finding itself.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Module 5: Habits, Routines \\u0026 Disciplines to Win",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:12.295703",
+      "status": "reject",
+      "reason": "Title indicates fitness/habit content without evidence of business strategy, entrepreneurship lessons, or creator economy insights relevant to a fitness coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Outro \\u0026 Next Steps on Your Journey",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T16:26:13.443316",
+      "status": "reject",
+      "reason": "No actual content provided - only a title and search query with no substantive business insights, strategies, or teachings from Charlie Morgan that could inform fitness coaching business decisions.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 746,
+    "scanned": 754,
     "kept": 187,
-    "rejected": 555,
-    "last_scan": "2026-07-30T14:43:41.393313",
+    "rejected": 563,
+    "last_scan": "2026-07-30T16:27:13.767435",
     "platforms": [
       "YouTube",
       "Google",
