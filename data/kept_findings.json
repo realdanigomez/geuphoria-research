@@ -1622,16 +1622,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How I get mentored by Alex Hormozi and Sam Ovens every day (With My AI Operating System)",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T01:57:21.797135",
-      "status": "keep",
-      "reason": "Contains specific methodology from two influential business mentors (Hormozi and Ovens) on using AI as an operating system for daily mentorship - directly applicable to scaling a fitness coaching business through AI-assisted systems and decision-making frameworks.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Behind the scenes of Sam Ovens’ mastermind - $6M/year in PROFIT 🤯",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2609,6 +2599,16 @@
       "status": "keep",
       "reason": "Dan Martell is a prominent business strategist and founder known for scaling companies and acquisition expertise; content on how acquisitions work aligns with creator economy growth strategies and business scaling lessons applicable to fitness coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Wasting Life - 8 Productivity Rules of The Top 1%",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-07-30T10:24:02.887711",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist; content on top 1% productivity rules offers actionable frameworks applicable to coaching business operations, client engagement systems, and creator productivity—directly relevant for optimizing business processes.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2616,14 +2616,14 @@
     "niche_rejected": 289,
     "niche_scanned": 452,
     "comp_kept": 75,
-    "comp_rejected": 497,
-    "comp_scanned": 586,
-    "busi_kept": 186,
-    "busi_rejected": 550,
-    "busi_scanned": 740,
-    "last_scan": "2026-07-30T07:56:18.782690",
-    "total_kept": 423,
-    "total_rejected": 1336,
+    "comp_rejected": 500,
+    "comp_scanned": 589,
+    "busi_kept": 187,
+    "busi_rejected": 555,
+    "busi_scanned": 746,
+    "last_scan": "2026-07-30T10:25:06.623620",
+    "total_kept": 424,
+    "total_rejected": 1344,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

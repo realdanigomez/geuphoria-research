@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Transfer feelings",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-21T18:19:46.518865",
-      "status": "reject",
-      "reason": "No specific intelligence provided. Finding only shows a search query without any actual content, strategy, offers, or positioning details about Bedros Keuilian or his approach to coaching online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fitness Marketing expert reveals the irresistible offer",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-22T01:49:58.120959",
-      "status": "reject",
-      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence—just a search query with no strategy, offer details, positioning, or actionable insights about how he builds his business or helps coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "creating tension and fatigue within the muscle",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-22T20:24:32.899267",
-      "status": "reject",
-      "reason": "Contains only a generic fitness training topic (muscle tension/fatigue) with no intelligence about business strategy, coaching programs, or how fitness coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "create tension in your bicep",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Finding only mentions a search term without any actual intelligence about Bedros Keuilian's strategy, offers, positioning, or business approach. No actionable insights are provided.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 More \\",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-30T10:22:50.676321",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about competitor offerings, strategy, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Build Muscle Fast \\u0026 Muscle Building Tips - LiveLargeTV.com (Season 3, Ep #1)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-30T10:22:52.656028",
+      "status": "reject",
+      "reason": "This is general muscle-building content for fitness consumers, not business intelligence about fitness coaching programs or strategies targeting coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vince Del Monte Triceps Workout (ONLY TRICEPS EXCERCISES YOU'LL EVER NEED)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-30T10:22:53.750080",
+      "status": "reject",
+      "reason": "This is a triceps exercise tutorial, not business intelligence about coaching, strategy, or business-building for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 586,
+    "scanned": 589,
     "kept": 75,
-    "rejected": 497,
-    "last_scan": "2026-07-30T07:55:15.499282",
+    "rejected": 500,
+    "last_scan": "2026-07-30T10:23:55.796006",
     "platforms": [
       "YouTube",
       "Google",
