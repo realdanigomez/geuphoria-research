@@ -1592,36 +1592,6 @@
     },
     {
       "source": "YouTube",
-      "title": "If You Understand These 7 Principles, You’ll Understand How to Get Rich as F*ck",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-28T15:27:59.452195",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker; content on wealth-building principles applicable to scaling fitness coaching businesses and creator economy monetization strategies",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "$40M CEO: how to use praise to 100x employee productivity",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-05-28T17:28:02.567017",
-      "status": "keep",
-      "reason": "Contains actionable management strategy from influential business figure (Charlie Morgan) on employee productivity optimization, directly applicable to scaling fitness coaching businesses with team-based models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to (Actually) Win With AI in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-05-28T17:28:06.494344",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and founder of SaaS Academy; content about winning with AI in 2026 likely contains actionable strategies for leveraging AI in business operations, product development, or marketing—directly applicable to scaling a fitness coaching content business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Sam Ovens on losing $1M/mo to Build Skool, Alex Hormozi, and what he’d do if he started again",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2559,6 +2529,46 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist; content on top 1% productivity rules offers actionable frameworks applicable to coaching business operations, client engagement systems, and creator productivity—directly relevant for optimizing business processes.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Decision-Making Framework Behind My £40M Business",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-30T23:33:58.873776",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business figure; content about his decision-making framework for scaling to £40M provides actionable intelligence on business strategy, scaling operations, and entrepreneurial lessons applicable to fitness coaching business model development.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Ovens: Losing $1M/month, Building Skool, Hormozi \\u0026 Starting Again",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-07-30T23:34:09.767052",
+      "status": "keep",
+      "reason": "Direct insights from Sam Ovens on scaling failures, recovery strategies, and building community platforms (Skool) - highly relevant for understanding creator economy business models and resilience lessons applicable to coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro: Losing $1M/mo to build Skool",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-07-30T23:34:11.064993",
+      "status": "keep",
+      "reason": "Sam Ovens' documented experience scaling Skool while operating at a loss reveals unit economics trade-offs and growth-at-scale strategies directly applicable to SaaS and community platform businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Refunding $1M+ and going all in",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-07-30T23:34:14.865385",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business strategist in the creator economy space; a post about his $1M+ refund decision likely contains strategic insights on business pivots, customer satisfaction priorities, or scaling decisions that could inform content strategy and entrepreneurial decision-making for a fitness coaching business.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2568,12 +2578,12 @@
     "comp_kept": 75,
     "comp_rejected": 500,
     "comp_scanned": 589,
-    "busi_kept": 187,
-    "busi_rejected": 566,
-    "busi_scanned": 757,
-    "last_scan": "2026-07-30T22:06:07.164247",
-    "total_kept": 427,
-    "total_rejected": 1360,
+    "busi_kept": 191,
+    "busi_rejected": 569,
+    "busi_scanned": 764,
+    "last_scan": "2026-07-30T23:35:10.548373",
+    "total_kept": 431,
+    "total_rejected": 1363,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
