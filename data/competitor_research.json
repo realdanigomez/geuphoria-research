@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "create tension in your bicep",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-22T20:24:34.014692",
-      "status": "reject",
-      "reason": "This is a generic fitness exercise tip with no business intelligence about coaching programs, strategies, or offers targeting online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "create more tension on the bicep",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "This is a triceps exercise tutorial, not business intelligence about coaching, strategy, or business-building for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Nutrition After Cardio? Stretch Marks? V8 Juice Ok? - QnA Vince Del Monte",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-07-31T02:31:54.882960",
+      "status": "reject",
+      "reason": "This is a Q&A about fitness nutrition and stretch marks, not about business strategy, coaching systems, or how to build an online fitness coaching business. It lacks actionable intelligence on competitor positioning or offers.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 589,
+    "scanned": 590,
     "kept": 75,
-    "rejected": 500,
-    "last_scan": "2026-07-30T23:33:54.644874",
+    "rejected": 501,
+    "last_scan": "2026-07-31T02:32:56.964341",
     "platforms": [
       "YouTube",
       "Google",
