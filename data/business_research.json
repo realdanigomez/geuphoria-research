@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Sam Ovens on losing $1M/mo to Build Skool, Alex Hormozi, and what he’d do if he started again",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-29T16:16:05.925384",
-      "status": "keep",
-      "reason": "Direct insight from influential business figure (Sam Ovens) on major business failure ($1M/mo loss), competitive threats (Alex Hormozi), and strategic lessons for rebuilding—highly relevant for understanding creator economy dynamics and business resilience strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Sam Ovens reveals Skool was losing $1M/month",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests behind-the-scenes content but provides no specific business strategies, actionable insights, or substantive details about decision-making processes that would be applicable to fitness coaching business model or content strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Steve Jobs Rule That Changed How I Run My Business",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-07-31T11:40:01.711586",
+      "status": "reject",
+      "reason": "Title references Steve Jobs but search query is for Charlie Morgan; no actual content provided to evaluate for specific, actionable business intelligence or strategies.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 766,
+    "scanned": 767,
     "kept": 192,
-    "rejected": 570,
-    "last_scan": "2026-07-31T09:26:43.657274",
+    "rejected": 571,
+    "last_scan": "2026-07-31T11:41:01.473668",
     "platforms": [
       "YouTube",
       "Google",

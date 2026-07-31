@@ -1592,16 +1592,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Sam Ovens on losing $1M/mo to Build Skool, Alex Hormozi, and what he’d do if he started again",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-29T16:16:05.925384",
-      "status": "keep",
-      "reason": "Direct insight from influential business figure (Sam Ovens) on major business failure ($1M/mo loss), competitive threats (Alex Hormozi), and strategic lessons for rebuilding—highly relevant for understanding creator economy dynamics and business resilience strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The early struggles and mindset that built Skool",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2589,11 +2579,11 @@
     "comp_rejected": 501,
     "comp_scanned": 590,
     "busi_kept": 192,
-    "busi_rejected": 570,
-    "busi_scanned": 766,
-    "last_scan": "2026-07-31T09:26:43.660463",
+    "busi_rejected": 571,
+    "busi_scanned": 767,
+    "last_scan": "2026-07-31T11:41:01.477109",
     "total_kept": 432,
-    "total_rejected": 1365,
+    "total_rejected": 1366,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
