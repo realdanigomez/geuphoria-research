@@ -1622,16 +1622,6 @@
     },
     {
       "source": "YouTube",
-      "title": "The early struggles and mindset that built Skool",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-29T16:16:08.519949",
-      "status": "keep",
-      "reason": "Sam Ovens is an influential business builder whose early struggles and mindset lessons are directly applicable to scaling a coaching business community platform, offering strategic insights on founder psychology and business building that could inform content strategy and entrepreneurial approach.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "how to force yourself to be consistent and do hard things",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2619,11 +2609,11 @@
     "comp_rejected": 507,
     "comp_scanned": 598,
     "busi_kept": 193,
-    "busi_rejected": 571,
-    "busi_scanned": 768,
-    "last_scan": "2026-07-31T18:05:05.813902",
+    "busi_rejected": 572,
+    "busi_scanned": 769,
+    "last_scan": "2026-07-31T20:05:44.354912",
     "total_kept": 437,
-    "total_rejected": 1376,
+    "total_rejected": 1377,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
