@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "This AI Prompt Builds Your Online Coaching Business in 21 Minutes (Step by Step)",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T05:05:24.914869",
-      "status": "reject",
-      "reason": "Claims outcome-driven result (21 minutes) without demonstrating specific pain point solutions or actionable intelligence for online fitness coaches; appears to be generic AI tool promotion rather than research on actual coaching business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why most future coaches never start",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T06:35:34.989459",
-      "status": "reject",
-      "reason": "Generic motivational content about starting a coaching business lacks specific pain points, obstacles, or actionable strategies relevant to existing online fitness coaches' core struggles with client acquisition, systems, or scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The 3 things people get stuck on",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T06:35:43.571932",
-      "status": "reject",
-      "reason": "Too vague and generic - lacks specific insights about online fitness coaches' actual pain points, struggles, or solutions; could apply to any coaching business",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The AI coaching business prompt",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T06:35:44.769517",
-      "status": "reject",
-      "reason": "Generic \"tips\" content likely lacks specifics about fitness coaches' unique pain points, client acquisition strategies, or scaling challenges; too broad to provide targeted intelligence for the fitness coaching niche.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to actually use ChatGPT correctly",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T06:35:45.981153",
-      "status": "reject",
-      "reason": "Generic ChatGPT tutorial lacks specificity to fitness coaches' actual workflows, pain points, or business challenges; provides no intelligence on their unique needs around client programming, content creation, or scaling systems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Using my own story as the example",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T06:35:47.216132",
-      "status": "reject",
-      "reason": "Generic self-help storytelling advice lacks specific intelligence about fitness coaching business models, client acquisition, retention systems, or scaling challenges that online fitness coaches face.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Identifying the real coaching niche",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Generic overview content without specific insights into fitness coaches' actual pain points, client acquisition strategies, or measurable challenges they face.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Quit My Engineering Job to be a Fitness Coach | 8-Month Update",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-07-31T18:01:56.293329",
+      "status": "keep",
+      "reason": "Contains firsthand account of career transition struggles, income sustainability challenges, and likely addresses time management/burnout issues specific to fitness coaches transitioning from stable employment.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Story Behind the Burnout Video",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-07-31T18:01:57.571180",
+      "status": "reject",
+      "reason": "Title and search term suggest burnout content exists, but no actual finding or data is provided about coaches' specific burnout causes, symptoms, or solutions that would inform business decisions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reasons I Left Corporate (The \\",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-07-31T18:01:59.246839",
+      "status": "reject",
+      "reason": "Generic burnout narrative without specific fitness coaching business insights, systems, or monetization challenges that differentiate this niche from general corporate workers.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Forced Socializing \\u0026 Cultural Differences in Work Hours",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-07-31T18:02:00.597111",
+      "status": "reject",
+      "reason": "Addresses general workplace burnout and cultural differences rather than fitness coaching-specific pain points like client retention, training program delivery, or coach-specific scaling challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Inflation vs. Responsibilities",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-07-31T18:02:01.571949",
+      "status": "reject",
+      "reason": "Contains only a generic title pairing without actual content addressing specific pain points, struggles, or actionable intelligence about fitness coach challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What's Next: Nutrition, Personal Training \\u0026 Doing Things the Right Way",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-07-31T18:02:02.991644",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout and implies systemic/operational challenges (\"doing things the right way\"), suggesting content on sustainable business practices and avoiding burnout—a core pain point for online fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 460,
-    "kept": 165,
-    "rejected": 294,
-    "last_scan": "2026-07-31T16:02:33.954247",
+    "scanned": 466,
+    "kept": 167,
+    "rejected": 298,
+    "last_scan": "2026-07-31T18:02:57.626613",
     "platforms": [
       "Reddit",
       "YouTube",
