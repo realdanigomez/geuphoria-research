@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Outro",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-28T20:28:12.585209",
-      "status": "reject",
-      "reason": "No actual content provided—only a search query for Sam Ovens with no substantive business insights, strategies, or actionable intelligence to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to actually make money with AI in 2026",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens provided; no specific actionable intelligence included.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You Hate Selling, Please Watch This | Scale or Fail Episode 3",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-07-31T06:11:02.117701",
+      "status": "keep",
+      "reason": "Alex Hormozi content on overcoming sales resistance is directly applicable to fitness coaching business models, which rely on client acquisition and conversion strategies.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 764,
-    "kept": 191,
+    "scanned": 765,
+    "kept": 192,
     "rejected": 569,
-    "last_scan": "2026-07-31T02:33:59.942756",
+    "last_scan": "2026-07-31T06:12:04.533521",
     "platforms": [
       "YouTube",
       "Google",
