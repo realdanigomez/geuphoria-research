@@ -1642,16 +1642,6 @@
     },
     {
       "source": "YouTube",
-      "title": "13 Years of No BS Business Advice in 79 Mins",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-30T00:59:20.423142",
-      "status": "keep",
-      "reason": "Alex Hormozi's distilled business advice offers proven frameworks for positioning, pricing, and scaling that directly apply to fitness coaching business models and content monetization strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Make BUCKETS of Money In SERVICE Businesses",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2619,6 +2609,26 @@
       "status": "keep",
       "reason": "Alex Hormozi live Q&A likely contains specific business strategies, pricing psychology, or scaling tactics applicable to fitness coaching business models and creator economy growth",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Does Business Get Harder With Growth?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-01T12:03:39.380237",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and founder; content exploring how business complexity scales is directly applicable to growing a fitness coaching business and would provide actionable scaling insights",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Buy Back Your Time",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-01T12:03:41.809896",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist known for teaching bootstrapped business growth and time management; \"Buy Back Your Time\" is a core framework about systematizing and delegating to free up entrepreneur bandwidth—directly applicable to scaling a fitness coaching business",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2628,12 +2638,12 @@
     "comp_kept": 79,
     "comp_rejected": 509,
     "comp_scanned": 602,
-    "busi_kept": 194,
-    "busi_rejected": 574,
-    "busi_scanned": 772,
-    "last_scan": "2026-08-01T10:59:56.468059",
-    "total_kept": 440,
-    "total_rejected": 1381,
+    "busi_kept": 196,
+    "busi_rejected": 577,
+    "busi_scanned": 777,
+    "last_scan": "2026-08-01T12:04:40.535846",
+    "total_kept": 442,
+    "total_rejected": 1384,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
