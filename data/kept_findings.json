@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Creating the first coaching offer",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T06:35:49.217989",
-      "status": "keep",
-      "reason": "Directly addresses a core pain point for fitness coaches—structuring their initial offer, which impacts client acquisition, pricing strategy, and revenue generation",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "10 Actionable Tips For Growing An Online Coaching Business",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2643,17 +2633,17 @@
   ],
   "stats": {
     "niche_kept": 167,
-    "niche_rejected": 298,
-    "niche_scanned": 466,
+    "niche_rejected": 300,
+    "niche_scanned": 468,
     "comp_kept": 79,
     "comp_rejected": 509,
     "comp_scanned": 602,
     "busi_kept": 197,
     "busi_rejected": 577,
     "busi_scanned": 778,
-    "last_scan": "2026-08-01T19:20:27.489830",
+    "last_scan": "2026-08-01T20:28:20.740933",
     "total_kept": 443,
-    "total_rejected": 1384,
+    "total_rejected": 1386,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
