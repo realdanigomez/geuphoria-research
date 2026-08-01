@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Importance of Niche in Online Coaching",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-23T00:06:59.636812",
-      "status": "reject",
-      "reason": "Finding contains only a generic title about niching without any specific intelligence about strategy, offers, positioning, or business-building tactics from Brian Mark or other fitness business coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Layer 1: Speaking to Your Past Self",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-23T00:07:00.650368",
-      "status": "reject",
-      "reason": "Finding contains only a title and search query with no actual content, strategy, offers, or positioning information about Brian Mark's business coaching approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Layer 2: Finding Your Ideal Client Avatar",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Finding only shows a search query for Vince Del Monte without any actual content, intelligence, strategy, offers, or positioning details to analyze.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Create a condition of referrals",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-01T23:29:04.964726",
+      "status": "reject",
+      "reason": "Finding contains only a search query without any actual intelligence about strategy, content, offers, or positioning. No substantive data about Bedros Keuilian's business model or methods is provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why you dont get referrals",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-01T23:29:05.892686",
+      "status": "reject",
+      "reason": "Finding contains only a search query without actual content, strategy, offers, or positioning information about the competitor or their business approach.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 602,
+    "scanned": 604,
     "kept": 79,
-    "rejected": 509,
-    "last_scan": "2026-08-01T22:28:09.806250",
+    "rejected": 511,
+    "last_scan": "2026-08-01T23:30:05.329949",
     "platforms": [
       "YouTube",
       "Google",
