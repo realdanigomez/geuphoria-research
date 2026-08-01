@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "You're WASTING Your Chance to Make INSANE Money",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-30T06:59:23.120771",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights provided - cannot evaluate substantive business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The sales pipeline",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title alone without actual content from Dan Martell or specific business insights makes this too vague to assess for actionable value",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "33 Brutal Truths to Get the Life You Want - Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-01T16:58:02.392499",
+      "status": "keep",
+      "reason": "Alex Hormozi content on brutal truths likely contains specific business frameworks, pricing strategies, or scaling principles applicable to fitness coaching business models and creator economy positioning.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 777,
-    "kept": 196,
+    "scanned": 778,
+    "kept": 197,
     "rejected": 577,
-    "last_scan": "2026-08-01T15:38:12.044985",
+    "last_scan": "2026-08-01T16:59:04.527999",
     "platforms": [
       "YouTube",
       "Google",
