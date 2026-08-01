@@ -1632,16 +1632,6 @@
     },
     {
       "source": "YouTube",
-      "title": "how to force yourself to be consistent and do hard things",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-30T00:09:28.647738",
-      "status": "keep",
-      "reason": "Alex Hormozi is a prominent business strategist known for content on consistency, discipline, and scaling—directly relevant to building a fitness coaching business and creator content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "13 Years of No BS Business Advice in 79 Mins",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2609,6 +2599,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist known for scaling advice and founder coaching; \"doing too much\" addresses a core business problem (focus/prioritization) relevant to fitness coaching entrepreneurs managing multiple revenue streams",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get Rich While You’re Young | Alex Hormozi Answers Your Questions Live",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-01T04:01:18.785973",
+      "status": "keep",
+      "reason": "Alex Hormozi live Q&A likely contains specific business strategies, pricing psychology, or scaling tactics applicable to fitness coaching business models and creator economy growth",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2618,12 +2618,12 @@
     "comp_kept": 78,
     "comp_rejected": 507,
     "comp_scanned": 599,
-    "busi_kept": 193,
-    "busi_rejected": 573,
-    "busi_scanned": 770,
-    "last_scan": "2026-08-01T00:05:07.254540",
-    "total_kept": 438,
-    "total_rejected": 1378,
+    "busi_kept": 194,
+    "busi_rejected": 574,
+    "busi_scanned": 772,
+    "last_scan": "2026-08-01T04:02:21.159064",
+    "total_kept": 439,
+    "total_rejected": 1379,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
