@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "start from a fully lengthened position",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-23T07:15:16.550939",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy, or business intelligence about how Vince Del Monte helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Setting Up an Instagram Profile for Success",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Bedros Keuilian is a well-known fitness business coach who teaches online fitness coaches how to build stable, profitable businesses; this resource likely contains specific strategies and positioning insights directly applicable to coaching business models.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Math",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-02T14:27:32.962690",
+      "status": "reject",
+      "reason": "Contains only a search query without actual findings, content analysis, or actionable intelligence about competitor offerings, strategies, or positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 611,
+    "scanned": 612,
     "kept": 81,
-    "rejected": 516,
-    "last_scan": "2026-08-02T12:36:09.053757",
+    "rejected": 517,
+    "last_scan": "2026-08-02T14:28:35.118280",
     "platforms": [
       "YouTube",
       "Google",
