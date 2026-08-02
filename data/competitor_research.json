@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Setting Up an Instagram Profile for Success",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-25T15:53:21.452168",
-      "status": "reject",
-      "reason": "The finding is a generic Instagram setup guide with no specific intelligence about fitness business coaching strategies, offers, positioning, or how Brian Mark builds his coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The KEY To Building Lean Muscle Mass! Vince Del Monte's \\",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-27T21:25:59.537336",
-      "status": "reject",
-      "reason": "This is a generic fitness content piece about lean muscle building, not intelligence about business coaching for online fitness coaches. No business strategy, positioning, or coaching program details are present.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Skype Call",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-27T21:26:00.580093",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Vince Del Monte or fitness business coaching",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leg Workout",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-27T21:26:01.664542",
-      "status": "reject",
-      "reason": "This is a generic leg workout result with no business strategy, positioning, or coaching intelligence about how Vince Del Monte builds his online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Many Reps and Sets Should I Do",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-27T21:26:02.731256",
-      "status": "reject",
-      "reason": "Generic fitness training advice unrelated to online fitness coaching business strategy, positioning, or offers. No competitor intelligence about coaches or programs that help fitness coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Key to Building Lean Muscle Mass",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-27T21:26:03.719147",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about business strategies, offers, or positioning of fitness business coaches. The title is generic fitness content, not competitor business intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "S Been the Hardest Part about Going from a Runner to a Muscle Builder",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-27T21:26:04.591648",
-      "status": "reject",
-      "reason": "This is about personal fitness transformation (running to muscle building), not about business coaching or strategies for online fitness coaches to build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Gym Rescue Bedros Keuilian - Spike TV",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-28T22:40:56.157537",
-      "status": "reject",
-      "reason": "Contains only a TV show title and search query with no actual content, strategy, offers, or business intelligence about how Bedros helps fitness coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "HONEST Reviews of Vince Del Monte's Fitness Business Summit 2022",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Contains only a search query without actual findings, content analysis, or actionable intelligence about competitor offerings, strategies, or positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Escape the 9–5 \\u0026 Build a Real Fitness Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:04.402367",
+      "status": "keep",
+      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches how to build their business; this search indicates content about escaping employment to build a fitness business, which is directly relevant competitive intelligence for understanding positioning and messaging strategies targeting online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:05.677780",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, or positioning provides no actionable information for building an online fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Escaping the 9 to 5 Grind",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:06.756203",
+      "status": "reject",
+      "reason": "Search query only, no actual content about Charlie Johnson's strategy, offers, or business model provided",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lessons from Corporate Life",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:07.846977",
+      "status": "reject",
+      "reason": "The finding contains only a search query with no actual content, data, or intelligence about Charlie Johnson's strategies, offers, or business approach that could be actionable.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Leveraging Time for Education",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:08.981272",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, or business approach provides no actionable competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "From Estate Agent to Entrepreneur",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:10.559974",
+      "status": "reject",
+      "reason": "Title indicates career transition story rather than specific business strategy, content offers, or positioning intelligence for online fitness coaches. No actionable competitive details provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Power of Social Proof",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:11.817232",
+      "status": "reject",
+      "reason": "The finding only contains a search query without actual content, findings, or specific intelligence about business strategy, offers, or positioning from Charlie Johnson or competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales Calls and Content Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-02T23:30:12.839107",
+      "status": "reject",
+      "reason": "Search query alone without actual findings, content, strategy details, or competitive intelligence about Charlie Johnson's business approach, offers, or positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 612,
-    "kept": 81,
-    "rejected": 517,
-    "last_scan": "2026-08-02T22:28:51.237643",
+    "scanned": 620,
+    "kept": 82,
+    "rejected": 524,
+    "last_scan": "2026-08-02T23:31:10.857238",
     "platforms": [
       "YouTube",
       "Google",
