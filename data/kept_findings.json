@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "10 Actionable Tips For Growing An Online Coaching Business",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-08T20:06:18.383175",
-      "status": "keep",
-      "reason": "Directly addresses online coaching business growth, a core pain point for fitness coaches seeking client acquisition and scaling strategies",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "5 Business Mistakes Personal Trainers Make",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-09T15:36:35.839363",
-      "status": "keep",
-      "reason": "Directly addresses pain points and failures of fitness coaches; likely contains specific mistakes in business operations, client retention, or scaling that online coaches encounter",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Personal Trainer Explains Why PT’s Stay Broke and How to Fix It",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-09T18:06:48.200049",
-      "status": "keep",
-      "reason": "Directly addresses income struggles of fitness coaches and provides solutions, which is a core pain point for understanding how to help coaches earn more and scale their businesses.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Helping an Online Fitness Coach Get Customers Through Content",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-09T21:06:45.763030",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches, and suggests content as the solution method - highly relevant to understanding their business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "From Burnout to Breakthrough: Building a Coaching Business That Lasts with Melissa Johnson",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1082,6 +1042,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Cómo iniciar tu negocio de coaching online HOY (4 sencillos pasos)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-02T07:30:06.703568",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and business launch mechanics for online coaches, a core pain point for scaling fitness coaching businesses",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "HONEST Reviews of Vince Del Monte's Fitness Business Summit 2022",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1632,33 +1602,13 @@
     },
     {
       "source": "YouTube",
-      "title": "How To Make BUCKETS of Money In SERVICE Businesses",
-      "text": "Search: Alex Hormozi",
+      "title": "Bedros Keuilian se acerca a los 1.000 gimnasios en todo el mundo | The GSD Show",
+      "text": "Search: Bedros Keuilian online fitness",
       "url": "",
-      "time": "2026-05-31T03:30:04.403253",
+      "time": "2026-08-02T07:31:17.248797",
       "status": "keep",
-      "reason": "Alex Hormozi content on service business monetization offers directly applicable strategies for scaling fitness coaching as a service business, including pricing models and client acquisition tactics.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why So Many Service Businesses Have a Hard Time Scaling",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T03:30:07.801077",
-      "status": "keep",
-      "reason": "Alex Hormozi is a canonical business strategist for service businesses; content on scaling service businesses directly applies to fitness coaching business model challenges and growth strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Make So Much Money It Feels Illegal (NO BS Way To Build $1,000,000 Business) | Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T09:35:10.347642",
-      "status": "keep",
-      "reason": "Alex Hormozi is an influential business thinker who teaches scaling strategies and business model frameworks directly applicable to fitness coaching businesses; content on building million-dollar businesses contains actionable insights on pricing, offers, and growth systems relevant to creator economy coaching models.",
-      "track": "business"
+      "reason": "Bedros Keuilian is a direct competitor in the fitness business coaching space; this content likely discusses his gym empire scaling strategy and business model relevant to online fitness coach growth tactics.",
+      "track": "competitor"
     },
     {
       "source": "YouTube",
@@ -2629,21 +2579,31 @@
       "status": "keep",
       "reason": "Alex Hormozi content on brutal truths likely contains specific business frameworks, pricing strategies, or scaling principles applicable to fitness coaching business models and creator economy positioning.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "El marco de toma de decisiones detrás de mi negocio de £40M",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-02T07:32:31.815874",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business builder whose decision-making frameworks for scaling to £40M+ could provide actionable strategies for pricing, positioning, and business systems applicable to fitness coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 167,
-    "niche_rejected": 300,
-    "niche_scanned": 468,
-    "comp_kept": 79,
-    "comp_rejected": 512,
-    "comp_scanned": 605,
-    "busi_kept": 197,
-    "busi_rejected": 577,
-    "busi_scanned": 778,
-    "last_scan": "2026-08-02T04:54:50.694958",
-    "total_kept": 443,
-    "total_rejected": 1389,
+    "niche_kept": 168,
+    "niche_rejected": 305,
+    "niche_scanned": 474,
+    "comp_kept": 80,
+    "comp_rejected": 516,
+    "comp_scanned": 610,
+    "busi_kept": 198,
+    "busi_rejected": 588,
+    "busi_scanned": 790,
+    "last_scan": "2026-08-02T07:33:42.537351",
+    "total_kept": 446,
+    "total_rejected": 1409,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

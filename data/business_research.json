@@ -2,126 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The sales pipeline",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-30T16:00:03.474333",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provided—no specific business intelligence to extract or apply.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Takeaways",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-30T16:00:04.530984",
-      "status": "reject",
-      "reason": "Search query alone without actual content, takeaways, or specific insights to extract. No substantive information to analyze or apply to business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "In Life You Must Choose Your Regrets",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-30T19:59:52.633656",
-      "status": "reject",
-      "reason": "Title is generic motivational advice with no specific business insights, strategies, or actionable intelligence despite the Alex Hormozi search reference.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Chunking: The Secret To Achieving Big Goals",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-30T22:59:55.533211",
-      "status": "reject",
-      "reason": "Contains only a title and search term with no actual content, strategies, or insights about chunking or goal achievement to extract actionable business intelligence from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "What is Chunking",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-30T22:59:56.452663",
-      "status": "reject",
-      "reason": "Title only references \"chunking\" concept without substantive business insights, strategies, or actionable intelligence from the search result provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Have Realistic Expectations",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-30T22:59:57.413130",
-      "status": "reject",
-      "reason": "The finding is just a title and search term with no actual content, insights, strategies, or substantive business lessons provided to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Dont Steer At The Summit",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-05-30T22:59:58.182027",
-      "status": "reject",
-      "reason": "Title references Sam Ovens but no actual content, strategies, or insights are provided to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Make BUCKETS of Money In SERVICE Businesses",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T03:30:04.403253",
-      "status": "keep",
-      "reason": "Alex Hormozi content on service business monetization offers directly applicable strategies for scaling fitness coaching as a service business, including pricing models and client acquisition tactics.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "What Are the Different Types of Products That We Can Sell",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T03:30:05.717896",
-      "status": "reject",
-      "reason": "Title is generic product classification with no specific insights, strategies, or actionable intelligence despite Alex Hormozi search reference. Lacks concrete business frameworks or lessons applicable to fitness coaching business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Products",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T03:30:06.828457",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or specific business strategy information provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why So Many Service Businesses Have a Hard Time Scaling",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T03:30:07.801077",
-      "status": "keep",
-      "reason": "Alex Hormozi is a canonical business strategist for service businesses; content on scaling service businesses directly applies to fitness coaching business model challenges and growth strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Make So Much Money It Feels Illegal (NO BS Way To Build $1,000,000 Business) | Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T09:35:10.347642",
-      "status": "keep",
-      "reason": "Alex Hormozi is an influential business thinker who teaches scaling strategies and business model frameworks directly applicable to fitness coaching businesses; content on building million-dollar businesses contains actionable insights on pricing, offers, and growth systems relevant to creator economy coaching models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Most Smart People Are Poor",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2879,133 @@
       "status": "keep",
       "reason": "Alex Hormozi content on brutal truths likely contains specific business frameworks, pricing strategies, or scaling principles applicable to fitness coaching business models and creator economy positioning.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo Ganar Dinero Tan Rápido que parece ILEGAL",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-02T07:32:21.082541",
+      "status": "reject",
+      "reason": "Title alone without actual content/strategies provided; merely references Alex Hormozi's name without displaying his specific business insights or actionable frameworks applicable to fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo Superar al 99% de Personas | Alex Hormozi En Español",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-02T07:32:22.887954",
+      "status": "reject",
+      "reason": "Contains only a title/search reference without actual content, strategies, or insights that can be extracted for business lessons or content ideas.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Si Quieres Multiplicar El Dinero Que Tienes, Haz Esto | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-02T07:32:23.981478",
+      "status": "reject",
+      "reason": "Contains only a title and search term with no actual content, strategies, or insights to extract for fitness business application.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Esta es la mejor manera de INVERTIR tu TIEMPO | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-02T07:32:26.204960",
+      "status": "reject",
+      "reason": "Search result contains only a title and creator name with no actual content, strategies, or insights to evaluate for business value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "El hombre que ganó 100 millones antes de los 32: Su secreto fue liberarse del control de los demás",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-02T07:32:28.074169",
+      "status": "reject",
+      "reason": "Title references Alex Hormozi but finding contains no actual content, quotes, strategies, or insights from him—only a clickbait headline in Spanish with no substantive business intelligence or actionable lessons included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "El marco de toma de decisiones detrás de mi negocio de £40M",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-02T07:32:31.815874",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business builder whose decision-making frameworks for scaling to £40M+ could provide actionable strategies for pricing, positioning, and business systems applicable to fitness coaching businesses.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Solo necesitas 6 meses para cambiar tu vida",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T07:32:36.987366",
+      "status": "reject",
+      "reason": "Title lacks substantive content; search term alone doesn't indicate the post contains actual Dan Martell insights, strategies, or business frameworks—appears to be clickbait without demonstrable business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Si quisiera ganar mis primeros $100 mil al mes, haría esto",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T07:32:38.321544",
+      "status": "reject",
+      "reason": "Title suggests motivational clickbait without demonstrated content; search query alone doesn't confirm the post contains actual strategies from Dan Martell or substantive business lessons applicable to fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "CAMBIA TU FRECUENCIA de Carencia a la ABUNDANCIA y ATRAE RIQUEZA (¡Esto te LIBERARÁ!) | Dan Martell",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T07:32:39.570883",
+      "status": "reject",
+      "reason": "Title suggests manifestation/frequency philosophy content rather than specific business strategy or actionable entrepreneurship lessons from Dan Martell",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Este video te hará peligrosamente inteligente con la IA.",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T07:32:40.775737",
+      "status": "reject",
+      "reason": "Search reference alone without actual content, insights, or actionable intelligence from Dan Martell provided; cannot assess business value without the substantive material.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Systems Thinking in Business",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-02T07:32:44.687106",
+      "status": "reject",
+      "reason": "Contains only a title and search term without actual content, insights, strategies, or substantive business lessons to extract or act upon.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How a System Works",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-02T07:32:45.695455",
+      "status": "reject",
+      "reason": "Search query alone without actual content, transcript, or specific insights from Sam Ovens cannot be evaluated for actionable business intelligence",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 778,
-    "kept": 197,
-    "rejected": 577,
-    "last_scan": "2026-08-02T04:54:50.690652",
+    "scanned": 790,
+    "kept": 198,
+    "rejected": 588,
+    "last_scan": "2026-08-02T07:33:42.533266",
     "platforms": [
       "YouTube",
       "Google",
