@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "create more tension on the bicep",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-23T07:15:15.045666",
-      "status": "reject",
-      "reason": "This is generic bicep training advice, not intelligence about fitness business coaching, business strategy, or how coaches build their businesses. The search mention of Vince Del Monte is incidental and doesn't provide actionable competitive intelligence about business models, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "start from a fully lengthened position",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Bedros Keuilian is a direct competitor in the fitness business coaching space; this content likely discusses his gym empire scaling strategy and business model relevant to online fitness coach growth tactics.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What Does It Take to Run a Stable Fitness Business? | Bedros Keuilian | Fitness Business",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-02T09:36:35.666237",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a well-known fitness business coach who teaches online fitness coaches how to build stable, profitable businesses; this resource likely contains specific strategies and positioning insights directly applicable to coaching business models.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 610,
-    "kept": 80,
+    "scanned": 611,
+    "kept": 81,
     "rejected": 516,
-    "last_scan": "2026-08-02T07:32:19.143209",
+    "last_scan": "2026-08-02T09:37:35.329352",
     "platforms": [
       "YouTube",
       "Google",
