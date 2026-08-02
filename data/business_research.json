@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Elon Musk As an Entrepreneur",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T09:35:15.004823",
-      "status": "reject",
-      "reason": "Title promises Elon Musk entrepreneurship insights but the only substantive element is a search reference to Alex Hormozi with no actual content, analysis, or actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How You Work When Nobody’s Watching",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title alone lacks specifics; no content provided to evaluate actionable business insights, strategies, or lessons from Dan Martell or other business thinkers.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Entrepreneurs Are Miserable Running Their Own Companies with Dan Martell",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T18:01:20.351595",
+      "status": "reject",
+      "reason": "Title references Dan Martell but no actual content, insights, or strategies provided—just a search query with no substantive business intelligence to extract.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 793,
+    "scanned": 794,
     "kept": 198,
-    "rejected": 591,
-    "last_scan": "2026-08-02T16:57:47.305277",
+    "rejected": 592,
+    "last_scan": "2026-08-02T18:02:18.018484",
     "platforms": [
       "YouTube",
       "Google",
