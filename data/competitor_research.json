@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Layer 2: Finding Your Ideal Client Avatar",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-23T00:07:01.865571",
-      "status": "reject",
-      "reason": "This is a generic content title about client avatars with no evidence of specific strategy, offers, or positioning intelligence from Brian Mark or other fitness business coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Layer 3: Deciding on Your Niche",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Finding contains only a search query without actual content, strategy, offers, or positioning information about the competitor or their business approach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "From injured dancer to 6-Figure Fitness Coach | Ellie Marie is L.I.T.",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-02T01:08:20.885848",
+      "status": "reject",
+      "reason": "Contains a personal success story about becoming a fitness coach, but no specific intelligence about business strategies, coaching programs, mentorship approaches, or positioning tactics used by fitness business coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 604,
+    "scanned": 605,
     "kept": 79,
-    "rejected": 511,
-    "last_scan": "2026-08-01T23:30:05.329949",
+    "rejected": 512,
+    "last_scan": "2026-08-02T01:09:23.584428",
     "platforms": [
       "YouTube",
       "Google",
