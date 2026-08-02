@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Most Smart People Are Poor",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T09:35:11.474412",
-      "status": "reject",
-      "reason": "Title suggests motivational content but finding contains no actual content, strategies, or insights—only a search query for Alex Hormozi without the substantive business lesson or framework needed for actionable intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "12-week plans vs long-term forecasting",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T09:35:12.769880",
-      "status": "reject",
-      "reason": "Contains only a generic title about planning timelines with no actual content, insights, or substantive business strategy from the referenced source.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Benefits of a solution-oriented mindset",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-05-31T09:35:14.054132",
-      "status": "reject",
-      "reason": "Title promises mindset content but no actual insights, strategies, or Hormozi teachings are present in the text. Just a search query without substantive business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Elon Musk As an Entrepreneur",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Search query alone without actual content, transcript, or specific insights from Sam Ovens cannot be evaluated for actionable business intelligence",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "6 Skills you MUST Have to Become Successful",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T15:39:45.050556",
+      "status": "reject",
+      "reason": "Title is generic self-help without specific business insights; content appears to be a search query rather than actual article content with actionable strategies or frameworks.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Speak Now Not Later",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T15:39:47.507915",
+      "status": "reject",
+      "reason": "Title alone provides no specific business insights, strategies, or actionable intelligence—only a vague reference to a Dan Martell search with no substantive content included.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Being So Nice",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-02T15:39:48.673292",
+      "status": "reject",
+      "reason": "Title alone lacks specifics; no content provided to evaluate actionable business insights, strategies, or lessons from Dan Martell or other business thinkers.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 790,
+    "scanned": 793,
     "kept": 198,
-    "rejected": 588,
-    "last_scan": "2026-08-02T14:29:38.299841",
+    "rejected": 591,
+    "last_scan": "2026-08-02T15:40:46.394329",
     "platforms": [
       "YouTube",
       "Google",
