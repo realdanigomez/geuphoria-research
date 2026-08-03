@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Welcome, my fiends!",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-11T12:08:21.484344",
-      "status": "reject",
-      "reason": "Generic greeting with no substantive content about fitness coach pain points, struggles, or specific challenges; search term alone doesn't constitute actionable intelligence about their actual problems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "From Burnout to Breakthrough: Building a Coaching Business That Lasts with Melissa Johnson",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point (schedule filling) which is a primary income/business growth blocker for online fitness coaches; search intent confirms coaches actively seeking solutions to this specific problem",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Exactly How To Close $5000 Deals With Online Fitness Coaching",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-03T17:23:56.620205",
+      "status": "keep",
+      "reason": "Directly addresses high-ticket client acquisition and revenue scaling, two critical pain points for fitness coaches seeking sustainable income and business growth.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 475,
-    "kept": 169,
+    "scanned": 476,
+    "kept": 170,
     "rejected": 305,
-    "last_scan": "2026-08-03T15:25:12.889889",
+    "last_scan": "2026-08-03T17:24:59.380485",
     "platforms": [
       "Reddit",
       "YouTube",
