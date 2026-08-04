@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I read 1900 Books, these 4 will make you rich",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-02T20:13:17.728752",
-      "status": "reject",
-      "reason": "Title is clickbait without specific insights; search result alone doesn't confirm content includes actionable business strategies or substantive lessons from Dan Martell's work",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Most Important 20 Minutes You'll Spend Today | Chris Williamson x Alex Hormozi Motivation",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-03T02:02:58.149868",
-      "status": "reject",
-      "reason": "Motivation content without specific business strategies, frameworks, or actionable intelligence applicable to fitness coaching business model or operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "15 Minutes of Brutally Honest Business Advice (Trigger Warning)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title suggests personal finance/retirement content rather than business strategy, entrepreneurship lessons, or creator economy insights relevant to fitness coaching business operations.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step By Step: How To Retire Before You Turn 30",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-04T22:10:35.839323",
+      "status": "reject",
+      "reason": "Title promises retirement strategy but search result doesn't confirm actual content from Charlie Morgan with actionable business/creator economy insights relevant to fitness coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Turn The \\",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-04T22:10:41.918909",
+      "status": "reject",
+      "reason": "Incomplete finding with only a search query and no actual content, strategies, or insights to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 804,
+    "scanned": 806,
     "kept": 199,
-    "rejected": 601,
-    "last_scan": "2026-08-04T20:54:05.687324",
+    "rejected": 603,
+    "last_scan": "2026-08-04T22:11:37.691878",
     "platforms": [
       "YouTube",
       "Google",
