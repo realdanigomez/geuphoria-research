@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Train Your Mind To Become a Millionaire",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-01T21:01:36.449630",
-      "status": "reject",
-      "reason": "Title only indicates generic self-help advice; actual content from Charlie Morgan not provided to verify specific business strategies or insights applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Only Books You Need to Make Money Like the Top 1%",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-02T16:02:28.559292",
-      "status": "reject",
-      "reason": "Title is clickbait without substantive content; no actual book recommendations, business frameworks, or actionable strategies provided in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Millionaire explains: how to 10x ur motivation to get \\",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies from Charlie Morgan; no specific actionable intelligence or business lessons included.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Retired At 23: Here's How You Can Copy Me",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-04T17:46:04.876124",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential creator economy figure known for sharing specific business strategies and income-building frameworks that directly apply to coaching businesses; this content likely contains actionable monetization or growth tactics relevant to the fitness coaching space.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$0 to $10k/mo online FREE full guide",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-04T17:46:05.858578",
+      "status": "reject",
+      "reason": "Title promises a guide but finding only contains a search query with no actual content, strategies, or actionable insights to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 801,
-    "kept": 198,
-    "rejected": 599,
-    "last_scan": "2026-08-04T15:56:34.288622",
+    "scanned": 803,
+    "kept": 199,
+    "rejected": 600,
+    "last_scan": "2026-08-04T17:47:08.022404",
     "platforms": [
       "YouTube",
       "Google",

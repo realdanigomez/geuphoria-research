@@ -2609,6 +2609,16 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential business builder whose decision-making frameworks for scaling to £40M+ could provide actionable strategies for pricing, positioning, and business systems applicable to fitness coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Retired At 23: Here's How You Can Copy Me",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-04T17:46:04.876124",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential creator economy figure known for sharing specific business strategies and income-building frameworks that directly apply to coaching businesses; this content likely contains actionable monetization or growth tactics relevant to the fitness coaching space.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2618,12 +2628,12 @@
     "comp_kept": 82,
     "comp_rejected": 524,
     "comp_scanned": 620,
-    "busi_kept": 198,
-    "busi_rejected": 599,
-    "busi_scanned": 801,
-    "last_scan": "2026-08-04T15:56:34.292664",
-    "total_kept": 450,
-    "total_rejected": 1428,
+    "busi_kept": 199,
+    "busi_rejected": 600,
+    "busi_scanned": 803,
+    "last_scan": "2026-08-04T17:47:08.026599",
+    "total_kept": 451,
+    "total_rejected": 1429,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
