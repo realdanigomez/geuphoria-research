@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Millionaire explains: how to 10x ur motivation to get \\",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-02T17:01:42.334596",
-      "status": "reject",
-      "reason": "Title appears clickbait without substantive content; search query alone doesn't indicate the resource contains actual business insights, strategies, or specific intelligence from the mentioned creator.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I read 1900 Books, these 4 will make you rich",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises a guide but finding only contains a search query with no actual content, strategies, or actionable insights to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Retire Before You Hit 30 (The Exact Math)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-04T20:53:04.321295",
+      "status": "reject",
+      "reason": "Title suggests personal finance/retirement content rather than business strategy, entrepreneurship lessons, or creator economy insights relevant to fitness coaching business operations.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 803,
+    "scanned": 804,
     "kept": 199,
-    "rejected": 600,
-    "last_scan": "2026-08-04T19:30:02.284660",
+    "rejected": 601,
+    "last_scan": "2026-08-04T20:54:05.687324",
     "platforms": [
       "YouTube",
       "Google",
