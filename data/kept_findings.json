@@ -2619,6 +2619,16 @@
       "status": "keep",
       "reason": "Charlie Morgan is an influential creator economy figure known for sharing specific business strategies and income-building frameworks that directly apply to coaching businesses; this content likely contains actionable monetization or growth tactics relevant to the fitness coaching space.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Social Media Strategy for 2026 | Alex Hormozi Answers Your Questions",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-05T02:11:26.385202",
+      "status": "keep",
+      "reason": "Alex Hormozi's 2026 social media strategy provides direct actionable intelligence on platform positioning, content distribution, and audience growth tactics applicable to fitness coaching content businesses competing for attention in crowded social feeds.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2628,11 +2638,11 @@
     "comp_kept": 82,
     "comp_rejected": 524,
     "comp_scanned": 620,
-    "busi_kept": 199,
+    "busi_kept": 200,
     "busi_rejected": 603,
-    "busi_scanned": 806,
-    "last_scan": "2026-08-04T23:35:09.693103",
-    "total_kept": 451,
+    "busi_scanned": 807,
+    "last_scan": "2026-08-05T02:12:29.147651",
+    "total_kept": 452,
     "total_rejected": 1432,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
