@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Manage ADHD Without Medication",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-03T15:33:34.560711",
-      "status": "reject",
-      "reason": "Contains only a search query for Dan Martell without any actual business content, strategies, or insights to extract or learn from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Mind",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi's 2026 social media strategy provides direct actionable intelligence on platform positioning, content distribution, and audience growth tactics applicable to fitness coaching content businesses competing for attention in crowded social feeds.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Become Dangerously Self-Educated (with AI)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-05T15:21:20.890436",
+      "status": "keep",
+      "reason": "Dan Martell content on self-education with AI provides actionable frameworks for building expertise and leveraging emerging tools—directly applicable to scaling a fitness coaching business and creator operations.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 807,
-    "kept": 200,
+    "scanned": 808,
+    "kept": 201,
     "rejected": 603,
-    "last_scan": "2026-08-05T13:01:58.360248",
+    "last_scan": "2026-08-05T15:22:18.352329",
     "platforms": [
       "YouTube",
       "Google",
