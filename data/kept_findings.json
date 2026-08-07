@@ -2639,6 +2639,16 @@
       "status": "keep",
       "reason": "Sam Ovens is an influential business strategist in the creator economy space; a full course on monetizing Skool (a community platform) provides actionable strategies directly applicable to building monetized fitness coaching communities and understanding modern creator business models.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a $15,000,000 Business for a Doctor in 32 Minutes | Scale or Fail Episode 4",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-07T20:38:45.138210",
+      "status": "keep",
+      "reason": "Alex Hormozi content on scaling a $15M business provides directly applicable strategies for building high-revenue fitness coaching businesses, including pricing models, client acquisition, and operational scaling tactics relevant to online fitness coaching entrepreneurs.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2648,11 +2658,11 @@
     "comp_kept": 83,
     "comp_rejected": 530,
     "comp_scanned": 627,
-    "busi_kept": 203,
+    "busi_kept": 204,
     "busi_rejected": 614,
-    "busi_scanned": 821,
-    "last_scan": "2026-08-07T19:53:25.077815",
-    "total_kept": 459,
+    "busi_scanned": 822,
+    "last_scan": "2026-08-07T20:39:47.912162",
+    "total_kept": 460,
     "total_rejected": 1456,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
