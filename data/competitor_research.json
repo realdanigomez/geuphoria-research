@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "GRANT CORRIVEAU",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T00:58:14.211548",
-      "status": "reject",
-      "reason": "Finding mentions Vince Del Monte as a search query but contains no actual intelligence about his strategy, content, offers, positioning, or business model — just a name reference with no substantive details to act on.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "JOSEPH HUNT",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T00:58:15.137392",
-      "status": "reject",
-      "reason": "Finding contains only a name and search query with no actual content, strategy, offers, or positioning information about Joseph Hunt or how he helps fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "ELLIE MARIE",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T00:58:16.193241",
-      "status": "reject",
-      "reason": "Finding only mentions a search query for Vince Del Monte without providing any actual intelligence about his strategy, offers, positioning, or business model that would be actionable for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Exact App Stack That Generated $250M for Online Coaches",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Finding contains only a search query without actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How did he become American's Shrink?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-07T09:31:36.539934",
+      "status": "reject",
+      "reason": "Title appears to be biographical/personal story rather than business strategy, content offers, or positioning intelligence for online fitness coaches. No specific actionable business insights evident from the description.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How'd he become American's doctor?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-07T09:31:38.668245",
+      "status": "reject",
+      "reason": "Title and text don't match the search query; no actual content provided about Bedros Keuilian's business strategy, offers, or methods for coaching online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Who made her American's Trainer?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-07T09:31:39.781094",
+      "status": "reject",
+      "reason": "The finding is just a search query title without actual content, strategy, offers, or positioning details about Bedros Keuilian or his business approach that could provide actionable intelligence.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 623,
+    "scanned": 626,
     "kept": 83,
-    "rejected": 526,
-    "last_scan": "2026-08-07T08:12:29.872872",
+    "rejected": 529,
+    "last_scan": "2026-08-07T09:32:39.342408",
     "platforms": [
       "YouTube",
       "Google",
