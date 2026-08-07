@@ -1662,16 +1662,6 @@
     },
     {
       "source": "YouTube",
-      "title": "The 21 Principles of the Top 0.01%",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-03T23:33:48.921624",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and founder known for scaling companies and creator economy insights; a principles framework from a recognized business thinker offers actionable frameworks for business growth and strategy that could inform coaching program development or content positioning.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Made $40M Online — It's Nothing Like They Tell You...",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2659,6 +2649,16 @@
       "status": "keep",
       "reason": "Contains strategy from influential business thinker Charlie Morgan on vision-driven business planning vs. conventional revenue targets; actionable framework applicable to coaching business model and content strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make Money On Skool (Full Course)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-07T08:12:40.248225",
+      "status": "keep",
+      "reason": "Sam Ovens is an influential business strategist in the creator economy space; a full course on monetizing Skool (a community platform) provides actionable strategies directly applicable to building monetized fitness coaching communities and understanding modern creator business models.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2668,12 +2668,12 @@
     "comp_kept": 83,
     "comp_rejected": 526,
     "comp_scanned": 623,
-    "busi_kept": 202,
-    "busi_rejected": 609,
-    "busi_scanned": 815,
-    "last_scan": "2026-08-07T06:46:52.131580",
-    "total_kept": 457,
-    "total_rejected": 1440,
+    "busi_kept": 203,
+    "busi_rejected": 614,
+    "busi_scanned": 821,
+    "last_scan": "2026-08-07T08:13:42.380269",
+    "total_kept": 458,
+    "total_rejected": 1445,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
