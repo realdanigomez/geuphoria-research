@@ -1072,6 +1072,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Fitness Coaches: Here’s Your Step-by-Step 30-Day Content Plan (That Actually Gets Clients)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-07T06:43:46.399191",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (a primary pain point), offers step-by-step framework that coaches can implement, and mentions content as a lead generation tool—all core to fitness coach business models.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "The Exact App Stack That Generated $250M for Online Coaches",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2652,17 +2662,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 171,
+    "niche_kept": 172,
     "niche_rejected": 305,
-    "niche_scanned": 477,
+    "niche_scanned": 478,
     "comp_kept": 83,
     "comp_rejected": 526,
     "comp_scanned": 623,
     "busi_kept": 202,
     "busi_rejected": 609,
     "busi_scanned": 815,
-    "last_scan": "2026-08-07T05:16:22.109926",
-    "total_kept": 456,
+    "last_scan": "2026-08-07T06:46:52.131580",
+    "total_kept": 457,
     "total_rejected": 1440,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

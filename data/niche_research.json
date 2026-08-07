@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Biceps Burnout! Dumbbell Bicep Workout and Cardio Training with Fitness Blender",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-11T23:08:49.778182",
-      "status": "reject",
-      "reason": "Content is a workout video tutorial, not research on fitness coach burnout, business challenges, or professional struggles. Does not provide actionable intelligence about coach pain points, marketing, or scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Turning a Struggling Fitness Coach Into a $10K/Month Coach (Pull Day)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches; likely contains step-by-step tactics applicable to scaling their business",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Coaches: Here’s Your Step-by-Step 30-Day Content Plan (That Actually Gets Clients)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-07T06:43:46.399191",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (a primary pain point), offers step-by-step framework that coaches can implement, and mentions content as a lead generation tool—all core to fitness coach business models.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 477,
-    "kept": 171,
+    "scanned": 478,
+    "kept": 172,
     "rejected": 305,
-    "last_scan": "2026-08-07T05:14:15.537486",
+    "last_scan": "2026-08-07T06:44:46.181844",
     "platforms": [
       "Reddit",
       "YouTube",
