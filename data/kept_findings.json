@@ -2639,6 +2639,16 @@
       "status": "keep",
       "reason": "Dan Martell content on self-education with AI provides actionable frameworks for building expertise and leveraging emerging tools—directly applicable to scaling a fitness coaching business and creator operations.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Don't Need A Revenue Target, You Need A Vision",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-07T00:24:54.029972",
+      "status": "keep",
+      "reason": "Contains strategy from influential business thinker Charlie Morgan on vision-driven business planning vs. conventional revenue targets; actionable framework applicable to coaching business model and content strategy.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2646,14 +2656,14 @@
     "niche_rejected": 305,
     "niche_scanned": 477,
     "comp_kept": 83,
-    "comp_rejected": 524,
-    "comp_scanned": 621,
-    "busi_kept": 201,
-    "busi_rejected": 603,
-    "busi_scanned": 808,
-    "last_scan": "2026-08-06T14:55:18.996261",
-    "total_kept": 455,
-    "total_rejected": 1432,
+    "comp_rejected": 526,
+    "comp_scanned": 623,
+    "busi_kept": 202,
+    "busi_rejected": 609,
+    "busi_scanned": 815,
+    "last_scan": "2026-08-07T00:25:55.509872",
+    "total_kept": 456,
+    "total_rejected": 1440,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "ANTHONY BENEDETTINI",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T00:58:11.997117",
-      "status": "reject",
-      "reason": "Contains only a name and search query with no actual content about business strategy, offers, positioning, or actionable intelligence about fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "NEVAEH GRANT",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T00:58:12.942491",
-      "status": "reject",
-      "reason": "Finding only shows a search query for Vince Del Monte with no actual intelligence about his strategy, content, offers, positioning, or business model. No actionable information is provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "GRANT CORRIVEAU",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Bedros Keuilian is a prominent fitness business coach who teaches online fitness coaches marketing strategies and business scaling; interview content likely contains actionable tactics on positioning, offers, or customer acquisition specific to the fitness coaching industry.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Expert And Authority Positioning Secrets To Give Your Fitness Business MASSIVE Next Level Success!",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-07T00:23:41.438363",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning details to analyze for competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What makes people experts and authorities?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-07T00:23:42.327706",
+      "status": "reject",
+      "reason": "Finding contains only a search query without actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 621,
+    "scanned": 623,
     "kept": 83,
-    "rejected": 524,
-    "last_scan": "2026-08-06T14:54:14.819596",
+    "rejected": 526,
+    "last_scan": "2026-08-07T00:24:42.583116",
     "platforms": [
       "YouTube",
       "Google",
