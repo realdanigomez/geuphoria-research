@@ -1642,16 +1642,6 @@
     },
     {
       "source": "YouTube",
-      "title": "AI Has Changed the Way I Make Money Forever",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-04T21:04:33.794728",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and founder known for scaling businesses and creator economy insights; content about his AI monetization strategies could directly inform how to leverage AI in fitness coaching business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If I wanted to build wealth from scratch (again), I’d do this",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2639,11 +2629,11 @@
     "comp_rejected": 530,
     "comp_scanned": 627,
     "busi_kept": 206,
-    "busi_rejected": 620,
-    "busi_scanned": 830,
-    "last_scan": "2026-08-08T10:31:20.034553",
+    "busi_rejected": 625,
+    "busi_scanned": 835,
+    "last_scan": "2026-08-08T11:05:00.001842",
     "total_kept": 463,
-    "total_rejected": 1462,
+    "total_rejected": 1467,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

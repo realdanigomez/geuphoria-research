@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The 4 Proven Ways To Build Wealth In 2026",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-04T20:04:30.974949",
-      "status": "reject",
-      "reason": "Title promises wealth-building strategies but no actual content provided to evaluate; appears to be a search result header without substantive business insights, frameworks, or strategies that could inform fitness coaching business decisions.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "AI Has Changed the Way I Make Money Forever",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-04T21:04:33.794728",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and founder known for scaling businesses and creator economy insights; content about his AI monetization strategies could directly inform how to leverage AI in fitness coaching business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi Answers Your Questions",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-05T17:00:36.679700",
-      "status": "reject",
-      "reason": "Search result page with no substantive content or specific insights visible; lacks actionable business intelligence, strategies, or lessons needed for content creation or business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi's SEO Advice is...",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-06T02:53:30.637309",
-      "status": "reject",
-      "reason": "Search query alone without actual content, advice, or insights provided—cannot evaluate business value without the substance of what Hormozi said",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Long-Term Thinking, 2nd Order Consequences \\u0026 Effect Horizons",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-06-06T12:53:03.221638",
-      "status": "reject",
-      "reason": "Title suggests strategic thinking concepts but finding contains only a search query for Sam Ovens with no actual content, insights, or actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Long Term Gratification",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or specific strategies from Sam Ovens cannot provide actionable intelligence for business strategy or content creation.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What are base instincts",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T11:04:00.801678",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or specific business lessons provided to analyze for actionability.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Flight or Fight",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T11:04:01.901702",
+      "status": "reject",
+      "reason": "Search query alone without accompanying content, context, or insights. No specific business strategies, lessons, or actionable intelligence present to evaluate.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Hard Part",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T11:04:02.757396",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategies provided to analyze for business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "This is Normal",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T11:04:03.863347",
+      "status": "reject",
+      "reason": "Search query alone provides no specific insights, strategies, or actionable intelligence—just a name without content, context, or business lessons to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tap In Push Through",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T11:04:04.981837",
+      "status": "reject",
+      "reason": "Search result with no substantive content - title is generic motivational phrase with only a name search, lacks specific business insights, strategies, or lessons from Sam Ovens",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 830,
+    "scanned": 835,
     "kept": 206,
-    "rejected": 620,
-    "last_scan": "2026-08-08T10:31:20.030417",
+    "rejected": 625,
+    "last_scan": "2026-08-08T11:04:59.997700",
     "platforms": [
       "YouTube",
       "Google",
