@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If You're in Your 20s or 30s, Here's How to Win (at Anything)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-04T11:04:10.840911",
-      "status": "reject",
-      "reason": "Title is generic self-help clickbait without evidence the content contains Hormozi's specific frameworks or actionable business strategies relevant to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "I Made $40M Online — It's Nothing Like They Tell You...",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-04T12:04:12.599760",
-      "status": "keep",
-      "reason": "Direct insight from established creator (Charlie Morgan) on scaling to $40M online—likely contains specific strategies, common misconceptions, and lessons applicable to coaching business model and revenue scaling.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "18 Tiny Habits That Made Me a Millionaire",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-04T12:28:43.665222",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker who teaches scalable business systems and founder mindset; \"tiny habits\" content aligns with actionable frameworks applicable to fitness coaching business growth and personal development strategies for creators.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build a $10M Business with AI (Zero Employees)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-04T14:34:27.284241",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business builder/investor; \"building $10M business with zero employees\" contains directly actionable scaling strategy relevant to creator economy and lean business model lessons applicable to fitness coaching operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Give me 20 Minutes and I'll Give You Back 20 Years of Your Life",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-04T17:34:24.119303",
-      "status": "reject",
-      "reason": "Title is clickbait promise without evidence of specific business strategies, entrepreneurship lessons, or actionable intelligence from Hormozi's actual content or methodologies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Aman scaled a coaching offer from $4k to $130k/mo in 18 months",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-04T18:25:38.013677",
-      "status": "keep",
-      "reason": "Demonstrates proven scaling methodology for high-ticket coaching offers with concrete revenue milestones, directly applicable to fitness coaching business model optimization and pricing strategy development.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The 4 Proven Ways To Build Wealth In 2026",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "keep",
       "reason": "Alex Hormozi content on marketing strategy for fitness coaches; actionable framework for those struggling with marketing execution, directly applicable to fitness business model and scaling challenges.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Designing your environment",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T05:41:47.335772",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens provided - no actionable intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Daily routine structure",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T05:41:49.116944",
+      "status": "reject",
+      "reason": "Search query alone lacks substantive business insights, strategies, or documented lessons that could inform content strategy or operations.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vision and planning",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T05:41:49.868670",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or actionable intelligence provided to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Rules for decision making",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T05:41:51.485903",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided; no actionable intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The role of meditation",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T05:41:52.517338",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens; no specific business lessons or actionable intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Optimizing for time",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-08T05:41:53.579110",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or specific strategies from Sam Ovens cannot provide actionable intelligence for business strategy or content creation.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 824,
+    "scanned": 830,
     "kept": 206,
-    "rejected": 614,
-    "last_scan": "2026-08-08T04:56:18.774316",
+    "rejected": 620,
+    "last_scan": "2026-08-08T05:42:49.457439",
     "platforms": [
       "YouTube",
       "Google",

@@ -1642,46 +1642,6 @@
     },
     {
       "source": "YouTube",
-      "title": "I Made $40M Online — It's Nothing Like They Tell You...",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-04T12:04:12.599760",
-      "status": "keep",
-      "reason": "Direct insight from established creator (Charlie Morgan) on scaling to $40M online—likely contains specific strategies, common misconceptions, and lessons applicable to coaching business model and revenue scaling.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "18 Tiny Habits That Made Me a Millionaire",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-04T12:28:43.665222",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker who teaches scalable business systems and founder mindset; \"tiny habits\" content aligns with actionable frameworks applicable to fitness coaching business growth and personal development strategies for creators.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build a $10M Business with AI (Zero Employees)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-04T14:34:27.284241",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business builder/investor; \"building $10M business with zero employees\" contains directly actionable scaling strategy relevant to creator economy and lean business model lessons applicable to fitness coaching operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Aman scaled a coaching offer from $4k to $130k/mo in 18 months",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-04T18:25:38.013677",
-      "status": "keep",
-      "reason": "Demonstrates proven scaling methodology for high-ticket coaching offers with concrete revenue milestones, directly applicable to fitness coaching business model optimization and pricing strategy development.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "AI Has Changed the Way I Make Money Forever",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2679,11 +2639,11 @@
     "comp_rejected": 530,
     "comp_scanned": 627,
     "busi_kept": 206,
-    "busi_rejected": 614,
-    "busi_scanned": 824,
-    "last_scan": "2026-08-08T04:56:18.778846",
+    "busi_rejected": 620,
+    "busi_scanned": 830,
+    "last_scan": "2026-08-08T05:42:49.462087",
     "total_kept": 463,
-    "total_rejected": 1456,
+    "total_rejected": 1462,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
