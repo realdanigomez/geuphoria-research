@@ -2609,6 +2609,16 @@
       "status": "keep",
       "reason": "Alex Hormozi content on marketing strategy for fitness coaches; actionable framework for those struggling with marketing execution, directly applicable to fitness business model and scaling challenges.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Worth of Marketing Knowledge in 32 Minutes | Scale or Fail Episode 4",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-08T15:38:49.704160",
+      "status": "keep",
+      "reason": "Alex Hormozi's content on marketing at scale provides directly applicable strategies for growing a fitness coaching business, including customer acquisition, positioning, and monetization frameworks that translate to the creator economy.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2618,11 +2628,11 @@
     "comp_kept": 84,
     "comp_rejected": 537,
     "comp_scanned": 635,
-    "busi_kept": 206,
+    "busi_kept": 207,
     "busi_rejected": 625,
-    "busi_scanned": 835,
-    "last_scan": "2026-08-08T15:02:38.895928",
-    "total_kept": 467,
+    "busi_scanned": 836,
+    "last_scan": "2026-08-08T15:39:52.605863",
+    "total_kept": 468,
     "total_rejected": 1476,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
