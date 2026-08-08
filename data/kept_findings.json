@@ -3,56 +3,6 @@
     {
       "source": "YouTube",
       "title": "Most Personal Trainers Don’t Have a Knowledge Problem",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-14T03:41:00.392400",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point—implies trainers struggle with getting clients rather than knowledge gaps, which shifts the coaching business model focus from education to marketing/sales systems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Experienced Personal Trainers Still Struggle and How to Fix It",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-14T05:41:13.564697",
-      "status": "keep",
-      "reason": "Directly addresses a core pain point (client acquisition) for online fitness coaches; title suggests it contains diagnostic insights into why experienced coaches still struggle despite expertise, which reveals systemic problems beyond basic marketing tactics.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Experienced Personal Trainers Still Struggle and How to Fix It",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-14T15:44:39.733954",
-      "status": "keep",
-      "reason": "Directly addresses experienced trainer struggles which maps to core pain points (client acquisition, income scaling, burnout) and implies solutions—valuable for understanding why coaches fail despite expertise.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Experienced Personal Trainers Still Struggle and How to Fix It",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-14T18:41:48.227077",
-      "status": "keep",
-      "reason": "Directly addresses experienced coach struggles; likely contains specific pain points (burnout, scaling, pricing, client retention) that reveal actionable gaps in their business model beyond just training knowledge.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Understanding and Overcoming Burnout in High-Pressure Careers - with Coach Andy",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-14T19:11:50.376600",
-      "status": "keep",
-      "reason": "Directly addresses burnout—a critical pain point for online fitness coaches managing high client loads, content creation, and business operations simultaneously. Understanding burnout mechanisms and solutions is essential for coach retention and sustainable scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Most Personal Trainers Don’t Have a Knowledge Problem",
       "text": "Search: online fitness coach struggling",
       "url": "",
       "time": "2026-05-14T23:41:43.194730",
@@ -1068,6 +1018,36 @@
       "time": "2026-08-08T04:53:07.812028",
       "status": "keep",
       "reason": "Directly addresses seasonal client acquisition challenge (winter slump) with retention strategy, providing tactical insight into year-round booking systems that coaches struggle with.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Coaches Fail During Winter",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-08T14:28:24.063855",
+      "status": "keep",
+      "reason": "Addresses seasonal client retention challenges and identifies a specific pain point (winter drop-off) that affects coach revenue and business stability",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How We Built PB Academy to 250+ Clients",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-08T14:28:25.272365",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategy and scaling systems for fitness coaches; provides concrete growth metrics and operational insights relevant to their core business challenge of building a sustainable client base.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Coaching Businesses Struggle in Winter",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-08T14:28:27.030300",
+      "status": "keep",
+      "reason": "Identifies seasonal revenue patterns and client retention challenges that directly impact coaching business income and client acquisition—critical pain points for scaling operations year-round.",
       "track": "niche"
     },
     {
@@ -2632,18 +2612,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 174,
-    "niche_rejected": 312,
-    "niche_scanned": 487,
+    "niche_kept": 177,
+    "niche_rejected": 314,
+    "niche_scanned": 492,
     "comp_kept": 84,
     "comp_rejected": 537,
     "comp_scanned": 635,
     "busi_kept": 206,
     "busi_rejected": 625,
     "busi_scanned": 835,
-    "last_scan": "2026-08-08T13:45:21.069843",
-    "total_kept": 464,
-    "total_rejected": 1474,
+    "last_scan": "2026-08-08T14:31:36.607816",
+    "total_kept": 467,
+    "total_rejected": 1476,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
