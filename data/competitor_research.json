@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Fun Tour of Vince Del Monte's Home Gym!",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T04:33:55.894384",
-      "status": "reject",
-      "reason": "Contains only a home gym tour video with no business strategy, coaching methodology, offers, or intelligence about how Vince Del Monte helps online fitness coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Equipment",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T04:33:56.761159",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, strategy, offers, or positioning information about fitness business coaching",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Cold Tub",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T04:33:57.775699",
-      "status": "reject",
-      "reason": "Search query alone provides no intelligence about competitor offerings, strategies, positioning, or business models. No actual content or findings are included to analyze.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The GET RIPPED Shoulder Workout (MINI ROUTINE MAX GAINS!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T10:01:54.542470",
-      "status": "reject",
-      "reason": "This is a shoulder workout routine content, not business intelligence about coaching programs, business strategies, or mentor offerings for fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "HIT THE LIKE BUTTON IF YOU'RE UP FOR A CHALLENGE",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T10:01:55.508039",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaching",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "PUSH YOUR ELBOWS BACKWARDS TO GET SHOULDER EXTENSION",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T10:01:56.771011",
-      "status": "reject",
-      "reason": "This is exercise technique content (shoulder extension form), not business intelligence about fitness coaching programs, strategies, or offers for online coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "TRAINING + RECOVERY TRAINING EFFECT",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T10:01:57.754284",
-      "status": "reject",
-      "reason": "Contains only a search query result about training and recovery principles, not intelligence about business strategy, offers, positioning, or coaching programs targeting fitness coaches as clients.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "NO NONSENSE MUSCLE BUILDING 2.0",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T10:01:59.264221",
-      "status": "reject",
-      "reason": "Title alone without detailed content about business strategy, coaching methods, or offers. Generic product name requires actual intel on how Vince Del Monte coaches fitness coaches to be useful.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "What Exactly is High Ticket Fitness Coaching",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search query alone without actual findings, content, strategy details, or specific intelligence about Bedros Keuilian's business model, offers, or positioning",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How a Fitness Coach Made $30k in 8 Weeks With 800 Followers: Client Case Study",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:47.013745",
+      "status": "keep",
+      "reason": "Case study demonstrating monetization strategy and conversion tactics from established fitness business coach Charlie Johnson; reveals scaling methodology relevant to coaching business model development",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction to the success story",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:47.982832",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy, offers, or positioning details provides no actionable intelligence about how Charlie Johnson helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The importance of basics",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:49.335245",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Targeting the right audience",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:51.757667",
+      "status": "reject",
+      "reason": "Search query alone without actual findings, content, or intelligence about Charlie Johnson's strategy, offers, or positioning. No actionable competitor data provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Being a walking advertisement",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:52.621249",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, intelligence, strategy details, or competitive information to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Consistency in content creation",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:53.542027",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, or business model provides no actionable competitor intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Messaging and conversations",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:54.604831",
+      "status": "reject",
+      "reason": "Search query alone without actual content, messaging, conversations, or specific business intelligence about Charlie Johnson's strategies, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Outbound and follow-up strategies",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-08T12:40:56.092126",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Charlie Johnson's strategies, offers, or business methods provides no actionable intelligence",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 627,
-    "kept": 83,
-    "rejected": 530,
-    "last_scan": "2026-08-08T11:54:54.420309",
+    "scanned": 635,
+    "kept": 84,
+    "rejected": 537,
+    "last_scan": "2026-08-08T12:41:53.535749",
     "platforms": [
       "YouTube",
       "Google",
