@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Experienced Personal Trainers Still Struggle to Get Clients",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-14T02:11:04.552920",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for fitness coaches; understanding why experienced trainers struggle to convert potential clients reveals marketing/positioning gaps that online coaches face",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Most Personal Trainers Don’t Have a Knowledge Problem",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1068,6 +1058,16 @@
       "time": "2026-08-07T18:50:54.321276",
       "status": "keep",
       "reason": "Directly addresses client acquisition strategy shift—reveals how coaches can improve growth by changing their approach, which is a primary pain point for fitness coaches scaling their business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Online Fitness Coaches FAIL in Winter | How We Stayed Fully Booked All Year | Llew Gibson",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-08T04:53:07.812028",
+      "status": "keep",
+      "reason": "Directly addresses seasonal client acquisition challenge (winter slump) with retention strategy, providing tactical insight into year-round booking systems that coaches struggle with.",
       "track": "niche"
     },
     {
@@ -2672,17 +2672,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 173,
+    "niche_kept": 174,
     "niche_rejected": 312,
-    "niche_scanned": 486,
+    "niche_scanned": 487,
     "comp_kept": 83,
     "comp_rejected": 530,
     "comp_scanned": 627,
     "busi_kept": 206,
     "busi_rejected": 614,
     "busi_scanned": 824,
-    "last_scan": "2026-08-08T03:53:37.623515",
-    "total_kept": 462,
+    "last_scan": "2026-08-08T04:56:18.778846",
+    "total_kept": 463,
     "total_rejected": 1456,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
