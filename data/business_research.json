@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Marshmallow Experiment",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-06-06T12:53:05.597187",
-      "status": "reject",
-      "reason": "The finding is just a reference to \"The Marshmallow Experiment\" with a search term for Sam Ovens, but contains no actual content, insights, or actionable business intelligence to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Second-Order Consequences",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi's content on marketing at scale provides directly applicable strategies for growing a fitness coaching business, including customer acquisition, positioning, and monetization frameworks that translate to the creator economy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Me 32 Minutes, I'll Show You How To Market Like The Top 1% | Scale or Fail Episode 4",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-08T16:30:45.723858",
+      "status": "keep",
+      "reason": "Alex Hormozi's marketing strategies from top 1% performers provide directly actionable tactics for fitness coaching businesses to improve client acquisition and scaling efficiency.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 836,
-    "kept": 207,
+    "scanned": 837,
+    "kept": 208,
     "rejected": 625,
-    "last_scan": "2026-08-08T15:39:52.601723",
+    "last_scan": "2026-08-08T16:31:48.920654",
     "platforms": [
       "YouTube",
       "Google",
