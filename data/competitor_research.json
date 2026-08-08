@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What Exactly is High Ticket Fitness Coaching",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-30T10:02:00.400968",
-      "status": "reject",
-      "reason": "Title mentions high ticket fitness coaching but finding only shows a search query for Vince Del Monte with no actual content, strategy, or actionable intelligence about business building for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Secrets to Scaling \\u0026 Managing an Online Fitness Business with Luke Miller",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-30T15:58:45.225025",
-      "status": "reject",
-      "reason": "Search query alone without accompanying content, strategy details, or specific business intelligence about scaling online fitness businesses. No actionable insights provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Coaching requires personal achievement first",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-30T15:58:46.232540",
-      "status": "reject",
-      "reason": "Title and text describe a general coaching philosophy without specific intelligence about business strategy, offers, positioning, or how Charlie Johnson helps fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Charlie's journey from real estate to 7-figure fitness business",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Search query alone without actual content about Charlie Johnson's strategies, offers, or business methods provides no actionable intelligence",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ask Vince",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-08T20:25:29.304846",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about strategy, content, offers, or positioning. Actual content/findings needed to extract competitor insights.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pre Workout Nutrition",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-08T20:25:30.723589",
+      "status": "reject",
+      "reason": "This is a generic pre-workout nutrition article with no business strategy, coaching positioning, or actionable intelligence about how fitness coaches build their business. The search mention of Vince Del Monte alone doesn't constitute useful competitor intelligence without substantive content about his methods or offers.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Living Large",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-08T20:25:31.578926",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy details, offers, or business intelligence about coaching programs for online fitness coaches",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 635,
+    "scanned": 638,
     "kept": 84,
-    "rejected": 537,
-    "last_scan": "2026-08-08T19:55:08.937748",
+    "rejected": 540,
+    "last_scan": "2026-08-08T20:26:34.972645",
     "platforms": [
       "YouTube",
       "Google",

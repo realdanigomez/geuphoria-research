@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Second-Order Consequences",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-06-06T12:53:06.540960",
-      "status": "reject",
-      "reason": "Search query alone without actual content, context, or specific insights from Sam Ovens - no actionable intelligence present to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Effect Horizon",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-06-06T12:53:07.625383",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Sam Ovens—no actionable intelligence or specific business lessons present",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Five Emotional Stages Every Entrepreneur Goes Through",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-07T09:47:46.926384",
-      "status": "reject",
-      "reason": "Title suggests emotional framework but no actual content provided to evaluate for specific, actionable business strategies or insights from the mentioned source.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to build more wealth than 99% of people",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-08T14:35:29.737584",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Dan Martell cannot be evaluated for actionable business intelligence",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If I wanted to build wealth from scratch (again), I’d do this",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-08T22:11:26.547346",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker specializing in scaling and wealth-building; this title suggests actionable wealth-building strategies that could inform content on financial independence and entrepreneurship fundamentals for the fitness coaching creator economy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Multi-Millionaire CEO Explains: The Psychology of Making Money",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-09T16:31:30.089967",
-      "status": "reject",
-      "reason": "Title promises psychology insights but finding only shows a search query for Dan Martell with no actual content, strategies, or specific intelligence provided to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi - Peace Or Power | Ep. 158 PART 1",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-09T20:56:23.401596",
-      "status": "keep",
-      "reason": "Alex Hormozi content on decision-making framework (Peace vs Power) offers actionable business strategy applicable to coaching business positioning, pricing, and growth decisions",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Everyone Respects Alex Hormozi",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "keep",
       "reason": "Alex Hormozi's marketing strategies from top 1% performers provide directly actionable tactics for fitness coaching businesses to improve client acquisition and scaling efficiency.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The reality of burnout",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-08T20:26:40.652287",
+      "status": "reject",
+      "reason": "Search query only, no actual content provided to evaluate for business insights or strategies",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Physical versus mental exhaustion",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-08T20:26:41.951118",
+      "status": "reject",
+      "reason": "Title suggests personal wellness content rather than business strategy; search term \"Charlie Morgan business\" indicates user intent to find business content, but the actual finding about physical versus mental exhaustion lacks specific business insights, strategies, or creator economy lessons.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Historical context of hard work",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-08T20:26:42.844309",
+      "status": "reject",
+      "reason": "Search query only, no actual content provided to evaluate for business insights or strategies",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Thresholds of stress",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-08T20:26:43.930477",
+      "status": "reject",
+      "reason": "Search query alone without actual content or insights; no demonstrated business strategy, entrepreneurship lessons, or actionable intelligence present",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Managing energy and recovery",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-08T20:26:44.853838",
+      "status": "reject",
+      "reason": "The finding is a generic fitness topic (energy/recovery) with no actual business content, strategies, or insights from Charlie Morgan despite the search query. No actionable business intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The impact of information load",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-08T20:26:45.857863",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or findings from Charlie Morgan - no specific business intelligence or actionable strategy present",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Nutrition and metabolic stress",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-08T20:26:46.711464",
+      "status": "reject",
+      "reason": "Search query contains no actual business content, strategies, or insights—only a search term with no results or substantive material to analyze.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 837,
+    "scanned": 844,
     "kept": 208,
-    "rejected": 625,
-    "last_scan": "2026-08-08T19:56:13.529230",
+    "rejected": 632,
+    "last_scan": "2026-08-08T20:27:47.725481",
     "platforms": [
       "YouTube",
       "Google",
