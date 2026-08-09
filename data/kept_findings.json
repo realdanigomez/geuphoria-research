@@ -1032,26 +1032,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Charlie's journey from real estate to 7-figure fitness business",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-30T15:58:47.448960",
-      "status": "keep",
-      "reason": "Direct case study of fitness business scaling to 7-figures, likely contains specific strategies, offers, and positioning tactics applicable to online fitness coach business building.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How a fitness coach went from $35k a month to $120k in 4 weeks.... (New Strategy)",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-30T17:28:42.869037",
-      "status": "keep",
-      "reason": "Direct case study of revenue scaling strategy from established fitness business coach (Charlie Johnson); specific metrics ($35k to $120k in 4 weeks) indicate actionable business model shift worth analyzing for competitive positioning and offer structure insights.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The DM Setting System That Unlocked Massive Scale",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1608,6 +1588,16 @@
       "time": "2026-08-08T12:40:47.013745",
       "status": "keep",
       "reason": "Case study demonstrating monetization strategy and conversion tactics from established fitness business coach Charlie Johnson; reveals scaling methodology relevant to coaching business model development",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Giveaway Strategy That Bootstrapped My Fitness Business: Free Client Acquisition for Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-09T12:42:53.544048",
+      "status": "keep",
+      "reason": "Contains actionable client acquisition strategy (giveaways) specifically taught by Charlie Johnson, a recognized fitness business coach targeting online coaches, with direct applicability to bootstrapping a coaching business.",
       "track": "competitor"
     },
     {
@@ -2595,15 +2585,15 @@
     "niche_kept": 179,
     "niche_rejected": 322,
     "niche_scanned": 502,
-    "comp_kept": 84,
-    "comp_rejected": 540,
-    "comp_scanned": 638,
+    "comp_kept": 85,
+    "comp_rejected": 547,
+    "comp_scanned": 646,
     "busi_kept": 208,
     "busi_rejected": 634,
     "busi_scanned": 846,
-    "last_scan": "2026-08-09T11:57:31.229447",
-    "total_kept": 471,
-    "total_rejected": 1496,
+    "last_scan": "2026-08-09T12:45:01.735355",
+    "total_kept": 472,
+    "total_rejected": 1503,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
