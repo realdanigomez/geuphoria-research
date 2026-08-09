@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Everyone Respects Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-09T20:56:24.658386",
-      "status": "reject",
-      "reason": "Contains only a vague title with no actual content, insights, or actionable business intelligence provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Peace, Purpose \\u0026 “Why Bother?”",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query contains no actual business content, strategies, or insights—only a search term with no results or substantive material to analyze.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is it better to change your routine doing it gradually or overnight?",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-09T09:37:36.480874",
+      "status": "reject",
+      "reason": "Contains a generic fitness question with only a name search; lacks actual business insights, strategies, or creator content from the referenced person.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 844,
+    "scanned": 845,
     "kept": 208,
-    "rejected": 632,
-    "last_scan": "2026-08-09T08:40:30.735463",
+    "rejected": 633,
+    "last_scan": "2026-08-09T09:38:32.555250",
     "platforms": [
       "YouTube",
       "Google",
