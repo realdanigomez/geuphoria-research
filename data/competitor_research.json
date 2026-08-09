@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Identifying Pain Points",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-31T01:35:21.603070",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, findings, or intelligence about Brian Mark's strategy, offers, positioning, or methods that could inform competitor analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Establishing Urgency: Why Now, Why Me",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-05-31T04:59:04.820138",
-      "status": "reject",
-      "reason": "Search query alone without actual content about Brian Mark's business strategy, offers, or coaching methods provides no actionable intelligence for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "What Exactly is High Ticket Fitness Coaching",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search query alone without actual content, intelligence, strategy details, or specific findings about Bedros Keuilian's business approach, offers, or positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Marketing Mindset and Success (Case Study #1)",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-09T20:43:23.512674",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Am I Too Old to Open Up a Fitness Business or Franchise?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-09T20:43:24.582657",
+      "status": "reject",
+      "reason": "Contains only a search query mentioning Bedros Keuilian without actual content about fitness business coaching strategies, offers, or positioning that would provide actionable competitive intelligence.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 657,
+    "scanned": 659,
     "kept": 85,
-    "rejected": 558,
-    "last_scan": "2026-08-09T20:01:37.789980",
+    "rejected": 560,
+    "last_scan": "2026-08-09T20:44:28.830950",
     "platforms": [
       "YouTube",
       "Google",
