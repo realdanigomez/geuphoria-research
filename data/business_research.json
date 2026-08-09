@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "George Challenges Alex’s Sacrifice",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-09T20:56:27.040065",
-      "status": "reject",
-      "reason": "No specific business insights, strategies, or actionable intelligence provided—appears to be a vague reference to a personal disagreement rather than substantive business content from Alex Hormozi",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Control, Standards \\u0026 Letting Go",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-09T20:56:28.058714",
-      "status": "reject",
-      "reason": "Title alone doesn't indicate specific business insights; would need to verify actual content contains actionable Hormozi strategies or business lessons before classifying as valuable",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build Serious Wealth by Thinking Like the Top 1%",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-10T07:54:27.151971",
-      "status": "reject",
-      "reason": "Title is generic wealth advice clickbait; finding only indicates a search query for Dan Martell without actual content, strategies, or insights to extract for fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "4 Ways To Know Who To Trust",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-10T21:07:55.657127",
-      "status": "reject",
-      "reason": "Title is generic advice without specific content visible; search-only reference to Hormozi without demonstrated business strategy, tactics, or actionable intelligence for fitness coaching business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Only GUARANTEED Way to Win with AI in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-11T15:05:04.014292",
-      "status": "reject",
-      "reason": "Title promises guaranteed AI success but search result shows only a name with no actual content, strategies, or actionable insights provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Otavio Went From $10K/mo to $270k/mo by 21 years old (Coaching Offer)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-11T18:34:23.125228",
-      "status": "keep",
-      "reason": "Demonstrates scaling strategy from $10K to $270K MRR through coaching offers—direct case study applicable to fitness coaching business model, pricing strategy, and offer architecture lessons",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "It’s Actually Pretty Easy to Get Ahead of 99% of People with AI",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens cannot be evaluated for actionable business intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction to discipline",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-09T22:39:15.322372",
+      "status": "reject",
+      "reason": "Generic discipline topic with no specific business insights, strategies, or actionable intelligence present; search query alone does not constitute substantive business content",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Defining success and discipline",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-09T22:39:16.270440",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or specific business strategies from Charlie Morgan - no actionable intelligence present",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The tool of the master",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-09T22:39:17.245018",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or specific business lessons provided - no substantive material to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Definitions of key terms",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-09T22:39:18.360360",
+      "status": "reject",
+      "reason": "This is a generic definitions page with no specific business insights, strategies, or actionable intelligence from Charlie Morgan or other business thinkers.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Total discipline explained",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-09T22:39:19.700474",
+      "status": "reject",
+      "reason": "Search query only, no actual content provided to evaluate for business insights or strategies",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Delaying gratification",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-09T22:39:20.702495",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategies present to evaluate for business value",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 846,
+    "scanned": 852,
     "kept": 208,
-    "rejected": 634,
-    "last_scan": "2026-08-09T22:01:55.919686",
+    "rejected": 640,
+    "last_scan": "2026-08-09T22:40:25.868814",
     "platforms": [
       "YouTube",
       "Google",
