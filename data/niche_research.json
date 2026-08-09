@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Tip 3 - Have a Facebook Group for Leads",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-19T22:43:49.640269",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for online fitness coaches through a specific, actionable tactic (Facebook Groups as lead generation channel)",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Tip 4 - Create Videos and Rank Them",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point with case study showing specific results (38 new clients), providing coaches actionable strategies for scaling their business",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Would Start A 6-Figure Life Coaching Business (If I Had To Start Again)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-09T11:03:43.878921",
+      "status": "reject",
+      "reason": "General life coaching advice lacks fitness-specific context; no concrete tactics for client acquisition, pricing models, or fitness industry scaling challenges that online fitness coaches face.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 501,
+    "scanned": 502,
     "kept": 179,
-    "rejected": 321,
-    "last_scan": "2026-08-09T10:31:06.303193",
+    "rejected": 322,
+    "last_scan": "2026-08-09T11:04:41.242572",
     "platforms": [
       "Reddit",
       "YouTube",
