@@ -1032,6 +1032,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to keep fitness coaching clients for 12+ months",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-09T23:27:28.586865",
+      "status": "keep",
+      "reason": "Directly addresses client retention, a critical pain point for fitness coaches affecting recurring revenue and business scalability; retention strategies are foundational to sustainable coaching income and reducing client acquisition costs.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2532,17 +2542,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 179,
+    "niche_kept": 180,
     "niche_rejected": 322,
-    "niche_scanned": 502,
+    "niche_scanned": 503,
     "comp_kept": 85,
     "comp_rejected": 560,
     "comp_scanned": 659,
     "busi_kept": 208,
     "busi_rejected": 640,
     "busi_scanned": 852,
-    "last_scan": "2026-08-09T22:40:25.873059",
-    "total_kept": 472,
+    "last_scan": "2026-08-09T23:30:35.016565",
+    "total_kept": 473,
     "total_rejected": 1522,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
