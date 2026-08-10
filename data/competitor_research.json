@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What Exactly is High Ticket Fitness Coaching",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-31T08:29:04.545294",
-      "status": "reject",
-      "reason": "Finding is just a search query title with no actual content, strategy, offers, or positioning details about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The GET RIPPED Shoulder Workout (MINI ROUTINE MAX GAINS!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a search query mentioning Bedros Keuilian without actual content about fitness business coaching strategies, offers, or positioning that would provide actionable competitive intelligence.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "#1 Secret to Becoming a High-Paid Personal Trainer or Strength Coach",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-10T08:57:56.341859",
+      "status": "reject",
+      "reason": "This is general personal trainer income advice, not intelligence about business coaches/mentors who help online fitness coaches build their businesses. It's content FOR trainers, not about the coaches/programs that train them.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 659,
+    "scanned": 660,
     "kept": 85,
-    "rejected": 560,
-    "last_scan": "2026-08-10T07:27:19.782358",
+    "rejected": 561,
+    "last_scan": "2026-08-10T08:58:58.602892",
     "platforms": [
       "YouTube",
       "Google",
