@@ -1582,16 +1582,6 @@
     },
     {
       "source": "YouTube",
-      "title": "It’s Actually Pretty Easy to Get Ahead of 99% of People with AI",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-11T21:19:15.975707",
-      "status": "keep",
-      "reason": "Dan Martell content on AI competitive advantage provides actionable insights for positioning a fitness coaching business in the creator economy and leveraging AI for content differentiation.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "A Recipe For Domination: Long Term Thinking, Moats And Asymmetric Warfare",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2559,11 +2549,11 @@
     "comp_rejected": 561,
     "comp_scanned": 660,
     "busi_kept": 208,
-    "busi_rejected": 640,
-    "busi_scanned": 852,
-    "last_scan": "2026-08-11T17:28:51.734498",
+    "busi_rejected": 641,
+    "busi_scanned": 853,
+    "last_scan": "2026-08-11T18:26:55.957222",
     "total_kept": 475,
-    "total_rejected": 1524,
+    "total_rejected": 1525,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
