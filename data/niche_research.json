@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Tip 5 - Do Social Selling",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-19T22:43:51.757235",
-      "status": "reject",
-      "reason": "Too generic and vague—lacks specific tactics on how social selling addresses fitness coaches' actual pain points like client acquisition costs, conversion rates, or scaling challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Find Your First Coaching Client",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client retention, a critical pain point for fitness coaches affecting recurring revenue and business scalability; retention strategies are foundational to sustainable coaching income and reducing client acquisition costs.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Coach Sales Call: How to Close High-Ticket Clients (Full Walkthrough)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-11T01:22:57.351325",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and sales conversion—core pain points for online fitness coaches struggling to close high-ticket deals and scale revenue.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 503,
-    "kept": 180,
+    "scanned": 504,
+    "kept": 181,
     "rejected": 322,
-    "last_scan": "2026-08-10T23:32:16.588612",
+    "last_scan": "2026-08-11T01:23:57.475286",
     "platforms": [
       "Reddit",
       "YouTube",
