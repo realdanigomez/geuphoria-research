@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Find Your First Coaching Client",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-20T11:17:06.616645",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches starting out or scaling their business",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "The First Client Paradox: Why it’s easier than you think",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition and sales conversion—core pain points for online fitness coaches struggling to close high-ticket deals and scale revenue.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How my client's PIF ($5000) deals in the DMs as online fitness coaches",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-11T10:47:18.557787",
+      "status": "reject",
+      "reason": "Vague anecdotal content about a single client deal lacks actionable intelligence on systemic coach pain points, struggles, or scaling challenges; \"PIF deals in DMs\" is not a replicable strategy or deeper insight into the niche's problems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 504,
+    "scanned": 505,
     "kept": 181,
-    "rejected": 322,
-    "last_scan": "2026-08-11T09:33:42.873380",
+    "rejected": 323,
+    "last_scan": "2026-08-11T10:48:20.807433",
     "platforms": [
       "Reddit",
       "YouTube",
