@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Having a Moat",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-06-12T11:01:13.928142",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies about moats—no actionable intelligence to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Create a Funnel Creator System",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises networking guidance but finding only shows a search query for Dan Martell with no actual content, strategies, or actionable insights provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Make Rich Friends",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-12T17:57:31.212562",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided; no actionable business intelligence to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 854,
+    "scanned": 855,
     "kept": 208,
-    "rejected": 642,
-    "last_scan": "2026-08-12T16:57:59.806097",
+    "rejected": 643,
+    "last_scan": "2026-08-12T17:58:28.838298",
     "platforms": [
       "YouTube",
       "Google",
