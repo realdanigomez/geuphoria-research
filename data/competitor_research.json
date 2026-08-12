@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The GET RIPPED Shoulder Workout (MINI ROUTINE MAX GAINS!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-31T12:29:11.195341",
-      "status": "reject",
-      "reason": "This is a shoulder workout routine for end users, not business intelligence about coaching programs, mentorship, or business strategies targeting fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "HIT THE LIKE BUTTON IF YOU'RE UP FOR A CHALLENGE",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-31T12:29:12.218136",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "PUSH YOUR ELBOWS BACKWARDS TO GET SHOULDER EXTENSION",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-31T12:29:13.239649",
-      "status": "reject",
-      "reason": "This is exercise technique content (shoulder mechanics), not business intelligence about coaching programs, strategies, or offers targeting fitness coaches as clients.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "TRAINING + RECOVERY TRAINING EFFECT",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "This is general personal trainer income advice, not intelligence about business coaches/mentors who help online fitness coaches build their businesses. It's content FOR trainers, not about the coaches/programs that train them.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Meal Frequency, Optimal Meal Timing, Muscle Protein Synthesis Facts...",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-12T09:59:44.524819",
+      "status": "reject",
+      "reason": "This is general fitness nutrition content (meal frequency, protein synthesis), not business intelligence about coaching programs, strategies, or offers targeting fitness coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Whats Practical",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-12T09:59:45.758516",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, strategy, offers, or positioning details provided - cannot extract actionable competitor intelligence",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Practical",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-12T09:59:46.719736",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, findings, or intelligence about business strategy, offers, positioning, or coaching methods provided.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 660,
+    "scanned": 663,
     "kept": 85,
-    "rejected": 561,
-    "last_scan": "2026-08-12T08:47:49.646241",
+    "rejected": 564,
+    "last_scan": "2026-08-12T10:00:49.305640",
     "platforms": [
       "YouTube",
       "Google",
