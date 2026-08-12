@@ -1052,36 +1052,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-05-31T13:01:42.620417",
-      "status": "keep",
-      "reason": "Contains direct reference to Vince Del Monte's mentorship approach and positioning as a foundational figure in online fitness coaching business, useful for understanding competitive positioning and mentor influence in the space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Watch Me Scale a Pro Bodybuilders Business to $50k/mo in 64 Mins",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-31T14:45:37.302870",
-      "status": "keep",
-      "reason": "Contains specific case study of fitness business scaling to $50k/mo, likely includes actionable strategies from established fitness business coach Charlie Johnson relevant to online coaching business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Roadmap to £50K/Month",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-31T14:45:38.403706",
-      "status": "keep",
-      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches how to build high-revenue businesses; a roadmap to £50K/month directly addresses business scaling strategies relevant to online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How this Fitness Coach made $30k per month with under 800 followers",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1578,6 +1548,16 @@
       "time": "2026-08-09T12:42:53.544048",
       "status": "keep",
       "reason": "Contains actionable client acquisition strategy (giveaways) specifically taught by Charlie Johnson, a recognized fitness business coach targeting online coaches, with direct applicability to bootstrapping a coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How a Fitness Coach 3X’d to $120k/Month: DM Setting, Pricing \\u0026 Data Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-12T12:08:21.439755",
+      "status": "keep",
+      "reason": "Contains specific case study data on pricing strategy, DM sales methodology, and revenue scaling tactics from Charlie Johnson, a recognized fitness business coach targeting online coaches as clients.",
       "track": "competitor"
     },
     {
@@ -2545,15 +2525,15 @@
     "niche_kept": 182,
     "niche_rejected": 323,
     "niche_scanned": 506,
-    "comp_kept": 85,
-    "comp_rejected": 564,
-    "comp_scanned": 663,
+    "comp_kept": 86,
+    "comp_rejected": 570,
+    "comp_scanned": 670,
     "busi_kept": 208,
     "busi_rejected": 641,
     "busi_scanned": 853,
-    "last_scan": "2026-08-12T11:06:32.270018",
-    "total_kept": 475,
-    "total_rejected": 1528,
+    "last_scan": "2026-08-12T12:10:30.106547",
+    "total_kept": 476,
+    "total_rejected": 1534,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
