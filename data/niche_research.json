@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Steak Restaurant Metaphor: Who to invite to your launch",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-20T11:17:10.109798",
-      "status": "reject",
-      "reason": "The steak restaurant metaphor lacks specific, actionable intelligence about fitness coach client acquisition challenges, pain points, or strategies—it's a generic launch framework without fitness coaching context.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why you must invite your \\",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic gym member burnout advice, not relevant to online fitness coaches' business challenges like client retention, marketing, or scaling operations",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Step Ladder Growth Model",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-12T21:12:38.987659",
+      "status": "reject",
+      "reason": "Generic growth framework without specific applicability to fitness coaching business model, client acquisition, or identified pain points of online fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 507,
+    "scanned": 508,
     "kept": 182,
-    "rejected": 324,
-    "last_scan": "2026-08-12T20:01:57.933446",
+    "rejected": 325,
+    "last_scan": "2026-08-12T21:13:42.569354",
     "platforms": [
       "Reddit",
       "YouTube",
