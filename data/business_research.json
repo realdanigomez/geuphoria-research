@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Do You Know If You Can Trust Someone?",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-14T18:11:47.911863",
-      "status": "reject",
-      "reason": "Title suggests generic trust advice; no evidence of specific business strategy, entrepreneurship lessons, or actionable insights from Hormozi's actual business framework or creator economy lessons despite the search tag.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Burnout Really Happens",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query without actual content or findings; no specific business insights, strategies, or actionable intelligence present to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M Worth of Marketing Knowledge in 32 Minutes | Scale or Fail",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-13T09:41:43.642328",
+      "status": "keep",
+      "reason": "Alex Hormozi content on marketing fundamentals and scaling strategy is directly applicable to fitness coaching business growth, pricing models, and customer acquisition strategies.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 863,
-    "kept": 209,
+    "scanned": 864,
+    "kept": 210,
     "rejected": 650,
-    "last_scan": "2026-08-13T08:20:41.701179",
+    "last_scan": "2026-08-13T09:42:46.125572",
     "platforms": [
       "YouTube",
       "Google",
