@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Burnout Really Happens",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-14T23:08:14.395254",
-      "status": "reject",
-      "reason": "Search result title only, no actual content from Alex Hormozi about burnout mechanics, causes, or solutions that would provide actionable business strategy or insights for fitness coaching content.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Full Claude Guide: Beginner to Pro in Under 15 Minutes",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on marketing fundamentals and scaling strategy is directly applicable to fitness coaching business growth, pricing models, and customer acquisition strategies.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "“I only want the climb”",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-13T11:00:17.486593",
+      "status": "reject",
+      "reason": "Title and search query alone lack substantive business content; no actual insights, strategies, or teachings are provided to extract actionable intelligence from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 864,
+    "scanned": 865,
     "kept": 210,
-    "rejected": 650,
-    "last_scan": "2026-08-13T09:42:46.125572",
+    "rejected": 651,
+    "last_scan": "2026-08-13T11:01:12.287571",
     "platforms": [
       "YouTube",
       "Google",
