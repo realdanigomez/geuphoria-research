@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I partnered with a $3bn Company To Give Everything Away For FREE",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-16T18:16:30.424836",
-      "status": "keep",
-      "reason": "Charlie Morgan partnership case study demonstrates monetization strategy through free value distribution and brand partnerships—applicable playbook for fitness coaches scaling through strategic alliances and lead generation models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I partnered with a $3bn Company To Give Everythng I've Built Away",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker; content about relationship-building strategies for networking with high-net-worth individuals offers actionable intelligence for creators scaling their business and building valuable partnerships",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Your Team Will Never \\",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-13T20:44:49.258650",
+      "status": "reject",
+      "reason": "Title is incomplete/truncated and text only shows a search query for Dan Martell without actual content, insights, or actionable intelligence to analyze.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 867,
+    "scanned": 868,
     "kept": 211,
-    "rejected": 652,
-    "last_scan": "2026-08-13T20:00:07.758859",
+    "rejected": 653,
+    "last_scan": "2026-08-13T20:45:46.781271",
     "platforms": [
       "YouTube",
       "Google",
