@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "#1 thing you need to do to run a $1,000,000/mo sales team",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-16T08:27:27.860160",
-      "status": "keep",
-      "reason": "Charlie Morgan content on scaling sales teams to $1M/mo provides directly applicable operational strategies for growing a fitness coaching business's revenue and team structure.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I partnered with a $3bn Company To Give Everything Away For FREE",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises generic earnings claim without substantive content; search query alone provides no actual business insights, strategies, or creator economy intelligence to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Making Rich Friends Changed My Life. Here’s How I Did It",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-13T17:57:18.134586",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker; content about relationship-building strategies for networking with high-net-worth individuals offers actionable intelligence for creators scaling their business and building valuable partnerships",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 866,
-    "kept": 210,
+    "scanned": 867,
+    "kept": 211,
     "rejected": 652,
-    "last_scan": "2026-08-13T16:56:52.533794",
+    "last_scan": "2026-08-13T17:58:16.240506",
     "platforms": [
       "YouTube",
       "Google",
