@@ -1562,16 +1562,6 @@
     },
     {
       "source": "YouTube",
-      "title": "I partnered with a $3bn Company To Give Everything I've Built Away",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-16T23:04:10.939653",
-      "status": "keep",
-      "reason": "Charlie Morgan partnership case study demonstrates scaling strategy, value exchange dynamics, and business decision-making framework valuable for coaching business growth and creator monetization models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If You Want To Create Wealth In 2026, Watch This (4 Paths)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2489,6 +2479,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker; content about relationship-building strategies for networking with high-net-worth individuals offers actionable intelligence for creators scaling their business and building valuable partnerships",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a Billion-Dollar Network (Even If You're a Nobody)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-14T20:57:06.645500",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and creator economy figure whose network-building frameworks could provide actionable lessons for growing a fitness coaching business through strategic relationships and positioning.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2498,11 +2498,11 @@
     "comp_kept": 87,
     "comp_rejected": 570,
     "comp_scanned": 671,
-    "busi_kept": 211,
+    "busi_kept": 212,
     "busi_rejected": 654,
-    "busi_scanned": 869,
-    "last_scan": "2026-08-14T20:06:28.370720",
-    "total_kept": 480,
+    "busi_scanned": 870,
+    "last_scan": "2026-08-14T20:58:09.709730",
+    "total_kept": 481,
     "total_rejected": 1549,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
