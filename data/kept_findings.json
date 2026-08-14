@@ -1562,16 +1562,6 @@
     },
     {
       "source": "YouTube",
-      "title": "I partnered with a $3bn Company To Give Everythng I've Built Away",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-16T21:26:48.686407",
-      "status": "keep",
-      "reason": "Charlie Morgan partnership case study likely contains specific strategies on business scaling, partnership mechanics, and value creation lessons applicable to fitness coaching business models and creator economy growth",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I partnered with a $3bn Company To Give Everything I've Built Away",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2509,11 +2499,11 @@
     "comp_rejected": 570,
     "comp_scanned": 671,
     "busi_kept": 211,
-    "busi_rejected": 653,
-    "busi_scanned": 868,
-    "last_scan": "2026-08-14T16:24:49.823053",
+    "busi_rejected": 654,
+    "busi_scanned": 869,
+    "last_scan": "2026-08-14T17:29:51.671518",
     "total_kept": 480,
-    "total_rejected": 1548,
+    "total_rejected": 1549,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
