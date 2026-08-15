@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If You Want To Create Wealth In 2026, Watch This (4 Paths)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T16:12:47.753563",
-      "status": "keep",
-      "reason": "Alex Hormozi content on wealth creation paths provides direct business strategy insights applicable to coaching business models, pricing, and scaling frameworks.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi - Why Most People Will Never Be Rich (Part 2) | Ep. 159",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T18:42:08.261095",
-      "status": "keep",
-      "reason": "Alex Hormozi content on wealth-building psychology provides actionable business principles applicable to fitness coaching monetization, pricing strategy, and scaling—core topics for a fitness business operator seeking to understand client value perception and revenue models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Most People Never Start",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T18:42:09.240669",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provided - no actionable intelligence to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Brutal Truth About Results",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T18:42:10.714881",
-      "status": "reject",
-      "reason": "Search query alone without actual content provides no specific insights, strategies, or actionable intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex’s 3-Part Framework for Better Decisions",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T18:42:12.001696",
-      "status": "reject",
-      "reason": "Title mentions a framework but provides no actual content, details, or actionable insights—just a search term without substantive information to extract business value from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "George’s Biggest Business Blind Spot",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T18:42:14.075600",
-      "status": "reject",
-      "reason": "Title references Alex Hormozi but provides no actual content, insights, or actionable business intelligence—just a search query without substantive information.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "1000+ hours of Learning Claude in 15 Minutes (Beginner to Pro)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-18T16:29:52.827950",
-      "status": "reject",
-      "reason": "Title promises condensed learning content but lacks specific business strategies, entrepreneurship lessons, or creator economy insights relevant to fitness coaching business operations or content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Luke SOLD His Marketing Agency For Multi-7 Figures at 22 Years Old",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Title is vague motivational content with no specific business strategy, framework, or actionable intelligence; search term alone doesn't confirm the content contains substantive business insights from Dan Martell.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The problem with education",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-15T22:48:08.785190",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided; cannot assess business value without the article/resource itself",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Select your learning",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-15T22:48:09.750484",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Dan Martell that could be applied to fitness coaching business model or creator economy",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI-powered curriculum",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-15T22:48:10.691256",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided - no actionable intelligence to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Study, don't read",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-15T22:48:11.876871",
+      "status": "reject",
+      "reason": "Search query alone without actual content, study methodology, or actionable insights from Dan Martell—no specific business intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Feed your mind",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-15T22:48:12.904764",
+      "status": "reject",
+      "reason": "Search query alone with no substantive content, article, or specific business insight provided to analyze",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Live it and teach it",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-15T22:48:14.028967",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insight from Dan Martell provides no actionable business intelligence or specific strategy to analyze.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Forge toward mastery",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-15T22:48:15.254274",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable insight, strategy, or specific business content—just a name without context or substantive information to extract.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 871,
+    "scanned": 878,
     "kept": 212,
-    "rejected": 655,
-    "last_scan": "2026-08-15T22:20:02.585899",
+    "rejected": 662,
+    "last_scan": "2026-08-15T22:49:13.378365",
     "platforms": [
       "YouTube",
       "Google",

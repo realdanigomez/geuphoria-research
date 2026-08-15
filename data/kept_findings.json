@@ -1572,26 +1572,6 @@
     },
     {
       "source": "YouTube",
-      "title": "If You Want To Create Wealth In 2026, Watch This (4 Paths)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T16:12:47.753563",
-      "status": "keep",
-      "reason": "Alex Hormozi content on wealth creation paths provides direct business strategy insights applicable to coaching business models, pricing, and scaling frameworks.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi - Why Most People Will Never Be Rich (Part 2) | Ep. 159",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-17T18:42:08.261095",
-      "status": "keep",
-      "reason": "Alex Hormozi content on wealth-building psychology provides actionable business principles applicable to fitness coaching monetization, pricing strategy, and scaling—core topics for a fitness business operator seeking to understand client value perception and revenue models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Luke SOLD His Marketing Agency For Multi-7 Figures at 22 Years Old",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2509,11 +2489,11 @@
     "comp_rejected": 578,
     "comp_scanned": 679,
     "busi_kept": 212,
-    "busi_rejected": 655,
-    "busi_scanned": 871,
-    "last_scan": "2026-08-15T22:20:02.590264",
+    "busi_rejected": 662,
+    "busi_scanned": 878,
+    "last_scan": "2026-08-15T22:49:13.382603",
     "total_kept": 482,
-    "total_rejected": 1558,
+    "total_rejected": 1565,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
