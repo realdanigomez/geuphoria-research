@@ -1042,6 +1042,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How To Sell Long-Term Programs To Personal Training Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-15T12:30:19.613397",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition and revenue optimization—two critical pain points for online fitness coaches seeking to increase lifetime client value and reduce churn through longer commitments.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How this Fitness Coach made $30k per month with under 800 followers",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2492,17 +2502,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 182,
+    "niche_kept": 183,
     "niche_rejected": 325,
-    "niche_scanned": 508,
+    "niche_scanned": 509,
     "comp_kept": 87,
     "comp_rejected": 576,
     "comp_scanned": 677,
     "busi_kept": 212,
     "busi_rejected": 655,
     "busi_scanned": 871,
-    "last_scan": "2026-08-15T11:46:43.528783",
-    "total_kept": 481,
+    "last_scan": "2026-08-15T12:33:24.709110",
+    "total_kept": 482,
     "total_rejected": 1556,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
