@@ -1052,46 +1052,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How this Fitness Coach made $30k per month with under 800 followers",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-31T16:59:25.513871",
-      "status": "keep",
-      "reason": "Contains case study of successful fitness coach business model ($30k/month) with specific metrics (follower count) that reveals scaling strategies relevant to online fitness coaches building their business",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "30K in 30 Days with Less Than 800 Followers",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-31T16:59:26.775667",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches revenue strategies; this search indicates content about rapid monetization tactics that could reveal his positioning, offer structure, or business model approach",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Giacomo Booked Calls with High-Intent Leads",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-31T16:59:33.514264",
-      "status": "keep",
-      "reason": "Direct reference to Charlie Johnson, a established fitness business coach who teaches online coaches how to book calls and acquire clients - core intelligence for understanding competitor strategies in the fitness coaching business space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Real Reason Most Coaches Fear Sales",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-05-31T16:59:34.631911",
-      "status": "keep",
-      "reason": "Directly addresses sales psychology for fitness coaches, likely contains actionable strategies from Charlie Johnson (a known fitness business coach), relevant to coach business development challenges",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1568,6 +1528,26 @@
       "time": "2026-08-12T16:55:56.933403",
       "status": "keep",
       "reason": "Bedros Keuilian is a direct competitor in the fitness business coaching space; content on client trust-building reveals positioning and messaging strategy relevant to understanding how established coaches sell their services to fitness professionals.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Welcome to 7 Figures Scaling System",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-16T21:16:33.657092",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online fitness coaches scaling strategies; this search indicates direct competitor intelligence on business scaling systems and positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Welcome to 7 Figures Scaling Systems",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-16T21:16:34.594334",
+      "status": "keep",
+      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches scaling strategies and business systems—directly relevant to competitive intelligence on coaching programs targeting fitness entrepreneurs.",
       "track": "competitor"
     },
     {
@@ -2455,15 +2435,15 @@
     "niche_kept": 187,
     "niche_rejected": 327,
     "niche_scanned": 515,
-    "comp_kept": 87,
-    "comp_rejected": 579,
-    "comp_scanned": 680,
+    "comp_kept": 89,
+    "comp_rejected": 585,
+    "comp_scanned": 688,
     "busi_kept": 212,
     "busi_rejected": 666,
     "busi_scanned": 882,
-    "last_scan": "2026-08-16T20:49:59.083026",
-    "total_kept": 486,
-    "total_rejected": 1572,
+    "last_scan": "2026-08-16T21:17:16.419510",
+    "total_kept": 488,
+    "total_rejected": 1578,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
