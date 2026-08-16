@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Support vs. Selling: How to avoid being \\",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-20T12:47:11.460318",
-      "status": "reject",
-      "reason": "Title is incomplete/unclear and content preview doesn't demonstrate specific actionable intelligence about fitness coach pain points, client acquisition strategies, or business scaling challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Pick Your Niche as an Online Fitness Coach (Part 1 of 8)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition and revenue optimization—two critical pain points for online fitness coaches seeking to increase lifetime client value and reduce churn through longer commitments.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 Tips for Online Coaches",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-16T07:54:24.090724",
+      "status": "reject",
+      "reason": "Too generic and surface-level; lacks specific insights into fitness coaches' actual pain points, struggles, or business challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 509,
+    "scanned": 510,
     "kept": 183,
-    "rejected": 325,
-    "last_scan": "2026-08-16T07:28:29.564868",
+    "rejected": 326,
+    "last_scan": "2026-08-16T07:55:21.873874",
     "platforms": [
       "Reddit",
       "YouTube",
