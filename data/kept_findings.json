@@ -1572,16 +1572,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How Luke SOLD His Marketing Agency For Multi-7 Figures at 22 Years Old",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-18T18:44:14.415804",
-      "status": "keep",
-      "reason": "Features Charlie Morgan (influential business/creator economy figure) discussing agency exit strategy and early-stage entrepreneurship lessons applicable to fitness coaching business model scaling and exit planning.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$100M Investor Explains: How to Invest in 2026",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2489,11 +2479,11 @@
     "comp_rejected": 578,
     "comp_scanned": 679,
     "busi_kept": 212,
-    "busi_rejected": 662,
-    "busi_scanned": 878,
-    "last_scan": "2026-08-16T06:36:14.868370",
+    "busi_rejected": 663,
+    "busi_scanned": 879,
+    "last_scan": "2026-08-16T07:30:36.187328",
     "total_kept": 482,
-    "total_rejected": 1565,
+    "total_rejected": 1566,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

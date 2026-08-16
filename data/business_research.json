@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Luke SOLD His Marketing Agency For Multi-7 Figures at 22 Years Old",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-18T18:44:14.415804",
-      "status": "keep",
-      "reason": "Features Charlie Morgan (influential business/creator economy figure) discussing agency exit strategy and early-stage entrepreneurship lessons applicable to fitness coaching business model scaling and exit planning.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$100M Investor Explains: How to Invest in 2026",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone provides no actionable insight, strategy, or specific business content—just a name without context or substantive information to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How \\",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-16T07:29:41.401025",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or substantive information provided to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 878,
+    "scanned": 879,
     "kept": 212,
-    "rejected": 662,
-    "last_scan": "2026-08-16T06:36:14.864308",
+    "rejected": 663,
+    "last_scan": "2026-08-16T07:30:36.182898",
     "platforms": [
       "YouTube",
       "Google",
