@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Skill That Changes Everything",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-20T08:21:57.087426",
-      "status": "reject",
-      "reason": "Title alone is vague clickbait without substantive content; requires actual article/video content to assess whether it contains specific Hormozi insights or actionable business lessons",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Top AI Expert: Use THIS Strategy To Get Rich",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is motivational advice without specific business insights, strategies, or actionable intelligence. No substantive content from Dan Martell provided to evaluate for business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Big Rocks First",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-16T19:45:17.672509",
+      "status": "reject",
+      "reason": "Search query alone provides no specific insights, strategies, or actionable intelligence—just a name with no context, content, or teaching material to extract business value from.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 881,
+    "scanned": 882,
     "kept": 212,
-    "rejected": 665,
-    "last_scan": "2026-08-16T19:21:40.448857",
+    "rejected": 666,
+    "last_scan": "2026-08-16T19:46:15.982760",
     "platforms": [
       "YouTube",
       "Google",
