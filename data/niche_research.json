@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Pick Your Niche as an Online Fitness Coach (Part 1 of 8)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T00:05:44.114323",
-      "status": "keep",
-      "reason": "Directly addresses niche selection, a foundational business decision that impacts client acquisition, positioning, and revenue potential for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Most Online Fitness Coaches Are Doing the Right Things in the Wrong Order (Part 1 of 8)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T02:19:56.202230",
-      "status": "keep",
-      "reason": "Directly addresses execution sequencing problems for online fitness coaches, likely revealing systematic mistakes in their business operations that impact client acquisition and scaling—a core pain point for the niche.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Ultimate Guide to Building an Online Fitness Coaching Business (Part 1: Niche)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T04:50:00.718831",
-      "status": "reject",
-      "reason": "The finding is a generic guide about building a fitness coaching business rather than research into actual pain points, struggles, or problems that online fitness coaches face. It lacks specific, actionable intelligence about real coach challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Get Consistent Clients as an Online Fitness Coach Without Paid Ads",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Too generic and surface-level; lacks specific insights into fitness coaches' actual pain points, struggles, or business challenges",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Clients as an Online Coach (Without Paid Ads)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-16T09:50:50.189670",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point (organic growth strategy), a primary struggle for online fitness coaches trying to scale without ad spend",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Scale An Online Fitness Business to $100K A Month - Full Course",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-16T09:50:51.291049",
+      "status": "keep",
+      "reason": "Directly addresses scaling revenue to $100K/month, a primary income goal for online fitness coaches, and search intent confirms target audience actively seeking solutions to growth struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Clients as an Online Coach (Without Paid Ads)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-16T09:50:54.971474",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition—a primary pain point for online fitness coaches—with organic strategy alternatives to paid ads, offering cost-effective scaling methods relevant to bootstrapped coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 510,
-    "kept": 183,
+    "scanned": 513,
+    "kept": 186,
     "rejected": 326,
-    "last_scan": "2026-08-16T09:25:59.647768",
+    "last_scan": "2026-08-16T09:51:54.664239",
     "platforms": [
       "Reddit",
       "YouTube",
