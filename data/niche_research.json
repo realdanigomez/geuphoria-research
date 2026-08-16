@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Get Consistent Clients as an Online Fitness Coach Without Paid Ads",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T13:20:17.319581",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with organic strategy alternative, relevant to coaches seeking sustainable business models without ad spend dependency",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Get Your First 5 Online Coaching Clients",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition—a primary pain point for online fitness coaches—with organic strategy alternatives to paid ads, offering cost-effective scaling methods relevant to bootstrapped coaches.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built a 7-Figure Coaching Business Without Paid Ads",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-16T11:16:47.614589",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (major pain point) with a proven business model; \"7-figure\" outcome signals scaling success that coaches aspire to replicate, likely contains systems/strategies beyond paid ads that are highly relevant to bootstrapped fitness coaches.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 513,
-    "kept": 186,
+    "scanned": 514,
+    "kept": 187,
     "rejected": 326,
-    "last_scan": "2026-08-16T10:48:38.612361",
+    "last_scan": "2026-08-16T11:17:47.907913",
     "platforms": [
       "Reddit",
       "YouTube",
