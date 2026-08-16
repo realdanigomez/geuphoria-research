@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Top AI Expert: Use THIS Strategy To Get Rich",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-20T12:27:47.563407",
-      "status": "reject",
-      "reason": "Title promises strategy but provides no actual content—only a search term for a known business figure. Without specific insights, frameworks, or actionable advice, this is clickbait lacking substantive business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The NEW Way to Build A Business with Al",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-20T19:23:17.893280",
-      "status": "reject",
-      "reason": "Title promises \"NEW Way\" but provides no specific insights, strategies, or actionable content—only a search reference to Dan Martell without substantive business methodology or lessons included.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Luke SOLD His Marketing Agency For MILLIONS at 22 Years Old",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search query alone provides no specific insights, strategies, or actionable intelligence—just a name with no context, content, or teaching material to extract business value from.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Alex Hormozi become a part of Skool | Sam Ovens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-16T21:45:04.828678",
+      "status": "keep",
+      "reason": "Features interview/insights from Sam Ovens about Alex Hormozi's involvement with Skool community platform, directly relevant to creator economy trends and business strategy lessons from influential entrepreneurial figures in the online coaching space.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Sam Ovens Problem.",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-16T21:45:05.898624",
+      "status": "reject",
+      "reason": "Title mentions Sam Ovens but finding contains no actual content, insights, or analysis—just a search query with no substantive business lessons or strategies to extract.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 882,
-    "kept": 212,
-    "rejected": 666,
-    "last_scan": "2026-08-16T21:17:16.415341",
+    "scanned": 884,
+    "kept": 213,
+    "rejected": 667,
+    "last_scan": "2026-08-16T21:46:01.732106",
     "platforms": [
       "YouTube",
       "Google",
