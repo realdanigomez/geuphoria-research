@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "$100M Investor Explains: How to Invest in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-18T18:44:18.207840",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business figure; content on investment strategies from major investors provides actionable business intelligence and financial decision-making frameworks relevant to scaling fitness coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Al Millionaire: How To *actually* Get Rich Using AI",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, insights, or substantive information provided to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Trial by Fire: How To Do The Painful Work",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-16T11:45:51.867987",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or actionable strategies provided to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 879,
+    "scanned": 880,
     "kept": 212,
-    "rejected": 663,
-    "last_scan": "2026-08-16T11:19:56.537330",
+    "rejected": 664,
+    "last_scan": "2026-08-16T11:46:51.866832",
     "platforms": [
       "YouTube",
       "Google",
