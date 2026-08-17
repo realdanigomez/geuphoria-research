@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Fitness Boot Camp VS One-on-One Training",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-05-31T18:59:29.154979",
-      "status": "reject",
-      "reason": "Contains only a search query and generic article title comparing training modalities; no actionable intelligence about business strategy, positioning, offers, or coaching programs for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Cold Hard Facts...",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "No specific intelligence provided about Charlie Johnson's strategies, content, offers, or positioning - only a search query without actual findings or details about his business model or coaching approach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 PROVEN Steps to Starting an Online Fitness Business (BIG PROFITS)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-17T21:50:24.149831",
+      "status": "keep",
+      "reason": "Direct reference to Vince Del Monte (known fitness business coach) in context of online fitness business launch strategy, likely contains competitive positioning and profit model insights relevant to fitness coaching business builders.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 688,
-    "kept": 89,
+    "scanned": 689,
+    "kept": 90,
     "rejected": 585,
-    "last_scan": "2026-08-17T21:24:00.212880",
+    "last_scan": "2026-08-17T21:51:27.041525",
     "platforms": [
       "YouTube",
       "Google",
