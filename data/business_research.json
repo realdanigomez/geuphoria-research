@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "28 Brutal Truths I wish someone told me in my 20s",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-22T14:36:33.504324",
-      "status": "reject",
-      "reason": "Title promises life lessons but lacks specific business strategies, frameworks, or actionable entrepreneurship insights relevant to fitness coaching content or business operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I can’t hide this anymore.",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title alone doesn't provide actionable business intelligence without the actual content or strategy being revealed; requires seeing the specific \"this\" method to evaluate usefulness.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "No White Space",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-17T16:56:51.611837",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Dan Martell to evaluate for business value.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 885,
+    "scanned": 886,
     "kept": 213,
-    "rejected": 668,
-    "last_scan": "2026-08-17T16:25:31.610380",
+    "rejected": 669,
+    "last_scan": "2026-08-17T16:57:49.751346",
     "platforms": [
       "YouTube",
       "Google",
