@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I can’t hide this anymore.",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-22T18:45:04.755161",
-      "status": "reject",
-      "reason": "Search query alone without actual content provides no specific, actionable business intelligence or strategy to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "“You Can’t Make It!” How I Would Make 100K in 3 Months in 2026 | Alex Hormozi x Jack Neel",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, article, or insights from Dan Martell to evaluate for business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Actual Social Media Strategy For 2027 - The Algorithm",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-18T05:56:02.469628",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy details, or insights - no substantive business intelligence to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 886,
+    "scanned": 887,
     "kept": 213,
-    "rejected": 669,
-    "last_scan": "2026-08-18T05:27:38.389162",
+    "rejected": 670,
+    "last_scan": "2026-08-18T05:57:05.103825",
     "platforms": [
       "YouTube",
       "Google",
