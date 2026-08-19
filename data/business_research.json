@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Hiring Friends, Family \\u0026 Employees",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-22T23:06:00.844004",
-      "status": "reject",
-      "reason": "Search result title only without actual content, strategies, or insights from Alex Hormozi on hiring practices. Requires the full article/transcript to evaluate business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Alex Hormozi - Why Most People Will Never Be Rich (Part 2) | EP. 159",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist; \"Make the Upsell the Down-Sell\" is a counter-intuitive pricing/positioning strategy that could generate actionable content on sales psychology, product packaging, and customer value perception for coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Think Like The Top 1% | Sales Masterclass",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-19T23:21:27.777509",
+      "status": "keep",
+      "reason": "Alex Hormozi sales masterclass offers actionable frameworks for high-ticket sales and value positioning applicable to fitness coaching pricing, package structure, and client acquisition strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 893,
-    "kept": 215,
+    "scanned": 894,
+    "kept": 216,
     "rejected": 674,
-    "last_scan": "2026-08-19T22:53:08.515684",
+    "last_scan": "2026-08-19T23:22:33.333652",
     "platforms": [
       "YouTube",
       "Google",

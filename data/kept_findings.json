@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "GROW YOUR CLIENTS END BURNOUT",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-24T17:21:29.172899",
-      "status": "keep",
-      "reason": "Directly addresses a primary pain point (burnout) for fitness coaches and indicates search demand for solutions to scale clients while managing workload - core business challenge for the niche.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Online Fitness Coaches Get Qualified Leads Consistently",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-24T20:51:26.123356",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with focus on lead generation systems, a primary struggle for scaling fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Built a $10K/Month Personal Training Business (WITHOUT Ads or Social Media)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-25T09:21:57.956888",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition and revenue scaling without paid ads/social media—core pain points for fitness coaches seeking sustainable growth alternatives to marketing spend.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "What No One Told You About... Getting Clients",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-25T10:52:04.825018",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; searching for this term indicates coaches actively seeking solutions to their most critical business challenge.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Tip 6 - Focus on getting Calls Booked",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -1078,6 +1038,16 @@
       "time": "2026-08-19T17:51:12.587139",
       "status": "keep",
       "reason": "Direct evidence of a core pain point (client acquisition) that online fitness coaches actively seek solutions for, indicating high commercial intent and search demand around this specific problem.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why You’re Not Seeing Results (According to 10 Years as Online Coaches)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T23:19:09.688767",
+      "status": "keep",
+      "reason": "Directly addresses client results issues which impacts coach credibility, retention, and referrals—core revenue drivers for online fitness coaches",
       "track": "niche"
     },
     {
@@ -2479,21 +2449,31 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist; \"Make the Upsell the Down-Sell\" is a counter-intuitive pricing/positioning strategy that could generate actionable content on sales psychology, product packaging, and customer value perception for coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Think Like The Top 1% | Sales Masterclass",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-19T23:21:27.777509",
+      "status": "keep",
+      "reason": "Alex Hormozi sales masterclass offers actionable frameworks for high-ticket sales and value positioning applicable to fitness coaching pricing, package structure, and client acquisition strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 190,
-    "niche_rejected": 333,
-    "niche_scanned": 524,
+    "niche_kept": 191,
+    "niche_rejected": 337,
+    "niche_scanned": 529,
     "comp_kept": 90,
     "comp_rejected": 585,
     "comp_scanned": 689,
-    "busi_kept": 215,
+    "busi_kept": 216,
     "busi_rejected": 674,
-    "busi_scanned": 893,
-    "last_scan": "2026-08-19T22:53:08.518656",
-    "total_kept": 495,
-    "total_rejected": 1592,
+    "busi_scanned": 894,
+    "last_scan": "2026-08-19T23:22:33.337766",
+    "total_kept": 497,
+    "total_rejected": 1596,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
