@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Alex Talks About What it Feels Like to Become a Dad",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-22T18:45:07.130210",
-      "status": "reject",
-      "reason": "Personal life milestone without business insights, strategy, or entrepreneurial lessons applicable to fitness coaching or creator economy business operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What Skills Will Alex Teach His Child?",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, insights, or business strategy provided - cannot evaluate business value without the substance of what was found.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "These AI Hacks Will Get You Ridiculously Ahead of Most People (Q\\u0026A)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-19T14:31:04.360863",
+      "status": "keep",
+      "reason": "Dan Martell Q&A on AI productivity hacks provides actionable strategies for business efficiency and competitive advantage that directly applies to scaling a fitness coaching business operations",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 888,
-    "kept": 213,
+    "scanned": 889,
+    "kept": 214,
     "rejected": 671,
-    "last_scan": "2026-08-19T13:43:40.937367",
+    "last_scan": "2026-08-19T14:32:01.958297",
     "platforms": [
       "YouTube",
       "Google",
