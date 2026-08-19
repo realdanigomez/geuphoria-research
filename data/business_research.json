@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What Will the World Look Like in 10 Years?",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-22T18:45:11.139542",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or substantive information from Hormozi that could inform business strategy or content creation",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why AI Won’t Replicate Reality TV",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title appears clickbait without substantive content; no actual business insights, strategies, or specific lessons provided in the finding itself.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You're Leaving Money Behind by Doing THIS",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-19T18:31:21.825070",
+      "status": "reject",
+      "reason": "Title is clickbait without substance; no actual content provided to evaluate specific business insights or strategies from Dan Martell",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 891,
+    "scanned": 892,
     "kept": 214,
-    "rejected": 673,
-    "last_scan": "2026-08-19T17:54:31.436203",
+    "rejected": 674,
+    "last_scan": "2026-08-19T18:32:20.024807",
     "platforms": [
       "YouTube",
       "Google",
