@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Brand Content and Offer",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-23T16:04:42.574554",
-      "status": "reject",
-      "reason": "Too generic and promotional in nature; lacks specific pain points, struggles, or actionable data about fitness coaches' actual problems with client acquisition",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Who Are You",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-23T16:04:43.814618",
-      "status": "reject",
-      "reason": "Generic title with no specific data about fitness coaches' client acquisition challenges, strategies, or pain points - lacks actionable intelligence for understanding their problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Who Knows You",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-23T16:04:44.846844",
-      "status": "reject",
-      "reason": "Generic title with no specific insights about fitness coach pain points, struggles, systems, or client acquisition strategies - appears to be a vague self-help concept rather than research on fitness coaching business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Phone Book",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-23T16:04:46.635935",
-      "status": "reject",
-      "reason": "Generic search term with no insight into coach pain points, struggles, or solutions. No specific data about challenges, strategies, or outcomes that would inform business decisions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Starting an Online Fitness Coaching business in 2025",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T17:50:28.969726",
-      "status": "reject",
-      "reason": "Generic title with no specific pain points, struggles, or actionable insights—likely surface-level content about business setup rather than deep analysis of actual coach problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "NECESSITIES TO START",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T17:50:30.076701",
-      "status": "reject",
-      "reason": "Generic title lacks specificity; search term is too broad and doesn't indicate what specific struggles were researched or what actionable insights were discovered about their pain points.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "PAYMENT PROCESSING",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T17:50:31.346449",
-      "status": "reject",
-      "reason": "Generic payment processing topic lacks specific insight into fitness coaches' actual struggles; no evidence of their unique pain points, barriers, or context around payments in their business model.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "CONTRACT",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Generic Q&A content about bodybuilding/nutrition lacks specific intelligence about fitness coach business models, client acquisition, marketing systems, or scaling challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The end of personal training",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:46.754008",
+      "status": "reject",
+      "reason": "Generic article title lacks specific data about coach pain points, struggles, or business challenges; \"struggling\" search term alone doesn't indicate the content addresses concrete problems like client acquisition costs, retention rates, income metrics, or scalability issues that would inform business decisions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Weight loss drugs threat",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:47.992831",
+      "status": "reject",
+      "reason": "Contains no specific data about fitness coaches' actual pain points, struggles, or challenges—only a vague title with no substantive content about their business, marketing, client acquisition, or operational issues.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI agents taking over",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:48.944416",
+      "status": "reject",
+      "reason": "Too vague and sensationalist; contains no specific data about fitness coaches' actual struggles, pain points, or actionable insights into their real problems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Industry saturation",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:49.963655",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for online fitness coaches—market competition and difficulty standing out—which impacts client acquisition and business viability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mastering social media",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:51.193007",
+      "status": "reject",
+      "reason": "Too generic and surface-level; lacks specific insights into fitness coaches' actual pain points, struggles, or actionable solutions for their unique challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Data acquisition strategy",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:52.343272",
+      "status": "reject",
+      "reason": "Generic search term without specific findings, data, or insights about actual pain points, struggles, or solutions relevant to fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales and scaling skills",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:53.652812",
+      "status": "reject",
+      "reason": "Too generic and lacks specific insight into fitness coaching business problems; \"sales and scaling skills\" is vague without concrete data about fitness coaches' actual struggles, pain points, or actionable solutions relevant to their niche.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 515,
-    "kept": 187,
-    "rejected": 327,
-    "last_scan": "2026-08-19T05:26:47.062829",
+    "scanned": 522,
+    "kept": 188,
+    "rejected": 333,
+    "last_scan": "2026-08-19T06:38:56.618837",
     "platforms": [
       "Reddit",
       "YouTube",

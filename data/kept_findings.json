@@ -1052,6 +1052,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Industry saturation",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-19T06:37:49.963655",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for online fitness coaches—market competition and difficulty standing out—which impacts client acquisition and business viability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2432,18 +2442,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 187,
-    "niche_rejected": 327,
-    "niche_scanned": 515,
+    "niche_kept": 188,
+    "niche_rejected": 333,
+    "niche_scanned": 522,
     "comp_kept": 90,
     "comp_rejected": 585,
     "comp_scanned": 689,
     "busi_kept": 213,
     "busi_rejected": 671,
     "busi_scanned": 888,
-    "last_scan": "2026-08-19T05:28:54.669635",
-    "total_kept": 490,
-    "total_rejected": 1583,
+    "last_scan": "2026-08-19T06:41:03.439641",
+    "total_kept": 491,
+    "total_rejected": 1589,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
