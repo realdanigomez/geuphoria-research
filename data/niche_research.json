@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "CONTRACT",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-23T17:50:32.545134",
-      "status": "reject",
-      "reason": "Generic search term without specific findings, data, or insights about fitness coaches' actual struggles—no actionable intelligence provided",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "5 EAZY Ways To Get Online Fitness Coaching Clients in 30 Days or Less!",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Too generic and lacks specific insight into fitness coaching business problems; \"sales and scaling skills\" is vague without concrete data about fitness coaches' actual struggles, pain points, or actionable solutions relevant to their niche.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "As a fitness coach what shall i post to get clients?",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-19T16:57:13.726854",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with search intent showing coaches actively seeking posting strategies, revealing gap in content/marketing knowledge for this audience",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 522,
-    "kept": 188,
+    "scanned": 523,
+    "kept": 189,
     "rejected": 333,
-    "last_scan": "2026-08-19T16:30:34.175287",
+    "last_scan": "2026-08-19T16:58:13.754500",
     "platforms": [
       "Reddit",
       "YouTube",
