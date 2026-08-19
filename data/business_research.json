@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why AI Won’t Replicate Reality TV",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-22T18:45:12.220660",
-      "status": "reject",
-      "reason": "Contains only a title with no substantive content or insights; lacks specific business strategies, actionable intelligence, or verifiable business lessons from the mentioned creator.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Hiring Friends, Family \\u0026 Employees",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is clickbait without substance; no actual content provided to evaluate specific business insights or strategies from Dan Martell",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Make the Upsell the Down-Sell",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-19T19:05:47.559506",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist; \"Make the Upsell the Down-Sell\" is a counter-intuitive pricing/positioning strategy that could generate actionable content on sales psychology, product packaging, and customer value perception for coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 892,
-    "kept": 214,
+    "scanned": 893,
+    "kept": 215,
     "rejected": 674,
-    "last_scan": "2026-08-19T18:32:20.024807",
+    "last_scan": "2026-08-19T19:06:50.059960",
     "platforms": [
       "YouTube",
       "Google",
