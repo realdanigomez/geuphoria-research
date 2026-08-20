@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Alex Hormozi - Why Most People Will Never Be Rich (Part 2) | EP. 159",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-23T09:35:37.635927",
-      "status": "keep",
-      "reason": "Alex Hormozi content on wealth-building mindsets provides directly applicable lessons on business scaling, pricing strategy, and entrepreneurial psychology that can inform coaching offer design and customer positioning strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Claude: Beginner to Pro in Under 15 Minutes",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi sales masterclass offers actionable frameworks for high-ticket sales and value positioning applicable to fitness coaching pricing, package structure, and client acquisition strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Arin went from $0/mo to $100k/mo (Agency \\u0026 Coaching Offers)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-20T17:39:14.087308",
+      "status": "keep",
+      "reason": "Direct case study of scaling an agency and coaching business to $100k/mo with specific offer structures, likely contains actionable tactics on business model design and growth strategy relevant to fitness coaching business model development.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 894,
-    "kept": 216,
+    "scanned": 895,
+    "kept": 217,
     "rejected": 674,
-    "last_scan": "2026-08-20T17:03:25.302969",
+    "last_scan": "2026-08-20T17:40:14.271998",
     "platforms": [
       "YouTube",
       "Google",
