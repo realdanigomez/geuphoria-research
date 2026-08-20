@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Claude: Beginner to Pro in Under 15 Minutes",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-23T23:08:53.239385",
-      "status": "reject",
-      "reason": "No actual content provided - only a title and search term with no substantive business insights, strategies, or lessons from Dan Martell or other business thinkers to extract actionable intelligence from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi - Peace Or Power | EP. 158 PART 1",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-24T09:25:05.064141",
-      "status": "reject",
-      "reason": "Title only mentions Alex Hormozi's name without specific content details; no actionable business insights, strategies, or concrete takeaways are evident from the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Build Systems (with AI) to ACTUALLY Achieve Your Goals",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Direct case study of scaling an agency and coaching business to $100k/mo with specific offer structures, likely contains actionable tactics on business model design and growth strategy relevant to fitness coaching business model development.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Ridiculously Ahead of Most People with AI (Q\\u0026A)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-20T20:27:49.472384",
+      "status": "keep",
+      "reason": "Dan Martell Q&A on AI competitive advantages offers actionable strategies for leveraging emerging technology to differentiate a fitness coaching business from competitors",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Never Email Your Offer, Do This Instead",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-20T20:27:50.528740",
+      "status": "keep",
+      "reason": "Dan Martell content offering specific sales methodology (avoiding email pitches) likely contains actionable go-to-market strategy applicable to fitness coaching offers and client acquisition",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 895,
-    "kept": 217,
+    "scanned": 897,
+    "kept": 219,
     "rejected": 674,
-    "last_scan": "2026-08-20T19:59:24.319833",
+    "last_scan": "2026-08-20T20:28:48.962859",
     "platforms": [
       "YouTube",
       "Google",
