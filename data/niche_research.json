@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Research",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-25T10:52:09.242493",
-      "status": "reject",
-      "reason": "Too vague and broad. \"Getting clients\" is a generic search term without specific pain points, strategies, or insights that would inform niche problems like acquisition channels, conversion barriers, pricing strategy, or scaling methods.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Realistic",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic nutrition topic without specific insights into fitness coach pain points, business challenges, or operational struggles",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Become A Successful Personal Trainer In 2026",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-20T18:33:27.121292",
+      "status": "reject",
+      "reason": "Generic \"how to become\" advice lacks specific insights into online coaches' actual pain points (client acquisition strategies, pricing models, automation systems, scaling challenges) and appears to be surface-level content rather than deep intel on their struggles.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 529,
+    "scanned": 530,
     "kept": 191,
-    "rejected": 337,
-    "last_scan": "2026-08-20T17:38:08.899509",
+    "rejected": 338,
+    "last_scan": "2026-08-20T18:34:31.494011",
     "platforms": [
       "Reddit",
       "YouTube",
