@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Realistic",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-25T10:52:10.399001",
-      "status": "reject",
-      "reason": "Generic search term without specific pain points, strategies, or insights—doesn't reveal actual coach struggles or solutions for client acquisition",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Tip 6 - Focus on getting Calls Booked",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-26T02:56:40.424147",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for online fitness coaches; \"calls booked\" is a core metric tied to revenue and business growth that coaches struggle with.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Live 30-Minute Full Body Dumbbell Workout | New Summer Program Preview",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-26T14:53:32.930548",
-      "status": "reject",
-      "reason": "Content is a workout preview, not research into fitness coach pain points, burnout causes, business challenges, or industry problems. No actionable intelligence about coaching struggles or business operations.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How Health And Fitness Coaches Get Clients From Content",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Generic \"how to become\" advice lacks specific insights into online coaches' actual pain points (client acquisition strategies, pricing models, automation systems, scaling challenges) and appears to be surface-level content rather than deep intel on their struggles.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo ayudar a un entrenador de fitness online a conseguir clientes a través del contenido",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-21T11:52:11.388239",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for online fitness coaches through content strategy, which is a primary revenue and scaling challenge for the niche",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo conseguir clientes como entrenador personal online (¡Es fácil!)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-21T11:52:12.207784",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for online fitness coaches with actionable strategies for getting clients",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "¡10 formas PRÁCTICAS de RESOLVER el problema del AGOTAMIENTO EN EL GIMNASIO!",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-08-21T11:52:18.512037",
+      "status": "reject",
+      "reason": "Generic burnout advice for gym-goers, not fitness coaches. Addresses client fatigue management, not coach business pain points like systems, scaling, or income generation.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 530,
-    "kept": 191,
-    "rejected": 338,
-    "last_scan": "2026-08-21T11:27:00.041758",
+    "scanned": 533,
+    "kept": 193,
+    "rejected": 339,
+    "last_scan": "2026-08-21T11:53:12.726369",
     "platforms": [
       "Reddit",
       "YouTube",

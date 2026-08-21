@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Tip 6 - Focus on getting Calls Booked",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-26T02:56:40.424147",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for online fitness coaches; \"calls booked\" is a core metric tied to revenue and business growth that coaches struggle with.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How Health And Fitness Coaches Get Clients From Content",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1052,6 +1042,26 @@
     },
     {
       "source": "YouTube",
+      "title": "Cómo ayudar a un entrenador de fitness online a conseguir clientes a través del contenido",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-21T11:52:11.388239",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for online fitness coaches through content strategy, which is a primary revenue and scaling challenge for the niche",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo conseguir clientes como entrenador personal online (¡Es fácil!)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-21T11:52:12.207784",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for online fitness coaches with actionable strategies for getting clients",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1559,26 +1569,6 @@
       "status": "keep",
       "reason": "Direct reference to Vince Del Monte (known fitness business coach) in context of online fitness business launch strategy, likely contains competitive positioning and profit model insights relevant to fitness coaching business builders.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build Systems (with AI) to ACTUALLY Achieve Your Goals",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-24T09:25:11.278628",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and systems expert; content on building AI-powered systems for goal achievement directly applies to scaling a fitness coaching business through automation and operational efficiency.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "I became a millionaire at 21. Here's my advice for 20-30 yr olds.",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-25T18:33:41.498044",
-      "status": "keep",
-      "reason": "Charlie Morgan is an influential creator economy figure; his millionaire-at-21 content likely contains specific strategies on monetization, audience building, or scaling that directly apply to coaching business models and creator revenue streams.",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2479,21 +2469,31 @@
       "status": "keep",
       "reason": "Dan Martell content offering specific sales methodology (avoiding email pitches) likely contains actionable go-to-market strategy applicable to fitness coaching offers and client acquisition",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "El Hombre Que Crea Millonarios: Convierte $0 en $10,000 con esta Fórmula Paso a Paso- Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-21T11:54:22.061554",
+      "status": "keep",
+      "reason": "Alex Hormozi content offering step-by-step formula for converting $0 to $10,000 provides directly applicable business scaling strategies and monetization frameworks relevant for fitness coaching entrepreneurs seeking growth tactics",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 191,
-    "niche_rejected": 338,
-    "niche_scanned": 530,
+    "niche_kept": 193,
+    "niche_rejected": 339,
+    "niche_scanned": 533,
     "comp_kept": 90,
-    "comp_rejected": 585,
-    "comp_scanned": 689,
-    "busi_kept": 219,
-    "busi_rejected": 674,
-    "busi_scanned": 897,
-    "last_scan": "2026-08-21T11:29:07.844584",
-    "total_kept": 500,
-    "total_rejected": 1597,
+    "comp_rejected": 588,
+    "comp_scanned": 692,
+    "busi_kept": 220,
+    "busi_rejected": 678,
+    "busi_scanned": 902,
+    "last_scan": "2026-08-21T11:55:31.371710",
+    "total_kept": 503,
+    "total_rejected": 1605,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
