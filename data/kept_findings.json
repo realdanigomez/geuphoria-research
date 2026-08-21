@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Health And Fitness Coaches Get Clients From Content",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-27T23:25:01.254861",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; likely contains strategies for leveraging content to solve the \"how do I get clients\" problem",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Personal Trainers Stay Financially Stuck",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1058,6 +1048,16 @@
       "time": "2026-08-21T11:52:12.207784",
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point for online fitness coaches with actionable strategies for getting clients",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Fitness Coaches Don't Get Taken Seriously (and lose clients)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-21T17:55:14.277840",
+      "status": "keep",
+      "reason": "Directly addresses client retention and credibility issues—core pain points affecting income and business viability for online fitness coaches",
       "track": "niche"
     },
     {
@@ -2482,17 +2482,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 193,
+    "niche_kept": 194,
     "niche_rejected": 339,
-    "niche_scanned": 533,
+    "niche_scanned": 534,
     "comp_kept": 90,
     "comp_rejected": 588,
     "comp_scanned": 692,
     "busi_kept": 220,
     "busi_rejected": 678,
     "busi_scanned": 902,
-    "last_scan": "2026-08-21T17:27:38.126684",
-    "total_kept": 503,
+    "last_scan": "2026-08-21T17:58:23.835306",
+    "total_kept": 504,
     "total_rejected": 1605,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
