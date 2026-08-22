@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The 7-Figure Formula for Fitness Professionals (from $0)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-01T16:30:20.647754",
-      "status": "keep",
-      "reason": "Direct mention of Vince Del Monte, a primary fitness business coach competitor, with focus on monetization strategy (\"7-Figure Formula\") relevant to scaling online fitness coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "ELLIE MARIE: How This Fitness Enthusiast \\u0026 Injured Dancer Became A 6 Figure Online Fitness Coach",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Finding contains only a title and search query with no actual content, strategy, offers, or positioning details about the competitor or their business approach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "#1 Secret To Staying Motivated to Workout!",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-08-22T19:23:46.996071",
+      "status": "reject",
+      "reason": "This is generic fitness motivation content, not business intelligence about fitness coaching businesses or coaches who serve that market.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 694,
+    "scanned": 695,
     "kept": 90,
-    "rejected": 590,
-    "last_scan": "2026-08-22T18:59:09.547452",
+    "rejected": 591,
+    "last_scan": "2026-08-22T19:24:50.400822",
     "platforms": [
       "YouTube",
       "Google",
