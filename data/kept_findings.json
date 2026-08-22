@@ -1062,6 +1062,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Why Most Fitness Coaches Fail on Instagram",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-22T15:16:34.583454",
+      "status": "keep",
+      "reason": "Directly addresses a major pain point (client acquisition via social media) that impacts income and business sustainability for online fitness coaches, likely contains specific tactics or failure patterns they need to avoid.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "The 7-Figure Formula for Fitness Professionals (from $0)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2462,17 +2472,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 196,
+    "niche_kept": 197,
     "niche_rejected": 346,
-    "niche_scanned": 543,
+    "niche_scanned": 544,
     "comp_kept": 90,
     "comp_rejected": 590,
     "comp_scanned": 694,
     "busi_kept": 220,
     "busi_rejected": 680,
     "busi_scanned": 904,
-    "last_scan": "2026-08-22T14:49:38.511809",
-    "total_kept": 506,
+    "last_scan": "2026-08-22T15:19:42.940734",
+    "total_kept": 507,
     "total_rejected": 1616,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
