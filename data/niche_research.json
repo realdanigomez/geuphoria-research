@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Personal Trainers Stay Financially Stuck",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-29T10:26:30.577381",
-      "status": "keep",
-      "reason": "Directly addresses financial constraints as a key pain point for online fitness coaches, likely contains insights into income barriers and business model limitations affecting this audience.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Exactly How to Get Clients As An Online Fitness Coach (it's Easy)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client retention and credibility issues—core pain points affecting income and business viability for online fitness coaches",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Avoid Exercise Burnout",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-08-22T09:26:02.802500",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout, a core pain point affecting retention, client outcomes, and business sustainability for online fitness coaches",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 534,
-    "kept": 194,
+    "scanned": 535,
+    "kept": 195,
     "rejected": 339,
-    "last_scan": "2026-08-22T08:57:38.565339",
+    "last_scan": "2026-08-22T09:26:57.237964",
     "platforms": [
       "Reddit",
       "YouTube",
