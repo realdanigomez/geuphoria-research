@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Exactly How to Get Clients As An Online Fitness Coach (it's Easy)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-29T10:26:32.059858",
-      "status": "reject",
-      "reason": "Title claims \"it's easy\" which contradicts the search intent \"struggling\" — likely clickbait without substantive insights into actual coach pain points or solutions",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Full Body Balance and Burnout Challenge Workout!",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-29T22:27:10.607197",
-      "status": "reject",
-      "reason": "Contains generic workout content rather than insight into fitness coaches' business challenges, pain points, or solutions—it's a consumer fitness product, not coach-focused intelligence.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Personal Training Business, Online Fitness Coaching, and Attracting Clients",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Directly addresses coach burnout, a core pain point affecting retention, client outcomes, and business sustainability for online fitness coaches",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "El plan de contenido MÁS INTELIGENTE para entrenadores de fitness online",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-22T12:31:43.782085",
+      "status": "keep",
+      "reason": "Addresses content strategy pain point for online fitness coaches, a core marketing/client acquisition challenge in scaling their business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Strategy Alex Hormozi Revealed To Us To Get More Fitness Coaching Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-22T12:31:47.618771",
+      "status": "reject",
+      "reason": "Title promises strategy but provides no specific tactics, systems, or actionable methods—appears to be clickbait without substantive client acquisition intelligence",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 535,
-    "kept": 195,
-    "rejected": 339,
-    "last_scan": "2026-08-22T11:45:06.239745",
+    "scanned": 537,
+    "kept": 196,
+    "rejected": 340,
+    "last_scan": "2026-08-22T12:32:46.891569",
     "platforms": [
       "Reddit",
       "YouTube",

@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Cyrus went from $3.5k/mo to $70k/mo in 7 months (health coaching offer)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-26T17:46:30.613103",
-      "status": "keep",
-      "reason": "Direct case study of scaling a health coaching offer from $3.5k to $70k MRR in 7 months with likely tactical strategies applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Turn $0 Into $1,000,000 (FREE COURSE)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-06-26T17:46:32.334014",
-      "status": "reject",
-      "reason": "Title suggests clickbait course promotion without evidence of specific actionable business strategies, frameworks, or insights from Charlie Morgan included in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Future of AI (Do This Before 2027)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Title mentions making rich friends but contains no actual content, strategy, or insights—only a search term for Dan Martell with no substantive business lesson or actionable intelligence provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "¿Cuánto tiempo deberías dedicar a la mentalidad y la visualización?",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-22T12:34:00.318159",
+      "status": "reject",
+      "reason": "The finding only mentions Sam Ovens as a search query without providing actual content, insights, strategies, or actionable intelligence about mindset and visualization for business or fitness coaching.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo ser más productivo (Grabación de Quantum Mastermind)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-08-22T12:34:01.559001",
+      "status": "reject",
+      "reason": "Title and search term indicate this is a generic productivity topic recording, but no specific business strategies, actionable insights, or substantive content details are provided to confirm actual value beyond the creator name.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 902,
+    "scanned": 904,
     "kept": 220,
-    "rejected": 678,
-    "last_scan": "2026-08-22T11:47:12.358047",
+    "rejected": 680,
+    "last_scan": "2026-08-22T12:34:57.961150",
     "platforms": [
       "YouTube",
       "Google",
