@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Meet my first Mentor Who Changed my life - Vince Del Monte the OG of Online Fitness Coaching",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-01T13:00:12.318518",
-      "status": "keep",
-      "reason": "Identifies Vince Del Monte as a foundational mentor figure in online fitness coaching business, useful for understanding key influencers and business model originators in the space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "A Day In The Life Ep.5: Make Money Online With Fitness",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a title and search query with no actual content, strategy, offers, or positioning details about fitness business coaching that would provide actionable intelligence.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Crafting a Compelling Vision",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-08-22T07:29:10.572866",
+      "status": "reject",
+      "reason": "Search query alone without actual content details about Brian Mark's specific strategies, offers, or business methods provides no actionable intelligence for building a fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 692,
+    "scanned": 693,
     "kept": 90,
-    "rejected": 588,
-    "last_scan": "2026-08-22T06:35:22.787251",
+    "rejected": 589,
+    "last_scan": "2026-08-22T07:30:04.937998",
     "platforms": [
       "YouTube",
       "Google",
