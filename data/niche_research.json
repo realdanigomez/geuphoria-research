@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Personal Training Business, Online Fitness Coaching, and Attracting Clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-29T23:57:08.772755",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches seeking to grow their business",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Do You Help People and Still Make Money",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-29T23:57:09.891494",
-      "status": "reject",
-      "reason": "Generic title about helping people and making money lacks specific insight into fitness coaches' actual pain points, client acquisition strategies, or business model challenges; too broad and motivational rather than analytically useful.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Price Shopping",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-29T23:57:10.913753",
-      "status": "reject",
-      "reason": "Generic search term with no data about coach pain points, struggles, or behaviors. Does not reveal specific problems, barriers to client acquisition, or actionable insights.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Not Converting",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-29T23:57:12.632751",
-      "status": "reject",
-      "reason": "Too vague and generic - lacks specifics about conversion barriers, target audience, or actionable insights into fitness coaches' actual client acquisition problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Be the Best Coach For Your Clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-29T23:57:13.529081",
-      "status": "reject",
-      "reason": "Generic advice about coaching quality without specific insights into fitness coaches' actual pain points, client acquisition strategies, or business challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro Summary",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-29T23:57:14.812078",
-      "status": "reject",
-      "reason": "Too vague and generic. \"Getting clients\" is a broad outcome, not specific insight into pain points, struggles, or actionable strategies that would help understand coaches' real problems deeply.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Sleep",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Title promises strategy but provides no specific tactics, systems, or actionable methods—appears to be clickbait without substantive client acquisition intelligence",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Attract Convert and Deliver",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-22T14:46:27.836513",
+      "status": "reject",
+      "reason": "Generic business advice title with no specific insight into fitness coaches' unique pain points, systems, or challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pick Your Promise",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-22T14:46:29.478711",
+      "status": "reject",
+      "reason": "Too generic and vague - \"coaching business tips\" lacks specificity about fitness coaches' actual pain points like client retention, pricing models, content systems, or scaling challenges that would inform their real struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Create Your Offer",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-22T14:46:30.657625",
+      "status": "reject",
+      "reason": "Too generic and broad; lacks specific insights into fitness coaches' actual pain points, struggles, or business challenges. \"Online coaching business tips\" is surface-level without actionable intelligence for this niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Use Instagram",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-22T14:46:31.749499",
+      "status": "reject",
+      "reason": "Too generic and lacks specificity; \"use Instagram\" without concrete tactics, metrics, or fitness coaching-specific challenges provides no actionable intelligence for the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stack Results",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-22T14:46:33.242086",
+      "status": "reject",
+      "reason": "Too generic and vague—\"online coaching business tips\" lacks specificity about fitness coaches' actual pain points, struggles, or solutions; could apply to any coaching niche without fitness-specific insights",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Set Up the Systems",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-22T14:46:34.356532",
+      "status": "reject",
+      "reason": "Too generic and broad; lacks specific insight into fitness coaches' actual pain points, systems challenges, or actionable solutions for their unique context",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 537,
+    "scanned": 543,
     "kept": 196,
-    "rejected": 340,
-    "last_scan": "2026-08-22T14:18:10.940360",
+    "rejected": 346,
+    "last_scan": "2026-08-22T14:47:31.680636",
     "platforms": [
       "Reddit",
       "YouTube",
