@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Easiest Thing to Sell With AI Right Now",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-26T19:48:04.155672",
-      "status": "reject",
-      "reason": "Title mentions AI and Dan Martell but finding contains only a search query with no actual content, insights, strategies, or specific intelligence to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Marcus and Sophie Framework",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi's live masterclass on scaling a $1M service business in 90 days contains directly applicable growth strategies and tactical execution frameworks relevant to coaching business models, including pricing, sales systems, and rapid scaling methodology.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-23T16:52:12.831048",
+      "status": "keep",
+      "reason": "Alex Hormozi content on service-based business monetization strategies directly applicable to fitness coaching business models and pricing frameworks",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 906,
-    "kept": 221,
+    "scanned": 907,
+    "kept": 222,
     "rejected": 681,
-    "last_scan": "2026-08-23T16:23:35.244370",
+    "last_scan": "2026-08-23T16:53:15.477383",
     "platforms": [
       "YouTube",
       "Google",
