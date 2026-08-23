@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "10 Tips for Online Coaches",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-30T05:57:15.947010",
-      "status": "reject",
-      "reason": "Generic tips without specifics on actual pain points, struggles, or solutions—lacks actionable insight into what fitness coaches actually need",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses a major pain point (client acquisition via social media) that impacts income and business sustainability for online fitness coaches, likely contains specific tactics or failure patterns they need to avoid.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Coaches: Views but No Clients? (How to fix it)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-23T18:56:17.800496",
+      "status": "keep",
+      "reason": "Directly addresses the conversion problem (views to clients) which is a core pain point for online fitness coaches—indicates content about client acquisition bottlenecks and solutions.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 544,
-    "kept": 197,
+    "scanned": 545,
+    "kept": 198,
     "rejected": 346,
-    "last_scan": "2026-08-23T18:24:10.526981",
+    "last_scan": "2026-08-23T18:57:20.097351",
     "platforms": [
       "Reddit",
       "YouTube",
