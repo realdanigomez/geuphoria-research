@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Vince Del Monte's A Day In The Life Ep. 9: Crazy Leg Workout to Build Muscle!",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-02T12:01:00.819064",
-      "status": "reject",
-      "reason": "This is a workout content video, not business intelligence about coaching strategies, offers, or how to build an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Only 7 Apps You Need for Fitness Coaching",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Bedros Keuilian is a key fitness business coach competitor; this content likely contains positioning/messaging strategies about credibility and barriers to entry in the fitness industry that could inform competitive positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Becoming a Badass Coach",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-23T06:35:46.685706",
+      "status": "reject",
+      "reason": "No specific intelligence provided about business strategy, content, offers, or positioning—only a generic title and search query without substantive competitive insights.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 696,
+    "scanned": 697,
     "kept": 91,
-    "rejected": 591,
-    "last_scan": "2026-08-23T05:55:59.241606",
+    "rejected": 592,
+    "last_scan": "2026-08-23T06:36:46.634700",
     "platforms": [
       "YouTube",
       "Google",
