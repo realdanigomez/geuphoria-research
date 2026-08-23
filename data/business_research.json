@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Only 5% of the World Has Ever Paid for AI",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-26T19:48:03.057337",
-      "status": "reject",
-      "reason": "Title claims a statistic but the text only contains a search query for Dan Martell with no actual content, insights, or actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Easiest Thing to Sell With AI Right Now",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises business advice but content appears to be a search query result without actual substantive insights, strategies, or documented lessons from Charlie Morgan that could inform fitness coaching business strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch Me Explode This $1M Service Business In 90 Days (Live Masterclass)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-23T14:21:22.297156",
+      "status": "keep",
+      "reason": "Alex Hormozi's live masterclass on scaling a $1M service business in 90 days contains directly applicable growth strategies and tactical execution frameworks relevant to coaching business models, including pricing, sales systems, and rapid scaling methodology.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 905,
-    "kept": 220,
+    "scanned": 906,
+    "kept": 221,
     "rejected": 681,
-    "last_scan": "2026-08-23T13:58:23.530458",
+    "last_scan": "2026-08-23T14:22:25.077483",
     "platforms": [
       "YouTube",
       "Google",
