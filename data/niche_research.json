@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-30T05:57:17.012187",
-      "status": "reject",
-      "reason": "Search term alone provides no actual data about struggles, pain points, or solutions—needs actual content, research, or testimonials to extract actionable intelligence.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Be warm and helpful",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses the conversion problem (views to clients) which is a core pain point for online fitness coaches—indicates content about client acquisition bottlenecks and solutions.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Fitness Coaches Stay Poor - (how to fix it)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-24T18:43:41.529967",
+      "status": "keep",
+      "reason": "Directly addresses income struggles of online fitness coaches and implies solutions to a core pain point (financial sustainability) that affects client acquisition capacity, business scaling, and burnout risk.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 545,
-    "kept": 198,
+    "scanned": 546,
+    "kept": 199,
     "rejected": 346,
-    "last_scan": "2026-08-24T17:58:38.179337",
+    "last_scan": "2026-08-24T18:44:44.492215",
     "platforms": [
       "Reddit",
       "YouTube",
