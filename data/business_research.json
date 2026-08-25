@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "8 Entrepreneurs Compete for $100,000 - Episode 1",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-27T04:35:10.724775",
-      "status": "reject",
-      "reason": "Title alone indicates a competition format show, but no actual business insights, strategies, or lessons are provided in the text. Raw competition content without extracted takeaways lacks actionable intelligence for your coaching business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Theory of Constraints and the Right Problem to Solve",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, article, or insights provided—cannot assess business value without the substantive material",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You Want a Business That Runs Without You, Watch This",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-25T14:42:49.067630",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker specializing in scaling and automation; content about building self-running businesses aligns directly with creator economy monetization and scaling strategies for fitness coaching businesses.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 909,
-    "kept": 222,
+    "scanned": 910,
+    "kept": 223,
     "rejected": 683,
-    "last_scan": "2026-08-25T13:48:59.000300",
+    "last_scan": "2026-08-25T14:43:47.852723",
     "platforms": [
       "YouTube",
       "Google",
