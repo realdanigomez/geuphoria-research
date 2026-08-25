@@ -1102,6 +1102,16 @@
     },
     {
       "source": "YouTube",
+      "title": "What can i post mon-fri to get clients as a fitness coach",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-25T20:26:43.359905",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point - a core struggle for fitness coaches seeking sustainable business growth and revenue",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "$10M Instagram Blueprint - Full Course",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2532,17 +2542,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 200,
+    "niche_kept": 201,
     "niche_rejected": 346,
-    "niche_scanned": 547,
+    "niche_scanned": 548,
     "comp_kept": 91,
     "comp_rejected": 593,
     "comp_scanned": 698,
     "busi_kept": 225,
     "busi_rejected": 683,
     "busi_scanned": 912,
-    "last_scan": "2026-08-25T19:59:09.085469",
-    "total_kept": 516,
+    "last_scan": "2026-08-25T20:29:55.814314",
+    "total_kept": 517,
     "total_rejected": 1622,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

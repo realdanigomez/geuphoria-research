@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Ramp up the difficulty",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-30T05:57:19.718892",
-      "status": "reject",
-      "reason": "Generic motivational phrase lacks specific data about actual fitness coach pain points, struggles, or business challenges; no actionable intelligence about their real problems provided.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Let them bask",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point with solution-oriented framing; identifies a core struggle blocking fitness coach business growth and revenue",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What can i post mon-fri to get clients as a fitness coach",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-25T20:26:43.359905",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point - a core struggle for fitness coaches seeking sustainable business growth and revenue",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 547,
-    "kept": 200,
+    "scanned": 548,
+    "kept": 201,
     "rejected": 346,
-    "last_scan": "2026-08-25T19:57:03.553102",
+    "last_scan": "2026-08-25T20:27:45.739786",
     "platforms": [
       "Reddit",
       "YouTube",
