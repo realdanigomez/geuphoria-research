@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What Is the Number One Constraint in Any Business",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-27T10:06:30.842645",
-      "status": "keep",
-      "reason": "Direct reference to Dan Martell (influential business strategist) discussing a fundamental business constraint—likely contains actionable strategy applicable to fitness coaching business scaling and positioning.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Will Nas Scale Or Fail? | Episode 1",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist known for scaling businesses and systematizing operations; content about business dependency is directly relevant to fitness coaching business models that often struggle with founder reliance.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Delegate When You Start a Business",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-25T17:29:53.409585",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business figure known for delegation and scaling expertise; a guide on delegation for early-stage founders directly applies to business operations strategy and could inspire content on founder productivity and team building.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 911,
-    "kept": 224,
+    "scanned": 912,
+    "kept": 225,
     "rejected": 683,
-    "last_scan": "2026-08-25T16:35:36.326352",
+    "last_scan": "2026-08-25T17:30:52.096987",
     "platforms": [
       "YouTube",
       "Google",
