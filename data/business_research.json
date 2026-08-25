@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Theory of Constraints and the Right Problem to Solve",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-27T10:06:28.984199",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist; Theory of Constraints is a proven business framework for identifying bottlenecks and prioritizing high-impact problems—directly applicable to fitness coaching business scaling and content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "What Is the Number One Constraint in Any Business",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker specializing in scaling and automation; content about building self-running businesses aligns directly with creator economy monetization and scaling strategies for fitness coaching businesses.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If Your Business Stops Running Without You, Watch This",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-25T16:34:38.841348",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist known for scaling businesses and systematizing operations; content about business dependency is directly relevant to fitness coaching business models that often struggle with founder reliance.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 910,
-    "kept": 223,
+    "scanned": 911,
+    "kept": 224,
     "rejected": 683,
-    "last_scan": "2026-08-25T15:41:25.087889",
+    "last_scan": "2026-08-25T16:35:36.326352",
     "platforms": [
       "YouTube",
       "Google",
