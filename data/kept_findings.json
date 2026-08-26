@@ -1122,6 +1122,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Why Fitness Coaching Can't Get Clients (and how to fix it)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-26T09:36:11.178410",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for fitness coaches; title suggests it contains diagnostic framework and solutions for a primary business problem.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "$10M Instagram Blueprint - Full Course",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2552,17 +2562,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 203,
+    "niche_kept": 204,
     "niche_rejected": 346,
-    "niche_scanned": 550,
+    "niche_scanned": 551,
     "comp_kept": 91,
     "comp_rejected": 593,
     "comp_scanned": 698,
     "busi_kept": 225,
     "busi_rejected": 683,
     "busi_scanned": 912,
-    "last_scan": "2026-08-26T08:41:30.171842",
-    "total_kept": 519,
+    "last_scan": "2026-08-26T09:39:17.517927",
+    "total_kept": 520,
     "total_rejected": 1622,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
