@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Let them bask",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-30T05:57:20.666897",
-      "status": "reject",
-      "reason": "Vague title with no substantive content about specific pain points, struggles, or actionable intelligence for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Online Fitness Coach Starting From Scratch ...EXACTLY what I Did...",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-30T08:27:17.444273",
-      "status": "keep",
-      "reason": "Addresses client acquisition pain point for fitness coaches starting out; likely contains tactical strategies for overcoming initial struggle phase which is a primary barrier for coaches entering the market.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Steal My $2.7M Online Fitness Coaching Blueprint (Exposing The 72-Hour Blitz)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point - a core struggle for fitness coaches seeking sustainable business growth and revenue",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping an Online Fitness Coach Get Customers Through Content",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-26T01:05:35.922618",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; \"struggling\" indicates real problem discovery around converting content to customers.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "One Coach Wins. One Burns Out | Online Fitness Coaching Business 2026",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-26T01:05:36.857375",
+      "status": "keep",
+      "reason": "Directly addresses burnout and competitive differentiation among online fitness coaches—core pain points affecting retention and scaling potential.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 548,
-    "kept": 201,
+    "scanned": 550,
+    "kept": 203,
     "rejected": 346,
-    "last_scan": "2026-08-25T23:48:59.480346",
+    "last_scan": "2026-08-26T01:06:39.383006",
     "platforms": [
       "Reddit",
       "YouTube",
