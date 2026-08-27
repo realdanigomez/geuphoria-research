@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Stories Help Us Endure Hard Times",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-29T17:35:37.763956",
-      "status": "reject",
-      "reason": "Contains only a generic title about storytelling with no specific business insights, strategies, or actionable intelligence from the mentioned source.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The 3-Step Formula for Winning",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-29T17:35:38.892080",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or specific formula details provides no actionable intelligence or verifiable business insights to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Escape Decision Paralysis",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search result page without actual content; no specific insights, strategies, or actionable intelligence provided to extract",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Gallo Went From $20k/mo to $130k/mo in 11 months! (Coaching Offer)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-08-27T20:41:42.499273",
+      "status": "keep",
+      "reason": "Documents proven revenue scaling methodology (6.5x growth in 11 months) from Charlie Morgan, influential business/coaching figure; provides specific case study for coaching offer optimization that directly applies to fitness coaching business model and pricing strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Productive Thing Is to Stop Doing It",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-27T20:41:46.360687",
+      "status": "reject",
+      "reason": "Search result only shows a title and creator name without actual content, strategy, or actionable insights to evaluate for business value.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 917,
-    "kept": 227,
-    "rejected": 686,
-    "last_scan": "2026-08-27T10:09:43.640664",
+    "scanned": 919,
+    "kept": 228,
+    "rejected": 687,
+    "last_scan": "2026-08-27T20:42:43.938550",
     "platforms": [
       "YouTube",
       "Google",

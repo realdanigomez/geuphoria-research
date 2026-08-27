@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Before You Become an Online Fitness Coach – Watch This",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-30T10:57:26.640509",
-      "status": "keep",
-      "reason": "Directly addresses pain points and struggles of aspiring/existing online fitness coaches, likely contains warnings or lessons about common pitfalls in the business model that coaches need to understand before scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "The Best Way to Get Clients as a Coach",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a core pain point for fitness coaches; title suggests it contains diagnostic framework and solutions for a primary business problem.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Your First 5 Online Clients As A Personal Trainer 💪🧑‍💻👩‍💻",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-27T20:39:34.288436",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for online fitness coaches with specific focus on early-stage struggle (first 5 clients), which is a critical barrier to scaling and income generation.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 551,
-    "kept": 204,
+    "scanned": 552,
+    "kept": 205,
     "rejected": 346,
-    "last_scan": "2026-08-27T10:07:25.206969",
+    "last_scan": "2026-08-27T20:40:34.432212",
     "platforms": [
       "Reddit",
       "YouTube",
