@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Will Nas Scale Or Fail? | Episode 1",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-27T16:39:08.307998",
-      "status": "reject",
-      "reason": "Title suggests general speculation about someone named Nas with no evidence of actual business strategy, frameworks, or actionable insights from the mentioned Alex Hormozi search term.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "8 Entrepreneurs Compete For $100,000 - Episode 1",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-28T07:50:29.330769",
-      "status": "reject",
-      "reason": "Title suggests competition format content but no actual business strategies, insights, or lessons are provided in the description - appears to be entertainment-focused rather than educational business content.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If you're always busy but never productive, watch this video",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-29T14:35:22.158329",
-      "status": "reject",
-      "reason": "Title lacks specificity and content appears to be a generic productivity video; no actual business insights, strategies, or actionable intelligence are provided in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "33 Brutal Truths To Stop Wasting Your Potential - Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-29T17:35:35.891842",
-      "status": "reject",
-      "reason": "Title mentions Alex Hormozi but finding contains only a search reference with no actual content, insights, strategies, or actionable intelligence to extract or apply to fitness coaching business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Hard Things Everyone Should Focus On",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business figure known for delegation and scaling expertise; a guide on delegation for early-stage founders directly applies to business operations strategy and could inspire content on founder productivity and team building.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "14 Years of Actually Good Advice",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-27T00:27:18.417860",
+      "status": "keep",
+      "reason": "Alex Hormozi is a highly influential business strategist in the fitness/coaching space with proven frameworks for scaling service businesses; content about his advice directly applies to coaching business model optimization and audience building strategies.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Progress Way Faster Than Anyone Else (Answering Your Questions Live)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-27T00:27:19.498685",
+      "status": "reject",
+      "reason": "Title suggests general productivity advice; without seeing actual content details, cannot confirm it contains specific business strategies, frameworks, or actionable intelligence beyond motivational messaging.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I'm 37. If You're In Your 20s or 30s, Watch This | Birthday Stream",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-27T00:27:20.664126",
+      "status": "reject",
+      "reason": "Birthday stream content lacks specific business insights, strategies, or actionable intelligence despite Alex Hormozi association; generic motivational framing without concrete business lessons or creator economy value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to start a 1-person business with AI (ask these 3 questions)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-08-27T00:27:27.427342",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker on founder scaling and automation; \"1-person business with AI\" directly addresses creator economy trends and AI/tech leverage strategies applicable to fitness coaching solo entrepreneurs",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 912,
-    "kept": 225,
-    "rejected": 683,
-    "last_scan": "2026-08-26T20:34:13.507335",
+    "scanned": 916,
+    "kept": 227,
+    "rejected": 685,
+    "last_scan": "2026-08-27T00:28:26.404516",
     "platforms": [
       "YouTube",
       "Google",
