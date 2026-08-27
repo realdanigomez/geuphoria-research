@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "7 Steps to Keep Clients for Life as a Coach",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-06-03T02:01:52.156525",
-      "status": "reject",
-      "reason": "Title suggests general client retention advice for coaches, but finding lacks specific details about Brian Mark's strategy, positioning, offers, or business-building methods that would constitute actionable competitor intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "$10M Instagram Blueprint - Full Course",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-06-03T02:01:56.225499",
-      "status": "keep",
-      "reason": "Brian Mark is a recognized fitness business coach who teaches online coaching business models; this course likely contains strategy and positioning intelligence relevant to how successful coaches build their offers and scale via Instagram.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "If You’re Fit You Can Make $1M… 11 Principles to Follow",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-06-03T02:01:57.484938",
-      "status": "reject",
-      "reason": "Title is clickbait about fitness income potential but finding doesn't include actual content, principles, or business strategy details that would constitute actionable intelligence for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Be The Go To Coach In Your Niche",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-06-03T02:01:59.478140",
-      "status": "keep",
-      "reason": "Brian Mark is a direct competitor in the fitness business coaching space who teaches coaches how to differentiate and dominate their niche—understanding his positioning strategy is valuable for market intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Content Mistake Costing Fitness Coaches Thousands Every Month",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-06-03T02:02:00.636971",
-      "status": "reject",
-      "reason": "Title suggests general fitness coaching content advice, not specific intelligence about business coaches/mentors who help online fitness coaches build their businesses. Search term \"Brian Mark fitness coaching\" is too broad to confirm this targets fitness business coaches specifically.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Automate Your Fitness Business | Bedros Keuilian | Entrepreneurship",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-06-03T11:32:15.495413",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a prominent fitness business coach who teaches automation strategies to online fitness entrepreneurs; this finding captures his specific positioning on business automation, directly relevant to understanding competitor offerings and strategies in the online fitness coaching space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Market a Fitness Boot Camp to the Affluent",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-06-03T11:32:16.827427",
-      "status": "reject",
-      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategies, offers, or business methods—only a generic article title about marketing boot camps to affluent clients, which is not specific competitor intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Suspend Disbelief",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-06-03T11:32:17.942402",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or intelligence about how Bedros Keuilian helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Categories of Affluent",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Title suggests general fitness business advice without evidence of specific strategies, offers, or positioning intelligence about how these coaches help online fitness coaches build their businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam Sulek's $48M Business Mistake: How to Scale a Fitness Empire",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:32.047442",
+      "status": "reject",
+      "reason": "Title mentions scaling a fitness empire but the search query and content appear focused on Sam Sulek (a fitness influencer/content creator), not on coaches/mentors who teach online fitness coaches how to build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam's business mistakes",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:33.289956",
+      "status": "reject",
+      "reason": "Title mentions business mistakes but no specific details provided; search query alone doesn't confirm actual content about fitness business coaching strategies or offers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Maverick authenticity value",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:34.358654",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, analysis, or intelligence about Charlie Johnson's business strategy, offers, positioning, or coaching methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling plan revealed",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:35.627024",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about Charlie Johnson's scaling plan, strategy, offers, or positioning—only a search term without findings or content analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Low ticket offer explained",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:36.605094",
+      "status": "reject",
+      "reason": "Title only mentions \"low ticket offer\" concept without specific details about strategy, positioning, or business model. Search query alone does not constitute actionable competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Higher ticket community offer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:37.611659",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's offer, strategy, positioning, or business model provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Revenue math projections",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:38.791979",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or specific intelligence about business strategy, positioning, or offers from Charlie Johnson or competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Churn and revenue growth",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-27T10:07:40.101156",
+      "status": "reject",
+      "reason": "Finding contains only a search query without actual content, strategy details, offers, or positioning information about the competitor or their business coaching approach.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 698,
+    "scanned": 706,
     "kept": 91,
-    "rejected": 593,
-    "last_scan": "2026-08-27T00:27:16.082360",
+    "rejected": 601,
+    "last_scan": "2026-08-27T10:08:38.110560",
     "platforms": [
       "YouTube",
       "Google",

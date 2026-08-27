@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Hard Things Everyone Should Focus On",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-29T17:35:36.795923",
-      "status": "reject",
-      "reason": "Search result without actual content; no specific insights, strategies, or actionable intelligence provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Stories Help Us Endure Hard Times",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker on founder scaling and automation; \"1-person business with AI\" directly addresses creator economy trends and AI/tech leverage strategies applicable to fitness coaching solo entrepreneurs",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi Answers Your Questions.",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-27T10:08:39.836350",
+      "status": "reject",
+      "reason": "Search result page without actual content; no specific insights, strategies, or actionable intelligence provided to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 916,
+    "scanned": 917,
     "kept": 227,
-    "rejected": 685,
-    "last_scan": "2026-08-27T00:28:26.404516",
+    "rejected": 686,
+    "last_scan": "2026-08-27T10:09:43.640664",
     "platforms": [
       "YouTube",
       "Google",
