@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Escape Decision Paralysis",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-29T17:35:40.027656",
-      "status": "reject",
-      "reason": "Title-only match without actual content; no demonstrable business insights, strategies, or actionable intelligence provided in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Take Responsibility For Your Current Position",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-29T17:35:41.500339",
-      "status": "reject",
-      "reason": "Title alone references responsibility concept but no actual content provided to evaluate for specific actionable business insights, strategies, or lessons from the mentioned creator.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Is Courage the Most Important Virtue?",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search result only shows a title and creator name without actual content, strategy, or actionable insights to evaluate for business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Everything I Learned From Dolly Parton's Personal Brand",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-28T17:37:15.556970",
+      "status": "reject",
+      "reason": "Contains no specific business strategies, actionable insights, or frameworks; appears to be generic personal brand commentary rather than substantive business intelligence or creator economy guidance relevant to fitness coaching content.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Brutally Honest Advice On Life \\u0026 Death",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-28T17:37:16.962246",
+      "status": "reject",
+      "reason": "Title suggests life philosophy content, but no excerpt provided to verify it contains specific business strategies, entrepreneurship lessons, or actionable intelligence relevant to fitness coaching business model.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 919,
+    "scanned": 921,
     "kept": 228,
-    "rejected": 687,
-    "last_scan": "2026-08-28T05:08:04.541046",
+    "rejected": 689,
+    "last_scan": "2026-08-28T17:38:20.779885",
     "platforms": [
       "YouTube",
       "Google",

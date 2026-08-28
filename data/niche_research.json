@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Best Way to Get Clients as a Coach",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-30T11:57:27.981195",
-      "status": "reject",
-      "reason": "Generic title with no specific tactics or insights disclosed; likely clickbait without detailed methodology relevant to online fitness coaches' actual client acquisition challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "What is the Best Way",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-30T11:57:28.972961",
-      "status": "reject",
-      "reason": "Generic search query with no specific insights into pain points, struggles, or solutions; lacks actionable intelligence about coach problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Magic Key",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-30T11:57:30.400582",
-      "status": "reject",
-      "reason": "Generic search query without substantive insights into specific pain points, solutions, or data; lacks actionable intelligence about coach challenges or strategies.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "My Journey",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-30T11:57:31.614817",
-      "status": "reject",
-      "reason": "Generic personal narrative with no specific insights about fitness coach pain points, strategies, or business challenges. The search query indicates intent but the content itself doesn't provide intelligence on problems or solutions relevant to coaches' operations.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "What Happened",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition pain point for online fitness coaches with specific focus on early-stage struggle (first 5 clients), which is a critical barrier to scaling and income generation.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Were A PT and Starting Over, This Is How I'd Make $100k A Year",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-28T17:34:54.779686",
+      "status": "keep",
+      "reason": "Addresses income goals and client acquisition strategy—direct pain points for fitness coaches scaling to $100k, includes tactical approaches for business model decisions.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Inperson Mastery",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-28T17:34:56.018860",
+      "status": "reject",
+      "reason": "Vague title without specific problem insights; \"getting clients\" is too broad and finding lacks detailed pain points, strategies, or data relevant to online fitness coaches' actual struggles",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Time Management",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-28T17:34:57.065831",
+      "status": "reject",
+      "reason": "Too broad and generic; lacks specific insight into fitness coaches' actual pain points, systems, or business challenges beyond obvious time constraints",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business Priorities",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-28T17:34:58.428242",
+      "status": "reject",
+      "reason": "Too broad and generic; lacks specific insights into actual pain points, struggles, or solutions—just a search query without data on what coaches are struggling with or how to help them.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 552,
-    "kept": 205,
-    "rejected": 346,
-    "last_scan": "2026-08-28T05:05:57.415429",
+    "scanned": 556,
+    "kept": 206,
+    "rejected": 349,
+    "last_scan": "2026-08-28T17:36:00.661689",
     "platforms": [
       "Reddit",
       "YouTube",

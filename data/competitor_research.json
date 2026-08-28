@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Categories of Affluent",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-06-03T11:32:19.093154",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, positioning, or methods for helping fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Built This Fitness Coach a $38k Month Business in 45 Minutes",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:31.797495",
-      "status": "keep",
-      "reason": "Direct case study of fitness coach business growth strategy and tactics from Charlie Johnson, a recognized fitness business coach, showing specific revenue results and methodology that could reveal business-building frameworks relevant to online fitness coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro: What Every Struggling Coach Needs to Hear",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:32.969335",
-      "status": "reject",
-      "reason": "Finding is only a search query title with no actual content, strategy details, offers, or business intelligence provided",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Clarity Around Your Offer Solves 80% of Your Problems",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:34.476016",
-      "status": "keep",
-      "reason": "Direct reference to Charlie Johnson Fitness, a known online fitness business coach, with focus on offer clarity—a core business-building strategy relevant to how fitness coaches structure their offerings and solve client acquisition problems.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Truth About Posting More Content (And Why It's Not Enough)",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:35.889761",
-      "status": "reject",
-      "reason": "Title suggests general content strategy advice rather than specific intelligence about Charlie Johnson's business model, offers, or coaching methods for fitness entrepreneurs.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Invisible System That Gets Clients Without Burnout",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:38.119970",
-      "status": "reject",
-      "reason": "Title alone suggests general client-getting advice without evidence of specific business strategy, positioning, or operational intelligence about how Charlie Johnson actually coaches online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building a Content Machine That Works Without You",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:39.472675",
-      "status": "keep",
-      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches how to build scalable content systems and automate their business operations - directly relevant competitive intelligence for understanding business coaching strategies in this space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Create Offers That Are Easy to Say Yes To",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:40.741094",
-      "status": "reject",
-      "reason": "Title is generic sales/copywriting advice; no specific intelligence about Charlie Johnson's business model, offers, or fitness coaching strategies included",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Perfect Ad Strategy to Fill Your Pipeline Daily",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Finding contains only a search query without actual content, strategy details, offers, or positioning information about the competitor or their business coaching approach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Scale Your Fitness Business to $50K/Month: Online Coaching Team Blueprint",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:07.978913",
+      "status": "keep",
+      "reason": "Directly relevant to online fitness coaching business scaling; Charlie Johnson is a named fitness business coach; title indicates specific revenue target and team structure strategy that would help coaches build their business model.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Need a team, learn skills",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:09.087477",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about business strategy, offers, or positioning of Charlie Johnson or similar fitness business coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "First hire: editor",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:10.350323",
+      "status": "reject",
+      "reason": "Search query alone provides no intelligence about competitor offerings, strategy, positioning, or business model; would need actual content/resources from Charlie Johnson's program to be actionable.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Second hire: setter",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:11.344644",
+      "status": "reject",
+      "reason": "Search query alone without any content, strategy, offer details, or positioning information about Charlie Johnson's business coaching approach provides no actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Doing everything up to 10K",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:12.366334",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy, offers, or positioning details about Charlie Johnson's business coaching approach provides no actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hire sooner at 3-5K",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:13.487132",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about strategy, content, offers, or positioning—would need actual content analysis to be valuable.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "At 10K: Instagram and LinkedIn",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:14.517473",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual intelligence about Charlie Johnson's strategy, content, offers, or positioning—no substantive competitor data provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Admin VA and hiring coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:15.550266",
+      "status": "reject",
+      "reason": "Finding only mentions a search query without providing actual content, strategy, positioning, or actionable intelligence about the competitor or their business model.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 706,
-    "kept": 91,
-    "rejected": 601,
-    "last_scan": "2026-08-28T05:07:00.520908",
+    "scanned": 714,
+    "kept": 92,
+    "rejected": 608,
+    "last_scan": "2026-08-28T17:37:13.591590",
     "platforms": [
       "YouTube",
       "Google",

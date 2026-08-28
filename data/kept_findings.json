@@ -1132,33 +1132,13 @@
     },
     {
       "source": "YouTube",
-      "title": "How I Built This Fitness Coach a $38k Month Business in 45 Minutes",
-      "text": "Search: Charlie Johnson fitness business",
+      "title": "If I Were A PT and Starting Over, This Is How I'd Make $100k A Year",
+      "text": "Search: fitness coach getting clients",
       "url": "",
-      "time": "2026-06-03T17:32:31.797495",
+      "time": "2026-08-28T17:34:54.779686",
       "status": "keep",
-      "reason": "Direct case study of fitness coach business growth strategy and tactics from Charlie Johnson, a recognized fitness business coach, showing specific revenue results and methodology that could reveal business-building frameworks relevant to online fitness coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Clarity Around Your Offer Solves 80% of Your Problems",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:34.476016",
-      "status": "keep",
-      "reason": "Direct reference to Charlie Johnson Fitness, a known online fitness business coach, with focus on offer clarity—a core business-building strategy relevant to how fitness coaches structure their offerings and solve client acquisition problems.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building a Content Machine That Works Without You",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:39.472675",
-      "status": "keep",
-      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches how to build scalable content systems and automate their business operations - directly relevant competitive intelligence for understanding business coaching strategies in this space.",
-      "track": "competitor"
+      "reason": "Addresses income goals and client acquisition strategy—direct pain points for fitness coaches scaling to $100k, includes tactical approaches for business model decisions.",
+      "track": "niche"
     },
     {
       "source": "YouTube",
@@ -1598,6 +1578,16 @@
       "time": "2026-08-22T23:44:53.068145",
       "status": "keep",
       "reason": "Bedros Keuilian is a key fitness business coach competitor; this content likely contains positioning/messaging strategies about credibility and barriers to entry in the fitness industry that could inform competitive positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Scale Your Fitness Business to $50K/Month: Online Coaching Team Blueprint",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-08-28T17:36:07.978913",
+      "status": "keep",
+      "reason": "Directly relevant to online fitness coaching business scaling; Charlie Johnson is a named fitness business coach; title indicates specific revenue target and team structure strategy that would help coaches build their business model.",
       "track": "competitor"
     },
     {
@@ -2562,18 +2552,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 205,
-    "niche_rejected": 346,
-    "niche_scanned": 552,
-    "comp_kept": 91,
-    "comp_rejected": 601,
-    "comp_scanned": 706,
+    "niche_kept": 206,
+    "niche_rejected": 349,
+    "niche_scanned": 556,
+    "comp_kept": 92,
+    "comp_rejected": 608,
+    "comp_scanned": 714,
     "busi_kept": 228,
-    "busi_rejected": 687,
-    "busi_scanned": 919,
-    "last_scan": "2026-08-28T05:08:04.546753",
-    "total_kept": 524,
-    "total_rejected": 1634,
+    "busi_rejected": 689,
+    "busi_scanned": 921,
+    "last_scan": "2026-08-28T17:38:20.784804",
+    "total_kept": 526,
+    "total_rejected": 1646,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
