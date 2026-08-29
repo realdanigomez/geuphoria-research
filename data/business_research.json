@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "10,000 hrs Using AI, Here’s What Actually Works",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-02T16:06:05.338147",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist; content on AI efficiency gains through his framework could provide actionable insights for scaling a coaching business and optimizing content creation workflows.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How I made 24 high quality YT vids for my biz in 5 days lol (hyper-productivity)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title suggests content about a sales/closing technique, but the finding contains only a search reference to Alex Hormozi with no actual business insights, strategies, or substantive content extracted.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-29T17:31:47.540509",
+      "status": "keep",
+      "reason": "Alex Hormozi's retrospective on service business fundamentals provides directly applicable playbook for building fitness coaching businesses, including likely insights on positioning, pricing models, and customer acquisition strategies relevant to online fitness content monetization.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 932,
-    "kept": 229,
+    "scanned": 933,
+    "kept": 230,
     "rejected": 699,
-    "last_scan": "2026-08-29T13:58:37.463868",
+    "last_scan": "2026-08-29T17:32:50.185280",
     "platforms": [
       "YouTube",
       "Google",
