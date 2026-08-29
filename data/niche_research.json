@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What Happened",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-30T11:57:32.486038",
-      "status": "reject",
-      "reason": "Generic search query with no actual findings, data, or insights about fitness coaches' specific pain points, struggles, or solutions",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Magic of Marketing",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-30T11:57:33.517713",
-      "status": "reject",
-      "reason": "Too generic and vague; lacks specific insights into fitness coaches' actual pain points, strategies, or challenges—could apply to any service business",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Truth About Muslim Men \\u0026 Fitness (Full Training Vlog)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-30T12:57:27.381057",
-      "status": "reject",
-      "reason": "Vlog about Muslim men and fitness lacks specific insights into online coaches' business challenges, pain points, or operational struggles; appears to be general fitness content rather than intelligence about the coaching industry itself.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to close more sales and grow your fitness coaching business",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Too broad and generic; lacks specific insights into actual pain points, struggles, or solutions—just a search query without data on what coaches are struggling with or how to help them.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 ways to scale your online fitness business",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-29T19:57:35.623287",
+      "status": "keep",
+      "reason": "Directly addresses scaling challenges, a core pain point for online fitness coaches seeking to grow revenue and systems without increasing burnout",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stuck in your business",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-29T19:57:36.506915",
+      "status": "reject",
+      "reason": "Too vague and broad; lacks specific insight into actual pain points, struggles, or solutions relevant to online fitness coaches' business challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Making the switch",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-29T19:57:37.517846",
+      "status": "reject",
+      "reason": "Generic search query without specific pain point data, struggle context, or actionable insight into what fitness coaches actually struggle with during transitions.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 556,
-    "kept": 206,
-    "rejected": 349,
-    "last_scan": "2026-08-29T17:30:42.444011",
+    "scanned": 559,
+    "kept": 207,
+    "rejected": 351,
+    "last_scan": "2026-08-29T19:57:56.421611",
     "platforms": [
       "Reddit",
       "YouTube",
