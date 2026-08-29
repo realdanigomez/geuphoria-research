@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to close more sales and grow your fitness coaching business",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-05-30T13:57:29.661055",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition and revenue growth, two critical pain points for fitness coaches scaling their businesses",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "15 Minute Arm Burnout (weightless upper body workout)",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic search query without specific pain point data, struggle context, or actionable insight into what fitness coaches actually struggle with during transitions.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start an Online Coaching Business in 2026 (Simple Setup)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-08-29T22:29:10.231063",
+      "status": "reject",
+      "reason": "Generic startup advice without fitness-specific context, client acquisition strategies, or problems unique to fitness coaches (pricing models, certification requirements, platform selection for coaching, client retention, etc.)",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 559,
+    "scanned": 560,
     "kept": 207,
-    "rejected": 351,
-    "last_scan": "2026-08-29T19:57:56.421611",
+    "rejected": 352,
+    "last_scan": "2026-08-29T22:30:08.264576",
     "platforms": [
       "Reddit",
       "YouTube",
