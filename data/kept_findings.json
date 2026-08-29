@@ -1592,43 +1592,13 @@
     },
     {
       "source": "YouTube",
-      "title": "Use AI Better Than 95% of the World (3 Levels)",
-      "text": "Search: Dan Martell",
+      "title": "Facebook Fitness Marketing To Grow Your Fitness Business - Bedros Keuilian",
+      "text": "Search: Bedros Keuilian online fitness",
       "url": "",
-      "time": "2026-06-30T11:30:17.357733",
+      "time": "2026-08-29T13:56:26.296417",
       "status": "keep",
-      "reason": "Dan Martell is an influential business thinker and this content likely contains actionable AI strategies applicable to fitness coaching operations, positioning, and content creation efficiency.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "These 11 Minutes Will Save You +1,000 Hours in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-30T18:20:23.100933",
-      "status": "keep",
-      "reason": "Dan Martell content on time optimization/productivity systems offers directly applicable operational strategies for fitness coaching business scaling and content creation efficiency",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "8 CEOs Compete For $100,000 - Episode 1",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-06-30T20:30:15.553642",
-      "status": "keep",
-      "reason": "Alex Hormozi is a prominent business strategist known for scaling companies and creator economy insights; competitive CEO format likely contains actionable business lessons applicable to fitness coaching business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Start a 1-Person AI Business (With Zero Code)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-06-30T23:18:42.524910",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker in the creator/SaaS space; \"1-Person AI Business\" offers actionable strategies for bootstrapped entrepreneurs that could inform low-overhead business models for fitness coaching platforms or digital products.",
-      "track": "business"
+      "reason": "Bedros Keuilian is a recognized fitness business coach who teaches Facebook marketing strategies to online fitness coaches; this could reveal specific tactics, positioning, or offers relevant to competitor intelligence on how coaches market to fitness professionals.",
+      "track": "competitor"
     },
     {
       "source": "YouTube",
@@ -2529,21 +2499,31 @@
       "status": "keep",
       "reason": "Documents proven revenue scaling methodology (6.5x growth in 11 months) from Charlie Morgan, influential business/coaching figure; provides specific case study for coaching offer optimization that directly applies to fitness coaching business model and pricing strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You Have a Service Business, Here's How To Get Rich In 2026",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-08-29T13:57:27.538437",
+      "status": "keep",
+      "reason": "Alex Hormozi content on service business monetization strategies directly applies to fitness coaching business models and revenue scaling tactics",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 206,
     "niche_rejected": 349,
     "niche_scanned": 556,
-    "comp_kept": 92,
+    "comp_kept": 93,
     "comp_rejected": 608,
-    "comp_scanned": 714,
-    "busi_kept": 228,
-    "busi_rejected": 692,
-    "busi_scanned": 924,
-    "last_scan": "2026-08-29T08:08:51.064329",
-    "total_kept": 526,
-    "total_rejected": 1649,
+    "comp_scanned": 715,
+    "busi_kept": 229,
+    "busi_rejected": 699,
+    "busi_scanned": 932,
+    "last_scan": "2026-08-29T13:58:37.467616",
+    "total_kept": 528,
+    "total_rejected": 1656,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

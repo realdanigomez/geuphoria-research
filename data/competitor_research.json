@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Perfect Ad Strategy to Fill Your Pipeline Daily",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-03T17:32:42.163133",
-      "status": "reject",
-      "reason": "Title suggests general ad strategy content; search term alone doesn't confirm it contains specific intelligence about fitness business coaching, client acquisition systems, or positioning strategies for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "What Do I Spend My Money On? (GYM DEL MONTE!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Finding only mentions a search query without providing actual content, strategy, positioning, or actionable intelligence about the competitor or their business model.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Facebook Fitness Marketing To Grow Your Fitness Business - Bedros Keuilian",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-29T13:56:26.296417",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a recognized fitness business coach who teaches Facebook marketing strategies to online fitness coaches; this could reveal specific tactics, positioning, or offers relevant to competitor intelligence on how coaches market to fitness professionals.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 714,
-    "kept": 92,
+    "scanned": 715,
+    "kept": 93,
     "rejected": 608,
-    "last_scan": "2026-08-29T08:07:47.104681",
+    "last_scan": "2026-08-29T13:57:25.866154",
     "platforms": [
       "YouTube",
       "Google",
