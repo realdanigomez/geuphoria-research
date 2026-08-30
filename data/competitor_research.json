@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Home Gym",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-04T18:24:24.134777",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about business strategy, offers, positioning, or how Vince Del Monte helps online fitness coaches build their business",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Gym",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Brian Mark is a recognized fitness business coach who teaches online coaches how to find and dominate their niche—directly relevant intelligence for competitive positioning and business strategy.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Industry Predictions with Bedros Keuilian",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-30T22:23:03.518742",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a well-known fitness business coach who teaches online fitness coaches how to build their coaching business; this search indicates content about his industry predictions which could reveal positioning strategies, market trends he's targeting, and business coaching angles relevant to the online fitness coaching space.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 716,
-    "kept": 94,
+    "scanned": 717,
+    "kept": 95,
     "rejected": 608,
-    "last_scan": "2026-08-30T19:39:39.724900",
+    "last_scan": "2026-08-30T22:24:03.734075",
     "platforms": [
       "YouTube",
       "Google",

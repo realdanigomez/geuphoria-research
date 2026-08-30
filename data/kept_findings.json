@@ -1152,6 +1152,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Charging enough",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-30T22:21:55.845675",
+      "status": "keep",
+      "reason": "Directly addresses pricing strategy, a core pain point for coaches struggling with income and business viability; pricing confidence affects client acquisition and perceived value.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Why Most Coaches Lose the Sale Before the Call Starts",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -1618,6 +1628,16 @@
       "time": "2026-08-29T19:58:06.353846",
       "status": "keep",
       "reason": "Brian Mark is a recognized fitness business coach who teaches online coaches how to find and dominate their niche—directly relevant intelligence for competitive positioning and business strategy.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Industry Predictions with Bedros Keuilian",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-08-30T22:23:03.518742",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a well-known fitness business coach who teaches online fitness coaches how to build their coaching business; this search indicates content about his industry predictions which could reveal positioning strategies, market trends he's targeting, and business coaching angles relevant to the online fitness coaching space.",
       "track": "competitor"
     },
     {
@@ -2522,17 +2542,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 209,
+    "niche_kept": 210,
     "niche_rejected": 352,
-    "niche_scanned": 562,
-    "comp_kept": 94,
+    "niche_scanned": 563,
+    "comp_kept": 95,
     "comp_rejected": 608,
-    "comp_scanned": 716,
+    "comp_scanned": 717,
     "busi_kept": 230,
     "busi_rejected": 700,
     "busi_scanned": 934,
-    "last_scan": "2026-08-30T19:40:44.266971",
-    "total_kept": 533,
+    "last_scan": "2026-08-30T22:25:07.484670",
+    "total_kept": 535,
     "total_rejected": 1660,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
