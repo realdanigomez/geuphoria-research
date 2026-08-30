@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why your fitness business is struggling | Fitness Business Coach | EntreFit (833) 445-1348",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-31T06:58:02.400763",
-      "status": "keep",
-      "reason": "Directly addresses why fitness businesses struggle, which is core to understanding pain points and challenges that online fitness coaches face in their operations and growth.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Build a $10K/Month Online Fitness Business",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1138,6 +1128,26 @@
       "time": "2026-08-29T19:57:35.623287",
       "status": "keep",
       "reason": "Directly addresses scaling challenges, a core pain point for online fitness coaches seeking to grow revenue and systems without increasing burnout",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to get clients as an online fitness coach using Instagram and Tiktok",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-30T06:12:11.516906",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with specific platform tactics, a primary struggle for online fitness coaches building their business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Online Fitness Coaches Struggle to Scale and How to Fix It",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-08-30T06:12:12.448496",
+      "status": "keep",
+      "reason": "Directly addresses scaling challenges for online fitness coaches with implied solutions, core pain point for the niche seeking growth strategies and systems",
       "track": "niche"
     },
     {
@@ -2512,17 +2522,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 207,
+    "niche_kept": 209,
     "niche_rejected": 352,
-    "niche_scanned": 560,
+    "niche_scanned": 562,
     "comp_kept": 94,
     "comp_rejected": 608,
     "comp_scanned": 716,
     "busi_kept": 230,
     "busi_rejected": 700,
     "busi_scanned": 934,
-    "last_scan": "2026-08-30T00:39:09.276829",
-    "total_kept": 531,
+    "last_scan": "2026-08-30T06:15:22.284646",
+    "total_kept": 533,
     "total_rejected": 1660,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
