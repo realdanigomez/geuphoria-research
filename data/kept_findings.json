@@ -1612,16 +1612,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How I made 24 high quality YT vids for my biz in 5 days lol (hyper-productivity)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-02T18:14:26.880563",
-      "status": "keep",
-      "reason": "Demonstrates rapid content production systems and workflow optimization tactics relevant to scaling a fitness coaching content business, with potential insights into batching, templates, and efficiency frameworks that could apply to video creation strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How I Went From -$25K to $30 Million (My Story)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2529,11 +2519,11 @@
     "comp_rejected": 608,
     "comp_scanned": 716,
     "busi_kept": 230,
-    "busi_rejected": 699,
-    "busi_scanned": 933,
-    "last_scan": "2026-08-29T22:32:18.322370",
+    "busi_rejected": 700,
+    "busi_scanned": 934,
+    "last_scan": "2026-08-30T00:39:09.276829",
     "total_kept": 531,
-    "total_rejected": 1659,
+    "total_rejected": 1660,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
