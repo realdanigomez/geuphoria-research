@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Knowing Your Clients",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-31T06:58:04.570823",
-      "status": "reject",
-      "reason": "Too generic and vague. Title and search term don't indicate specific pain points, actionable insights, or concrete problems fitness coaches face. Needs specific data about actual struggles (e.g., client retention rates, pricing barriers, lead generation costs).",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Want to Start an Online Coaching Business? Here's 3 Big DOS and DON'TS When Launching From Scratch.",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses pricing strategy, a core pain point for coaches struggling with income and business viability; pricing confidence affects client acquisition and perceived value.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Social Media Priorities",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-08-31T06:37:47.803127",
+      "status": "reject",
+      "reason": "Generic search query lacks specific insights into fitness coaches' actual pain points, struggles, or solutions—no actionable intelligence about their problems or needs.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 563,
+    "scanned": 564,
     "kept": 210,
-    "rejected": 352,
-    "last_scan": "2026-08-31T00:45:30.022631",
+    "rejected": 353,
+    "last_scan": "2026-08-31T06:38:48.251732",
     "platforms": [
       "Reddit",
       "YouTube",
