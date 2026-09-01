@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Gym",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-04T18:24:25.238441",
-      "status": "reject",
-      "reason": "Search query alone provides no specific intelligence about business strategy, content, offers, or positioning of fitness business coaches. Requires actual content/findings to be valuable.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Math",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-04T18:24:26.196273",
-      "status": "reject",
-      "reason": "Search term only, no actual content or intelligence about business strategy, positioning, offers, or competitor methods provided",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Muscle Camp: The First \\u0026 Only Muscle Building YouTube Training Camp",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-04T18:24:28.461350",
-      "status": "reject",
-      "reason": "This is a YouTube training camp for muscle building clients, not intelligence about business coaches or programs that help online fitness coaches build their coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Most Coaches Lose the Sale Before the Call Starts",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-06-13T00:20:51.049799",
-      "status": "keep",
-      "reason": "Directly relevant to Brian Mark (confirmed fitness business coach). Title indicates actionable sales strategy intelligence applicable to online fitness coaches' business development, which is core competitive intelligence for this sector.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leadership is the Answer to Building a Fitness Empire | Bedros Keuilian | Entrepreneur",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-06-13T08:29:52.112996",
-      "status": "keep",
-      "reason": "Direct intelligence from established fitness business coach (Bedros Keuilian) on leadership principles for scaling fitness businesses, relevant to understanding competitor positioning and empire-building strategies for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Went From Estate Agent To A 8 Figure Fitness Coach",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T01:59:58.722551",
-      "status": "keep",
-      "reason": "Charlie Johnson is a direct competitor in the fitness business coaching space with proven 8-figure business model; his journey and strategies are directly relevant to understanding how online fitness coaches scale their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction to Charlie Johnson \\u0026 his journey",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T01:59:59.656956",
-      "status": "reject",
-      "reason": "Title and search query alone provide no specific intelligence about strategy, content, offers, or positioning—only confirms Charlie Johnson exists as a fitness business coach without actionable insights.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Most people fall at the first hurdle - they overthink where they're going",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "keep",
       "reason": "Bedros Keuilian is a well-known fitness business coach who teaches online fitness coaches how to build their coaching business; this search indicates content about his industry predictions which could reveal positioning strategies, market trends he's targeting, and business coaching angles relevant to the online fitness coaching space.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Fitness Coaching Program Is Too Cheap: Raise Prices and Scale Your Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:24.156134",
+      "status": "keep",
+      "reason": "Directly addresses pricing strategy and business scaling for fitness coaches - core business model intelligence from Charlie Johnson, a recognized fitness business coach mentor figure.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Offer is too cheap",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:25.398550",
+      "status": "reject",
+      "reason": "Finding contains only a search query and vague opinion about pricing without any specific intelligence about strategy, offers, positioning, or business model details that would be actionable for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spend and ROI breakdown",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:26.550667",
+      "status": "reject",
+      "reason": "Search query alone without actual findings, content, or data about Charlie Johnson's business strategy, offers, or positioning provides no actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "LTV to CAC gap",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:27.666755",
+      "status": "reject",
+      "reason": "Search query alone without actual findings about Charlie Johnson's strategy, offers, positioning, or business model does not constitute actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pricing mechanics suggestion",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:28.703353",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or specific intelligence about pricing mechanics, strategy, or offers from Charlie Johnson's business coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Selling the higher price",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:29.752768",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, positioning, or actionable intelligence about how fitness business coaches help online coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Price is a mindset issue",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:30.950012",
+      "status": "reject",
+      "reason": "No specific intelligence provided about business strategy, offers, positioning, or coaching methods—only a generic title with no substantive content about how Charlie Johnson or similar coaches build their businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 717,
-    "kept": 95,
-    "rejected": 608,
-    "last_scan": "2026-09-01T15:05:14.779427",
+    "scanned": 724,
+    "kept": 96,
+    "rejected": 614,
+    "last_scan": "2026-09-01T18:44:29.561641",
     "platforms": [
       "YouTube",
       "Google",

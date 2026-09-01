@@ -1172,36 +1172,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Why Most Coaches Lose the Sale Before the Call Starts",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-06-13T00:20:51.049799",
-      "status": "keep",
-      "reason": "Directly relevant to Brian Mark (confirmed fitness business coach). Title indicates actionable sales strategy intelligence applicable to online fitness coaches' business development, which is core competitive intelligence for this sector.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leadership is the Answer to Building a Fitness Empire | Bedros Keuilian | Entrepreneur",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-06-13T08:29:52.112996",
-      "status": "keep",
-      "reason": "Direct intelligence from established fitness business coach (Bedros Keuilian) on leadership principles for scaling fitness businesses, relevant to understanding competitor positioning and empire-building strategies for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Went From Estate Agent To A 8 Figure Fitness Coach",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T01:59:58.722551",
-      "status": "keep",
-      "reason": "Charlie Johnson is a direct competitor in the fitness business coaching space with proven 8-figure business model; his journey and strategies are directly relevant to understanding how online fitness coaches scale their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "My Experience Scaling Fitness Businesses",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1648,6 +1618,16 @@
       "time": "2026-08-30T22:23:03.518742",
       "status": "keep",
       "reason": "Bedros Keuilian is a well-known fitness business coach who teaches online fitness coaches how to build their coaching business; this search indicates content about his industry predictions which could reveal positioning strategies, market trends he's targeting, and business coaching angles relevant to the online fitness coaching space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Fitness Coaching Program Is Too Cheap: Raise Prices and Scale Your Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-01T18:43:24.156134",
+      "status": "keep",
+      "reason": "Directly addresses pricing strategy and business scaling for fitness coaches - core business model intelligence from Charlie Johnson, a recognized fitness business coach mentor figure.",
       "track": "competitor"
     },
     {
@@ -2555,15 +2535,15 @@
     "niche_kept": 212,
     "niche_rejected": 353,
     "niche_scanned": 566,
-    "comp_kept": 95,
-    "comp_rejected": 608,
-    "comp_scanned": 717,
+    "comp_kept": 96,
+    "comp_rejected": 614,
+    "comp_scanned": 724,
     "busi_kept": 230,
     "busi_rejected": 701,
     "busi_scanned": 935,
-    "last_scan": "2026-09-01T15:06:19.336835",
-    "total_kept": 537,
-    "total_rejected": 1662,
+    "last_scan": "2026-09-01T18:45:35.119395",
+    "total_kept": 538,
+    "total_rejected": 1668,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
