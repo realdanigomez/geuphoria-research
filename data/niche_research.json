@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Want to Start an Online Coaching Business? Here's 3 Big DOS and DON'TS When Launching From Scratch.",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-05-31T09:33:09.390583",
-      "status": "reject",
-      "reason": "Generic launch advice lacks specificity about fitness coaches' actual pain points (client acquisition, certification compliance, platform selection, pricing strategy); \"dos and don'ts\" framework is too broad to provide actionable intelligence for this niche.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build a $10K/Month Online Fitness Business",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-31T11:16:39.827397",
-      "status": "keep",
-      "reason": "Directly addresses income goals and business scaling challenges, which are core pain points for online fitness coaches seeking to understand revenue benchmarks and growth strategies.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to close more sales and grow your fitness coaching business",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Generic search query lacks specific insights into fitness coaches' actual pain points, struggles, or solutions—no actionable intelligence about their problems or needs.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why 95% of Online Fitness Coaches Are Broke",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-01T00:21:18.453171",
+      "status": "keep",
+      "reason": "Directly addresses financial struggles of online fitness coaches, indicating pain point around income/profitability that suggests need for better business models, pricing, or client acquisition strategies",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Sell Personal Training on the Gym Floor (Without Being Pushy) | Create PT",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-01T00:21:22.221448",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point for fitness coaches with specific sales technique that solves the \"pushy\" objection that prevents many coaches from selling their services",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 564,
-    "kept": 210,
+    "scanned": 566,
+    "kept": 212,
     "rejected": 353,
-    "last_scan": "2026-08-31T20:38:50.702986",
+    "last_scan": "2026-09-01T00:22:22.384458",
     "platforms": [
       "Reddit",
       "YouTube",
