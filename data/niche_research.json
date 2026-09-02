@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Close More Fitness Coaching Clients (LIVE Objection Handling)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-05-31T11:58:09.670115",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with tactical objection handling skills—a core revenue driver for fitness coaches struggling to convert prospects into paying clients.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "1 Change Your Programming",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-31T22:28:37.516667",
-      "status": "reject",
-      "reason": "Contains only a generic programming tip with no specific insight into fitness coach burnout, pain points, or business challenges. Lacks actionable intelligence about coach struggles or solutions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "2 Change Your Environment",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-31T22:28:38.413026",
-      "status": "reject",
-      "reason": "Generic self-help advice about environment change lacks specific intelligence about fitness coach business models, client acquisition strategies, or scaling systems that coaches actually need.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "3 Give Yourself a Deadline",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-05-31T22:28:39.236648",
-      "status": "reject",
-      "reason": "Contains generic productivity advice without specific insights into fitness coaches' burnout causes, solutions, or business impact",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "4 Change Your Style or Sport",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Directly addresses client management pain point - a core system need for fitness coaches managing multiple clients, relevant to scaling and operational efficiency struggles",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Keep ALL Personal Training Clients | 5 Strategies For Personal Trainers To Master In 2025",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-02T19:38:58.481383",
+      "status": "keep",
+      "reason": "Directly addresses client retention—a core pain point for fitness coaches affecting revenue stability and business scalability; retention strategies are fundamental to sustainable coaching income.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales Advice for New Personal Trainers: (8 Tips + The #1 Rule of Sales)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-02T19:38:59.520036",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with actionable sales tactics specific to fitness coaches' primary revenue challenge",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is PT Just a Sales Job?",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-02T19:39:00.501065",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point - reveals whether fitness coaches view their role as sales-dependent, indicating struggle with business development and potential barrier to scaling",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sell the Outcome",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-02T19:39:01.652530",
+      "status": "reject",
+      "reason": "Generic motivational advice about outcomes lacks specific insight into how fitness coaches actually acquire clients, their conversion challenges, pricing strategies, or marketing tactics.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 567,
-    "kept": 213,
-    "rejected": 353,
-    "last_scan": "2026-09-02T16:59:02.544187",
+    "scanned": 571,
+    "kept": 216,
+    "rejected": 354,
+    "last_scan": "2026-09-02T19:40:04.874360",
     "platforms": [
       "Reddit",
       "YouTube",

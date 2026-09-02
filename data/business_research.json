@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Channeling Negative Energy into Work",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-03T17:24:02.489404",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Charlie Morgan—no specific business intelligence or actionable strategy to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Scheduling Deep Work and Management Time",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell content on post-revenue priorities provides actionable business strategy for scaling fitness coaching businesses and managing growth reinvestment decisions.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I'd Start a 1-Person Business With AI",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-02T19:41:19.575267",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business mentor and founder of Clarity.fm; content about starting a 1-person business with AI leverage aligns directly with creator economy trends and solopreneur business models relevant to fitness coaching operations.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 939,
-    "kept": 232,
+    "scanned": 940,
+    "kept": 233,
     "rejected": 703,
-    "last_scan": "2026-09-02T17:01:23.281678",
+    "last_scan": "2026-09-02T19:42:20.611723",
     "platforms": [
       "YouTube",
       "Google",
