@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Most people fall at the first hurdle - they overthink where they're going",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T02:00:00.864155",
-      "status": "reject",
-      "reason": "Title and text don't contain specific intelligence about business strategy, offers, positioning, or coaching methods—only a generic motivational statement about overthinking. No actionable competitor insights provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The law of exposure: once you see what's possible, you can't unsee it",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T02:00:02.116665",
-      "status": "reject",
-      "reason": "Title is motivational philosophy without specific business strategy, tactics, or offers relevant to building an online fitness coaching business. No actionable intelligence about Charlie Johnson's actual methods, positioning, or offerings.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "No one gets rich with a job. No one gets freedom with a job.",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T02:00:03.591215",
-      "status": "reject",
-      "reason": "Title is generic motivational content with no specific intelligence about fitness business coaching strategies, offers, positioning, or how coaches build their businesses. Search term alone doesn't indicate the content contains competitor analysis data.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Surrounding yourself with the right information when physical networking isn't possible",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T02:00:04.958650",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual information, content, strategy, offers, or positioning details about the competitor or their business approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "If you can eat sh*t for the beginning phase and just keep going, you will eventually get there",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T02:00:05.989686",
-      "status": "reject",
-      "reason": "Title appears to be motivational content about persistence, not business strategy or coaching intelligence for online fitness coaches. No specific, actionable business insights present.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The power of paying your way into the right rooms",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-15T02:00:07.082061",
-      "status": "reject",
-      "reason": "Finding is a generic title without specific actionable intelligence about Charlie Johnson's business model, strategy, offers, or positioning for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The #1 Reason Your Fitness Coaching Business Isn't Growing in 2025",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-18T05:16:19.925342",
-      "status": "reject",
-      "reason": "Title indicates general fitness coaching growth challenges, but the finding provides no actual content, strategy details, or business-building intelligence from the competitor analysis—just a search query without results or insights.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction: Why Your Online Fitness Business is Struggling",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-18T05:16:20.973949",
-      "status": "reject",
-      "reason": "Search query alone without actual content about business strategies, offers, or positioning from Charlie Johnson or similar fitness business coaches provides no actionable intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "My Experience Scaling Fitness Businesses",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "No specific intelligence provided about business strategy, offers, positioning, or coaching methods—only a generic title with no substantive content about how Charlie Johnson or similar coaches build their businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Exact Blueprint to Hit $100K as a Personal Trainer: Avoid These Mistakes and Scale Online",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:41.585797",
+      "status": "keep",
+      "reason": "Direct intelligence on scaling personal training to $100K+ online from Charlie Johnson, a recognized fitness business coach targeting trainers; likely contains specific strategies, common mistakes, and scaling methodology relevant to online fitness coaching business model.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I'd rebuild from scratch",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:42.570497",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate the content addresses business-building strategies, offers, or positioning for online fitness coaches. Would need to review actual content to confirm relevance.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My early failure as a PT",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:43.857507",
+      "status": "reject",
+      "reason": "Contains personal anecdote about failure but no specific, actionable intelligence about business strategy, offers, positioning, or methods used by fitness business coaches to help online coaches build their businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Discovering corporate pain points",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:44.421699",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Listening to real client fears",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:45.109979",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Avoid burnout from overwork",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:45.869294",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Charge your true worth",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:47.077367",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Content as your retirement fund",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-02T12:31:48.005983",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning intelligence about fitness business coaches or their approaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 724,
-    "kept": 96,
-    "rejected": 614,
-    "last_scan": "2026-09-02T07:37:23.901714",
+    "scanned": 732,
+    "kept": 97,
+    "rejected": 621,
+    "last_scan": "2026-09-02T12:32:45.355312",
     "platforms": [
       "YouTube",
       "Google",
