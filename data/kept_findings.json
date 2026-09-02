@@ -1642,16 +1642,6 @@
     },
     {
       "source": "YouTube",
-      "title": "10,000hrs Using AI, Here’s What Actually Works",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-03T15:35:01.274869",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business figure known for scaling companies and AI strategy; content about AI implementation timeframes offers actionable insights for service-based fitness coaching businesses scaling operations",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "You’re Not Behind (Yet): 40 AI Hacks in Under 15 minutes",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2529,6 +2519,16 @@
       "status": "keep",
       "reason": "Direct attribution to Dan Martell (influential business/SaaS strategist) suggests content on AI-validated business idea validation, which offers actionable methodology for entrepreneurs testing product-market fit and monetization assumptions.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Once You Make Money, Upgrade These 7 Things ASAP",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-02T17:00:19.986847",
+      "status": "keep",
+      "reason": "Dan Martell content on post-revenue priorities provides actionable business strategy for scaling fitness coaching businesses and managing growth reinvestment decisions.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2538,11 +2538,11 @@
     "comp_kept": 97,
     "comp_rejected": 621,
     "comp_scanned": 732,
-    "busi_kept": 231,
+    "busi_kept": 232,
     "busi_rejected": 703,
-    "busi_scanned": 938,
-    "last_scan": "2026-09-02T12:33:49.679013",
-    "total_kept": 541,
+    "busi_scanned": 939,
+    "last_scan": "2026-09-02T17:01:23.286389",
+    "total_kept": 542,
     "total_rejected": 1677,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
