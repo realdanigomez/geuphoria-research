@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "8 Entrepreneurs Compete For $100,000 - Episode 1 (Full Episode)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-03T05:14:14.511644",
-      "status": "keep",
-      "reason": "Alex Hormozi competition format demonstrates high-engagement content structure and entrepreneur selection criteria that could apply to fitness coaching business growth challenges and community building strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Alex Hormozi Cookbook [REVEALED]",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises productivity principles but finding only shows a search query for Dan Martell with no actual content, strategies, or insights included to evaluate for business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Asked AI to Prove My Idea Would Make Money",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-02T07:37:32.119898",
+      "status": "keep",
+      "reason": "Direct attribution to Dan Martell (influential business/SaaS strategist) suggests content on AI-validated business idea validation, which offers actionable methodology for entrepreneurs testing product-market fit and monetization assumptions.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 936,
-    "kept": 230,
+    "scanned": 937,
+    "kept": 231,
     "rejected": 702,
-    "last_scan": "2026-09-02T02:47:01.320411",
+    "last_scan": "2026-09-02T07:38:15.482473",
     "platforms": [
       "YouTube",
       "Google",
