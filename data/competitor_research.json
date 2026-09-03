@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Balancing Innovation with Proven Strategies",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-18T05:16:27.284146",
-      "status": "reject",
-      "reason": "Search query alone without actual content about Charlie Johnson's strategies, offers, or business methods provides no actionable intelligence about competitor positioning or tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "3 Secrets To Building Muscle Mass (NO FLUFF, NO BS, THIS IS WHAT WORKS!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T12:51:05.727631",
-      "status": "reject",
-      "reason": "This is generic muscle-building content, not business/strategy intelligence about coaching programs or fitness business mentorship targeting coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Principle of Respect",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T12:51:06.792453",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Passive Tension",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Finding only shows a search query without actual content, strategy, offers, or positioning information about Bedros Keuilian or how he helps online fitness coaches build their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Strip Fat FAST with Barbell Complexes (10x more superior than cardio)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-03T04:55:11.797041",
+      "status": "reject",
+      "reason": "Contains fitness training content (barbell complexes) rather than business intelligence for online fitness coaches. No information about business strategy, positioning, offers, or coaching programs targeting fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Barbell Complex",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-03T04:55:12.808707",
+      "status": "reject",
+      "reason": "Search result title only, no actual content about business strategy, coaching programs, or specific intelligence about how Vince Del Monte helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Romanian Deadlift",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-03T04:55:13.735046",
+      "status": "reject",
+      "reason": "This is a generic exercise tutorial with no business strategy, coaching methodology, or competitive intelligence about fitness business coaches or their offerings.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 737,
+    "scanned": 740,
     "kept": 97,
-    "rejected": 626,
-    "last_scan": "2026-09-03T00:30:43.640252",
+    "rejected": 629,
+    "last_scan": "2026-09-03T04:56:16.581919",
     "platforms": [
       "YouTube",
       "Google",
