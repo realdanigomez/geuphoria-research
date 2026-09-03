@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Only 19 Skills to Make More Money in the New AI Era",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-06T14:07:20.529246",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist in the creator economy space; a piece on monetization skills in the AI era offers directly applicable frameworks for positioning fitness coaching services and scaling revenue in a competitive market.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Only 19 Skills to Make Money in the AI Era",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-06T17:21:55.282834",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker in the creator economy space; content about monetization skills in the AI era directly applies to coaching business strategy and positioning",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi's Playbook for Building Billion-Dollar Businesses",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-08T06:27:15.936568",
-      "status": "reject",
-      "reason": "This is a generic search result title without actual content, strategies, or insights. No specific actionable intelligence, frameworks, or lessons are provided to extract value from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Fastest Path to $10K/Month in 2026",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-08T09:07:56.480270",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies—no substantive business intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Millionaire CEO Explains: 8 Steps to Get Your Sh*t Together",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-09T05:37:09.855948",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and founder known for scaling companies; content about systematizing and organizing business operations directly applies to fitness coaching business structure and client management systems.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "I'm changing how I invest my money because of AI",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-09T15:45:41.654278",
-      "status": "reject",
-      "reason": "Contains only a title claim without substantive content, strategy, or specific insights about AI's impact on investment decisions. Requires actual details to evaluate business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "AI is Completely Changing How I Invest My Money in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-09T21:22:18.056690",
-      "status": "reject",
-      "reason": "Title only mentions AI and investing generically without specific strategies, actionable insights, or content relevant to fitness coaching business operations, creator economy, or applicable business frameworks.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If I Wanted to Go From $0 to $10M in 12 Months, I’d Do This",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, insights, or substantive information provided to analyze for business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-03T22:45:26.261186",
+      "status": "keep",
+      "reason": "Direct scaling strategy from influential business figure (Alex Hormozi) applicable to service business model, which is core to fitness coaching; offers actionable framework for 2026 business growth strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi's Best Advice on Offers \\u0026 Pricing | 1 Hour Compilation",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-03T22:45:27.384748",
+      "status": "keep",
+      "reason": "Alex Hormozi is a highly influential business strategist whose offer and pricing frameworks are directly applicable to fitness coaching service design, packaging, and monetization strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Watch These 51 Minutes if You Want to Grow Your Business in 2026 (Dave Ramsey Interview)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-03T22:45:28.582375",
+      "status": "reject",
+      "reason": "Interview title lacks specificity about content covered; Dave Ramsey's general business advice doesn't align with fitness coaching business model needs; no indication of creator economy, AI/tech, or fitness industry insights relevant to this niche.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Truth About Alex Hormozi's Gym Launch From a Past Client",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-03T22:45:29.478456",
+      "status": "reject",
+      "reason": "Contains anecdotal claims about Alex Hormozi rather than verified business strategies, frameworks, or actionable insights applicable to fitness coaching content business",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "First Ad to First Signup",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-03T22:45:30.500777",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi—no specific actionable intelligence to extract for business strategy or content ideas.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Polarizing Messaging",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-03T22:45:31.541135",
+      "status": "reject",
+      "reason": "Search query alone without actual content, messaging examples, or strategies provided - no actionable intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step by step how i'd make $10k per month asap if starting again",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-03T22:45:35.393017",
+      "status": "keep",
+      "reason": "Direct from influential business creator (Charlie Morgan) with specific monetization framework ($10k/month goal) and step-by-step strategies applicable to fitness coaching business models",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 947,
-    "kept": 234,
-    "rejected": 709,
-    "last_scan": "2026-09-03T20:08:03.962878",
+    "scanned": 954,
+    "kept": 237,
+    "rejected": 713,
+    "last_scan": "2026-09-03T22:46:35.744632",
     "platforms": [
       "YouTube",
       "Google",
