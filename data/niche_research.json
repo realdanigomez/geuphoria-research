@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "CAP 265 Preventing Coach Burnout: Strategies for Success | 3 July 2025",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-01T18:29:30.856834",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout prevention strategies, a critical pain point for online fitness coaches affecting retention, service quality, and business sustainability.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction to Burnout in Coaching",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-01T18:29:31.999368",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout, a critical pain point affecting retention, business sustainability, and scaling for online fitness coaches.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Understanding Burnout for Online Coaches",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-01T18:29:33.795989",
-      "status": "keep",
-      "reason": "Directly addresses a major pain point (burnout) affecting online fitness coaches' sustainability and business viability; understanding burnout drivers enables development of targeted solutions for retention and scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Systems and Processes to Prevent Burnout",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-01T18:29:35.232836",
-      "status": "keep",
-      "reason": "Directly addresses burnout—a critical pain point for online fitness coaches—and promises systems/processes that could improve retention and sustainability of their business.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Setting Boundaries and Work Hours",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Too generic and broad without specific tactics, data, or insights into fitness coaches' actual client acquisition challenges or solutions",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Deliver The Best Online Fitness Coaching For Your Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-03T20:04:46.196933",
+      "status": "reject",
+      "reason": "Generic best practices content without specific insight into coaches' actual pain points, acquisition strategies, systems, or scalability challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Team and Technology",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-03T20:04:47.183114",
+      "status": "reject",
+      "reason": "Generic search term without data on actual pain points, solutions, or fitness coach-specific challenges; no actionable insights about their problems or how to solve them.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What You Need",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-03T20:04:48.331159",
+      "status": "reject",
+      "reason": "Generic search term with no insight into specific pain points, struggles, or solutions that online fitness coaches face; lacks actionable data about their actual problems or behaviors.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Hero Program",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-03T20:04:49.320098",
+      "status": "reject",
+      "reason": "Contains only a program name and generic search term without any insights into fitness coaches' actual pain points, strategies, or challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 580,
+    "scanned": 584,
     "kept": 221,
-    "rejected": 358,
-    "last_scan": "2026-09-03T17:30:30.808263",
+    "rejected": 362,
+    "last_scan": "2026-09-03T20:05:50.979316",
     "platforms": [
       "Reddit",
       "YouTube",

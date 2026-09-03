@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "7 Business Lessons That Made Me $40M by 27",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-05T02:49:12.706510",
-      "status": "keep",
-      "reason": "Direct business strategy content from influential creator (Charlie Morgan) with quantifiable success metrics and likely contains actionable lessons applicable to fitness coaching business model scaling.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "$0 to $1,000,000 SMMA Course (18+ Hours)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-06T05:55:16.880515",
-      "status": "reject",
-      "reason": "No actual content provided—only a title and search query. Cannot assess for specific, actionable business insights, strategies, or lessons without the substantive material itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Only 19 Skills to Make More Money in the New AI Era",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Contains no actionable business insights, strategies, or substantive content from Charlie Morgan—only references a viral video with polarizing reactions that lacks business value for fitness coaching content strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I’m a millionaire. If you want to be one too, watch this.",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-03T20:07:01.181884",
+      "status": "reject",
+      "reason": "Title is clickbait without demonstrated content; search query alone doesn't confirm actual business insights, strategies, or teachings from Charlie Morgan are present in the finding.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "how to get \\",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-03T20:07:02.029209",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or substantive information provided to analyze for business value.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 945,
+    "scanned": 947,
     "kept": 234,
-    "rejected": 707,
-    "last_scan": "2026-09-03T17:32:37.743969",
+    "rejected": 709,
+    "last_scan": "2026-09-03T20:08:03.962878",
     "platforms": [
       "YouTube",
       "Google",
