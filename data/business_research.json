@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Scheduling Deep Work and Management Time",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-03T17:24:03.686987",
-      "status": "reject",
-      "reason": "Finding contains only a search query without actual content, insights, or strategies from Charlie Morgan to analyze for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "You’re Not Behind (Yet): 40 AI Hacks in Under 15 minutes",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-03T17:24:08.315873",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and this content likely contains actionable AI productivity hacks applicable to fitness coaching business operations, marketing automation, and content creation workflows.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building Confidence in Sales Without Prior Results",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-03T18:47:52.465285",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or specific strategies from Charlie Morgan - no actionable intelligence present",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Viewing Business as a Video Game and Aiming for Billionaire Status",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business mentor and founder of Clarity.fm; content about starting a 1-person business with AI leverage aligns directly with creator economy trends and solopreneur business models relevant to fitness coaching operations.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Would Build a $10M Service Business (If I Had to Start Over)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-03T00:30:45.729867",
+      "status": "keep",
+      "reason": "Direct business strategy from influential entrepreneur Alex Hormozi on scaling service businesses to $10M, providing actionable framework and lessons applicable to fitness coaching business model",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You Think You're Using AI, Watch This",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-03T00:30:52.381542",
+      "status": "reject",
+      "reason": "Search result only shows Dan Martell's name without any actual content, insights, or specific intelligence about AI usage or business strategy to extract or act upon.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ask Claude These 3 Questions, It Will Change Your Bank Account",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-03T00:30:53.659733",
+      "status": "reject",
+      "reason": "Title is clickbait without substantive business strategy; searching \"Dan Martell\" alone doesn't confirm the content actually contains his frameworks or specific, actionable business intelligence from influential thinkers.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 940,
-    "kept": 233,
-    "rejected": 703,
-    "last_scan": "2026-09-02T22:22:22.369001",
+    "scanned": 943,
+    "kept": 234,
+    "rejected": 705,
+    "last_scan": "2026-09-03T00:31:51.413896",
     "platforms": [
       "YouTube",
       "Google",

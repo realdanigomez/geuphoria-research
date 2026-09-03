@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Crowded Market Dilemma Explained",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-18T05:16:22.939632",
-      "status": "reject",
-      "reason": "Finding is just a search query title with no actual content, strategy details, offers, or competitive intelligence provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Market Sophistication \\u0026 Competition Growth",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-18T05:16:24.061593",
-      "status": "reject",
-      "reason": "No specific intelligence provided about Charlie Johnson's strategy, content, offers, or positioning—only a search query with no actual findings or analysis included.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Rise \\u0026 Fall of Marketing Strategies",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-18T05:16:25.289380",
-      "status": "reject",
-      "reason": "Title discusses general marketing strategies without evidence of specific content about fitness business coaching, Charlie Johnson's methods, or actionable intelligence for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Importance of Resource Allocation",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-18T05:16:26.310206",
-      "status": "reject",
-      "reason": "Search result title is generic and doesn't indicate specific intelligence about Charlie Johnson's business strategies, offers, or positioning for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Balancing Innovation with Proven Strategies",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Search query alone provides no specific intelligence about business strategy, offers, positioning, or actionable insights for online fitness coaches—only indicates a person exists in the fitness space.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Blueprint to Stay Lean \\u0026 Jacked After 40 | The Bedros Keuilian Show E0148",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-03T00:29:40.093086",
+      "status": "reject",
+      "reason": "This is a fitness content episode about staying lean after 40, not business strategy or coaching intelligence for online fitness coaches. It lacks actionable business-building insights for fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Welcome",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-03T00:29:41.117096",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, or positioning that could inform business decisions.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Focus on your body mind",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-03T00:29:42.249197",
+      "status": "reject",
+      "reason": "Contains only a search query for Bedros Keuilian with no actual content, strategy, offers, or actionable intelligence about how he builds his business or coaches online fitness entrepreneurs.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What works for me",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-03T00:29:43.229342",
+      "status": "reject",
+      "reason": "Finding only shows a search query without actual content, strategy, offers, or positioning information about Bedros Keuilian or how he helps online fitness coaches build their business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 733,
+    "scanned": 737,
     "kept": 97,
-    "rejected": 622,
-    "last_scan": "2026-09-02T22:21:18.152068",
+    "rejected": 626,
+    "last_scan": "2026-09-03T00:30:43.640252",
     "platforms": [
       "YouTube",
       "Google",
