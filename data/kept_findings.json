@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "day in the life of an online fitness coach + bride to be: fitness struggles, new split, calls + more",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-01T12:59:04.695625",
-      "status": "keep",
-      "reason": "Contains firsthand account of coaching workflow, client management demands, and personal fitness challenges while scaling—reveals time management pain points and work-life balance struggles relevant to coach burnout and operational bottlenecks.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Health \\u0026 Fitness Coach| “Why AM I Working Harder And Struggling To Get More Clients?”",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-01T12:59:07.197854",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with specific search intent showing coaches actively seeking solutions to effort-to-results disconnect, indicating a high-value problem to solve.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "CAP 265 Preventing Coach Burnout: Strategies for Success | 3 July 2025",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1192,6 +1172,56 @@
     },
     {
       "source": "YouTube",
+      "title": "#28 Pete Royle - Burnout, BS, And Building Better Clients",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-03T09:25:40.315707",
+      "status": "keep",
+      "reason": "Directly addresses burnout (major pain point) and client quality (client acquisition/retention challenge) - likely contains practitioner insights on preventing burnout and systematizing better client selection/outcomes.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Coach Burnout (Without Actually Making It Worse)",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-03T09:25:41.319187",
+      "status": "keep",
+      "reason": "Directly addresses a primary pain point for online fitness coaches (burnout) with implied solutions, highly relevant to audience retention and sustainability in the business.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "27% of Personal Trainers Say Burnout Is Hurting Their Income. But Is Burnout Really the Problem?",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-03T09:25:42.550325",
+      "status": "keep",
+      "reason": "Directly addresses burnout's impact on income—a core pain point for online coaches—and questions the root cause, suggesting deeper systemic issues worth understanding for retention and scaling strategies.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "NASM’s State of Personal Training Report",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-03T09:25:45.524234",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout and likely contains industry-specific data on pain points, working conditions, income trends, and retention challenges that online fitness coaches face.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is Burnout the Problem or the Symptom?",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-03T09:25:46.737243",
+      "status": "keep",
+      "reason": "Directly addresses burnout, a primary pain point for online fitness coaches; understanding whether burnout is a root cause or symptom is critical for developing targeted solutions around workload management, pricing, or business systems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "WHY YOU DON'T NEED TO BE CERTIFIED TO START AN ONLINE FITNESS BUSINESS",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1649,16 +1679,6 @@
       "status": "keep",
       "reason": "Direct intelligence on scaling personal training to $100K+ online from Charlie Johnson, a recognized fitness business coach targeting trainers; likely contains specific strategies, common mistakes, and scaling methodology relevant to online fitness coaching business model.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "40 Hacks to Use AI So Well It Feels Unfair",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-03T21:41:13.692009",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist and this title suggests specific, actionable AI tactics that could be applied to fitness coaching operations (content creation, customer management, scaling).",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2552,18 +2572,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 216,
-    "niche_rejected": 354,
-    "niche_scanned": 571,
+    "niche_kept": 221,
+    "niche_rejected": 357,
+    "niche_scanned": 579,
     "comp_kept": 97,
     "comp_rejected": 629,
     "comp_scanned": 740,
     "busi_kept": 234,
-    "busi_rejected": 705,
-    "busi_scanned": 943,
-    "last_scan": "2026-09-03T04:57:21.371169",
-    "total_kept": 547,
-    "total_rejected": 1688,
+    "busi_rejected": 707,
+    "busi_scanned": 945,
+    "last_scan": "2026-09-03T09:28:53.051105",
+    "total_kept": 552,
+    "total_rejected": 1693,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
