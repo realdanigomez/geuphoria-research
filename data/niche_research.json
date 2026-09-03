@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Coaching Your Clients",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-01T12:59:08.208850",
-      "status": "reject",
-      "reason": "Too generic and vague - doesn't reveal specific pain points, struggles, or actionable insights relevant to online fitness coaches' actual challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "CAP 265 Preventing Coach Burnout: Strategies for Success | 3 July 2025",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses burnout, a primary pain point for online fitness coaches; understanding whether burnout is a root cause or symptom is critical for developing targeted solutions around workload management, pricing, or business systems.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping a Coaching Business Get More Customers",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-03T13:45:06.687840",
+      "status": "reject",
+      "reason": "Too generic and broad without specific tactics, data, or insights into fitness coaches' actual client acquisition challenges or solutions",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 579,
+    "scanned": 580,
     "kept": 221,
-    "rejected": 357,
-    "last_scan": "2026-09-03T09:26:41.958468",
+    "rejected": 358,
+    "last_scan": "2026-09-03T13:46:06.314293",
     "platforms": [
       "Reddit",
       "YouTube",
