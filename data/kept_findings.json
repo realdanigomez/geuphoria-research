@@ -1642,56 +1642,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Design The Perfect Offer in Under 10 Minutes",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-10T00:03:58.548403",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist specializing in offer design and scaling; content on rapid offer creation provides directly actionable frameworks for fitness coaches building their service offerings and pricing models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Your Company Can't Outgrow Your Team",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-10T15:54:51.433185",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker; scaling limitations tied to team capacity is directly applicable to fitness coaching business growth strategy and founder education content.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fix Your Business in 90 Days, Win $100,000 - Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-10T19:24:38.525360",
-      "status": "keep",
-      "reason": "Alex Hormozi content on business transformation provides directly applicable strategies for scaling fitness coaching businesses, pricing models, and client acquisition that align with creator economy trends in the fitness niche.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Can I Help A Stranger Build A $1,000,000 Sticker Business? - Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-10T23:05:10.562680",
-      "status": "keep",
-      "reason": "Alex Hormozi content on scaling a sticker business to $1M provides direct case study insights on productization, distribution channels, and monetization strategies applicable to coaching business models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Your Values Will Crush Your Competition",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-12T05:44:15.539641",
-      "status": "keep",
-      "reason": "Dan Martell content on values-driven competitive advantage is directly applicable to positioning a fitness coaching business and building defensible differentiation beyond commoditized training programs.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How I got a 75% show \\u0026 30% sales conversion rate (just copy me)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2509,6 +2459,26 @@
       "status": "keep",
       "reason": "Direct from influential business creator (Charlie Morgan) with specific monetization framework ($10k/month goal) and step-by-step strategies applicable to fitness coaching business models",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted to Scale a Service Business in 2026, Here's What I'd Do [Full Blueprint]",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:10.098381",
+      "status": "keep",
+      "reason": "Alex Hormozi blueprint on scaling service businesses provides directly applicable strategies for fitness coaching (a service business), including likely frameworks on pricing, systematization, and client acquisition that could inform content strategy and business model decisions.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "5) The Virtuous Cycle of Pricing",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:16.298762",
+      "status": "keep",
+      "reason": "Alex Hormozi pricing frameworks are core business strategy content for fitness coaches monetizing services; pricing mechanics directly apply to coaching offer design and revenue optimization",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2518,12 +2488,12 @@
     "comp_kept": 97,
     "comp_rejected": 636,
     "comp_scanned": 747,
-    "busi_kept": 237,
-    "busi_rejected": 714,
-    "busi_scanned": 955,
-    "last_scan": "2026-09-04T14:01:33.072012",
-    "total_kept": 557,
-    "total_rejected": 1712,
+    "busi_kept": 239,
+    "busi_rejected": 724,
+    "busi_scanned": 967,
+    "last_scan": "2026-09-04T17:33:27.030713",
+    "total_kept": 559,
+    "total_rejected": 1722,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

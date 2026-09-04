@@ -2,126 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How much time should you spend on mindset and visualization?",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-07-09T22:51:01.712487",
-      "status": "reject",
-      "reason": "Title is about fitness/mindset practice, not business strategy. Search reference to Sam Ovens is insufficient without actual business insights, strategies, or creator economy content in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Gain Laser Focus In a World of Distraction",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-07-09T22:51:02.733597",
-      "status": "reject",
-      "reason": "Contains only a search query for Sam Ovens without actual content, insights, or strategies to extract for business/content strategy purposes.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Design The Perfect Offer in Under 10 Minutes",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-10T00:03:58.548403",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist specializing in offer design and scaling; content on rapid offer creation provides directly actionable frameworks for fitness coaches building their service offerings and pricing models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Your Company Can't Outgrow Your Team",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-10T15:54:51.433185",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker; scaling limitations tied to team capacity is directly applicable to fitness coaching business growth strategy and founder education content.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fix Your Business in 90 Days, Win $100,000 - Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-10T19:24:38.525360",
-      "status": "keep",
-      "reason": "Alex Hormozi content on business transformation provides directly applicable strategies for scaling fitness coaching businesses, pricing models, and client acquisition that align with creator economy trends in the fitness niche.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Can I Help A Stranger Build A $1,000,000 Sticker Business? - Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-10T23:05:10.562680",
-      "status": "keep",
-      "reason": "Alex Hormozi content on scaling a sticker business to $1M provides direct case study insights on productization, distribution channels, and monetization strategies applicable to coaching business models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "8 Entrepreneurs Compete For $100,000 - Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-11T00:57:33.209374",
-      "status": "reject",
-      "reason": "Title suggests a competition show format, but no evidence of specific business strategies, insights, or actionable intelligence from Alex Hormozi or other entrepreneurs included in the excerpt provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Outreach Epiphany",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-11T16:29:33.030502",
-      "status": "reject",
-      "reason": "Search query alone provides no actual content, insights, or strategies - only a search term without substantive business intelligence to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If Your Competitors Are Stealing Your Clients, Watch This",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-11T19:45:09.375192",
-      "status": "reject",
-      "reason": "Title lacks specificity and content appears to be clickbait without substantive business strategy or actionable intelligence present; simply mentioning a search for Dan Martell doesn't constitute actual insights from influential business thinkers.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Time Rule",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-11T20:44:59.042492",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Dan Martell that could be applied to fitness coaching business",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Should I Take Advantage Of My Clients?",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-11T23:54:14.339652",
-      "status": "reject",
-      "reason": "Title suggests ethical dilemma content but search result alone provides no actual business insight, strategy, or specific intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Your Values Will Crush Your Competition",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-12T05:44:15.539641",
-      "status": "keep",
-      "reason": "Dan Martell content on values-driven competitive advantage is directly applicable to positioning a fitness coaching business and building defensible differentiation beyond commoditized training programs.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "33 NEW Business Ideas With $1M Potential in 2025",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2879,133 @@
       "status": "reject",
       "reason": "Title is clickbait hyperbole with no actual questions provided or actionable strategy disclosed; lacks substantive business insight or verifiable strategies from Dan Martell",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted to Scale a Service Business in 2026, Here's What I'd Do [Full Blueprint]",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:10.098381",
+      "status": "keep",
+      "reason": "Alex Hormozi blueprint on scaling service businesses provides directly applicable strategies for fitness coaching (a service business), including likely frameworks on pricing, systematization, and client acquisition that could inform content strategy and business model decisions.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business Breakdown",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:11.048028",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or breakdown provided - no actionable intelligence to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "1) Removing the bottleneck",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:11.943123",
+      "status": "reject",
+      "reason": "Search result only mentions Alex Hormozi by name without any actual content, insights, or actionable business strategies present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "2) Increasing Ad Spend",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:13.070097",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or strategies provided - just a name and generic topic title with no substantive business intelligence to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "3) Increasing Price",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:14.091936",
+      "status": "reject",
+      "reason": "Search result with no actual content; lacks specific insights, strategies, or actionable intelligence about pricing or Hormozi's methodology",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "4) Pulling Cash Upfront",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:15.225132",
+      "status": "reject",
+      "reason": "Title alone suggests cash flow strategy but no actual content provided to evaluate for specific, actionable business intelligence or Alex Hormozi insights",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "5) The Virtuous Cycle of Pricing",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T17:32:16.298762",
+      "status": "keep",
+      "reason": "Alex Hormozi pricing frameworks are core business strategy content for fitness coaches monetizing services; pricing mechanics directly apply to coaching offer design and revenue optimization",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What makes a successful entrepreneur?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-04T17:32:23.190954",
+      "status": "reject",
+      "reason": "Title is generic self-help question with no substantive content; search query alone doesn't constitute specific business insights or strategies that could inform your fitness coaching business model or content strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ask AI These 3 Questions, It Will Change Your Bank Account",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-04T17:32:24.153579",
+      "status": "reject",
+      "reason": "Title is clickbait without substantive content; no actual questions, AI strategies, or Dan Martell insights provided in the finding itself",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "SHIFT Your Money FREQUENCY From Lack To ABUNDANCE \\u0026 ATTRACT WEALTH (This Will FREE You!) Dan Martell",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-04T17:32:25.162540",
+      "status": "reject",
+      "reason": "Generic abundance mindset content without specific business strategies, frameworks, or actionable tactics applicable to fitness coaching or creator business models.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understanding the Value of your Time",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-04T17:32:26.276939",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or actionable strategies provided - no specific intelligence to extract for business or content strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overcoming Self-Sabotage and Money Beliefs",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-04T17:32:27.417959",
+      "status": "reject",
+      "reason": "Title mentions self-sabotage and money beliefs but no actual content, strategies, or insights provided—only a name search with no substantive business intelligence or entrepreneurship lessons to extract.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 955,
-    "kept": 237,
-    "rejected": 714,
-    "last_scan": "2026-09-04T14:01:33.067746",
+    "scanned": 967,
+    "kept": 239,
+    "rejected": 724,
+    "last_scan": "2026-09-04T17:33:27.025830",
     "platforms": [
       "YouTube",
       "Google",
