@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Setting Boundaries and Work Hours",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-01T18:29:36.557061",
-      "status": "keep",
-      "reason": "Directly addresses burnout (core pain point), reveals coaches struggle with work-life balance and boundary-setting which impacts retention and sustainable business scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro: How to get your first coaching clients",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1178,6 +1168,16 @@
       "time": "2026-09-03T09:25:46.737243",
       "status": "keep",
       "reason": "Directly addresses burnout, a primary pain point for online fitness coaches; understanding whether burnout is a root cause or symptom is critical for developing targeted solutions around workload management, pricing, or business systems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built a $105,283/Mo Online Fitness Coaching Business at Age 24 (Step By Step)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-04T05:26:57.545357",
+      "status": "keep",
+      "reason": "Directly addresses income/scaling goals and business model validation for online fitness coaches; title promises step-by-step framework relevant to client acquisition and revenue growth at scale.",
       "track": "niche"
     },
     {
@@ -2522,17 +2522,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 221,
+    "niche_kept": 222,
     "niche_rejected": 362,
-    "niche_scanned": 584,
+    "niche_scanned": 585,
     "comp_kept": 97,
     "comp_rejected": 629,
     "comp_scanned": 740,
     "busi_kept": 237,
     "busi_rejected": 713,
     "busi_scanned": 954,
-    "last_scan": "2026-09-04T00:46:29.591808",
-    "total_kept": 555,
+    "last_scan": "2026-09-04T05:30:05.528032",
+    "total_kept": 556,
     "total_rejected": 1704,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [

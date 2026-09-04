@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Setting Boundaries and Work Hours",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-01T18:29:36.557061",
-      "status": "keep",
-      "reason": "Directly addresses burnout (core pain point), reveals coaches struggle with work-life balance and boundary-setting which impacts retention and sustainable business scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro: How to get your first coaching clients",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a program name and generic search term without any insights into fitness coaches' actual pain points, strategies, or challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built a $105,283/Mo Online Fitness Coaching Business at Age 24 (Step By Step)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-04T05:26:57.545357",
+      "status": "keep",
+      "reason": "Directly addresses income/scaling goals and business model validation for online fitness coaches; title promises step-by-step framework relevant to client acquisition and revenue growth at scale.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 584,
-    "kept": 221,
+    "scanned": 585,
+    "kept": 222,
     "rejected": 362,
-    "last_scan": "2026-09-04T00:44:20.023113",
+    "last_scan": "2026-09-04T05:27:59.687559",
     "platforms": [
       "Reddit",
       "YouTube",
