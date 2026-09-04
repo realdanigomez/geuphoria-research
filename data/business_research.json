@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "33 NEW Business Ideas With $1M Potential in 2025",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-12T17:00:53.397731",
-      "status": "reject",
-      "reason": "Generic listicle title lacks specificity; no actual content provided to verify if it contains actionable business strategies or insights from established business thinkers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How I got a 75% show \\u0026 30% sales conversion rate (just copy me)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title mentions self-sabotage and money beliefs but no actual content, strategies, or insights provided—only a name search with no substantive business intelligence or entrepreneurship lessons to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "This Video Should Be Required Viewing for Business Owners",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-04T19:51:18.952823",
+      "status": "reject",
+      "reason": "Title is clickbait without actual content; no specific business insights, strategies, or actionable intelligence provided in the text itself.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 967,
+    "scanned": 968,
     "kept": 239,
-    "rejected": 724,
-    "last_scan": "2026-09-04T17:33:27.025830",
+    "rejected": 725,
+    "last_scan": "2026-09-04T19:52:24.477577",
     "platforms": [
       "YouTube",
       "Google",

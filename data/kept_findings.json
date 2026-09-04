@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Where to find your first coaching clients online",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-06-01T21:58:28.222421",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches starting their business",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Become a Successful Online Fitness Coach in a Saturated Market (Step-by-Step Breakdown)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-02T02:59:37.042684",
-      "status": "keep",
-      "reason": "Directly addresses market saturation and differentiation—a primary pain point for coaches competing for clients in an oversaturated niche; step-by-step format suggests actionable strategies for client acquisition and positioning.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fighting fitness burnout",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-02T04:59:46.171999",
-      "status": "keep",
-      "reason": "Directly addresses a core pain point for fitness coaches (burnout); likely contains insights on causes, prevention strategies, and solutions that coaches can apply to sustain their business and wellbeing.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Tip 6 - Focus on getting Calls Booked",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-06-02T21:00:30.615662",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point—booking calls is a primary bottleneck for converting prospects into paying clients, a core struggle for online fitness coaches scaling their business.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why personal trainers trying to go online struggle with DMs",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1178,6 +1138,26 @@
       "time": "2026-09-04T13:58:24.325013",
       "status": "keep",
       "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches; title promises free methods which relate to income/revenue concerns and scaling without paid ads.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Start A High Profit Online Coaching Business in 2026 (Masterclass) | #TheDept Ep. 53",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-09-04T19:49:03.362760",
+      "status": "keep",
+      "reason": "Directly addresses online coaching business profitability and scaling strategies, which are core pain points for fitness coaches seeking sustainable income and business growth",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to build a coaching business online to £10K/month (full masterclass)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-09-04T19:49:04.512060",
+      "status": "keep",
+      "reason": "Directly addresses income scaling goal (£10K/month benchmark) and business model fundamentals that online fitness coaches need to understand for their revenue targets and growth strategy.",
       "track": "niche"
     },
     {
@@ -2482,18 +2462,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 223,
-    "niche_rejected": 362,
-    "niche_scanned": 586,
+    "niche_kept": 225,
+    "niche_rejected": 368,
+    "niche_scanned": 594,
     "comp_kept": 97,
     "comp_rejected": 636,
     "comp_scanned": 747,
     "busi_kept": 239,
-    "busi_rejected": 724,
-    "busi_scanned": 967,
-    "last_scan": "2026-09-04T17:33:27.030713",
-    "total_kept": 559,
-    "total_rejected": 1722,
+    "busi_rejected": 725,
+    "busi_scanned": 968,
+    "last_scan": "2026-09-04T19:52:24.482050",
+    "total_kept": 561,
+    "total_rejected": 1729,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
