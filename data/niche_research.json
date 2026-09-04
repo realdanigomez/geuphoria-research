@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro: How to get your first coaching clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-06-01T19:59:25.203907",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for new fitness coaches struggling to build their practice and generate income.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Step 1: Get clear on your coaching value",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses income/scaling goals and business model validation for online fitness coaches; title promises step-by-step framework relevant to client acquisition and revenue growth at scale.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Personal Training Clients In 2025 | The BEST Free Ways To Find Personal Training Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-04T13:58:24.325013",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches; title promises free methods which relate to income/revenue concerns and scaling without paid ads.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 585,
-    "kept": 222,
+    "scanned": 586,
+    "kept": 223,
     "rejected": 362,
-    "last_scan": "2026-09-04T09:52:19.660625",
+    "last_scan": "2026-09-04T13:59:24.865725",
     "platforms": [
       "Reddit",
       "YouTube",
