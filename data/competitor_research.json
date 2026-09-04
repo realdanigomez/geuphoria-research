@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Passive Tension",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T12:51:08.332652",
-      "status": "reject",
-      "reason": "Search query alone provides no intelligence about business strategy, offers, positioning, or how competitors help online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Principle of Ownership",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T12:51:09.413218",
-      "status": "reject",
-      "reason": "Finding contains only a search query without any actual content, strategy, offers, or positioning information about Vince Del Monte or fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Lean Muscle Building Diet (IF YOU’RE MORE THAN 12% BODY FAT!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:17:59.411860",
-      "status": "reject",
-      "reason": "Contains general diet content for fitness clients, not business intelligence about coaching programs, strategies, or positioning for online fitness coaches",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "2500 Calorie Shred Meal Plan",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:18:00.320343",
-      "status": "reject",
-      "reason": "This is a generic meal plan article, not intelligence about fitness business coaches or their strategies for building online coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Customize Your Macros to Your Training Day",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:18:01.817624",
-      "status": "reject",
-      "reason": "Contains only a generic macro customization article title with a search query name; lacks specific intelligence about business strategy, offers, positioning, or programs targeting fitness coaches as clients.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Keep Nutrition Simple",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:18:03.018358",
-      "status": "reject",
-      "reason": "Search query alone provides no actual intelligence about business strategies, offers, positioning, or coaching methodologies - just confirms Vince Del Monte exists as a search result without substantive competitive data.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Protein",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:18:03.979648",
-      "status": "reject",
-      "reason": "Search term alone without actual content, strategy, or business intelligence about how Vince Del Monte helps online fitness coaches build their business",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Fat-Free Cottage Cheese",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "This is a generic exercise tutorial with no business strategy, coaching methodology, or competitive intelligence about fitness business coaches or their offerings.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Every morning I go to battle with my inner lazy fat kid!",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-04T09:52:24.124175",
+      "status": "reject",
+      "reason": "Contains only a generic motivational quote with a search term, no actual intelligence about Bedros Keuilian's strategy, offers, positioning, or business tactics for fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Claude Workflow Adding $1–2K/Week to Fitness Coaches' Income",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-09-04T09:52:30.455554",
+      "status": "reject",
+      "reason": "Title suggests business coaching content but finding contains no actual details about strategy, offers, positioning, or specific intelligence—only a generic headline and search query with no substantive information provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why 99% Fail: The Mindset You NEED to Succeed",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-09-04T09:52:31.566848",
+      "status": "reject",
+      "reason": "Title appears to be generic mindset content rather than specific intelligence about business strategy, offers, positioning, or tactics for online fitness coaches building their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why 99% of People Fail",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-09-04T09:52:32.628362",
+      "status": "reject",
+      "reason": "Title alone provides no specific intelligence about business strategy, positioning, or offers; search term indicates general fitness content rather than fitness business coaching expertise",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Success vs. Failure: Key Determining Factors",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-09-04T09:52:33.657206",
+      "status": "reject",
+      "reason": "Finding contains only a search query without actual content, strategy, offers, or positioning details from Brian Mark or comparable fitness business coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understanding Delusional Optimism",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-09-04T09:52:35.158662",
+      "status": "reject",
+      "reason": "Title indicates psychological concept content, not business strategy or coaching intelligence for online fitness coaches. Search term alone doesn't confirm substantive competitive intelligence about Brian Mark's offerings, positioning, or methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Setting Goals: A Decision-Making Process",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-09-04T09:52:36.261171",
+      "status": "reject",
+      "reason": "Title and text describe goal-setting methodology with no specific intelligence about Brian Mark's business strategy, offers, positioning, or how he helps online fitness coaches build their business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 740,
+    "scanned": 747,
     "kept": 97,
-    "rejected": 629,
-    "last_scan": "2026-09-04T05:29:02.529923",
+    "rejected": 636,
+    "last_scan": "2026-09-04T09:53:31.096561",
     "platforms": [
       "YouTube",
       "Google",
