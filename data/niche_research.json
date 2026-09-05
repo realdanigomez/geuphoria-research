@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Online Training Really Works",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-06-03T10:18:08.623744",
-      "status": "reject",
-      "reason": "Generic title with no specific insight into coach pain points, struggles, or actionable solutions; appears to be broad educational content rather than intelligence on their actual problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Peaking 25 Athletes Over the Weekend?!",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T11:31:10.739233",
-      "status": "reject",
-      "reason": "Vague headline about peaking athletes lacks specific insight into coach pain points; appears to be general training content rather than intelligence about coaching business challenges, systems, or scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro \\u0026 Weekend Recap (Coaching 5–11 athletes)",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Too vague and generic; lacks specific data about pain points, strategies, or measurable insights that would inform coaching business decisions",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "introduction",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-05T08:46:56.792667",
+      "status": "reject",
+      "reason": "Too vague and generic - \"introduction\" with a basic search query doesn't provide specific insights into pain points, struggles, or actionable strategies for online fitness coaches.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "why is online training baller 💢🏋️",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-05T08:46:57.639028",
+      "status": "reject",
+      "reason": "Generic motivational content without specific insights into coach pain points, systems, or business challenges",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 597,
+    "scanned": 599,
     "kept": 226,
-    "rejected": 370,
-    "last_scan": "2026-09-05T04:48:06.108860",
+    "rejected": 372,
+    "last_scan": "2026-09-05T08:47:57.572765",
     "platforms": [
       "Reddit",
       "YouTube",
