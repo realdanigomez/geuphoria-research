@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro \\u0026 Weekend Recap (Coaching 5–11 athletes)",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T11:31:12.041726",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout while revealing workload scale (5-11 athletes); practical intelligence on capacity thresholds and sustainability challenges that impact business scalability and retention.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Managing Multiple Clients Across Time Zones",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T11:31:13.010297",
-      "status": "keep",
-      "reason": "Directly addresses a common operational pain point for online fitness coaches managing distributed client bases, relevant to efficiency, scheduling systems, and scalability challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Travel, Flights \\u0026 Backup Peak Week Plans",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T11:31:14.299392",
-      "status": "reject",
-      "reason": "Generic travel/flight content does not address fitness coach pain points; burnout search term alone doesn't indicate the content provides solutions for coach-specific burnout causes like client management, income instability, or scaling challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "The Biggest Stressor: Clients Not Following Directions",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Generic motivational content without specific insights into coach pain points, systems, or business challenges",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 0 — Intro + proof",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-05T12:19:55.383910",
+      "status": "reject",
+      "reason": "Generic search query without actual research findings, data, or specific insights about fitness coach pain points - just a search term placeholder",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 1 — Offer \\u0026 positioning",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-05T12:19:56.296121",
+      "status": "keep",
+      "reason": "Directly addresses offer & positioning - a foundational pain point for fitness coaches struggling with client acquisition and business differentiation",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 2 — Optimise Instagram profile",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-05T12:19:57.334131",
+      "status": "reject",
+      "reason": "Generic Instagram optimization advice lacks specific insight into fitness coaches' actual struggles; doesn't address their unique pain points like client acquisition strategy, conversion barriers, or coach-specific platform challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 599,
-    "kept": 226,
-    "rejected": 372,
-    "last_scan": "2026-09-05T08:47:57.572765",
+    "scanned": 602,
+    "kept": 227,
+    "rejected": 374,
+    "last_scan": "2026-09-05T12:20:59.426497",
     "platforms": [
       "Reddit",
       "YouTube",
