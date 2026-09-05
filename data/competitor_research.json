@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Fat-Free Cottage Cheese",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:18:04.928290",
-      "status": "reject",
-      "reason": "Search result about cottage cheese nutrition is unrelated to fitness business coaching intelligence, despite mentioning Vince Del Monte in the search query.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Macros on Training Days",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:18:06.145195",
-      "status": "reject",
-      "reason": "This is a nutrition/training content piece, not business intelligence about fitness coaching coaches or their strategies for building online coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "3 Eat Foods That You Enjoy",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-18T23:18:07.264024",
-      "status": "reject",
-      "reason": "This is generic nutrition advice with no business intelligence about coaching systems, strategy, positioning, or business-building tactics for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Can You Become an Online Personal Trainer Without Certification?",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-20T20:49:59.191069",
-      "status": "reject",
-      "reason": "This is educational content for aspiring trainers, not business intelligence about coaches who help online fitness coaches build their businesses. No specific strategy, offer, or positioning from fitness business coaches is discussed.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "WHY YOU DON'T NEED TO BE CERTIFIED TO START AN ONLINE FITNESS BUSINESS",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-20T20:50:00.469320",
-      "status": "keep",
-      "reason": "Directly addresses business entry barriers for online fitness coaches, likely contains positioning strategy from known fitness business mentor Vince Del Monte on how to compete without certifications—valuable competitive intelligence on market positioning and business model differentiation.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "YOUR CERTIFICATION ISN'T A NECESSITY",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-20T20:50:01.951506",
-      "status": "reject",
-      "reason": "Title alone doesn't indicate specific business strategy, offer details, or actionable intelligence about how Vince Del Monte helps coaches build their business—just a general statement about certifications.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Vince Del Monte's Promise to YOU",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-21T11:32:45.510840",
-      "status": "reject",
-      "reason": "No specific intelligence provided about business strategy, offers, positioning, or coaching methods—only a generic title with a search query lacking substantive competitor details.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Tarzan Workout Program To Build Muscle (HOW ALEXANDER SKARSGARD GAINED 25 LBS OF MUSCLE?!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Title and text describe goal-setting methodology with no specific intelligence about Brian Mark's business strategy, offers, positioning, or how he helps online fitness coaches build their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Sell High Priced Personal Training Packages",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-05T23:11:30.558221",
+      "status": "reject",
+      "reason": "Finding only references a search query for Bedros Keuilian without providing actual intelligence about his strategy, content, offers, or positioning. No actionable competitive insights are included.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "WHY THE OLD WAY SUCKS",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-05T23:11:31.668734",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about the competitor or their business approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "HOW THE NEW WAY OF SELLING FITNESS LOOKS",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-05T23:11:32.580130",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or specific intelligence about Bedros Keuilian's strategies, offers, or positioning provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "WHAT TO OFFER...",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-05T23:11:33.610262",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "HOW TO STRUCTURE PRICING...",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-05T23:11:34.570277",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, strategy, or pricing structure details to analyze for competitive intelligence",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "HOW TO POSITION THE OFFER",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-05T23:11:35.756957",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy details, or specific positioning intelligence provided. No actionable information about offers, positioning, or business-building strategies included.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "WHAT YOU'LL NEED...",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-05T23:11:36.830228",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, data, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching to analyze.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 747,
+    "scanned": 754,
     "kept": 97,
-    "rejected": 636,
-    "last_scan": "2026-09-05T21:30:40.860077",
+    "rejected": 643,
+    "last_scan": "2026-09-05T23:12:40.585791",
     "platforms": [
       "YouTube",
       "Google",
