@@ -1612,16 +1612,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Everything I Learned From Alex Hormozi \\u0026 Sam Ovens in 12 Minutes",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-07-13T05:55:20.056895",
-      "status": "keep",
-      "reason": "Direct synthesis of two influential business thinkers' frameworks (Hormozi & Ovens) compressed into digestible format; likely contains actionable lessons on scaling, positioning, or offer architecture applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Can I Help a Sticker Coach Build a $3,000,000 Business?",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2449,6 +2439,16 @@
       "status": "keep",
       "reason": "Alex Hormozi case study on rapid business scaling offers actionable strategies for business growth, pricing models, and revenue acceleration applicable to fitness coaching business models",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Accidentally Found a Way To Use AI Better Than 99% of People",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-05T15:27:27.175848",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business figure known for scaling and automation strategies; this title suggests a specific AI optimization insight that could inform content on business efficiency, tools, or creator economy workflows",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2458,11 +2458,11 @@
     "comp_kept": 97,
     "comp_rejected": 636,
     "comp_scanned": 747,
-    "busi_kept": 240,
+    "busi_kept": 241,
     "busi_rejected": 728,
-    "busi_scanned": 972,
-    "last_scan": "2026-09-05T12:23:06.984318",
-    "total_kept": 564,
+    "busi_scanned": 973,
+    "last_scan": "2026-09-05T15:28:25.964275",
+    "total_kept": 565,
     "total_rejected": 1738,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
