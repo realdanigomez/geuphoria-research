@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Biggest Stressor: Clients Not Following Directions",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T11:31:15.386642",
-      "status": "reject",
-      "reason": "Addresses general client compliance issues rather than fitness coach-specific pain points like business operations, marketing, client acquisition, income, or scaling challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Bad Lighting Photos \\u0026 How Coaches Handle Them",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T11:31:16.713329",
-      "status": "reject",
-      "reason": "Discusses photo quality issues rather than substantive coach pain points like client acquisition, pricing strategy, retention systems, or sustainable business model challenges that directly impact income and scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How Top Bodybuilding Coaches Handle Fatigue, Cardio \\u0026 Burnout in Prep | After Hours Ep. 28",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Generic Instagram optimization advice lacks specific insight into fitness coaches' actual struggles; doesn't address their unique pain points like client acquisition strategy, conversion barriers, or coach-specific platform challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Programming for Weight Loss Clients as a Personal Trainer",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-07T12:53:20.642706",
+      "status": "reject",
+      "reason": "Contains generic fitness programming advice for trainers, not insights into online coaches' actual pain points, business challenges, or operational struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client Profile",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-07T12:53:21.712892",
+      "status": "reject",
+      "reason": "Generic search term without actual research data, findings, or insights - no specific pain points, solutions, or intelligence provided to act on",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 602,
+    "scanned": 604,
     "kept": 227,
-    "rejected": 374,
-    "last_scan": "2026-09-07T06:25:08.905826",
+    "rejected": 376,
+    "last_scan": "2026-09-07T12:54:24.466899",
     "platforms": [
       "Reddit",
       "YouTube",
