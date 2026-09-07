@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "NEW: Alex Hormozi Answers Your Questions on Reddit",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-15T21:58:42.432341",
-      "status": "reject",
-      "reason": "Post is just a search result link with no actual content, questions, or answers visible - cannot assess if it contains actionable business insights without the actual Q&A material.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Stop Being Broke. Get Busy.",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and creator economy expert; content about effective AI interaction strategies offers actionable tactics for coaches to improve client communication, content creation workflows, and business efficiency.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Have To Start Selling Before You're Ready",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-07T21:43:24.730281",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business figure known for scaling companies and entrepreneurship advice; a piece about selling before being ready contains actionable strategy applicable to fitness coaching businesses launching offerings or programs.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 981,
-    "kept": 242,
+    "scanned": 982,
+    "kept": 243,
     "rejected": 735,
-    "last_scan": "2026-09-07T18:07:49.513646",
+    "last_scan": "2026-09-07T21:44:23.198126",
     "platforms": [
       "YouTube",
       "Google",

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Top Bodybuilding Coaches Handle Fatigue, Cardio \\u0026 Burnout in Prep | After Hours Ep. 28",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T13:01:17.513309",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout and fatigue management strategies from experienced bodybuilding coaches, providing actionable insights into handling client prep cycles and preventing burnout—a critical pain point for online fitness coaches.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Marketing For Personal Trainers | THIS Is How To Get Clients",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2379,21 +2369,31 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and creator economy expert; content about effective AI interaction strategies offers actionable tactics for coaches to improve client communication, content creation workflows, and business efficiency.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Have To Start Selling Before You're Ready",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-07T21:43:24.730281",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business figure known for scaling companies and entrepreneurship advice; a piece about selling before being ready contains actionable strategy applicable to fitness coaching businesses launching offerings or programs.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 227,
-    "niche_rejected": 376,
-    "niche_scanned": 604,
+    "niche_rejected": 377,
+    "niche_scanned": 605,
     "comp_kept": 97,
     "comp_rejected": 649,
     "comp_scanned": 760,
-    "busi_kept": 242,
+    "busi_kept": 243,
     "busi_rejected": 735,
-    "busi_scanned": 981,
-    "last_scan": "2026-09-07T18:07:49.518475",
-    "total_kept": 566,
-    "total_rejected": 1760,
+    "busi_scanned": 982,
+    "last_scan": "2026-09-07T21:44:23.201212",
+    "total_kept": 567,
+    "total_rejected": 1761,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
