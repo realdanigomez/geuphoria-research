@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Hadi Choopan \\u0026 Milos coaching discussion",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T13:01:20.762351",
-      "status": "reject",
-      "reason": "Generic coaching discussion lacks specific insights into online fitness coaches' measurable pain points, business metrics, or actionable strategies for scaling, marketing, or client acquisition.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Building size without overdoing food or PEDs",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses income goals ($100K) and client acquisition metrics—core pain points for fitness coaches scaling their business",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get Your First 5 Clients As A Fitness Coach (Simple Method)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-08T13:17:23.076319",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for new fitness coaches; likely contains tactical methods for solving early-stage business growth challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 606,
-    "kept": 228,
+    "scanned": 607,
+    "kept": 229,
     "rejected": 377,
-    "last_scan": "2026-09-08T08:34:51.251642",
+    "last_scan": "2026-09-08T13:18:23.608580",
     "platforms": [
       "Reddit",
       "YouTube",
