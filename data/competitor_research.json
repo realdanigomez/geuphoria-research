@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Beat Your Personal Training Competition",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-06-27T13:27:34.770638",
-      "status": "reject",
-      "reason": "Finding mentions a competitor name but contains no actual content, strategy, offers, or positioning details—just a search query without results or analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Third Secret Principle of Ownership",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, strategy details, offers, or positioning information about Charlie Johnson's business coaching approach provides no actionable intelligence.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Best Weight Loss Exercises",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-08T20:03:45.386596",
+      "status": "reject",
+      "reason": "This is a generic weight loss exercise article with only a search mention of Vince Del Monte, containing no actionable business strategy, positioning, offer structure, or community intelligence about coaching business builders.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 769,
+    "scanned": 770,
     "kept": 98,
-    "rejected": 657,
-    "last_scan": "2026-09-08T17:21:15.607246",
+    "rejected": 658,
+    "last_scan": "2026-09-08T20:04:48.028694",
     "platforms": [
       "YouTube",
       "Google",
