@@ -1142,6 +1142,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Exactly How Many Clients You Need To Make $100K As A Personal Trainer",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-08T03:40:19.774164",
+      "status": "keep",
+      "reason": "Directly addresses income goals ($100K) and client acquisition metrics—core pain points for fitness coaches scaling their business",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "A Day In The Life Of A Fitness Business Coach  | Road to 275 | Ep 2",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2382,17 +2392,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 227,
+    "niche_kept": 228,
     "niche_rejected": 377,
-    "niche_scanned": 605,
+    "niche_scanned": 606,
     "comp_kept": 97,
     "comp_rejected": 649,
     "comp_scanned": 760,
     "busi_kept": 243,
     "busi_rejected": 735,
     "busi_scanned": 982,
-    "last_scan": "2026-09-08T00:00:35.125196",
-    "total_kept": 567,
+    "last_scan": "2026-09-08T03:43:39.457776",
+    "total_kept": 568,
     "total_rejected": 1761,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
