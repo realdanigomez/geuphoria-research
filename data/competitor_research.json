@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Type 3: Personal Stories",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-06-22T21:31:22.953904",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy, offers, or positioning details provides no actionable intelligence about business building methods or competitor tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Type 4: Entertainment Content",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategy, offers, positioning, or business model—only a search query with no results or analysis provided.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Model Interview On Fat Loss",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-08T08:34:53.055665",
+      "status": "reject",
+      "reason": "Contains only a generic fitness model interview about fat loss; no business strategy, positioning, or operational intelligence about how fitness coaches build their coaching businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 760,
+    "scanned": 761,
     "kept": 97,
-    "rejected": 649,
-    "last_scan": "2026-09-08T03:42:32.476972",
+    "rejected": 650,
+    "last_scan": "2026-09-08T08:35:55.423163",
     "platforms": [
       "YouTube",
       "Google",
