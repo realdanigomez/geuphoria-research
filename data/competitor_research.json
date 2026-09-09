@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Third Secret Principle of Ownership",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-28T07:49:21.848201",
-      "status": "reject",
-      "reason": "Title references a generic ownership principle with no specific actionable intelligence about fitness business coaching, strategies, offers, or positioning. The search term alone does not constitute substantive competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Initiate the Movement with the Working Muscle",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-28T07:49:23.032198",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy, offers, or positioning details from Vince Del Monte or his program provides no actionable intelligence for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Isometric Contraction",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-28T07:49:24.068247",
-      "status": "reject",
-      "reason": "Contains only a generic fitness training topic (isometric contraction) with no intelligence about fitness business coaching, mentorship programs, or strategies for building an online coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Secrets to Building Muscle Mass",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-28T07:49:25.712960",
-      "status": "reject",
-      "reason": "This is a generic muscle-building article search result, not intelligence about fitness business coaching, mentorship programs, or strategies for building an online coaching business. While Vince Del Monte is mentioned in the search query, the actual finding content lacks specific business strategy, offer details, or actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Six Pack Abs Tips With Vince DelMonte",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-06-28T12:02:50.141443",
-      "status": "reject",
-      "reason": "Contains generic fitness content tips, not business intelligence about coaching systems, strategies, or offers targeting fitness coaches as clients.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Truth About Bodybuilding Supplements",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-03T13:22:14.170352",
-      "status": "reject",
-      "reason": "Title is about supplement information, not business coaching. Search term mentions Vince Del Monte but finding contains no actual content about his business strategy, coaching methods, offers, or how he builds his coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Books to Live By",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "This is a generic weight loss exercise article with only a search mention of Vince Del Monte, containing no actionable business strategy, positioning, offer structure, or community intelligence about coaching business builders.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Market And Grow A Fitness Business (Trifecta Factor Webinar)",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-09T01:02:21.259824",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a primary competitor in fitness business coaching; a webinar on marketing and growing a fitness business from this source would contain direct strategy and positioning intelligence applicable to online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Say you wanna make $250K in a year... what does that mean?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-09T01:02:22.296640",
+      "status": "reject",
+      "reason": "Finding contains only a search query without actual content, strategy, positioning, or actionable intelligence about how fitness business coaches help online coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Are you willing to put the hard work in to get the business that you want?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-09T01:02:23.281231",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning details about Bedros Keuilian or his business coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Trifecta Factor",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-09T01:02:24.465793",
+      "status": "reject",
+      "reason": "Finding only contains a search query with no actual content, strategy, offer details, or intelligence about the competitor's business model or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Control Your Mindset",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-09T01:02:25.337130",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual intelligence about Bedros Keuilian's strategy, content, offers, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Failure only comes from two places...",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-09T01:02:26.343979",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about the competitor or their business approach.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 770,
-    "kept": 98,
-    "rejected": 658,
-    "last_scan": "2026-09-08T22:54:04.007369",
+    "scanned": 776,
+    "kept": 99,
+    "rejected": 663,
+    "last_scan": "2026-09-09T01:03:26.233781",
     "platforms": [
       "YouTube",
       "Google",
