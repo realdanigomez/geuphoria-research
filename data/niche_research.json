@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Marketing For Personal Trainers | THIS Is How To Get Clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-06-04T06:31:52.681996",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches seeking sustainable business growth and revenue scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "WHY you're struggling to see SUCCESS as an Online Fitness Coach or Personal Trainer",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-04T17:32:16.446144",
-      "status": "keep",
-      "reason": "Directly addresses core pain points (struggle with success) of target audience with search intent data showing real demand for this topic; likely contains insights on specific obstacles online coaches face that could inform content strategy and positioning.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "A Day in My Life as an Online Fitness Coach | Balancing Work, Training \\u0026 Mental Health",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-04T17:32:17.356842",
-      "status": "reject",
-      "reason": "Contains generic lifestyle content without specific insights into business pain points, client acquisition strategies, marketing tactics, systems, or scaling challenges that online fitness coaches face.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Famous Fitness Trainer Sued By Client For No Gains.",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "keep",
       "reason": "Directly addresses burnout (major pain point for fitness coaches) and implies specific solutions implemented in their business model, providing potential insights into systems/operational changes that could reduce coach burnout.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 Strategies to Attract High-Ticket Coaching Clients Fast",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-10T23:41:00.887766",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches seeking sustainable income and business growth; \"high-ticket\" specifically relevant to scaling revenue without burnout through volume.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overview of Five Key Strategies for Attracting High-Ticket Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-10T23:41:01.890284",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition (a primary pain point for online fitness coaches) with focus on high-ticket positioning, which relates to income scaling and business growth strategy.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get on Podcasts as a Guest",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-10T23:41:02.997732",
+      "status": "reject",
+      "reason": "Generic podcast guesting advice lacks specificity to fitness coaches' actual client acquisition challenges; doesn't address their unique positioning, credibility barriers, or ROI compared to other marketing channels they actually use.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 610,
-    "kept": 230,
-    "rejected": 379,
-    "last_scan": "2026-09-10T21:46:29.041832",
+    "scanned": 613,
+    "kept": 232,
+    "rejected": 380,
+    "last_scan": "2026-09-10T23:42:05.856131",
     "platforms": [
       "Reddit",
       "YouTube",
