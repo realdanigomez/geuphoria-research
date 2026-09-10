@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Building size without overdoing food or PEDs",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T14:31:25.142401",
-      "status": "reject",
-      "reason": "Finding discusses client nutrition/training strategy rather than coach business problems like burnout causes, prevention, or solutions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How coaches handle arrogant athletes",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-03T14:31:26.117510",
-      "status": "reject",
-      "reason": "Addresses general coaching psychology rather than fitness coach-specific pain points like client acquisition, revenue models, systematization, or scaling challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "6 Change Workout Partners",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for new fitness coaches; likely contains tactical methods for solving early-stage business growth challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Start an LLC",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-10T16:52:39.596066",
+      "status": "reject",
+      "reason": "Generic business formation advice with no fitness coaching-specific context; doesn't address actual pain points like client acquisition, pricing strategy, or service delivery systems that online fitness coaches face",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Track Income Expenses",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-10T16:52:40.929269",
+      "status": "reject",
+      "reason": "Finding contains only a generic tool title with no actual research data, insights, or specific information about fitness coaches' actual pain points, struggles, or challenges. The search term alone doesn't constitute research evidence.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 607,
+    "scanned": 609,
     "kept": 229,
-    "rejected": 377,
-    "last_scan": "2026-09-10T12:45:08.673013",
+    "rejected": 379,
+    "last_scan": "2026-09-10T16:53:47.989330",
     "platforms": [
       "Reddit",
       "YouTube",
