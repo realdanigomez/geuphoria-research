@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Books to Live By",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-03T20:13:13.281557",
-      "status": "reject",
-      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Starting a Fitness Boot Camp Business",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-03T20:13:14.177156",
-      "status": "reject",
-      "reason": "Finding only mentions Bedros Keuilian's name in a search query without providing any actual intelligence about his strategy, content, offers, positioning, or business approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Start Online Fitness Coaching in 2026 (Everything you Need to Know)",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-06T17:20:45.095990",
-      "status": "reject",
-      "reason": "Title suggests general fitness coaching advice rather than specific intelligence about business coaches or their strategies for helping online fitness coaches build their businesses. No indication of mentor/coach/program content targeting fitness coaches as clients.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The 5-Step Online Coaching Blueprint",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-06T17:20:46.547973",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy, offers, or positioning details from Charlie Johnson's blueprint provides no actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Content Strategy That Gets You Seen",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-06T17:20:48.220156",
-      "status": "reject",
-      "reason": "Search query alone with no content details provided; cannot assess whether actual intelligence about fitness business coaching strategies, offers, or positioning is present.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Turning Views Into Qualified Leads",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-06T17:20:49.225505",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or specific intelligence about Charlie Johnson's strategy, offers, or positioning for fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Sales Framework That Closes Clients",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about the competitor or their business approach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Holy Hamstrings! The Best Technique to Build Your Hamstrings",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-10T07:57:37.329755",
+      "status": "reject",
+      "reason": "This is general fitness content about hamstring training technique, not business intelligence about online fitness coaching as a profession or industry.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 of the WORST Fat Loss MISTAKES 80% of People Make… (Lose Fat Not Muscle)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-10T07:57:38.317147",
+      "status": "reject",
+      "reason": "This is generic fat loss content for consumers, not business intelligence about coaching programs or strategies targeting fitness coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Thing Most People Get Wrong",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-10T07:57:39.285566",
+      "status": "reject",
+      "reason": "Finding only shows a search query for Vince Del Monte with no actual content, strategy, offers, or positioning details to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What's Your Current Level Of Body Fat?",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-10T07:57:40.527480",
+      "status": "reject",
+      "reason": "Contains only a generic body composition question and a search term for Vince Del Monte without any actual intelligence about his business strategy, offers, positioning, or how he helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My Best Transformation",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-10T07:57:41.698072",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about business strategies, offers, positioning, or coaching programs—just indicates someone searched a competitor's name without substantive competitive data.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Best Workout For Fat Loss",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-10T07:57:42.999491",
+      "status": "reject",
+      "reason": "Contains only a generic fat loss workout topic with a single name mention; lacks specific intelligence about business strategy, offers, positioning, or how coaches build their fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 776,
+    "scanned": 782,
     "kept": 99,
-    "rejected": 663,
-    "last_scan": "2026-09-10T02:59:27.427473",
+    "rejected": 669,
+    "last_scan": "2026-09-10T07:58:46.273473",
     "platforms": [
       "YouTube",
       "Google",
