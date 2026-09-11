@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Vince Del Monte's Secrets of Building Muscle",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-10T13:26:36.440954",
-      "status": "reject",
-      "reason": "Title mentions Vince Del Monte but finding contains no specific intelligence about his business coaching strategies, offers, or methods for helping online fitness coaches build their businesses—only a generic search result about muscle building content.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Starting A Personal Training Business",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title promises scaling strategy but no actual content provided to evaluate specifics on business model, offers, or positioning tactics that would be actionable for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My diet",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-11T19:27:01.141493",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 790,
+    "scanned": 791,
     "kept": 100,
-    "rejected": 676,
-    "last_scan": "2026-09-11T16:55:25.604201",
+    "rejected": 677,
+    "last_scan": "2026-09-11T19:28:05.161386",
     "platforms": [
       "YouTube",
       "Google",
