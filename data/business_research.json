@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Building a $3,000,000 Business for a Stranger in 31 Minutes - Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-17T17:38:49.222986",
-      "status": "keep",
-      "reason": "Direct access to Alex Hormozi's business-building methodology and rapid value creation framework applicable to service-based fitness coaching businesses, plus demonstrable case study of scaling mechanics within compressed timeframe.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "This ALWAYS Works in Sales",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-17T17:38:55.630525",
-      "status": "reject",
-      "reason": "Title promises universal sales principle but provides no actual content, strategy, or actionable insight—just a name search with no substantive business lesson or framework to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Let Your Customers Feel Their Pain",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-17T20:28:12.592240",
-      "status": "reject",
-      "reason": "Title lacks specificity and text only contains a name search with no actual content, insights, or strategies to extract for business application.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Get More Done Than 99% of People",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Title is clickbait without substantive content; search term alone doesn't provide specific AI strategies, actionable tactics, or business intelligence applicable to fitness coaching business.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How my business partner helped me make $37M (Charlie Morgan)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-11T02:54:47.242715",
+      "status": "keep",
+      "reason": "Direct case study from influential business builder (Charlie Morgan) detailing specific revenue milestone ($37M) and partnership dynamics, likely containing actionable strategies on scaling, partnership structuring, and business growth applicable to fitness coaching entrepreneurs.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Path To $10,000/month",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-11T02:54:48.267751",
+      "status": "reject",
+      "reason": "Title alone lacks specific actionable insights; no content provided to evaluate for concrete business strategies, frameworks, or creator economy tactics applicable to fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You have to dream so big that you're embarrassed to share it",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-11T02:54:52.444070",
+      "status": "reject",
+      "reason": "Title is motivational philosophy without specific actionable business strategies, tactics, or insights relevant to fitness coaching content or business operations.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 986,
-    "kept": 244,
-    "rejected": 738,
-    "last_scan": "2026-09-10T23:44:19.259489",
+    "scanned": 989,
+    "kept": 245,
+    "rejected": 740,
+    "last_scan": "2026-09-11T02:55:50.268740",
     "platforms": [
       "YouTube",
       "Google",
