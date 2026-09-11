@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Recap",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-06T17:09:42.937152",
-      "status": "reject",
-      "reason": "Generic title with no specific insights about fitness coaches' actual pain points, struggles, or solutions—lacks actionable detail needed for niche research.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Most Online Fitness Coaches Struggle To Get Clients (And How To Fix It)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-06T20:07:00.492521",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with implied solutions for a primary struggle affecting coach revenue and business viability",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Most Online Fitness Coaches Struggle To Get Clients (And How To Fix It)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-06-06T20:07:04.024539",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; title suggests contains solutions to a core business problem affecting their revenue and growth.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Warm Up Rule",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-08T22:09:13.395039",
-      "status": "reject",
-      "reason": "Contains generic fitness content about warm-up exercises; does not address online fitness coaches' business problems, pain points, or operational challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Welcome \\u0026 Intro",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-09T10:32:42.717132",
-      "status": "reject",
-      "reason": "Generic intro/welcome content with no specific data, insights, or actionable intelligence about fitness coach pain points—search term alone doesn't constitute a finding.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Meet Carl Hardwick",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-09T10:32:43.693853",
-      "status": "reject",
-      "reason": "Generic profile piece without specific pain points, struggles, or actionable insights about fitness coaching business challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why This Masterclass",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-09T10:32:44.750835",
-      "status": "reject",
-      "reason": "Generic masterclass landing page lacks specific insights into actual pain points, struggles, or solutions relevant to online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Pillar 1: Positioning",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a core pain point for fitness coaches; \"closing the sale\" indicates conversion tactics that coaches need to master to turn prospects into paying clients.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Got 60 Online Fitness Coaching Clients With Only 5,000 Followers (The DM System)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T23:51:26.514233",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategy (a primary pain point) with a specific, replicable system (DM-based approach) that doesn't require large follower counts—highly relevant for coaches struggling with lead generation.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 100k vs 5k Follower Myth",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T23:51:27.949527",
+      "status": "reject",
+      "reason": "Discusses follower count metrics without addressing actual client acquisition strategies, conversion methods, or income generation—lacks actionable intelligence for coaches struggling to convert audience into paying clients.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Revenue Proof: $2.5k to $30k/mo Growth Breakdown",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T23:51:28.805794",
+      "status": "keep",
+      "reason": "Directly addresses income scaling and client acquisition—two critical pain points for online fitness coaches trying to grow from starter to sustainable revenue levels.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Bio Links \\u0026 Story Polls Fail for Online Coaches",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T23:51:29.783365",
+      "status": "reject",
+      "reason": "Discusses social media tactics (bio links, story polls) without addressing core pain points like client acquisition strategy, conversion barriers, pricing models, or systemic scaling issues that online coaches face",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 1: The Non-Salesy Outbound DM Script Strategy",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T23:51:30.858667",
+      "status": "keep",
+      "reason": "Addresses client acquisition pain point with specific tactical approach (outbound DMs), directly relevant to fitness coaches' primary struggle of getting clients without aggressive sales tactics",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 3 Tiers of Client Trust in the DMs",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T23:51:31.764111",
+      "status": "reject",
+      "reason": "Generic trust-building advice without specific tactics for client acquisition, retention, or scaling challenges that fitness coaches face in DM outreach",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 2: Outbound vs. Inbound Chat Framework",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T23:51:32.711918",
+      "status": "reject",
+      "reason": "Generic framework without fitness coaching context; doesn't address specific pain points like client acquisition methods, pricing strategy, or fitness industry challenges that coaches face",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 618,
-    "kept": 233,
-    "rejected": 384,
-    "last_scan": "2026-09-11T21:51:06.673369",
+    "scanned": 625,
+    "kept": 236,
+    "rejected": 388,
+    "last_scan": "2026-09-11T23:52:34.203384",
     "platforms": [
       "Reddit",
       "YouTube",
