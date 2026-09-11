@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Pricing for Long-Term Growth",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-06T17:20:51.221681",
-      "status": "reject",
-      "reason": "Search query alone without actual content about Charlie Johnson's pricing strategy, business model, or specific tactics provides no actionable intelligence for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Lose Body Fat \\u0026 Get RIPPED! (Advanced Fat Loss Workout)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-07T04:32:37.946338",
-      "status": "reject",
-      "reason": "This is a generic fat loss workout video, not business intelligence about fitness coaching business builders or their strategies for helping coaches grow their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "What If I Fail",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-07T16:28:16.503944",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "You Dont Need Money",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-07T16:28:17.539102",
-      "status": "reject",
-      "reason": "Finding only mentions a search query without any actual content, strategy, offers, or positioning information about Bedros Keuilian or competitive intelligence that would be actionable for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How the BEST Trainers Build Their Fitness Business | Road to 275 | EP 10",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-08T13:01:06.097650",
-      "status": "reject",
-      "reason": "Title alone indicates general fitness business content; no evidence of specific strategies, offers, positioning, or business-building intelligence for online fitness coaches in the provided text snippet.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Mental Toughness",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-08T15:29:36.232204",
-      "status": "reject",
-      "reason": "Finding contains only a search query for Vince Del Monte with no actual intelligence about his strategies, offers, positioning, or business-building methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Barbell Complex Progression Model",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-08T15:29:39.970987",
-      "status": "reject",
-      "reason": "This is a training methodology article, not business intelligence about fitness coaching mentors, programs, or communities. It lacks actionable insights about building an online coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Vince Del Monte's Secrets of Building Muscle",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Title is about general fitness industry trends from 2014, not about business coaching strategies or programs for online fitness coaches. While Bedros Keuilian is mentioned in the search query, the actual finding lacks specific intelligence about his coaching, offers, or positioning.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vince Del Monte: Built Online Fitness Empire, Pioneered Affiliates, \\u0026 Still Leads the Coaching Game",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:49.563150",
+      "status": "keep",
+      "reason": "Vince Del Monte is a direct competitor in the fitness business coaching space with documented empire-building strategies, affiliate program models, and current market positioning that would provide actionable competitive intelligence for an online fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:50.405384",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about strategy, content, offers, or positioning—it's just a search term without findings or data.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "From distance runner to personal trainer to top gym salesman",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:51.244195",
+      "status": "reject",
+      "reason": "Contains biographical information about Vince Del Monte but no specific intelligence about his business strategies, coaching programs, positioning, or offers for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Discovering internet marketing and ebooks",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:52.137051",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The birth of No-Nonsense Muscle Building",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:53.064665",
+      "status": "reject",
+      "reason": "Contains only a title and search query with no actual content, strategy, offers, or positioning details about Vince Del Monte's business approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "His first years of internet marketing",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:53.908482",
+      "status": "reject",
+      "reason": "Finding only mentions a search query without providing actual content, strategy details, or actionable intelligence about how Vince Del Monte builds his fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How he scaled through customer feedback and product layering",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:54.913113",
+      "status": "reject",
+      "reason": "Title promises scaling strategy but no actual content provided to evaluate specifics on business model, offers, or positioning tactics that would be actionable for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 783,
-    "kept": 99,
-    "rejected": 670,
-    "last_scan": "2026-09-11T02:54:42.382154",
+    "scanned": 790,
+    "kept": 100,
+    "rejected": 676,
+    "last_scan": "2026-09-11T07:47:57.125808",
     "platforms": [
       "YouTube",
       "Google",

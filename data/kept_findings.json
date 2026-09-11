@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Most Personal Trainers Struggle Financially",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-05T22:13:07.072529",
-      "status": "keep",
-      "reason": "Directly addresses financial struggles of fitness coaches, a core pain point affecting client acquisition capacity, pricing strategy, and business sustainability decisions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Most Online Fitness Coaches Struggle To Get Clients (And How To Fix It)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1172,6 +1162,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Closing the sale",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-11T07:45:48.184261",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a core pain point for fitness coaches; \"closing the sale\" indicates conversion tactics that coaches need to master to turn prospects into paying clients.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How I Build 7 Figure Fitness  Coaches (NEW VLOG) | Road to 275 | Ep 1",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1588,6 +1588,16 @@
       "time": "2026-09-09T01:02:21.259824",
       "status": "keep",
       "reason": "Bedros Keuilian is a primary competitor in fitness business coaching; a webinar on marketing and growing a fitness business from this source would contain direct strategy and positioning intelligence applicable to online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vince Del Monte: Built Online Fitness Empire, Pioneered Affiliates, \\u0026 Still Leads the Coaching Game",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T07:46:49.563150",
+      "status": "keep",
+      "reason": "Vince Del Monte is a direct competitor in the fitness business coaching space with documented empire-building strategies, affiliate program models, and current market positioning that would provide actionable competitive intelligence for an online fitness coaching business.",
       "track": "competitor"
     },
     {
@@ -2402,18 +2412,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 232,
-    "niche_rejected": 380,
-    "niche_scanned": 613,
-    "comp_kept": 99,
-    "comp_rejected": 670,
-    "comp_scanned": 783,
+    "niche_kept": 233,
+    "niche_rejected": 384,
+    "niche_scanned": 618,
+    "comp_kept": 100,
+    "comp_rejected": 676,
+    "comp_scanned": 790,
     "busi_kept": 245,
     "busi_rejected": 740,
     "busi_scanned": 989,
-    "last_scan": "2026-09-11T02:55:50.273808",
-    "total_kept": 576,
-    "total_rejected": 1790,
+    "last_scan": "2026-09-11T07:49:00.258046",
+    "total_kept": 578,
+    "total_rejected": 1800,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
