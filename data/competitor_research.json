@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Starting A Personal Training Business",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-10T13:26:42.007944",
-      "status": "reject",
-      "reason": "Contains only a search query for Bedros Keuilian without actual competitive intelligence, strategy, content, offers, or positioning information about his business model or approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "A Simple WORKOUT ROUTINE for Serious Mass Gain (HUGE PUMP!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Scale A Coaching Program To 1000+ Clients In Under 1 Year (WITHOUT ADS!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-11T21:51:08.581727",
+      "status": "keep",
+      "reason": "Directly addresses scaling strategies for coaching programs without paid advertising, which is core business intelligence for online fitness coaches seeking growth methodologies from established mentors like Vince Del Monte.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 791,
-    "kept": 100,
+    "scanned": 792,
+    "kept": 101,
     "rejected": 677,
-    "last_scan": "2026-09-11T19:28:05.161386",
+    "last_scan": "2026-09-11T21:52:14.395223",
     "platforms": [
       "YouTube",
       "Google",
