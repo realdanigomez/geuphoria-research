@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Get More Done Than 99% of People",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-17T22:15:40.508419",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker and this productivity content likely contains actionable strategies applicable to coaching business operations, team scaling, and creator efficiency",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Drip Matrix",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title is motivational philosophy without specific actionable business strategies, tactics, or insights relevant to fitness coaching content or business operations.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Copy This AI System and Watch Your Life Change",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-11T12:36:21.651033",
+      "status": "reject",
+      "reason": "Title is clickbait without specific system details; no actionable AI framework or business strategy provided in the finding itself.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 989,
+    "scanned": 990,
     "kept": 245,
-    "rejected": 740,
-    "last_scan": "2026-09-11T07:49:00.253368",
+    "rejected": 741,
+    "last_scan": "2026-09-11T12:37:19.462798",
     "platforms": [
       "YouTube",
       "Google",
