@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Big Legs Made Easy: The Best Rep Range for Bigger Legs!",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-12T13:13:57.517715",
-      "status": "reject",
-      "reason": "This is generic leg training content, not business intelligence about fitness coaches or their strategies. It's a workout guide, not information about how coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Build 7 Figure Fitness  Coaches (NEW VLOG) | Road to 275 | Ep 1",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-12T14:41:24.694967",
-      "status": "keep",
-      "reason": "Direct content from a known fitness business coach (Vince Del Monte) about building 7-figure coaching businesses - likely contains specific strategies, systems, and positioning tactics applicable to online fitness coaches scaling their operations.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Road to 275",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-12T14:41:25.805209",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about business strategy, offers, positioning, or coaching methods—requires actual content analysis to be useful.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fitness Business Marketing - Bedros Keuilian",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-12T18:03:26.471666",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a fitness business coach who teaches online coaches marketing and business scaling strategies; search indicates potential positioning, offer, or marketing approach intelligence worth investigating.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Owning a Fitness Franchise Is a No-Brainer | Bedros Keuilian | FBBC",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-12T18:03:27.503236",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a primary fitness business coach competitor; his positioning on franchise ownership reveals alternative business model strategy and messaging that could impact online coaching positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Vince, how did you get into the fitness industry?",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-13T15:21:08.276067",
-      "status": "reject",
-      "reason": "This is a generic biographical question with no specific intelligence about business strategy, offers, positioning, or how Vince Del Monte helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Facebook Works",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-13T23:28:05.875054",
-      "status": "reject",
-      "reason": "Finding only contains a search query without any actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building A Fan Page",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-13T23:28:07.118531",
-      "status": "reject",
-      "reason": "Finding only references a search query without actual content, intelligence, or findings about Bedros Keuilian's business strategy, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Low Barrier Offers",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or his program to analyze.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Trainers Never Make Real Money: The 3-Step Blueprint To $100k/Month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:47.367786",
+      "status": "keep",
+      "reason": "This is directly relevant competitor intelligence on Charlie Johnson, a known fitness business coach targeting online coaches, with a specific monetization framework ($100k/month blueprint) that reveals positioning and revenue model strategy.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Escape stuck and broke mindset",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:48.178468",
+      "status": "reject",
+      "reason": "Contains only a search query without actual content, findings, or actionable intelligence about business strategy, offers, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "One person, one pain point",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:48.997527",
+      "status": "reject",
+      "reason": "Finding contains only a search query without any actual intelligence about strategy, content, offers, or positioning from Charlie Johnson or competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build an offer that sells",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:49.804488",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's offer strategy, positioning, or business model prevents actionable analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Create a unique mechanism",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:50.893458",
+      "status": "reject",
+      "reason": "Search query alone without actual findings, strategy details, offers, or positioning information about Charlie Johnson or his business coaching approach. No actionable intelligence provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Price for premium clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:51.715558",
+      "status": "reject",
+      "reason": "Search query alone without findings, strategy details, pricing information, or business intelligence about Charlie Johnson's coaching approach or offers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build authority with content",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:52.749346",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy details, or specific business intelligence about how Charlie Johnson builds authority or coaches fitness professionals",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Post more, get more traffic",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:53.762401",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about strategy, content, offers, or positioning—would need actual content/findings from Charlie Johnson's materials to be actionable.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 793,
-    "kept": 101,
-    "rejected": 678,
-    "last_scan": "2026-09-12T15:12:58.939027",
+    "scanned": 801,
+    "kept": 102,
+    "rejected": 685,
+    "last_scan": "2026-09-12T17:48:51.070414",
     "platforms": [
       "YouTube",
       "Google",

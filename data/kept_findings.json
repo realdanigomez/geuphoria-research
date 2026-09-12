@@ -1182,36 +1182,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How I Build 7 Figure Fitness  Coaches (NEW VLOG) | Road to 275 | Ep 1",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-12T14:41:24.694967",
-      "status": "keep",
-      "reason": "Direct content from a known fitness business coach (Vince Del Monte) about building 7-figure coaching businesses - likely contains specific strategies, systems, and positioning tactics applicable to online fitness coaches scaling their operations.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fitness Business Marketing - Bedros Keuilian",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-12T18:03:26.471666",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a fitness business coach who teaches online coaches marketing and business scaling strategies; search indicates potential positioning, offer, or marketing approach intelligence worth investigating.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Owning a Fitness Franchise Is a No-Brainer | Bedros Keuilian | FBBC",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-12T18:03:27.503236",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a primary fitness business coach competitor; his positioning on franchise ownership reveals alternative business model strategy and messaging that could impact online coaching positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Be the Fitness Authority in Your Community | Bedros Keuilian | Fitness Business",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -1618,6 +1588,16 @@
       "time": "2026-09-11T21:51:08.581727",
       "status": "keep",
       "reason": "Directly addresses scaling strategies for coaching programs without paid advertising, which is core business intelligence for online fitness coaches seeking growth methodologies from established mentors like Vince Del Monte.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Trainers Never Make Real Money: The 3-Step Blueprint To $100k/Month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-12T17:47:47.367786",
+      "status": "keep",
+      "reason": "This is directly relevant competitor intelligence on Charlie Johnson, a known fitness business coach targeting online coaches, with a specific monetization framework ($100k/month blueprint) that reveals positioning and revenue model strategy.",
       "track": "competitor"
     },
     {
@@ -2405,15 +2385,15 @@
     "niche_kept": 236,
     "niche_rejected": 388,
     "niche_scanned": 625,
-    "comp_kept": 101,
-    "comp_rejected": 678,
-    "comp_scanned": 793,
+    "comp_kept": 102,
+    "comp_rejected": 685,
+    "comp_scanned": 801,
     "busi_kept": 248,
     "busi_rejected": 750,
     "busi_scanned": 1002,
-    "last_scan": "2026-09-12T15:14:02.556697",
-    "total_kept": 585,
-    "total_rejected": 1816,
+    "last_scan": "2026-09-12T17:49:54.800168",
+    "total_kept": 586,
+    "total_rejected": 1823,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
