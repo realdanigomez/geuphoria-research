@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Building a $5,000,000 Business for a Stranger in 42 Mins",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-18T13:38:21.334691",
-      "status": "keep",
-      "reason": "Alex Hormozi content on rapid business scaling contains directly applicable strategies for positioning fitness coaching as a high-ticket service and structuring offers that the business can reference or adapt.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How She Makes $1.1M With Stickers | Scale or Fail Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-18T16:56:12.858496",
-      "status": "keep",
-      "reason": "Alex Hormozi's case study on a $1.1M sticker business provides scalable business model insights and growth strategies applicable to coaching content monetization and product diversification.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How She Makes $1.1M With Stickers | Building a Business for a Stranger - Episode 2",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-18T17:56:24.554854",
-      "status": "keep",
-      "reason": "Alex Hormozi content featuring a real case study on monetizing a simple product (stickers) to $1.1M demonstrates scalable business model principles applicable to fitness coaching (packaging, positioning, distribution) and provides actionable insights on building businesses with limited resources.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why AI won't make you rich in 2026",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-19T04:28:51.086724",
-      "status": "reject",
-      "reason": "Search query only with no actual content, insights, or substantive information provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Unrelenting Discipline",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-19T04:28:54.701253",
-      "status": "reject",
-      "reason": "Search query without actual content or insights; no specific business strategy, framework, or actionable intelligence provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Acquisition System Blueprint",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "keep",
       "reason": "Dan Martell content on problem-solving persistence is directly applicable to fitness coaching business strategy—addresses founder mindset, customer problem depth, and long-term business building beyond quick fixes",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Productivity Hack: Designing For \\",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-09-12T11:59:15.662097",
+      "status": "reject",
+      "reason": "Title is incomplete and text only contains a search term for Sam Ovens with no actual content, insights, or actionable intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Masterminds",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-09-12T11:59:16.743098",
+      "status": "reject",
+      "reason": "Search result page with no substantive content, insights, or strategies—just a name search with no actual business lessons or actionable intelligence extracted.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Time Management",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-09-12T11:59:17.575555",
+      "status": "reject",
+      "reason": "Search term alone without actual content, insights, or strategies from Sam Ovens; no specific actionable intelligence provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Define Your Goal",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-09-12T11:59:18.564934",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens—no actionable intelligence to extract for business strategy or content ideas.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Do It More Often",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-09-12T11:59:19.487446",
+      "status": "reject",
+      "reason": "Title and search term lack substantive content; no specific business insight, strategy, or actionable intelligence is provided to evaluate.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 997,
+    "scanned": 1002,
     "kept": 248,
-    "rejected": 745,
-    "last_scan": "2026-09-12T07:53:49.966039",
+    "rejected": 750,
+    "last_scan": "2026-09-12T12:00:14.228749",
     "platforms": [
       "YouTube",
       "Google",
