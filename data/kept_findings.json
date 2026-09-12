@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The 3 B’s of Avoiding PT Burnout: What’s Actually Worked for Me",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-10T15:27:06.448230",
-      "status": "keep",
-      "reason": "Directly addresses burnout—a core pain point for online fitness coaches—and promises specific strategies (\"3 B's\") that could reveal actionable tactics for preventing burnout and improving sustainability.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The DM Mistake That Cost Me Hundreds of Clients",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-12T21:14:13.418765",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point through DM strategy failures—reveals specific messaging mistakes online fitness coaches make when prospecting, highly relevant to scaling client base.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Build a Sustainable Coaching Business Without Burnout | Dr. Karolina LaBrecque",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1182,6 +1162,26 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Quit Your 9–5 and Become an Online Fitness Coach - (Step-by-Step Plan)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-12T20:08:42.674077",
+      "status": "keep",
+      "reason": "Directly addresses primary pain point of transitioning from employment to fitness coaching; likely contains frameworks for income replacement and business model specifics that help coaches understand viability and planning requirements.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why You’re Stuck Under $10K/Month as an Online Fitness Coach (Brutal Truth)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-12T20:08:44.571276",
+      "status": "keep",
+      "reason": "Directly addresses income ceiling ($10K/month threshold) and underlying reasons why coaches plateau—core pain point for scaling and business viability in this niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How to Be the Fitness Authority in Your Community | Bedros Keuilian | Fitness Business",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -1599,16 +1599,6 @@
       "status": "keep",
       "reason": "This is directly relevant competitor intelligence on Charlie Johnson, a known fitness business coach targeting online coaches, with a specific monetization framework ($100k/month blueprint) that reveals positioning and revenue model strategy.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Should You Avoid Referrals?",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-19T16:57:02.382814",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist known for growth and scaling expertise; a piece questioning referral strategy likely contains actionable insights on customer acquisition channels and business model optimization relevant to fitness coaching growth.",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2379,21 +2369,31 @@
       "status": "keep",
       "reason": "Dan Martell content on problem-solving persistence is directly applicable to fitness coaching business strategy—addresses founder mindset, customer problem depth, and long-term business building beyond quick fixes",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Started a Business in 2025, I’d Do THIS",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-12T20:10:56.331688",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business thinker in the creator economy; a video titled \"If I Started a Business in 2025, I'd Do THIS\" likely contains current strategy frameworks and actionable lessons applicable to fitness coaching business model decisions.",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 236,
-    "niche_rejected": 388,
-    "niche_scanned": 625,
+    "niche_kept": 238,
+    "niche_rejected": 389,
+    "niche_scanned": 628,
     "comp_kept": 102,
-    "comp_rejected": 685,
-    "comp_scanned": 801,
-    "busi_kept": 248,
-    "busi_rejected": 750,
-    "busi_scanned": 1002,
-    "last_scan": "2026-09-12T17:49:54.800168",
-    "total_kept": 586,
-    "total_rejected": 1823,
+    "comp_rejected": 686,
+    "comp_scanned": 802,
+    "busi_kept": 249,
+    "busi_rejected": 751,
+    "busi_scanned": 1004,
+    "last_scan": "2026-09-12T20:11:57.592095",
+    "total_kept": 589,
+    "total_rejected": 1826,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Low Barrier Offers",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-13T23:28:07.959238",
-      "status": "reject",
-      "reason": "Search query alone without actual findings about offers, strategy, or positioning provides no actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Bedros Keuilian Scam or Fitness Marketing Genius",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone provides no specific intelligence about strategy, content, offers, or positioning—would need actual content/findings from Charlie Johnson's materials to be actionable.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 Keys to becoming the Ultimate Man | The Bedros Keuilian Show E0126",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-12T20:09:51.162808",
+      "status": "reject",
+      "reason": "Episode about personal development lacks specific intelligence about business strategy, coaching offers, or positioning for online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 801,
+    "scanned": 802,
     "kept": 102,
-    "rejected": 685,
-    "last_scan": "2026-09-12T17:48:51.070414",
+    "rejected": 686,
+    "last_scan": "2026-09-12T20:10:51.329889",
     "platforms": [
       "YouTube",
       "Google",
