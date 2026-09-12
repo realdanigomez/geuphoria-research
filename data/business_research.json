@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Get Customers So Fast It Feels ILLEGAL",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-18T13:38:20.241621",
-      "status": "keep",
-      "reason": "Alex Hormozi is a prominent business strategist known for customer acquisition frameworks; a piece titled \"How To Get Customers So Fast It Feels ILLEGAL\" likely contains specific tactics on scaling customer growth that directly applies to fitness coaching business strategy",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Building a $5,000,000 Business for a Stranger in 42 Mins",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell content on focus and prioritization—directly applicable to fitness coaching businesses struggling with product proliferation and scaling inefficiencies",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "To Get Rich, You Have To Stay With Problems Long Enough",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-12T07:52:53.047423",
+      "status": "keep",
+      "reason": "Dan Martell content on problem-solving persistence is directly applicable to fitness coaching business strategy—addresses founder mindset, customer problem depth, and long-term business building beyond quick fixes",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 996,
-    "kept": 247,
+    "scanned": 997,
+    "kept": 248,
     "rejected": 745,
-    "last_scan": "2026-09-12T03:03:00.381827",
+    "last_scan": "2026-09-12T07:53:49.966039",
     "platforms": [
       "YouTube",
       "Google",
