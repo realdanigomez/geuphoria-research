@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "A Simple WORKOUT ROUTINE for Serious Mass Gain (HUGE PUMP!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-10T15:53:41.224668",
-      "status": "reject",
-      "reason": "This is a generic mass gain workout routine content, not intelligence about fitness business coaching, mentorship programs, or strategies for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Big Legs Made Easy: The Best Rep Range for Bigger Legs!",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses scaling strategies for coaching programs without paid advertising, which is core business intelligence for online fitness coaches seeking growth methodologies from established mentors like Vince Del Monte.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Bet On Yourself",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-12T03:00:53.850754",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or his program to analyze.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 792,
+    "scanned": 793,
     "kept": 101,
-    "rejected": 677,
-    "last_scan": "2026-09-11T23:53:40.321293",
+    "rejected": 678,
+    "last_scan": "2026-09-12T03:01:54.326258",
     "platforms": [
       "YouTube",
       "Google",
