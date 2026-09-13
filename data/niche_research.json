@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How We Closed Over $50M  In Sales With This Exact Script",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-13T00:19:38.118001",
-      "status": "reject",
-      "reason": "The finding is a generic sales script claiming $50M in sales with no fitness industry specificity, target market breakdown, or actionable tactics relevant to online fitness coaches' actual pain points (client acquisition, retention, pricing strategy, platform selection, etc.).",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "30-Minute Advanced Cardio Workout, Plus Burnout Finisher | SELF",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses income ceiling ($10K/month threshold) and underlying reasons why coaches plateau—core pain point for scaling and business viability in this niche.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "It's So EAZY To Close Fitness Coaching Clients On Sales Calls",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-13T00:08:51.500792",
+      "status": "reject",
+      "reason": "Contains only a clickbait title with no substantive content, data, or actionable insights about fitness coaches' actual sales processes, objection handling, or conversion strategies.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 628,
+    "scanned": 629,
     "kept": 238,
-    "rejected": 389,
-    "last_scan": "2026-09-12T22:28:20.507571",
+    "rejected": 390,
+    "last_scan": "2026-09-13T00:09:51.203933",
     "platforms": [
       "Reddit",
       "YouTube",
