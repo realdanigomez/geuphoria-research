@@ -2,96 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Bedros Keuilian Scam or Fitness Marketing Genius",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-14T00:54:10.576189",
-      "status": "reject",
-      "reason": "Title suggests opinion/controversy rather than specific business strategy, content, offers, or positioning intelligence about how Bedros helps fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Be the Fitness Authority in Your Community | Bedros Keuilian | Fitness Business",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-14T00:54:11.594704",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a prominent fitness business coach who teaches online coaches how to build authority and grow their business; this resource likely contains positioning and community authority strategies applicable to online fitness coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "5 False Myths Online Coaches Need to Stop Believing",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-14T12:08:25.109437",
-      "status": "reject",
-      "reason": "Title suggests general mindset content for online coaches rather than specific intelligence about business strategy, offers, or positioning of fitness business mentors/programs.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to INCREASE Muscle Mass with Eccentric-Based Training (The Right Way!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-14T12:08:26.015557",
-      "status": "reject",
-      "reason": "This is educational content about eccentric training for muscle building, not intelligence about business coaches who help online fitness coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Start A Fitness Bootcamp Business",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-15T16:19:13.917414",
-      "status": "reject",
-      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategy, offers, positioning, or content—only a search query with no results or analysis included.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "First Impression",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-15T21:57:36.224854",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, intelligence, or information about Bedros Keuilian's strategies, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Identify Their Wants",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-15T21:57:40.655308",
-      "status": "reject",
-      "reason": "Search query alone without actual findings, content, strategy details, or intelligence about Bedros Keuilian's business approach, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Build Commitment",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-16T16:15:49.598000",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, data, or intelligence about Bedros Keuilian's strategy, offers, positioning, or business model",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "5 Fitness Coaches Who Hit $100K/Month: Different Scaling Strategies Revealed",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-16T17:46:15.061626",
-      "status": "keep",
-      "reason": "Contains direct case studies of fitness coaches who scaled to $100K/month with different strategies - provides actionable scaling models and positioning approaches for online fitness coaches",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Intro to Five Coach Strategies",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2909,103 @@
       "status": "reject",
       "reason": "Episode about personal development lacks specific intelligence about business strategy, coaching offers, or positioning for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "State Of Mind",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-13T14:36:46.771564",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about Bedros Keuilian's strategy, content, offers, or positioning—it's just a search term without findings or analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start an Online Fitness Coaching Business in 2024",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:50.628777",
+      "status": "reject",
+      "reason": "Title is generic how-to content about starting a fitness coaching business; no evidence it contains specific intelligence about business coaches, their strategies, offers, or positioning for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "This Viral Fitness Coach Asked Me How To Hit $100k/mo (Live Consult)",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:51.743207",
+      "status": "keep",
+      "reason": "Direct insight into high-level fitness business coaching strategies and monetization tactics from a recognized business coach in the space, likely containing specific frameworks or offers relevant to scaling online coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling an Online Fitness Coaching Business to $100K/Month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:53.012701",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online fitness coaches scaling strategies; this search directly identifies a key competitor in the fitness coaching business education space with content on high-revenue business models.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a High-Ticket Fitness Coaching Offer \\u0026 Pricing Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:53.959554",
+      "status": "keep",
+      "reason": "Charlie Johnson is a established fitness business coach who teaches high-ticket offer creation and pricing strategy—directly relevant competitive intelligence for online fitness coaches building their business model.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales Calls, Lead Qualification \\u0026 Closing High-Ticket Clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:55.073180",
+      "status": "keep",
+      "reason": "Charlie Johnson is a known fitness business coach who teaches high-ticket sales and lead qualification to online fitness coaches; this resource directly addresses business-building skills for that target market.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Using AI to Find Your Ideal Client \\u0026 Improve Instagram Marketing",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:55.980543",
+      "status": "reject",
+      "reason": "Title describes general Instagram marketing and AI tactics, not specific business-building strategies or offers from Charlie Johnson targeted at online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Instagram Trial Reels, Organic Growth \\u0026 Content Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:56.905534",
+      "status": "keep",
+      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches content strategy and organic growth—directly relevant for understanding competitor positioning and tactics in the space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client Retention, Community \\u0026 Hiring Online Fitness Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-13T14:36:58.176998",
+      "status": "keep",
+      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches about client retention, community building, and hiring strategies—direct competitor intelligence on business model and tactics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 802,
-    "kept": 102,
-    "rejected": 686,
-    "last_scan": "2026-09-13T10:30:01.459803",
+    "scanned": 811,
+    "kept": 108,
+    "rejected": 689,
+    "last_scan": "2026-09-13T14:37:55.519542",
     "platforms": [
       "YouTube",
       "Google",
