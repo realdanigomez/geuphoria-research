@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Sound familiar? The new coach spiral",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-18T16:27:38.643336",
-      "status": "keep",
-      "reason": "Directly addresses pain points of online fitness coaches (struggling/burnout) and implies systemic issues coaches face repeatedly - valuable for understanding coach struggles and potential scaling/retention problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why copying works against you",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-18T16:27:39.778917",
-      "status": "reject",
-      "reason": "Generic self-help advice about copying lacks specific insight into fitness coach pain points, struggles, or business challenges. No actionable intelligence about client acquisition, marketing, systems, or scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "1 million followers. Living in a hostel.",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-18T16:27:40.968233",
-      "status": "reject",
-      "reason": "Anecdotal lifestyle story lacks specific insight into fitness coaches' actual pain points, struggles, or business mechanics; no actionable intelligence about client acquisition, scaling, marketing systems, or income generation.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How Our Clients (Health + Fitness Coaches) Get More Clients On Instagram",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "keep",
       "reason": "Addresses client acquisition (paid ads strategy) and marketing systems—core pain points for scaling an online coaching business",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 EAZY Ways To Get Online Fitness Coaching Clients in 30 Days or Less!",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-13T22:31:58.653795",
+      "status": "reject",
+      "reason": "Generic clickbait headline with no substance; lacks specific strategies, data, or insights into actual coach pain points—appears to be promotional content rather than research intelligence.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get More Personal Training Clients at a Big Box Gym [5 Tips For NEW Trainers]",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-13T22:31:59.692524",
+      "status": "keep",
+      "reason": "Addresses client acquisition pain point with specific tactics for trainers, directly applicable to online coaches transitioning from or competing with gym settings",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Do You Know How to Train Clients?",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-13T22:32:00.702761",
+      "status": "reject",
+      "reason": "Generic title with no specific insights about coaches' pain points, struggles, or actionable solutions for client acquisition, marketing, or scaling their business.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 641,
-    "kept": 241,
-    "rejected": 399,
-    "last_scan": "2026-09-13T20:16:54.675766",
+    "scanned": 644,
+    "kept": 242,
+    "rejected": 401,
+    "last_scan": "2026-09-13T22:33:06.981824",
     "platforms": [
       "Reddit",
       "YouTube",
