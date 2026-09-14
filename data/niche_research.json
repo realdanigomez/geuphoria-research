@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Build Your Own",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-06-24T17:25:40.347252",
-      "status": "reject",
-      "reason": "Title is generic and vague (\"How to Build Your Own\") with no indication of specific content; search term alone doesn't confirm the finding contains actionable intelligence about fitness coach pain points, only that burnout was searched—no evidence of substantive insights about causes, solutions, or strategies.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Use It",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Too vague and generic; lacks specific insights about fitness coaches' actual pain points, struggles, or actionable strategies for client acquisition.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Is Online Coaching a Scam? An Honest Answer",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-14T17:37:02.793493",
+      "status": "reject",
+      "reason": "The title suggests a skeptical/negative framing rather than providing specific, actionable intelligence about coaches' actual pain points, struggles, or solutions. This appears to be defensive content rather than research into their real challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 653,
+    "scanned": 654,
     "kept": 242,
-    "rejected": 410,
-    "last_scan": "2026-09-14T11:43:40.253608",
+    "rejected": 411,
+    "last_scan": "2026-09-14T17:38:06.476377",
     "platforms": [
       "Reddit",
       "YouTube",
