@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Generate Great Ideas In The Age Of AI",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-20T08:25:13.900366",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from the source material cannot be evaluated for actionable business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Long-Term Thinking Wins In Business",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell content on founder role delegation is directly applicable to fitness coaching business scaling strategy and creator economy operations",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Jobs ranked by the emotional damage they cause",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-14T21:27:37.248537",
+      "status": "reject",
+      "reason": "Title promises emotional/psychological content unrelated to business strategy, fitness coaching, or creator economy. Dan Martell mention alone insufficient without actual business insights present.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1008,
+    "scanned": 1009,
     "kept": 251,
-    "rejected": 753,
-    "last_scan": "2026-09-14T17:40:17.144027",
+    "rejected": 754,
+    "last_scan": "2026-09-14T21:28:34.543982",
     "platforms": [
       "YouTube",
       "Google",
