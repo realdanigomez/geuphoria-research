@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Use AI As An Entrepreneur",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-20T08:25:11.690728",
-      "status": "reject",
-      "reason": "Title promises AI entrepreneurship guidance but finding only shows a search query with no actual content, insights, strategies, or substantive information to extract value from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Where Will Value Come From In An AI World?",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Contains only a vague title referencing Sam Ovens without actual philosophy details, specific strategies, or actionable business insights to extract or apply.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Change Your Bank Account Asking AI These 3 Questions",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-14T11:44:51.084537",
+      "status": "reject",
+      "reason": "Title promises financial advice but finding only contains a name search with no actual questions, strategies, or actionable insights included",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1006,
+    "scanned": 1007,
     "kept": 250,
-    "rejected": 752,
-    "last_scan": "2026-09-14T05:48:00.388116",
+    "rejected": 753,
+    "last_scan": "2026-09-14T11:45:48.564186",
     "platforms": [
       "YouTube",
       "Google",
