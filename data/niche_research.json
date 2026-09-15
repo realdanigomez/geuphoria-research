@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "A Realistic Day in My Life as an Online Fitness Coach (When Motivation Is Low)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-27T17:59:33.355789",
-      "status": "keep",
-      "reason": "Directly addresses emotional/psychological burnout and motivation struggles—a critical pain point affecting coach retention, client delivery quality, and business sustainability that most coaches experience but rarely discuss openly.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why You're Struggling to Lose Fat After 40 (It's Not Just Hormones)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Too broad and generic; lacks specific insights into actual pain points, struggles, or solutions that online fitness coaches face. Doesn't provide actionable intelligence about their business challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ranking Every Client Acquisition Method For Online Coaches",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-15T23:56:36.455183",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches seeking sustainable business growth and revenue scaling.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 657,
-    "kept": 243,
+    "scanned": 658,
+    "kept": 244,
     "rejected": 413,
-    "last_scan": "2026-09-15T21:37:08.638921",
+    "last_scan": "2026-09-15T23:57:37.055159",
     "platforms": [
       "Reddit",
       "YouTube",
