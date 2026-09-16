@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Tej’s journey: from £17k/month to £125k/month",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:32.920298",
-      "status": "keep",
-      "reason": "Direct case study of a fitness coach scaling revenue from £17k to £125k/month - likely contains specific business strategies, offers, and positioning tactics applicable to online fitness coaching business growth",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Breaking limiting beliefs \\u0026 thinking bigger",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:34.018526",
-      "status": "reject",
-      "reason": "Title indicates general mindset content, not specific business strategy or offers from Charlie Johnson targeting fitness coaches. No actionable competitive intelligence provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why the first £10k–£20k/month is the hardest",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:35.422798",
-      "status": "reject",
-      "reason": "Title suggests general revenue milestone discussion but search term alone doesn't indicate specific content about business strategies, positioning, offers, or methods that online fitness coaches can learn from—lacks evidence of actionable competitive intelligence",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Niching down: the South Asian market advantage",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:36.701390",
-      "status": "reject",
-      "reason": "Finding mentions Charlie Johnson Fitness as an example but contains no actual intelligence about his strategies, offers, positioning, or business methods—it only appears to be a search query result title about market niching that may not deliver competitor business intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Pricing higher \\u0026 attracting better clients",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Title indicates general scaling content for fitness businesses rather than specific intelligence about a particular mentor/coach/program targeting online fitness coaches as clients. Search term alone doesn't confirm the content actually features Charlie Johnson or his specific strategies/offers.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "5th Grade Coach Turned Business",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T18:18:36.211519",
+      "status": "reject",
+      "reason": "Contains only a generic title and search query with no specific intelligence about business strategy, content, offers, positioning, or coaching methodologies for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Coaching fifth grade football and what it teaches about business",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T18:18:37.170222",
+      "status": "reject",
+      "reason": "Mentions Vince Del Monte in search context only, but actual content is about fifth grade football coaching lessons applied to business—not about fitness business coaching strategies, offers, or how to build an online fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Perform Better recap and a tribute to Rob Milani",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T18:18:38.200300",
+      "status": "reject",
+      "reason": "Contains only a tribute/recap with no actionable business strategy, positioning, offers, or operational intelligence about how fitness business coaches help their clients build online coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Jersey gym tour and how to handle competition",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T18:18:39.191323",
+      "status": "reject",
+      "reason": "Finding only mentions a gym tour topic and lists a search term without providing actual intelligence about business strategy, offers, positioning, or tactics that online fitness coaches could learn from.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 826,
+    "scanned": 830,
     "kept": 108,
-    "rejected": 704,
-    "last_scan": "2026-09-16T14:18:38.168185",
+    "rejected": 708,
+    "last_scan": "2026-09-16T18:19:43.159908",
     "platforms": [
       "YouTube",
       "Google",
