@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Top 7 Exercises For Getting Ripped (How To Burn Fat Now)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-17T21:21:22.616438",
-      "status": "reject",
-      "reason": "This is generic fitness content about exercises and fat loss, not intelligence about business coaches/mentors who help online fitness coaches build their businesses. The search mention of Vince Del Monte alone doesn't constitute useful competitor business intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Bent Over Rows",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-17T21:21:23.821523",
-      "status": "reject",
-      "reason": "Contains only a generic exercise tutorial with a coach name in search history; no business strategy, positioning, offers, or competitor intelligence about fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Be An Awesome Personal Trainer",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-17T23:23:26.062829",
-      "status": "reject",
-      "reason": "Finding mentions a relevant competitor name (Bedros Keuilian) but contains no actual intelligence about his strategy, offers, positioning, or content—only a generic article title about being a personal trainer that could apply to any fitness professional.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro Summary",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-17T23:23:27.048100",
-      "status": "reject",
-      "reason": "Search query only, no actual intelligence about Bedros Keuilian's strategy, offers, positioning, or business tactics included.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The 1 Thing",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-17T23:23:27.968390",
-      "status": "reject",
-      "reason": "Search query only, no actual intelligence about Bedros Keuilian's strategy, content, offers, or positioning provided",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Tej Rekhi Scaled to $125,000 a month as an online fitness coach",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:31.714216",
-      "status": "reject",
-      "reason": "This is a case study about an individual fitness coach's revenue achievement, not intelligence about business coaches or programs that teach fitness coaches how to build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Tej’s journey: from £17k/month to £125k/month",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "This is a back training motivation video, not business intelligence about fitness coaching programs, strategies, or offers targeting online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Entrenamiento de hombros para DEFINIRTE (¡MINI RUTINA, MÁXIMOS RESULTADOS!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T09:03:39.564484",
+      "status": "reject",
+      "reason": "This is a Spanish-language shoulder workout video for fitness clients, not competitive intelligence about fitness business coaches or their strategies for building coaching businesses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Rutina para perder grasa y ganar músculo (¡DIFERENTE! ¡MÁS DIFÍCIL! ¡MEJOR!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T09:03:40.856856",
+      "status": "reject",
+      "reason": "Content is a Spanish-language workout routine for fat loss and muscle gain; no business strategy, coaching methods, or competitive intelligence about fitness business coaches present despite Vince Del Monte being mentioned in the search query.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "¡Los 5 MEJORES ejercicios para QUEMAR GRASA para HOMBRES! (¡PIERDE PESO RÁPIDO!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T09:03:42.020541",
+      "status": "reject",
+      "reason": "This is a Spanish-language fat-loss exercise video for general fitness consumers, not business intelligence about coaching systems, positioning, or strategies for online fitness coaches building their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 claves para convertirte en el hombre perfecto | El show de Bedros Keuilian E0126",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T09:03:46.129066",
+      "status": "reject",
+      "reason": "This is a general self-improvement/lifestyle content piece, not business intelligence about coaching online fitness coaches. No strategy, offers, or business positioning for fitness coaches is discussed.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo dominar la industria del fitness",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T09:03:47.168424",
+      "status": "reject",
+      "reason": "Contains only a search query for a known fitness business coach with no actual content, strategy, offers, or positioning information to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo escalar tu negocio de fitness a $50K al mes: Plan para un equipo de coaching online",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-09-16T09:03:51.350157",
+      "status": "reject",
+      "reason": "Title indicates general scaling content for fitness businesses rather than specific intelligence about a particular mentor/coach/program targeting online fitness coaches as clients. Search term alone doesn't confirm the content actually features Charlie Johnson or his specific strategies/offers.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 820,
+    "scanned": 826,
     "kept": 108,
-    "rejected": 698,
-    "last_scan": "2026-09-16T03:42:40.830675",
+    "rejected": 704,
+    "last_scan": "2026-09-16T09:04:50.727004",
     "platforms": [
       "YouTube",
       "Google",

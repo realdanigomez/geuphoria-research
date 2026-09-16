@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Most Businesses Never Reach $10 Million",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-20T13:26:55.092544",
-      "status": "reject",
-      "reason": "Title alone suggests business scaling insight, but no actual content provided to verify if it contains specific, actionable strategies beyond a generic threshold claim.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Price Your Product Or Service",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-20T15:29:19.982945",
-      "status": "keep",
-      "reason": "Alex Hormozi is a highly influential business strategist known for pricing frameworks and value-based selling—directly applicable to fitness coaching service monetization and product strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi’s Warning: Don’t Make These AI Businesses, They Will All Fail...",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-20T20:20:06.930849",
-      "status": "reject",
-      "reason": "Title is clickbait-style without actual substantive content; no specific AI business warnings, strategies, or actionable insights provided in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi’s Warning: AI Businesses Are Not The Future,  Chose This Instead...",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-21T05:49:10.713959",
-      "status": "reject",
-      "reason": "Title is clickbait without actual content; no specific business insights, strategies, or actionable intelligence provided to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "$10K/mo FREE AI Masterclass",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-21T16:22:59.235822",
-      "status": "reject",
-      "reason": "Contains only a title and vague search query with no actual content, insights, or actionable intelligence about Charlie Morgan's business strategies or AI applications.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "One Partner Can Make You Millions",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-21T17:54:44.697319",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist known for scaling businesses and partnership dynamics; a piece titled \"One Partner Can Make You Millions\" likely contains actionable insights on partnership selection, equity decisions, and scaling strategy applicable to fitness coaching business models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Stop Cold Calling, Do This Instead",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Title is clickbait without preview of actual content; search-only reference to Dan Martell provides no specific business insights, strategies, or actionable intelligence to evaluate.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cómo ganar $10,000 al mes lo antes posible si tuviera que empezar de cero: guía paso a paso",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-16T09:04:55.611852",
+      "status": "reject",
+      "reason": "Title promises step-by-step guide to earning $10k/month but no actual content provided to verify it contains specific business strategies, frameworks, or insights from business thinkers that would be actionable for a fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Be So Productive it Feels ILLEGAL",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-16T09:04:59.481865",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker known for productivity and entrepreneurship frameworks; this content likely contains actionable productivity strategies applicable to fitness coaching business operations and team scaling.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Make a NottoDo List",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-16T09:05:00.446690",
+      "status": "reject",
+      "reason": "Title alone doesn't indicate substantive business content; no specific strategy, framework, or actionable intelligence provided to evaluate relevance to fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Create Focus triggers",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-16T09:05:01.382223",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategy details provides no actionable intelligence for business strategy or content creation.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Start on Hard mode",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-16T09:05:02.363056",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Dan Martell makes it impossible to assess actionable business value.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Be Hard to Reach",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-16T09:05:03.405159",
+      "status": "reject",
+      "reason": "Search result stub lacks substantive content—no actual insights, strategies, or business lessons provided to analyze for relevance to fitness coaching business model.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1011,
-    "kept": 252,
-    "rejected": 755,
-    "last_scan": "2026-09-16T03:43:46.065355",
+    "scanned": 1017,
+    "kept": 253,
+    "rejected": 760,
+    "last_scan": "2026-09-16T09:06:02.782714",
     "platforms": [
       "YouTube",
       "Google",
