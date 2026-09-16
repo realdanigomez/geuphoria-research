@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why You're Struggling to Lose Fat After 40 (It's Not Just Hormones)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-27T17:59:34.377782",
-      "status": "reject",
-      "reason": "This is client-facing content about fat loss, not intelligence about fitness coaches' business problems, pain points, or operations.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why fat loss in your 40s feels impossible",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-06-27T17:59:35.666433",
-      "status": "reject",
-      "reason": "Addresses client pain point (fat loss in 40s) rather than coach's business challenges like client acquisition, marketing, systems, or income scaling",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Who I am and why you should listen",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches seeking sustainable business growth and revenue scaling.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start/Scale An Online Fitness Coaching Business (Free Training)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-16T03:40:30.486558",
+      "status": "keep",
+      "reason": "Directly addresses core pain points (starting/scaling) and search intent from fitness coaches actively seeking solutions, indicating high relevance to client acquisition, business growth, and operational challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mindset",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-16T03:40:31.611820",
+      "status": "reject",
+      "reason": "Too vague and motivational - lacks specific data about actual pain points, struggles, or actionable insights for online fitness coaches. \"Mindset\" content without concrete problem details doesn't provide intelligence about their real business challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 658,
-    "kept": 244,
-    "rejected": 413,
-    "last_scan": "2026-09-15T23:57:37.055159",
+    "scanned": 660,
+    "kept": 245,
+    "rejected": 414,
+    "last_scan": "2026-09-16T03:41:35.151348",
     "platforms": [
       "Reddit",
       "YouTube",

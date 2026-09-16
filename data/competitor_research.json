@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Get Excited about Mistakes Disappointments and Failures",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-17T17:37:44.525418",
-      "status": "reject",
-      "reason": "No actionable intelligence about business building strategies, offers, or positioning. The title suggests mindset content unrelated to how online fitness coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Top 7 Exercises For Getting Ripped (How To Burn Fat Now)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaching.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Vince Del Monte ALL-OUT Back Training  (MOTIVATION VIDEO)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-16T03:41:37.023052",
+      "status": "reject",
+      "reason": "This is a back training motivation video, not business intelligence about fitness coaching programs, strategies, or offers targeting online fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 819,
+    "scanned": 820,
     "kept": 108,
-    "rejected": 697,
-    "last_scan": "2026-09-15T23:58:41.737215",
+    "rejected": 698,
+    "last_scan": "2026-09-16T03:42:40.830675",
     "platforms": [
       "YouTube",
       "Google",
