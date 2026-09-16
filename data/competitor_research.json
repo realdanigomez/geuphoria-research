@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Pricing higher \\u0026 attracting better clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:37.625614",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches pricing strategy and client acquisition—directly relevant for understanding competitor positioning and offers in the online fitness coaching space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Content, demand \\u0026 consistent lead flow",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:39.018974",
-      "status": "reject",
-      "reason": "Search query alone provides no actual content, strategy, offer details, or business intelligence about the competitor—only a name and generic topic search without substantive findings to analyze.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Hiring, teams \\u0026 escaping the solo grind",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-17T23:23:40.358122",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches how to build teams and scale beyond solo operation - directly relevant to business model intelligence for fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Brutally Honest Advice to Build Your Business Fast",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-18T00:55:08.681730",
-      "status": "reject",
-      "reason": "Search query alone without content details provides no actionable intelligence about business strategies, offers, or positioning of fitness coaching mentors/programs.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "$18,000,000 From Social Media - Brian Mark Fitness Coach",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-18T00:55:09.709805",
-      "status": "reject",
-      "reason": "Title only mentions revenue figure without specific business strategy, content approach, or actionable intelligence about how Brian Mark helps online fitness coaches build their business",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Scale Through The 6 Levels Of An Online Fitness Coach",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-18T00:55:10.991064",
-      "status": "keep",
-      "reason": "Brian Mark is a recognized fitness business coach who teaches scaling strategies; this title indicates content about progressive business growth frameworks specifically for online fitness coaches, which is directly actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Quit STRUGGLING Financially: $5K/Month Fitness Business Blueprint",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Finding only mentions a gym tour topic and lists a search term without providing actual intelligence about business strategy, offers, positioning, or tactics that online fitness coaches could learn from.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T21:31:53.381391",
+      "status": "reject",
+      "reason": "Search query alone contains no actual intelligence, strategy, content, offers, or positioning information about Bedros Keuilian or fitness business coaching",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Show welcome",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T21:31:54.418960",
+      "status": "reject",
+      "reason": "Search query alone provides no intelligence about strategy, content, offers, or positioning — it's just a search term without actual findings or data about Bedros Keuilian's business approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness at 51",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T21:31:55.437743",
+      "status": "reject",
+      "reason": "Finding only mentions a search query for Bedros Keuilian without any actual intelligence about his strategy, content, offers, or positioning—no actionable insights provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Consistency and aging",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T21:31:56.422628",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, intelligence, or information about fitness business coaches, their strategies, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overcoming excuses",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T21:31:57.724843",
+      "status": "reject",
+      "reason": "Finding only mentions a name search with no actual intelligence about strategy, content, offers, or positioning - lacks specific, actionable details about how Bedros Keuilian helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lifestyle design",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-16T21:31:58.675246",
+      "status": "reject",
+      "reason": "Finding contains only a search query without any actual content, intelligence, strategy, or actionable information about how Bedros Keuilian or competitors build their fitness coaching business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 830,
+    "scanned": 836,
     "kept": 108,
-    "rejected": 708,
-    "last_scan": "2026-09-16T18:19:43.159908",
+    "rejected": 714,
+    "last_scan": "2026-09-16T21:33:01.999855",
     "platforms": [
       "YouTube",
       "Google",
