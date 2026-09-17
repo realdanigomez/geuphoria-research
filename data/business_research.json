@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Stop Wasting Life - 8 Productivity Rules of The Top 1%",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-30T10:24:02.887711",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist; content on top 1% productivity rules offers actionable frameworks applicable to coaching business operations, client engagement systems, and creator productivity—directly relevant for optimizing business processes.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Design vs Default",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-30T10:24:04.269267",
-      "status": "reject",
-      "reason": "Title alone with no content, context, or specific insights provided—cannot assess actual value without the substantive material about what \"Design vs Default\" covers or how Dan Martell's perspective applies to business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Build Habits",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Contains only a generic title with no actual content, script examples, or specific sales methodology - lacks actionable intelligence despite the Hormozi search reference.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Encoding delayed gratification",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-17T10:17:01.361821",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Charlie Morgan. No specific business strategies, tactics, or actionable intelligence provided to evaluate.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You're only 6 months away from living your dream life",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-17T10:17:05.141333",
+      "status": "reject",
+      "reason": "Title is clickbait motivation lacking specific business insights, strategies, or actionable intelligence relevant to fitness coaching content or business operations.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1040,
+    "scanned": 1042,
     "kept": 257,
-    "rejected": 779,
-    "last_scan": "2026-09-17T05:09:20.494945",
+    "rejected": 781,
+    "last_scan": "2026-09-17T10:18:02.428519",
     "platforms": [
       "YouTube",
       "Google",

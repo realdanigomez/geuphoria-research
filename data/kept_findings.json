@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-07-04T14:26:59.948249",
-      "status": "keep",
-      "reason": "Directly addresses three core pain points for online fitness coaches: client acquisition (getting clients), onboarding systems, and retention—all critical to scaling a coaching business and reducing churn-related revenue loss.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Ultimate Guide to Getting Coaching Clients || Full Training",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-07-04T17:00:59.613700",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a core pain point for online fitness coaches; likely contains specific strategies for getting coaching clients rather than general fitness content.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "2 Years as an Online Fitness Coach: Lessons I Wish I Knew Earlier",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1102,6 +1082,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Close More Fitness Coaching Clients (LIVE Objection Handling)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-17T10:14:54.709089",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with tactical objection handling techniques that fitness coaches struggle with most when converting prospects",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Quit STRUGGLING Financially: $5K/Month Fitness Business Blueprint",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1509,16 +1499,6 @@
       "status": "keep",
       "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches about client retention, community building, and hiring strategies—direct competitor intelligence on business model and tactics.",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Wasting Life - 8 Productivity Rules of The Top 1%",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-30T10:24:02.887711",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist; content on top 1% productivity rules offers actionable frameworks applicable to coaching business operations, client engagement systems, and creator productivity—directly relevant for optimizing business processes.",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2222,18 +2202,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 248,
-    "niche_rejected": 422,
-    "niche_scanned": 671,
+    "niche_kept": 249,
+    "niche_rejected": 423,
+    "niche_scanned": 673,
     "comp_kept": 108,
     "comp_rejected": 714,
     "comp_scanned": 836,
     "busi_kept": 257,
-    "busi_rejected": 779,
-    "busi_scanned": 1040,
-    "last_scan": "2026-09-17T05:09:20.498276",
-    "total_kept": 613,
-    "total_rejected": 1915,
+    "busi_rejected": 781,
+    "busi_scanned": 1042,
+    "last_scan": "2026-09-17T10:18:02.431930",
+    "total_kept": 614,
+    "total_rejected": 1918,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
