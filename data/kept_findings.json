@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Early Coaching Struggles",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-12T15:56:37.287167",
-      "status": "keep",
-      "reason": "Directly addresses core pain point of struggling coaches; search query indicates real demand for solutions to early-stage coaching challenges, likely revealing specific obstacles in client acquisition, retention, or business fundamentals",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to avoid burnout and coincide studying and training - Coach Firas Zahabi shares his story",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2163,17 +2153,17 @@
   ],
   "stats": {
     "niche_kept": 249,
-    "niche_rejected": 428,
-    "niche_scanned": 678,
+    "niche_rejected": 433,
+    "niche_scanned": 683,
     "comp_kept": 110,
     "comp_rejected": 720,
     "comp_scanned": 844,
     "busi_kept": 257,
     "busi_rejected": 787,
     "busi_scanned": 1048,
-    "last_scan": "2026-09-17T19:12:35.577916",
+    "last_scan": "2026-09-17T22:23:02.184091",
     "total_kept": 616,
-    "total_rejected": 1935,
+    "total_rejected": 1940,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

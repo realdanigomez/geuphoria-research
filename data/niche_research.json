@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "From Rock Bottom",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-12T15:56:35.686897",
-      "status": "reject",
-      "reason": "Generic motivational content without specific insights into fitness coaches' actual business pain points, struggles, or operational challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Early Coaching Struggles",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-12T15:56:37.287167",
-      "status": "keep",
-      "reason": "Directly addresses core pain point of struggling coaches; search query indicates real demand for solutions to early-stage coaching challenges, likely revealing specific obstacles in client acquisition, retention, or business fundamentals",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Feeling Stuck",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-12T15:56:38.694776",
-      "status": "reject",
-      "reason": "Too vague and generic; lacks specific pain point details, solutions, or actionable insights about what \"stuck\" means for fitness coaches (could apply to any profession)",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Wake-Up Call",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-12T15:56:39.765397",
-      "status": "reject",
-      "reason": "Generic search term without specific data on actual pain points, solutions, or struggles - no actionable intelligence provided about what fitness coaches are struggling with or how to address it.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Avoid mental burnout in the gym",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-07-12T18:02:26.147086",
-      "status": "reject",
-      "reason": "Addresses gym-goer burnout, not coach burnout; lacks specifics about coach pain points like client retention, pricing strategy, or business scaling challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to avoid burnout and coincide studying and training - Coach Firas Zahabi shares his story",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "The finding is about a chest fly exercise, not about fitness coach burnout. The search query doesn't match the content provided, making this irrelevant to understanding coach pain points, business challenges, or scaling issues.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction to fitness",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-17T22:19:56.331711",
+      "status": "reject",
+      "reason": "Generic introductory content with no specific insights into fitness coaches' burnout causes, solutions, or business challenges that would inform coaching strategies or systems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sustainable training defined",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-17T22:19:57.489960",
+      "status": "reject",
+      "reason": "Contains generic fitness training content with no specific insights into fitness coach business operations, pain points, or solutions. The burnout search intent is present but the actual finding lacks actionable business intelligence.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pillar 1: Enjoyable movement",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-17T22:19:58.385101",
+      "status": "reject",
+      "reason": "Generic wellness concept without specific insight into coaches' actual burnout causes, business challenges, or operational pain points",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pillar 2: Progressive overload",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-17T22:19:59.414039",
+      "status": "reject",
+      "reason": "discusses progressive overload training principle rather than coach-specific pain points, struggles, or business challenges; generic fitness content not relevant to coaching business operations",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pillar 3: Recovery and mobility",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-17T22:20:00.344444",
+      "status": "reject",
+      "reason": "Generic recovery content lacks actionable intelligence about coach-specific pain points; doesn't address business challenges like client acquisition, marketing, systems, or burnout causes",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 678,
+    "scanned": 683,
     "kept": 249,
-    "rejected": 428,
-    "last_scan": "2026-09-17T19:10:22.182838",
+    "rejected": 433,
+    "last_scan": "2026-09-17T22:20:55.068169",
     "platforms": [
       "Reddit",
       "YouTube",
