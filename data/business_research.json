@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Wanted to Go From $0 to My First $100k/mo, I'd Do This",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-24T20:21:30.678041",
-      "status": "keep",
-      "reason": "Direct revenue-scaling strategy from established business mentor Dan Martell; actionable framework for reaching $100k/mo milestone applicable to fitness coaching business model and creator economy positioning.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "8 Entrepreneurs Compete For $100,000 | Scale or Fail - Episode 3",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-25T06:16:24.365958",
-      "status": "keep",
-      "reason": "Alex Hormozi competitive analysis content demonstrates real-world scaling strategies, pricing decisions, and business model evaluation under pressure—directly applicable to positioning and growth strategy for fitness coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building a $1,000,000/yr Business for a Stranger in 36 Minutes | Scale or Fail - Episode 3",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-26T22:33:59.822908",
-      "status": "keep",
-      "reason": "Alex Hormozi content on rapid business scaling and monetization strategies directly applicable to fitness coaching business model development and revenue optimization",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building a $6,000,000/yr Business for a Stranger in 36 Minutes | Scale or Fail Episode 3",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-27T06:50:06.183785",
-      "status": "keep",
-      "reason": "Alex Hormozi content on scaling businesses to $6M/yr provides direct entrepreneurship lessons on business growth strategies and revenue scaling applicable to fitness coaching business models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How She Makes $770,000/yr Helping Autism Parents | Scale or Fail Episode 3",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-27T13:39:01.698686",
-      "status": "keep",
-      "reason": "Contains case study of scaling a service-based business to $770k/yr revenue with insights applicable to fitness coaching business models, audience building, and monetization strategies for helping a specific niche.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Change Your Entire Life in 6 Months",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-29T14:44:50.775608",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy, or insights from Dan Martell - no actionable intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Acquisitions Really Work",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-29T14:44:52.161742",
-      "status": "keep",
-      "reason": "Dan Martell is a prominent business strategist and founder known for scaling companies and acquisition expertise; content on how acquisitions work aligns with creator economy growth strategies and business scaling lessons applicable to fitness coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If you’re ambitious but lazy, please watch this…",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Search result contains only a title and creator name with no actual content, strategies, or insights to extract for actionable business intelligence.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Grow an Audience if You Have 0 Followers",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T00:05:01.224828",
+      "status": "reject",
+      "reason": "Search result only, no actual content or insights provided to evaluate relevance to business strategy or audience growth tactics",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What really matters at the end of life (life \\u0026 death discussion)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T00:05:02.251903",
+      "status": "reject",
+      "reason": "Title indicates philosophical life/death discussion unrelated to business, entrepreneurship, or creator economy despite Alex Hormozi search mention—likely clickbait or tangential reference without substantive business content.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Helping 4 Educational Business Owners Build a $1M Business in 25 Minutes",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T00:05:03.319979",
+      "status": "keep",
+      "reason": "Alex Hormozi content on scaling educational businesses to $1M provides direct applicable strategies for positioning fitness coaching as an educational product and monetization frameworks relevant to the creator economy business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Blueprint for Making Money From Scratch! | Alex Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T00:05:04.152680",
+      "status": "reject",
+      "reason": "Search query only with no actual content, insights, or strategies provided to evaluate for business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Money Starts With Skills",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T00:05:05.250826",
+      "status": "reject",
+      "reason": "Generic title with no specific actionable insights provided; merely a search result reference without content detail that demonstrates business strategy or applicable lessons for fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Money Is Actually Made",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T00:05:06.047448",
+      "status": "reject",
+      "reason": "Search term only, no actual content provided to evaluate for business insights or strategies",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Modern Life is a Disease",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-17T00:05:12.590309",
+      "status": "reject",
+      "reason": "Search result title alone lacks specific actionable business insights, strategies, or concrete lessons without the actual content to evaluate substance",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1025,
-    "kept": 254,
-    "rejected": 767,
-    "last_scan": "2026-09-16T21:34:09.072313",
+    "scanned": 1032,
+    "kept": 255,
+    "rejected": 773,
+    "last_scan": "2026-09-17T00:06:10.195095",
     "platforms": [
       "YouTube",
       "Google",
