@@ -2199,6 +2199,26 @@
       "status": "keep",
       "reason": "Alex Hormozi content on scaling educational businesses to $1M provides direct applicable strategies for positioning fitness coaching as an educational product and monetization frameworks relevant to the creator economy business model.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If It Scales, Give It Away Free",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T05:08:10.976900",
+      "status": "keep",
+      "reason": "Alex Hormozi is a highly influential business strategist known for counter-intuitive monetization and scaling tactics; \"give it away free\" likely contains specific frameworks on loss leaders, funnel optimization, or customer acquisition strategy applicable to fitness coaching business models.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Nothing Returns More Than Investing in Your Ability to Earn",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-17T05:08:14.314830",
+      "status": "keep",
+      "reason": "Alex Hormozi content on income-producing skill development is directly applicable to positioning fitness coaching as a high-ROI service and can inform pricing/positioning strategy for the business model",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2208,12 +2228,12 @@
     "comp_kept": 108,
     "comp_rejected": 714,
     "comp_scanned": 836,
-    "busi_kept": 255,
-    "busi_rejected": 773,
-    "busi_scanned": 1032,
-    "last_scan": "2026-09-17T00:06:10.198900",
-    "total_kept": 611,
-    "total_rejected": 1909,
+    "busi_kept": 257,
+    "busi_rejected": 779,
+    "busi_scanned": 1040,
+    "last_scan": "2026-09-17T05:09:20.498276",
+    "total_kept": 613,
+    "total_rejected": 1915,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
