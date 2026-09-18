@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The 5-day system that solves “What do I post today?”",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-16T10:56:16.944856",
-      "status": "keep",
-      "reason": "Directly addresses content creation friction, a primary pain point limiting client acquisition and marketing consistency for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Day 1: B-roll content (lifestyle, authenticity, and trust)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses two core pain points for online fitness coaches: client acquisition strategies and burnout prevention, which are primary barriers to scaling a coaching business sustainably.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Have Confidence as a Coach",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-18T23:27:25.000098",
+      "status": "reject",
+      "reason": "Generic confidence advice lacks specific insight into fitness coaches' actual pain points like client acquisition strategies, pricing models, marketing tactics, or systems scaling—does not address their core business challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 687,
+    "scanned": 688,
     "kept": 251,
-    "rejected": 435,
-    "last_scan": "2026-09-18T21:06:38.418688",
+    "rejected": 436,
+    "last_scan": "2026-09-18T23:28:24.916085",
     "platforms": [
       "Reddit",
       "YouTube",
