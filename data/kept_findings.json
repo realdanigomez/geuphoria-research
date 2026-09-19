@@ -1032,6 +1032,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T01:26:25.685254",
+      "status": "keep",
+      "reason": "Directly addresses three critical pain points for online fitness coaches: client onboarding systems, retention strategies, and communication protocols—core operational challenges that impact revenue and scalability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How To Sell High Ticket Coaching (35M Sales Secrets)",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2132,18 +2142,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 251,
+    "niche_kept": 252,
     "niche_rejected": 436,
-    "niche_scanned": 688,
+    "niche_scanned": 689,
     "comp_kept": 110,
     "comp_rejected": 722,
     "comp_scanned": 846,
     "busi_kept": 257,
-    "busi_rejected": 789,
-    "busi_scanned": 1050,
-    "last_scan": "2026-09-18T23:30:32.400157",
-    "total_kept": 618,
-    "total_rejected": 1947,
+    "busi_rejected": 790,
+    "busi_scanned": 1051,
+    "last_scan": "2026-09-19T01:29:36.973543",
+    "total_kept": 619,
+    "total_rejected": 1948,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

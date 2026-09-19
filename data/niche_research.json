@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Day 1: B-roll content (lifestyle, authenticity, and trust)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-16T10:56:18.184636",
-      "status": "reject",
-      "reason": "No specific intelligence provided—only a generic content creation topic (B-roll) without data on actual coach pain points, struggles, goals, or business metrics",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Day 2: Carousel posts for education and authority",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Generic confidence advice lacks specific insight into fitness coaches' actual pain points like client acquisition strategies, pricing models, marketing tactics, or systems scaling—does not address their core business challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T01:26:25.685254",
+      "status": "keep",
+      "reason": "Directly addresses three critical pain points for online fitness coaches: client onboarding systems, retention strategies, and communication protocols—core operational challenges that impact revenue and scalability.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 688,
-    "kept": 251,
+    "scanned": 689,
+    "kept": 252,
     "rejected": 436,
-    "last_scan": "2026-09-18T23:28:24.916085",
+    "last_scan": "2026-09-19T01:27:28.339562",
     "platforms": [
       "Reddit",
       "YouTube",
