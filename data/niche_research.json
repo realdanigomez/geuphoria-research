@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Day 2: Carousel posts for education and authority",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-16T10:56:19.385840",
-      "status": "reject",
-      "reason": "Generic carousel post tactic lacks specific insight into fitness coaches' actual pain points; \"struggling\" is too vague and the content appears to be a template rather than research revealing concrete problems coaches face.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Day 3: Talking head video to build authority",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-16T10:56:20.617189",
-      "status": "reject",
-      "reason": "Vague content about video format lacks specific insight into actual fitness coach pain points, struggles, or actionable solutions for their core business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Day 4: Client stories and testimonials that convert",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-16T10:56:22.164374",
-      "status": "reject",
-      "reason": "Contains generic conversion tactics rather than specific intelligence about fitness coaches' actual struggles, pain points, or operational challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "keep",
       "reason": "Directly addresses three critical pain points for online fitness coaches: client onboarding systems, retention strategies, and communication protocols—core operational challenges that impact revenue and scalability.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Train Clients Online | 5 Steps to Becoming an Online Fitness Coach",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-19T06:19:11.567473",
+      "status": "reject",
+      "reason": "Generic how-to content lacks specific insight into coaches' actual pain points, struggles, or business challenges; focuses on training methodology rather than business problems like client acquisition barriers, retention, pricing strategy, or scaling systems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Start an LLC",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-19T06:19:12.511678",
+      "status": "reject",
+      "reason": "Generic LLC formation advice lacks specificity to fitness coaches' actual pain points; does not address client acquisition strategies, marketing tactics, or fitness coaching business models.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Track Income Expenses",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-19T06:19:13.546861",
+      "status": "reject",
+      "reason": "Generic search term with no data about actual pain points, struggles, or solutions—lacks specific intelligence about fitness coaches' problems or needs.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 689,
+    "scanned": 692,
     "kept": 252,
-    "rejected": 436,
-    "last_scan": "2026-09-19T01:27:28.339562",
+    "rejected": 439,
+    "last_scan": "2026-09-19T06:20:14.186070",
     "platforms": [
       "Reddit",
       "YouTube",

@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Module 4: Reprogramming Your Subconscious Mind",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-30T16:26:11.204475",
-      "status": "reject",
-      "reason": "Title indicates subconscious reprogramming content; search query mentions Charlie Morgan but no actual business insights, strategies, or creator economy lessons are present in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Module 5: Habits, Routines \\u0026 Disciplines to Win",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-30T16:26:12.295703",
-      "status": "reject",
-      "reason": "Title indicates fitness/habit content without evidence of business strategy, entrepreneurship lessons, or creator economy insights relevant to a fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Outro \\u0026 Next Steps on Your Journey",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-07-30T16:26:13.443316",
-      "status": "reject",
-      "reason": "No actual content provided - only a title and search query with no substantive business insights, strategies, or teachings from Charlie Morgan that could inform fitness coaching business decisions.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Decision Making Masterclass (Imperium Mastermind)",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Title is generic clickbait without specific business insight; search result alone doesn't confirm content contains actionable strategies or lessons from Dan Martell",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You Changed Nothing, You Learned Nothing",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-19T06:21:19.674934",
+      "status": "reject",
+      "reason": "Title is motivational platitude without specific business insights, strategy, or actionable intelligence; search result alone doesn't confirm Alex Hormozi content or substantive business lessons.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "This Routine Took Me From $0 To $1.2M/YR",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-19T06:21:23.174514",
+      "status": "keep",
+      "reason": "Charlie Morgan is an influential business creator known for sharing scaling strategies and revenue-building frameworks that directly apply to online coaching business models and creator economy monetization.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Infiltrated Hamza's Brainwashed Cult!",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-19T06:21:25.132822",
+      "status": "reject",
+      "reason": "Sensationalized clickbait title with no substantive business insights; \"infiltrated cult\" framing suggests entertainment content rather than legitimate business strategy or creator economy analysis, despite Charlie Morgan search tag.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1051,
-    "kept": 257,
-    "rejected": 790,
-    "last_scan": "2026-09-19T01:29:36.969282",
+    "scanned": 1054,
+    "kept": 258,
+    "rejected": 792,
+    "last_scan": "2026-09-19T06:22:25.411864",
     "platforms": [
       "YouTube",
       "Google",
