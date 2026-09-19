@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-17T02:32:27.959457",
-      "status": "keep",
-      "reason": "Directly addresses three core pain points for online fitness coaches: client onboarding systems, retention strategies, and communication frameworks—all critical for scaling without burnout and improving client acquisition ROI.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Exactly How To Build A $10k/mo Online Coaching Business",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-17T02:32:28.970897",
-      "status": "keep",
-      "reason": "Directly addresses income goal ($10k/mo) and business model scaling—core pain point for coaches seeking revenue benchmarks and growth strategies",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The EXACT Roadmap To Start An Online Coaching Business in 2026",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-17T02:32:30.100477",
-      "status": "reject",
-      "reason": "Generic title with no indication of specific problems, solutions, or actionable insights relevant to online fitness coaches' actual pain points—likely surface-level overview content rather than tactical intelligence.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "intro",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-17T02:32:31.406560",
-      "status": "reject",
-      "reason": "Too vague and generic; \"online coaching business tips\" lacks specificity about fitness coaching pain points, business mechanics, or actionable insights that would differentiate fitness coaches' actual struggles from general business advice.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "niche selection",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-17T02:32:32.355142",
-      "status": "reject",
-      "reason": "Generic advice about niche selection lacks specificity to online fitness coaches' actual problems like client acquisition, pricing strategy, or scaling challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "offers",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Generic search term with no data about actual pain points, struggles, or solutions—lacks specific intelligence about fitness coaches' problems or needs.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business model and goals",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T14:36:59.672851",
+      "status": "reject",
+      "reason": "Generic search term without documented findings, pain points, or specific insights about fitness coaches' actual struggles",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Analyzing conversion issues",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T14:37:00.458313",
+      "status": "reject",
+      "reason": "Too vague and generic - contains no specific data about conversion issues, actual pain points, or actionable insights for fitness coaches",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling and automation",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T14:37:01.526676",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for fitness coaches—scaling their business and reducing manual work, which relates to income growth, client management efficiency, and burnout prevention.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Increasing ad volume",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T14:37:02.772686",
+      "status": "reject",
+      "reason": "Too vague and generic - contains no specific insights about fitness coaches' actual struggles, pain points, or solutions; appears to be a search term rather than research findings with actionable intelligence.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Content strategy for buyers",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T14:37:03.645847",
+      "status": "reject",
+      "reason": "Too generic and surface-level; doesn't reveal specific pain points, struggles, or actionable insights unique to fitness coaches' content strategy or business challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 692,
-    "kept": 252,
-    "rejected": 439,
-    "last_scan": "2026-09-19T11:20:13.111477",
+    "scanned": 697,
+    "kept": 253,
+    "rejected": 443,
+    "last_scan": "2026-09-19T14:38:07.323309",
     "platforms": [
       "Reddit",
       "YouTube",

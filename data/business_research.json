@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "You’re Only 6 Months Away From Changing Your Life",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-07-30T20:43:17.442765",
-      "status": "reject",
-      "reason": "Title is generic motivational content; no specific business insights, strategies, or actionable intelligence present despite Dan Martell attribution.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "You're only 6 months away from changing your entire life",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title makes a bold claim but finding only shows a search reference to Dan Martell without the actual insight, strategy, or explanation of why people lose money—no actionable intelligence provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give me 57 sec... I'll DELETE your need for perfection",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-19T14:39:19.292938",
+      "status": "reject",
+      "reason": "Title promises mindset content about perfectionism, but no actual business strategy, framework, or actionable intelligence is present—just a vague clickbait hook with a creator name attached.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1055,
+    "scanned": 1056,
     "kept": 258,
-    "rejected": 793,
-    "last_scan": "2026-09-19T11:22:20.804000",
+    "rejected": 794,
+    "last_scan": "2026-09-19T14:40:18.153606",
     "platforms": [
       "YouTube",
       "Google",

@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Manage Online Coaching Clients Like a Pro (Onboarding, Retention \\u0026 Communication)",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-17T02:32:27.959457",
-      "status": "keep",
-      "reason": "Directly addresses three core pain points for online fitness coaches: client onboarding systems, retention strategies, and communication frameworks—all critical for scaling without burnout and improving client acquisition ROI.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Exactly How To Build A $10k/mo Online Coaching Business",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-17T02:32:28.970897",
-      "status": "keep",
-      "reason": "Directly addresses income goal ($10k/mo) and business model scaling—core pain point for coaches seeking revenue benchmarks and growth strategies",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Slider",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -1038,6 +1018,16 @@
       "time": "2026-09-19T01:26:25.685254",
       "status": "keep",
       "reason": "Directly addresses three critical pain points for online fitness coaches: client onboarding systems, retention strategies, and communication protocols—core operational challenges that impact revenue and scalability.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scaling and automation",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-19T14:37:01.526676",
+      "status": "keep",
+      "reason": "Directly addresses a core pain point for fitness coaches—scaling their business and reducing manual work, which relates to income growth, client management efficiency, and burnout prevention.",
       "track": "niche"
     },
     {
@@ -2152,18 +2142,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 252,
-    "niche_rejected": 439,
-    "niche_scanned": 692,
+    "niche_kept": 253,
+    "niche_rejected": 443,
+    "niche_scanned": 697,
     "comp_kept": 110,
     "comp_rejected": 722,
     "comp_scanned": 846,
     "busi_kept": 258,
-    "busi_rejected": 793,
-    "busi_scanned": 1055,
-    "last_scan": "2026-09-19T11:22:20.807554",
-    "total_kept": 620,
-    "total_rejected": 1954,
+    "busi_rejected": 794,
+    "busi_scanned": 1056,
+    "last_scan": "2026-09-19T14:40:18.157106",
+    "total_kept": 621,
+    "total_rejected": 1959,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
