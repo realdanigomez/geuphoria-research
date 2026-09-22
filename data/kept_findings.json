@@ -1042,6 +1042,16 @@
     },
     {
       "source": "YouTube",
+      "title": "124. Burnout, Business, and Redefining Success in Midlife: My Story",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-09-22T03:10:57.063776",
+      "status": "keep",
+      "reason": "Directly addresses burnout in fitness coaching context with personal narrative that likely contains specific struggles, coping strategies, and business lessons relevant to coach sustainability and redefining success metrics beyond traditional scaling pressures.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How To Sell High Ticket Coaching (35M Sales Secrets)",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2142,17 +2152,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 254,
+    "niche_kept": 255,
     "niche_rejected": 443,
-    "niche_scanned": 698,
+    "niche_scanned": 699,
     "comp_kept": 112,
     "comp_rejected": 730,
     "comp_scanned": 856,
     "busi_kept": 258,
     "busi_rejected": 800,
     "busi_scanned": 1062,
-    "last_scan": "2026-09-21T23:51:08.986981",
-    "total_kept": 624,
+    "last_scan": "2026-09-22T03:13:58.278808",
+    "total_kept": 625,
     "total_rejected": 1973,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
