@@ -1482,16 +1482,6 @@
     },
     {
       "source": "YouTube",
-      "title": "If You Hate Selling, Please Watch This | Scale or Fail Episode 3",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-07-31T06:11:02.117701",
-      "status": "keep",
-      "reason": "Alex Hormozi content on overcoming sales resistance is directly applicable to fitness coaching business models, which rely on client acquisition and conversion strategies.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "You're Trying To Do Too Much",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2159,11 +2149,11 @@
     "comp_rejected": 736,
     "comp_scanned": 862,
     "busi_kept": 258,
-    "busi_rejected": 802,
-    "busi_scanned": 1064,
-    "last_scan": "2026-09-22T20:53:59.077615",
+    "busi_rejected": 803,
+    "busi_scanned": 1065,
+    "last_scan": "2026-09-22T23:31:00.342818",
     "total_kept": 626,
-    "total_rejected": 1981,
+    "total_rejected": 1982,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
