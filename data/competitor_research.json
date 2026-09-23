@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Sell High Ticket Coaching (35M Sales Secrets)",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-19T04:27:55.096242",
-      "status": "keep",
-      "reason": "Brian Mark is a recognized fitness business coach who teaches high-ticket coaching sales strategies; this resource likely contains specific positioning, pricing, and sales tactics applicable to online fitness coaches building their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build a High Ticket Online Fitness Coaching Offer ($1000+)",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-19T14:38:27.485444",
-      "status": "keep",
-      "reason": "Directly addresses high-ticket offer pricing strategy ($1000+), a core business model for online fitness coaches; Brian Mark is a recognized fitness business coach whose content targets this audience.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Dips",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-19T16:55:53.417120",
-      "status": "reject",
-      "reason": "Search query alone without actual content about fitness business coaching, strategy, or offers provides no actionable intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fake Flexing Exposed:The Truth About Rented Lambos and Fake Millionaires | Ep. 0199",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-07-21T16:21:54.361871",
-      "status": "reject",
-      "reason": "Episode title about fake wealth/Lamborghini scams doesn't contain specific intelligence about fitness business coaching strategies, offers, or positioning - appears to be general lifestyle/fraud commentary unrelated to competitor business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How to go from $0 to $100k a month as a personal trainer",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Finding is a personal biography piece without specific intelligence about business strategy, offers, positioning, or coaching methodologies for online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Two Timeframes",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-23T01:42:16.580700",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaching competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Three Year Question",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-23T01:42:17.490423",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning without actual findings or analysis included.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Shrink the Change",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-23T01:42:18.627710",
+      "status": "reject",
+      "reason": "Title alone provides no actionable intelligence about business strategy, offers, or positioning. Search query mentions a known competitor but finding contains no actual content analysis or business insights.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Learn More",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-23T01:42:19.650020",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about strategy, content, offers, or positioning - would need actual content analysis of Vince Del Monte's offerings to be actionable",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 862,
+    "scanned": 866,
     "kept": 112,
-    "rejected": 736,
-    "last_scan": "2026-09-22T23:29:51.493806",
+    "rejected": 740,
+    "last_scan": "2026-09-23T01:43:25.640451",
     "platforms": [
       "YouTube",
       "Google",
