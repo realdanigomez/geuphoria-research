@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Trainers Really Get to $100K/Month",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-21T22:02:22.662447",
-      "status": "keep",
-      "reason": "Charlie Johnson is a prominent fitness business coach who teaches online coaches scaling strategies; this search indicates content about high-level revenue models and likely contains specific tactics for reaching $100K/month that competitors are consuming.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Step 1: One Person, One Problem, One Pain",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-21T22:02:23.814173",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about the competitor or their business coaching approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Step 2: Build an Offer That Actually Sells",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-21T22:02:25.213936",
-      "status": "reject",
-      "reason": "Title indicates generic sales funnel advice without evidence of specific intelligence about Charlie Johnson's offer, strategy, or fitness business coaching approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Step 3: Build Authority Fast With Content",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-21T22:02:26.307370",
-      "status": "reject",
-      "reason": "Finding is just a search query without actual content, strategy, offers, or positioning intelligence about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Step 4: Create a Lead Generation Engine",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-21T22:02:27.443346",
-      "status": "reject",
-      "reason": "Finding mentions Charlie Johnson as a search term but contains no actual intelligence about his strategy, offers, positioning, or business model — just a generic lead generation title without specific competitor insights.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Step 5: Close With Confidence \\u0026 Deliver Fast Results",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Contains only a generic muscle-building tip for clients; no intelligence about fitness business coaching, mentor strategies, programs, or how coaches build their businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Mike Boyle's stat: only .05% of people train correctly",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-24T18:23:28.942036",
+      "status": "reject",
+      "reason": "Contains a generic fitness stat quote attributed to Mike Boyle, but lacks specific intelligence about business coaching, strategy, offers, or positioning for online fitness coaches. The search query for Vince Del Monte is mentioned but no actual competitive intelligence about his business model, offerings, or strategies is provided.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Fourth Turning and why seasons are predictable",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-24T18:23:29.859369",
+      "status": "reject",
+      "reason": "The finding is about generational theory and seasonal cycles, not about fitness business coaching strategies, offers, or positioning for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stage one: the three things that matter",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-24T18:23:30.799968",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stage two: people, core values, and delegation",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-24T18:23:31.709769",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Vince Del Monte's strategy, offers, or business approach provides no actionable competitor intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My supplements",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-24T18:23:35.398995",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, strategy, positioning, or business intelligence about Bedros Keuilian or how he helps online fitness coaches build their business.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 867,
+    "scanned": 872,
     "kept": 112,
-    "rejected": 741,
-    "last_scan": "2026-09-24T14:01:32.856967",
+    "rejected": 746,
+    "last_scan": "2026-09-24T18:24:36.234501",
     "platforms": [
       "YouTube",
       "Google",

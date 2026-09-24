@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "El hombre que ganó 100 millones antes de los 32: Su secreto fue liberarse del control de los demás",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-02T07:32:28.074169",
-      "status": "reject",
-      "reason": "Title references Alex Hormozi but finding contains no actual content, quotes, strategies, or insights from him—only a clickbait headline in Spanish with no substantive business intelligence or actionable lessons included.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "El marco de toma de decisiones detrás de mi negocio de £40M",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, article, or insights from Alex Hormozi—no actionable intelligence or specific business strategy to extract.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "BIG NEWS! 🚨 AMC Shareholder's Meeting Today Sept 24, 2026 - CEO Adam rails Robinhood Fake Tokens!",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-09-24T18:24:41.042023",
+      "status": "reject",
+      "reason": "Sensationalized headline about AMC shareholder drama lacks actionable business insights or strategies relevant to fitness coaching, creator economy, or established business thought leaders. No substantive content provided.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1082,
+    "scanned": 1083,
     "kept": 258,
-    "rejected": 820,
-    "last_scan": "2026-09-24T14:02:42.594428",
+    "rejected": 821,
+    "last_scan": "2026-09-24T18:25:42.290513",
     "platforms": [
       "YouTube",
       "Google",
