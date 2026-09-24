@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Slider",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-07-17T10:16:51.197054",
-      "status": "keep",
-      "reason": "Directly addresses a primary pain point for online fitness coaches; understanding burnout causes and solutions is critical for retention, business sustainability, and scaling operations.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Sliders",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses client acquisition and sales conversion—a core pain point for online fitness coaches struggling to grow revenue and scale their business.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Online Fitness Coaching Consultation | What You Should Do",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-24T13:59:25.633379",
+      "status": "reject",
+      "reason": "Generic consultation offer lacks specific insights into fitness coaches' actual pain points, struggles, or solutions; appears to be promotional content rather than research revealing their problems.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 702,
+    "scanned": 703,
     "kept": 258,
-    "rejected": 443,
-    "last_scan": "2026-09-24T08:39:24.519825",
+    "rejected": 444,
+    "last_scan": "2026-09-24T14:00:28.632789",
     "platforms": [
       "Reddit",
       "YouTube",
