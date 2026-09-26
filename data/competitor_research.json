@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Step 5: Close With Confidence \\u0026 Deliver Fast Results",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-21T22:02:28.396213",
-      "status": "reject",
-      "reason": "Title alone provides generic coaching advice without specific intelligence about business models, strategies, or offers targeting online fitness coaches",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Step 6: Scale With Systems, Team \\u0026 Automation",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-21T22:02:29.484584",
-      "status": "reject",
-      "reason": "Title alone indicates general scaling advice without evidence of specific competitor strategies, offers, positioning, or business model intelligence relevant to online fitness coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Pre Workout Nutrition: My Muscle Building Pre Workout Meal",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-25T10:11:05.513443",
-      "status": "reject",
-      "reason": "Contains generic pre-workout nutrition advice, not business intelligence about fitness coaching programs or strategies for online coaches",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Bodyweight Workout Routine With Vince In LA",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-07-26T03:17:06.966132",
-      "status": "reject",
-      "reason": "This is a generic bodyweight workout video content, not intelligence about fitness business coaching, mentorship programs, or strategies for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Unfortunately, Online Coaching Is This Simple",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-26T20:29:36.147496",
-      "status": "reject",
-      "reason": "Title suggests generic coaching philosophy rather than specific business strategy, tactics, or offers targeting fitness coaches as clients. Search term alone doesn't indicate the content analyzes competitor positioning, systems, or business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Overcome The 4 Main Sales Objections (Spouse, Time, Money and \\",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-26T20:29:37.544119",
-      "status": "reject",
-      "reason": "Title indicates generic sales objection handling content, not specific intelligence about fitness coaching business building, positioning, or offers from a recognized fitness business coach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Find Your Niche: The Secret to Winning Clients! - The Online Fitness Coach Course",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-07-28T20:42:44.714724",
-      "status": "keep",
-      "reason": "Direct competitor intelligence on Brian Mark's niche-finding methodology for acquiring fitness coaching clients - core business strategy relevant to online fitness coach positioning and client acquisition tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Importance of Niche",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Search query alone provides no actual content, strategy, positioning, or business intelligence about Bedros Keuilian or how he helps online fitness coaches build their business.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Build A Thicker Back (Meeting My Online Client For the 1st Time)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-26T18:58:53.807110",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pre workout meal",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-26T18:58:54.008857",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Meeting Pierce",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-26T18:58:54.200332",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Barbell Rows Part 1",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-26T18:58:54.405743",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to use lifting straps",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-26T18:58:54.602897",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Barbell Rows Part 2",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-26T18:58:54.799859",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lat Pulldowns",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-09-26T18:58:55.022344",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 872,
+    "scanned": 879,
     "kept": 112,
-    "rejected": 746,
-    "last_scan": "2026-09-26T15:44:48.964966",
+    "rejected": 753,
+    "last_scan": "2026-09-26T18:59:57.995934",
     "platforms": [
       "YouTube",
       "Google",
