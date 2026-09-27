@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Most Valuable 15 Minutes You'll Spend Today | Alex Hormozi Motivation",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-03T15:26:18.825553",
-      "status": "reject",
-      "reason": "Generic motivational title with no indication of specific business insights, strategies, or actionable intelligence in the preview text provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Focus For 12+ Hours a Day Like a Millionaire",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi’s Blueprint To Making Money Blew My Mind",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-27T22:48:56.581254",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1094,
-    "kept": 263,
+    "scanned": 1095,
+    "kept": 264,
     "rejected": 827,
-    "last_scan": "2026-09-27T19:33:52.154537",
+    "last_scan": "2026-09-27T22:49:59.448562",
     "platforms": [
       "YouTube",
       "Google",

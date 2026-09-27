@@ -1072,6 +1072,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How I Actually Help Online Fitness Coaches in 2026 (The Blueprint)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-09-27T22:46:49.487467",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "How to Build an Online Coaching Business in 2026 (Full Course)",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2089,20 +2099,30 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi’s Blueprint To Making Money Blew My Mind",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-09-27T22:48:56.581254",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
-    "niche_kept": 258,
+    "niche_kept": 259,
     "niche_rejected": 445,
-    "niche_scanned": 704,
+    "niche_scanned": 705,
     "comp_kept": 112,
     "comp_rejected": 761,
     "comp_scanned": 887,
-    "busi_kept": 263,
+    "busi_kept": 264,
     "busi_rejected": 827,
-    "busi_scanned": 1094,
-    "last_scan": "2026-09-27T19:33:52.158341",
-    "total_kept": 633,
+    "busi_scanned": 1095,
+    "last_scan": "2026-09-27T22:49:59.452788",
+    "total_kept": 635,
     "total_rejected": 2033,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
