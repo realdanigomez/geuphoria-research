@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "INTRO: The Most Valuable Coaching Video You’ll Watch",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-31T16:02:42.041166",
-      "status": "reject",
-      "reason": "Title and search term alone provide no specific intelligence about business strategy, offers, positioning, or coaching methods—would need actual content analysis to determine value.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "WEEKLY SCHEDULE: How to Build a Business in Just 10 Hours a Week",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-31T16:02:43.142044",
-      "status": "reject",
-      "reason": "Search result title lacks specific intelligence about business strategy, offers, or positioning; appears to be generic time-management content without confirmed competitor analysis details about fitness coaching business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "OFFERS \\u0026 FOUNDATIONS: Crafting a Grand Slam Offer",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-31T16:02:44.482345",
-      "status": "keep",
-      "reason": "Directly relevant to fitness business coaches; Charlie Johnson is a named example of coaches targeting online fitness coaches, and content about offer creation is core business-building intelligence for this audience.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "TRAFFIC SYSTEMS: Instagram Growth, Hooks, Reels \\u0026 Content Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-31T16:02:45.654800",
-      "status": "reject",
-      "reason": "Title indicates general Instagram growth and content strategy tactics, not specific intelligence about how fitness business coaches help online fitness coaches build their business or their unique positioning/offers.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "PAID ADS: Strategy Hierarchy, Cold vs Warm vs Retargeting",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-07-31T16:02:46.659438",
-      "status": "reject",
-      "reason": "Finding describes a search query rather than actual competitor intelligence; contains no strategy details, offers, positioning, or actionable business insights about how Charlie Johnson or similar coaches help online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "CONVERSION SYSTEMS: DM Setting, Objection Handling \\u0026 CTA Pathways",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Number One Skill That All Men Need To Develop| EP. 209",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-29T14:13:38.289824",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Two Types of People",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-29T14:13:38.797483",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Anyone Can Spot a Problem",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-29T14:13:39.029453",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Wellness Shot Origin Story",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-29T14:13:39.268270",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 2008 Crash Built Fit Body Boot Camp",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-09-29T14:13:39.516038",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 891,
+    "scanned": 896,
     "kept": 112,
-    "rejected": 765,
-    "last_scan": "2026-09-29T07:20:09.947488",
+    "rejected": 770,
+    "last_scan": "2026-09-29T14:14:39.726076",
     "platforms": [
       "YouTube",
       "Google",
