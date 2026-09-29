@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro Summary",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-17T22:13:22.449079",
-      "status": "reject",
-      "reason": "Generic search term without specific data, insights, or findings about actual pain points, struggles, or solutions for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Inperson Mastery",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-17T22:13:23.595890",
-      "status": "reject",
-      "reason": "Generic title with no specific insight; content appears to be a program name rather than research revealing actual pain points, struggles, or solutions relevant to online fitness coaches.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Time Management",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-17T22:13:24.587397",
-      "status": "reject",
-      "reason": "Too vague and generic — lacks specific insights about fitness coaches' actual pain points, solutions, or circumstances that would inform product/marketing decisions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Business Priorities",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built a $200K/Month Online Fitness Business at 23 (Full Blueprint)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-29T07:18:06.371286",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The roadmap to starting \\u0026 scaling online fitness coaching",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-29T07:18:06.615335",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Real client results (from $0 to $20k+/month)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-09-29T07:18:06.808027",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 707,
+    "scanned": 710,
     "kept": 259,
-    "rejected": 447,
-    "last_scan": "2026-09-29T01:27:50.812136",
+    "rejected": 450,
+    "last_scan": "2026-09-29T07:19:06.491116",
     "platforms": [
       "Reddit",
       "YouTube",
