@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Get Rich by Thinking Like The Top 1% (3 questions to ask yourself)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-03T20:44:54.238527",
-      "status": "reject",
-      "reason": "Title promises rich-thinking framework but provides no specific strategies, actionable tactics, or substantive business insights—appears to be clickbait that relies on Hormozi's name recognition rather than delivering concrete intelligence applicable to fitness coaching business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Creator monetization",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Doing The Work AI Will Replace, Learn These 10 Skills Instead",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-09-29T19:34:45.985355",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1097,
+    "scanned": 1098,
     "kept": 264,
-    "rejected": 829,
-    "last_scan": "2026-09-29T14:15:43.622680",
+    "rejected": 830,
+    "last_scan": "2026-09-29T19:35:46.902914",
     "platforms": [
       "YouTube",
       "Google",
