@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Lead generation agency",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-04T02:12:23.684302",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Charlie Morgan; no specific actionable intelligence or business lessons included.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Retired At 23: Here's How You Can Copy Me",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Actually Stop Sounding Like AI",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-01T06:21:14.980090",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1100,
+    "scanned": 1101,
     "kept": 264,
-    "rejected": 832,
-    "last_scan": "2026-10-01T00:22:45.679662",
+    "rejected": 833,
+    "last_scan": "2026-10-01T06:22:12.238006",
     "platforms": [
       "YouTube",
       "Google",
