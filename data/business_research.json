@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "$0 to $10k/mo online FREE full guide",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-04T17:46:05.858578",
-      "status": "reject",
-      "reason": "Title promises a guide but finding only contains a search query with no actual content, strategies, or actionable insights to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Retire Before You Hit 30 (The Exact Math)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-04T20:53:04.321295",
-      "status": "reject",
-      "reason": "Title suggests personal finance/retirement content rather than business strategy, entrepreneurship lessons, or creator economy insights relevant to fitness coaching business operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Step By Step: How To Retire Before You Turn 30",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-04T22:10:35.839323",
-      "status": "reject",
-      "reason": "Title promises retirement strategy but search result doesn't confirm actual content from Charlie Morgan with actionable business/creator economy insights relevant to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Turn The \\",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-08-04T22:10:41.918909",
-      "status": "reject",
-      "reason": "Incomplete finding with only a search query and no actual content, strategies, or insights to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "My Social Media Strategy for 2026 | Alex Hormozi Answers Your Questions",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-05T02:11:26.385202",
-      "status": "keep",
-      "reason": "Alex Hormozi's 2026 social media strategy provides direct actionable intelligence on platform positioning, content distribution, and audience growth tactics applicable to fitness coaching content businesses competing for attention in crowded social feeds.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Become Dangerously Self-Educated (with AI)",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-05T15:21:20.890436",
-      "status": "keep",
-      "reason": "Dan Martell content on self-education with AI provides actionable frameworks for building expertise and leveraging emerging tools—directly applicable to scaling a fitness coaching business and creator operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$40M - Best advice for building an online business",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Who is Charlie?",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-01T23:21:31.295295",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "1 Proxies",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-01T23:21:31.453766",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why video games are a proxy",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-01T23:21:31.605033",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Porn and OnlyFans as a proxy",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-01T23:21:31.757773",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "2 Dopamine farming",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-01T23:21:31.915138",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Behind every addiction is a need",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-01T23:21:32.060627",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1102,
+    "scanned": 1108,
     "kept": 264,
-    "rejected": 834,
-    "last_scan": "2026-10-01T19:17:52.674366",
+    "rejected": 840,
+    "last_scan": "2026-10-01T23:22:33.051609",
     "platforms": [
       "YouTube",
       "Google",
