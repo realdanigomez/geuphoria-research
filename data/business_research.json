@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Personal branding agency",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-04T02:12:22.611790",
-      "status": "reject",
-      "reason": "Search query alone without actual content, articles, or insights from Charlie Morgan - no specific intelligence or actionable strategy provided to analyze",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Lead generation agency",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dan Martell AI Blueprint to Build a $100M Company | Vault Conference 2026",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-01T00:21:47.389692",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1099,
+    "scanned": 1100,
     "kept": 264,
-    "rejected": 831,
-    "last_scan": "2026-09-30T20:33:36.545955",
+    "rejected": 832,
+    "last_scan": "2026-10-01T00:22:45.679662",
     "platforms": [
       "YouTube",
       "Google",
