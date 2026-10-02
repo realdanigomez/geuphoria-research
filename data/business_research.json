@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "It's Not Comfort, It's Burnout",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-07T00:24:48.652449",
-      "status": "reject",
-      "reason": "Title and search term suggest content about burnout, but no actual business insights, strategies, or entrepreneurship lessons are provided in the finding itself to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How I Know When A Product Is Actually Finished",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Social Media in 2026: Attention Is the New Oil, Here's How to Get It",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-02T20:05:56.853036",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1109,
+    "scanned": 1110,
     "kept": 265,
-    "rejected": 840,
-    "last_scan": "2026-10-02T15:23:16.921227",
+    "rejected": 841,
+    "last_scan": "2026-10-02T20:06:56.992199",
     "platforms": [
       "YouTube",
       "Google",

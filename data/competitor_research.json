@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Intro",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-02T23:30:05.677780",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, or positioning provides no actionable information for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Escaping the 9 to 5 Grind",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-02T23:30:06.756203",
-      "status": "reject",
-      "reason": "Search query only, no actual content about Charlie Johnson's strategy, offers, or business model provided",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Lessons from Corporate Life",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-02T23:30:07.846977",
-      "status": "reject",
-      "reason": "The finding contains only a search query with no actual content, data, or intelligence about Charlie Johnson's strategies, offers, or business approach that could be actionable.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leveraging Time for Education",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-02T23:30:08.981272",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, or business approach provides no actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "From Estate Agent to Entrepreneur",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-02T23:30:10.559974",
-      "status": "reject",
-      "reason": "Title indicates career transition story rather than specific business strategy, content offers, or positioning intelligence for online fitness coaches. No actionable competitive details provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Power of Social Proof",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-02T23:30:11.817232",
-      "status": "reject",
-      "reason": "The finding only contains a search query without actual content, findings, or specific intelligence about business strategy, offers, or positioning from Charlie Johnson or competitors.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sales Calls and Content Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-02T23:30:12.839107",
-      "status": "reject",
-      "reason": "Search query alone without actual findings, content, strategy details, or competitive intelligence about Charlie Johnson's business approach, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fitness Marketing - Bedros Keuilian Interview Part 1",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-05T15:20:13.243082",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a prominent fitness business coach who teaches online fitness coaches marketing strategies and business scaling; interview content likely contains actionable tactics on positioning, offers, or customer acquisition specific to the fitness coaching industry.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Expert And Authority Positioning Secrets To Give Your Fitness Business MASSIVE Next Level Success!",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Record Every Sales Call: Fitness Business Coaching Advice",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:49.192222",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personalized coaching for every client",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:49.366589",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Boosting reels and retargeting ads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:49.534799",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cost per acquisition for paid ads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:49.712711",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Training closers with recorded calls",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:49.900638",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Practicing on non-qualified leads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:50.077132",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ongoing feedback and improvement",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:50.250031",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tight-knit feedback group motivation",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:50.520359",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 913,
-    "kept": 113,
-    "rejected": 786,
-    "last_scan": "2026-10-02T15:22:13.256320",
+    "scanned": 921,
+    "kept": 114,
+    "rejected": 793,
+    "last_scan": "2026-10-02T20:05:50.481292",
     "platforms": [
       "YouTube",
       "Google",

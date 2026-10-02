@@ -1062,16 +1062,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Fitness Marketing - Bedros Keuilian Interview Part 1",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-05T15:20:13.243082",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a prominent fitness business coach who teaches online fitness coaches marketing strategies and business scaling; interview content likely contains actionable tactics on positioning, offers, or customer acquisition specific to the fitness coaching industry.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How a Fitness Coach Made $30k in 8 Weeks With 800 Followers: Client Case Study",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1368,6 +1358,16 @@
       "time": "2026-09-30T15:36:09.873170",
       "status": "keep",
       "reason": "Local score 4: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Record Every Sales Call: Fitness Business Coaching Advice",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-02T20:04:49.192222",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
     },
     {
@@ -2015,15 +2015,15 @@
     "niche_kept": 259,
     "niche_rejected": 451,
     "niche_scanned": 711,
-    "comp_kept": 113,
-    "comp_rejected": 786,
-    "comp_scanned": 913,
+    "comp_kept": 114,
+    "comp_rejected": 793,
+    "comp_scanned": 921,
     "busi_kept": 265,
-    "busi_rejected": 840,
-    "busi_scanned": 1109,
-    "last_scan": "2026-10-02T15:23:16.925371",
-    "total_kept": 637,
-    "total_rejected": 2077,
+    "busi_rejected": 841,
+    "busi_scanned": 1110,
+    "last_scan": "2026-10-02T20:06:56.995500",
+    "total_kept": 638,
+    "total_rejected": 2085,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
