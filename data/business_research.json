@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What You'd Miss Without A Business Partner: The Money",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-07T00:24:52.156391",
-      "status": "reject",
-      "reason": "Title promises insight on business partnerships but provides no actual content, strategies, or specific lessons—appears to be only a search query without substantive business intelligence or actionable takeaways.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "You Don't Need A Revenue Target, You Need A Vision",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Should you train or fire these employees (from a +$100M CEO perspective)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-03T14:34:59.234047",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1112,
+    "scanned": 1113,
     "kept": 266,
-    "rejected": 842,
-    "last_scan": "2026-10-03T09:41:49.263624",
+    "rejected": 843,
+    "last_scan": "2026-10-03T14:35:56.809109",
     "platforms": [
       "YouTube",
       "Google",

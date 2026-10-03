@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Social Media Priorities",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-17T22:13:27.418949",
-      "status": "reject",
-      "reason": "Generic search query without specific data on fitness coaches' actual pain points, struggles, or solutions; lacks actionable insights into their problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Personal Trainer Communication Skills | Say These Things To Your Clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-07-18T00:53:54.775317",
-      "status": "keep",
-      "reason": "Directly addresses client communication techniques, a critical pain point for coaches struggling with client retention, satisfaction, and word-of-mouth referrals that impacts both revenue and scaling ability.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Compliment People",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Discover How You Can Get Health Coaching Clients WITHOUT Social Media",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-03T14:32:48.621097",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How personal trainers protect themselves from burnout and financial risk",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-03T14:32:54.322180",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 711,
-    "kept": 259,
-    "rejected": 451,
-    "last_scan": "2026-10-03T09:39:42.562725",
+    "scanned": 713,
+    "kept": 260,
+    "rejected": 452,
+    "last_scan": "2026-10-03T14:33:48.707079",
     "platforms": [
       "Reddit",
       "YouTube",
