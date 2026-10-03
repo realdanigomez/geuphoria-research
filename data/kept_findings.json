@@ -2009,6 +2009,16 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "8 Entrepreneurs Compete For $100,000 (for real)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-03T03:52:39.707783",
+      "status": "keep",
+      "reason": "Local score 3: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2016,14 +2026,14 @@
     "niche_rejected": 451,
     "niche_scanned": 711,
     "comp_kept": 114,
-    "comp_rejected": 793,
-    "comp_scanned": 921,
-    "busi_kept": 265,
-    "busi_rejected": 841,
-    "busi_scanned": 1110,
-    "last_scan": "2026-10-02T23:58:53.528741",
-    "total_kept": 638,
-    "total_rejected": 2085,
+    "comp_rejected": 797,
+    "comp_scanned": 925,
+    "busi_kept": 266,
+    "busi_rejected": 842,
+    "busi_scanned": 1112,
+    "last_scan": "2026-10-03T03:53:43.339569",
+    "total_kept": 639,
+    "total_rejected": 2090,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
