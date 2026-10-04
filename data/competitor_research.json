@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Messaging and conversations",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-08T12:40:54.604831",
-      "status": "reject",
-      "reason": "Search query alone without actual content, messaging, conversations, or specific business intelligence about Charlie Johnson's strategies, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Outbound and follow-up strategies",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why does he make $200 MILLION/year?",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-10-04T17:17:06.829628",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 933,
+    "scanned": 934,
     "kept": 115,
-    "rejected": 804,
-    "last_scan": "2026-10-04T12:44:29.061099",
+    "rejected": 805,
+    "last_scan": "2026-10-04T17:18:07.099496",
     "platforms": [
       "YouTube",
       "Google",

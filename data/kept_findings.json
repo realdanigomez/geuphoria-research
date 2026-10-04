@@ -1052,6 +1052,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Pillar 3: Programming",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-10-04T17:16:00.657923",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "The Giveaway Strategy That Bootstrapped My Fitness Business: Free Client Acquisition for Coaches",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1359,16 +1369,6 @@
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Make Money On Skool (Full Course)",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-08-07T08:12:40.248225",
-      "status": "keep",
-      "reason": "Sam Ovens is an influential business strategist in the creator economy space; a full course on monetizing Skool (a community platform) provides actionable strategies directly applicable to building monetized fitness coaching communities and understanding modern creator business models.",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2022,18 +2022,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 260,
+    "niche_kept": 261,
     "niche_rejected": 460,
-    "niche_scanned": 721,
+    "niche_scanned": 722,
     "comp_kept": 115,
-    "comp_rejected": 804,
-    "comp_scanned": 933,
+    "comp_rejected": 805,
+    "comp_scanned": 934,
     "busi_kept": 268,
-    "busi_rejected": 843,
-    "busi_scanned": 1115,
-    "last_scan": "2026-10-04T12:45:34.352563",
-    "total_kept": 643,
-    "total_rejected": 2107,
+    "busi_rejected": 844,
+    "busi_scanned": 1116,
+    "last_scan": "2026-10-04T17:19:11.318506",
+    "total_kept": 644,
+    "total_rejected": 2109,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
