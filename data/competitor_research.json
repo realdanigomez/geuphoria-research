@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Outbound and follow-up strategies",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-08T12:40:56.092126",
-      "status": "reject",
-      "reason": "Search query alone without actual content about Charlie Johnson's strategies, offers, or business methods provides no actionable intelligence",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Ask Vince",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Scale An Online Fitness Business to $100K A Month - Full Course",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-10-05T18:44:05.745660",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 934,
-    "kept": 115,
+    "scanned": 935,
+    "kept": 116,
     "rejected": 805,
-    "last_scan": "2026-10-05T09:27:29.345521",
+    "last_scan": "2026-10-05T18:45:01.062863",
     "platforms": [
       "YouTube",
       "Google",
