@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Finding your group topic",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-08-07T08:12:43.735509",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Sam Ovens—no specific business intelligence provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Setup + first 3 members",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "THIS Is The Exact Way I Hire Hundreds Of People Every Year",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-06T07:11:08.907791",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1118,
+    "scanned": 1119,
     "kept": 269,
-    "rejected": 845,
-    "last_scan": "2026-10-06T00:37:09.280807",
+    "rejected": 846,
+    "last_scan": "2026-10-06T07:12:06.365180",
     "platforms": [
       "YouTube",
       "Google",
