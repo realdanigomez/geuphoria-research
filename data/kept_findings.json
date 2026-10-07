@@ -1402,16 +1402,6 @@
     },
     {
       "source": "YouTube",
-      "title": "If You Hate Marketing, Do This | Scale or Fail EP 4",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-08T00:03:49.801484",
-      "status": "keep",
-      "reason": "Alex Hormozi content on marketing strategy for fitness coaches; actionable framework for those struggling with marketing execution, directly applicable to fitness business model and scaling challenges.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$100M Worth of Marketing Knowledge in 32 Minutes | Scale or Fail Episode 4",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2039,6 +2029,86 @@
       "status": "keep",
       "reason": "Local score 3: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "“My Team Can't Close Like Me”",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:39.510062",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Make $2M in 8 Months Before the Government Shuts You Down",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:39.689770",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Starting a Business for Dummies",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:39.836653",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Prepare Like a Crazy Person",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:40.003290",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spend $500 to Avoid a 5-Year Lease Mistake",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:40.171220",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "“Business Or Kids?”",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:40.346738",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The First $100 Was the Richest I've Ever Felt",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:40.503761",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Have 300 Users and You've Talked to 3 of Them",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-07T17:55:40.665808",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2048,12 +2118,12 @@
     "comp_kept": 119,
     "comp_rejected": 810,
     "comp_scanned": 943,
-    "busi_kept": 269,
-    "busi_rejected": 850,
-    "busi_scanned": 1123,
-    "last_scan": "2026-10-07T11:17:00.338142",
-    "total_kept": 649,
-    "total_rejected": 2121,
+    "busi_kept": 277,
+    "busi_rejected": 852,
+    "busi_scanned": 1133,
+    "last_scan": "2026-10-07T17:56:44.903091",
+    "total_kept": 657,
+    "total_rejected": 2123,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
