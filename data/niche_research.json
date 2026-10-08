@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Be In Shape",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-07-19T09:25:43.108182",
-      "status": "reject",
-      "reason": "Generic search query with no insight into specific pain points, struggles, or actionable intelligence for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Quit Your Job In 2026 And Become An Online Fitness Coach",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reason Fitness Coaches Don't Get Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-08T09:21:21.082257",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 723,
+    "scanned": 724,
     "kept": 261,
-    "rejected": 461,
-    "last_scan": "2026-10-08T02:28:54.909339",
+    "rejected": 462,
+    "last_scan": "2026-10-08T09:22:20.750554",
     "platforms": [
       "Reddit",
       "YouTube",
