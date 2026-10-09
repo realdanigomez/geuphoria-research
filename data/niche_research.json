@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Quit Your Job In 2026 And Become An Online Fitness Coach",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-19T14:37:15.223996",
-      "status": "reject",
-      "reason": "Generic career transition advice without specific pain points, struggles, or actionable intelligence relevant to fitness coaches' actual business challenges like client acquisition, pricing, retention, or scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Beginner’s Guide to Sustainable Fitness (No Burnout, No B.S.)",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-07-19T16:54:51.700394",
-      "status": "reject",
-      "reason": "Generic fitness content for end-users, not coaches. Contains no data on coach-specific pain points, business challenges, client acquisition strategies, or scaling systems that would inform coaching business decisions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Who am I",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-07-19T16:54:52.689247",
-      "status": "reject",
-      "reason": "Generic self-help content with no specific intelligence about fitness coach business models, pain points, or solutions",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "What is sustainable training",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-07-19T16:54:54.140360",
-      "status": "reject",
-      "reason": "Generic topic about training sustainability lacks specific insights into fitness coach business operations, pain points, or challenges—appears to be general fitness content rather than coach-focused intelligence.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Pillar 1 Enjoy movement",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-07-19T16:54:55.941428",
-      "status": "reject",
-      "reason": "Generic wellness philosophy without specific insight into coaches' actual burnout causes, solutions, or business challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Pillar 2 Progressive overload",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-07-19T16:54:56.829873",
-      "status": "reject",
-      "reason": "Contains generic fitness education content (progressive overload) rather than specific intelligence about coaches' business operations, marketing, client acquisition, or burnout causes.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "MR Phase 2 Burnout",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Start Your Online Coaching Business TODAY",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-09T08:26:27.803482",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 1: Are You Qualified to Coach? (Do You Need a Certification?)",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-09T08:26:27.935272",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What is \\",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-09T08:26:28.069782",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 2: How to Find Your Niche \\u0026 Coaching Idea",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-09T08:26:28.194157",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Simple Places to Find Your Expertise Right Now",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-09T08:26:28.326490",
+      "status": "keep",
+      "reason": "Local score 2: 0 pain, 0 goal, 2 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 3: Packaging \\u0026 Structuring Your Coaching Offer",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-09T08:26:28.463994",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 724,
-    "kept": 261,
-    "rejected": 462,
-    "last_scan": "2026-10-09T01:43:55.874091",
+    "scanned": 730,
+    "kept": 262,
+    "rejected": 467,
+    "last_scan": "2026-10-09T08:27:25.642431",
     "platforms": [
       "Reddit",
       "YouTube",
