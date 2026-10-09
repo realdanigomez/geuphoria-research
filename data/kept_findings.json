@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to scale a coaching business to $100k/mo organically",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-20T01:05:06.842418",
-      "status": "keep",
-      "reason": "Directly addresses scaling revenue to a specific target ($100k/mo), which is a primary income goal for online fitness coaches, and specifies organic growth methods relevant to client acquisition without paid ads.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "What I WISH I Knew Before Becoming A Personal Trainer",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2153,17 +2143,17 @@
   ],
   "stats": {
     "niche_kept": 262,
-    "niche_rejected": 468,
-    "niche_scanned": 731,
+    "niche_rejected": 469,
+    "niche_scanned": 732,
     "comp_kept": 122,
     "comp_rejected": 814,
     "comp_scanned": 950,
     "busi_kept": 278,
-    "busi_rejected": 852,
-    "busi_scanned": 1134,
-    "last_scan": "2026-10-09T15:31:55.012540",
+    "busi_rejected": 853,
+    "busi_scanned": 1135,
+    "last_scan": "2026-10-09T20:19:49.388906",
     "total_kept": 662,
-    "total_rejected": 2134,
+    "total_rejected": 2136,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to scale a coaching business to $100k/mo organically",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-07-20T01:05:06.842418",
-      "status": "keep",
-      "reason": "Directly addresses scaling revenue to a specific target ($100k/mo), which is a primary income goal for online fitness coaches, and specifies organic growth methods relevant to client acquisition without paid ads.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Train Obese Clients",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Maintain Everything",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-09T20:16:40.508234",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 731,
+    "scanned": 732,
     "kept": 262,
-    "rejected": 468,
-    "last_scan": "2026-10-09T15:29:46.982220",
+    "rejected": 469,
+    "last_scan": "2026-10-09T20:17:40.794065",
     "platforms": [
       "Reddit",
       "YouTube",

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Tap In Push Through",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-08-08T11:04:04.981837",
-      "status": "reject",
-      "reason": "Search result with no substantive content - title is generic motivational phrase with only a name search, lacks specific business insights, strategies, or lessons from Sam Ovens",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$100M Worth of Marketing Knowledge in 32 Minutes | Scale or Fail Episode 4",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Pricing Trick That Saved My Business (It's So Easy)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-09T20:18:51.655692",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1134,
+    "scanned": 1135,
     "kept": 278,
-    "rejected": 852,
-    "last_scan": "2026-10-09T15:31:55.009699",
+    "rejected": 853,
+    "last_scan": "2026-10-09T20:19:49.381496",
     "platforms": [
       "YouTube",
       "Google",
