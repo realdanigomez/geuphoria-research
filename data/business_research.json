@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The reality of burnout",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-08T20:26:40.652287",
-      "status": "reject",
-      "reason": "Search query only, no actual content provided to evaluate for business insights or strategies",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Physical versus mental exhaustion",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI Won't Replace You If You Have These 3 Skills",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-10T21:09:00.905814",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1137,
+    "scanned": 1138,
     "kept": 278,
-    "rejected": 855,
-    "last_scan": "2026-10-10T17:40:31.352350",
+    "rejected": 856,
+    "last_scan": "2026-10-10T21:09:59.544489",
     "platforms": [
       "YouTube",
       "Google",

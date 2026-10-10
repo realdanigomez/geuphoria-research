@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The simplicity of fitness",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T16:41:02.892386",
-      "status": "reject",
-      "reason": "Contains only a search query with no actual finding, content, strategy, offer, or positioning information about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Four pillars to get in shape",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T16:41:04.019496",
-      "status": "reject",
-      "reason": "Finding mentions a search query but contains no actual intelligence about Bedros Keuilian's business strategy, offers, positioning, or coaching methods—just a generic fitness article title unrelated to coaching business building.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Lifting and cardio routine",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T16:41:04.892902",
-      "status": "reject",
-      "reason": "Contains only a search query name with no actual content, strategy, offers, or business intelligence about fitness coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Nutrition and dieting",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T16:41:05.900133",
-      "status": "reject",
-      "reason": "Search query alone without results, content, or intelligence about Bedros Keuilian's actual strategy, offers, or positioning. No actionable competitive insights provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Mobility and functionality",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T16:41:06.919235",
-      "status": "reject",
-      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategy, offers, positioning, or business model—only a search query with no results or analysis included.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Mindset and discipline",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T16:41:08.272159",
-      "status": "reject",
-      "reason": "Search query alone without actual content, intelligence, strategy details, or specific findings about Bedros Keuilian's business approach, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fitness Marketing Mindset and Success (Case Study #1)",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T20:43:23.512674",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Am I Too Old to Open Up a Fitness Business or Franchise?",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-09T20:43:24.582657",
-      "status": "reject",
-      "reason": "Contains only a search query mentioning Bedros Keuilian without actual content about fitness business coaching strategies, offers, or positioning that would provide actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "#1 Secret to Becoming a High-Paid Personal Trainer or Strength Coach",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Bought 3 Dubai Properties Sight Unseen: Real Estate Investing Secrets",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:55.091200",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Buying apartments addiction",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:55.256400",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intense chest workout",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:55.417833",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hyper drive and financial stress",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:55.577254",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Meeting property agent James",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:55.721040",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ramadan and community life",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:55.868244",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tour of townhouse community",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:56.021880",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Apartment features and buying",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-10T21:07:56.181718",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 951,
-    "kept": 122,
-    "rejected": 815,
-    "last_scan": "2026-10-10T17:39:27.341970",
+    "scanned": 959,
+    "kept": 124,
+    "rejected": 821,
+    "last_scan": "2026-10-10T21:08:54.378264",
     "platforms": [
       "YouTube",
       "Google",
