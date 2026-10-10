@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Physiology and conclusion",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-08-09T15:59:20.188280",
-      "status": "reject",
-      "reason": "No specific intelligence provided about business strategy, offers, positioning, or coaching methods—only a vague search query without actual content or findings about how Vince Del Monte helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The simplicity of fitness",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Marketing Personal Training To The Affluent",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-10-10T00:12:47.297214",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 950,
+    "scanned": 951,
     "kept": 122,
-    "rejected": 814,
-    "last_scan": "2026-10-09T20:18:45.039205",
+    "rejected": 815,
+    "last_scan": "2026-10-10T00:13:48.102473",
     "platforms": [
       "YouTube",
       "Google",
