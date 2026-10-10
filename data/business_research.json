@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Give Me 32 Minutes, I'll Show You How To Market Like The Top 1% | Scale or Fail Episode 4",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-08T16:30:45.723858",
-      "status": "keep",
-      "reason": "Alex Hormozi's marketing strategies from top 1% performers provide directly actionable tactics for fitness coaching businesses to improve client acquisition and scaling efficiency.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The reality of burnout",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Don't Give Anyone a Raise Until You Watch This",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-10T12:53:20.175048",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1136,
+    "scanned": 1137,
     "kept": 278,
-    "rejected": 854,
-    "last_scan": "2026-10-10T06:14:12.453380",
+    "rejected": 855,
+    "last_scan": "2026-10-10T12:54:17.640809",
     "platforms": [
       "YouTube",
       "Google",
