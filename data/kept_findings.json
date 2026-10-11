@@ -1052,6 +1052,16 @@
     },
     {
       "source": "YouTube",
+      "title": "How I Built a $10K/Month Personal Training Business",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-11T18:16:23.867068",
+      "status": "keep",
+      "reason": "Local score 2: 0 pain, 1 goal, 1 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Welcome to 7 Figures Scaling System",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2142,18 +2152,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 263,
-    "niche_rejected": 470,
-    "niche_scanned": 734,
+    "niche_kept": 264,
+    "niche_rejected": 471,
+    "niche_scanned": 736,
     "comp_kept": 126,
     "comp_rejected": 831,
     "comp_scanned": 971,
     "busi_kept": 278,
-    "busi_rejected": 858,
-    "busi_scanned": 1140,
-    "last_scan": "2026-10-11T13:18:29.461715",
-    "total_kept": 667,
-    "total_rejected": 2159,
+    "busi_rejected": 859,
+    "busi_scanned": 1141,
+    "last_scan": "2026-10-11T18:19:34.771930",
+    "total_kept": 668,
+    "total_rejected": 2161,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

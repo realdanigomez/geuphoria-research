@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Programming",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-22T07:08:02.590694",
-      "status": "reject",
-      "reason": "Generic title with no specific insight about coach pain points, struggles, or actionable solutions - lacks concrete data about what coaches actually struggle with regarding programming",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Workout Records",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-22T07:08:03.484176",
-      "status": "reject",
-      "reason": "Generic search term with no actual content, data, or insights about specific pain points, struggles, or solutions for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "General Population Clients",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built a $10K/Month Personal Training Business",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-11T18:16:23.867068",
+      "status": "keep",
+      "reason": "Local score 2: 0 pain, 1 goal, 1 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to get clients as an online fitness coach [on ANY social media platform]",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-11T18:16:24.027127",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 734,
-    "kept": 263,
-    "rejected": 470,
-    "last_scan": "2026-10-11T13:16:18.013844",
+    "scanned": 736,
+    "kept": 264,
+    "rejected": 471,
+    "last_scan": "2026-10-11T18:17:24.962741",
     "platforms": [
       "Reddit",
       "YouTube",

@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Thresholds of stress",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-08T20:26:43.930477",
-      "status": "reject",
-      "reason": "Search query alone without actual content or insights; no demonstrated business strategy, entrepreneurship lessons, or actionable intelligence present",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Managing energy and recovery",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I paid Charlie Morgan $78,000... Here's what I learned",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-11T18:18:33.589949",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1140,
+    "scanned": 1141,
     "kept": 278,
-    "rejected": 858,
-    "last_scan": "2026-10-11T13:18:29.457432",
+    "rejected": 859,
+    "last_scan": "2026-10-11T18:19:34.769127",
     "platforms": [
       "YouTube",
       "Google",
