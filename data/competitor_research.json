@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Build Muscle and Lose Fat... at the Same Time! (Strength Circuits)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-08-15T04:57:09.026232",
-      "status": "reject",
-      "reason": "This is consumer fitness content (body composition training), not business intelligence about how to coach online fitness clients or build a coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Working Out with \\",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-15T10:19:40.767117",
-      "status": "reject",
-      "reason": "Finding contains only a search query without actual content, intelligence, or actionable information about Bedros Keuilian's strategies, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Golds Gym",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-15T10:19:41.923320",
-      "status": "reject",
-      "reason": "Gold's Gym is a gym franchise, not a business coach or program for online fitness coaches. The search query mentions Bedros Keuilian but the finding itself contains no actual intelligence about him, his strategies, offers, or content.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Power Bodybuilding",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-15T10:19:42.891349",
-      "status": "reject",
-      "reason": "Finding only mentions a search query name without any actual content, strategy, offers, or business intelligence about Bedros Keuilian or his coaching approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Side Laterals",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-15T10:19:43.837479",
-      "status": "reject",
-      "reason": "This is an exercise tutorial unrelated to fitness business strategy, coaching, or competitive intelligence about fitness business coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Bone Density",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-15T10:19:44.780428",
-      "status": "reject",
-      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Immune system support",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-08-15T17:45:19.056097",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "When To Drink A Protein Shake? (Does protein shake \\",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-08-15T18:55:50.965871",
-      "status": "reject",
-      "reason": "This is generic nutritional content about protein timing, not business intelligence about fitness coaching. The search mention of Vince Del Monte is incidental and doesn't contain actionable strategy, positioning, or offer insights for online fitness coaches building their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Burn Belly Fat FOR GOOD (THE REAL HUNGER GAMES!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Charging 99 Euros A Month: How To Triple Your Coaching Prices: Fitness Business Pricing",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:52.428515",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Current pricing discussion",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:52.587949",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Advice to increase price",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:52.759525",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client excuses and drop-off",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:52.917986",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Demographic and new offer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:53.068996",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Testing higher prices on calls",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:53.214798",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Avoid paid ads, use Zoom",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:53.366861",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI bot language support",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:53.526790",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 971,
-    "kept": 126,
-    "rejected": 831,
-    "last_scan": "2026-10-11T18:18:29.629550",
+    "scanned": 979,
+    "kept": 127,
+    "rejected": 838,
+    "last_scan": "2026-10-11T22:16:51.820924",
     "platforms": [
       "YouTube",
       "Google",

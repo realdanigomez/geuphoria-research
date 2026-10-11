@@ -1452,6 +1452,16 @@
     },
     {
       "source": "YouTube",
+      "title": "Demographic and new offer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-11T22:15:53.068996",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
       "title": "How To Play To Win | Alex \\u0026 Leila Answer Your Questions Live",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2149,21 +2159,31 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "7 Habits of Millionaires - That Most People Learn Too Late",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-11T22:16:58.333348",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 264,
     "niche_rejected": 471,
     "niche_scanned": 736,
-    "comp_kept": 126,
-    "comp_rejected": 831,
-    "comp_scanned": 971,
-    "busi_kept": 278,
-    "busi_rejected": 859,
-    "busi_scanned": 1141,
-    "last_scan": "2026-10-11T18:19:34.771930",
-    "total_kept": 668,
-    "total_rejected": 2161,
+    "comp_kept": 127,
+    "comp_rejected": 838,
+    "comp_scanned": 979,
+    "busi_kept": 279,
+    "busi_rejected": 861,
+    "busi_scanned": 1144,
+    "last_scan": "2026-10-11T22:17:57.141533",
+    "total_kept": 670,
+    "total_rejected": 2170,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
