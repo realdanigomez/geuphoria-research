@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Burn Belly Fat FOR GOOD (THE REAL HUNGER GAMES!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-08-16T11:17:49.462260",
-      "status": "reject",
-      "reason": "This is consumer fitness content about belly fat loss, not business intelligence about coaching competitors or their strategies for building an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Welcome to 7 Figures Scaling System",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-16T21:16:33.657092",
-      "status": "keep",
-      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online fitness coaches scaling strategies; this search indicates direct competitor intelligence on business scaling systems and positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Welcome to 7 Figures Scaling Systems",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-16T21:16:34.594334",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches scaling strategies and business systems—directly relevant to competitive intelligence on coaching programs targeting fitness entrepreneurs.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sharing Exact Blueprints \\u0026 Strategies",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-16T21:16:35.520528",
-      "status": "reject",
-      "reason": "Finding references a search query without providing actual blueprints, strategies, or specific intelligence about Charlie Johnson's business model, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Entrepreneurial Journey",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-16T21:16:36.549397",
-      "status": "reject",
-      "reason": "No actual content provided about Charlie Johnson's business strategy, offers, or methods - only a search query title without substantive intelligence about how he helps fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Three Business Brands",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-16T21:16:37.494848",
-      "status": "reject",
-      "reason": "Search query alone provides no actual content, intelligence, or actionable information about business strategy, offers, or positioning of Charlie Johnson or competitors.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Closing Force: Sales Call Center",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-08-16T21:16:38.548620",
-      "status": "reject",
-      "reason": "Finding contains only a search query without actual intelligence about Charlie Johnson's business strategy, offers, positioning, or coaching content. No actionable competitive insights provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Charlie Johnson Fitness",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Hidden Danger of Moving Your Fitness Business to Dubai: Brand Positioning \\u0026 Networking",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-12T08:34:06.577497",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Negative brand impact for average Joe",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-12T08:34:06.730332",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Positive impact for elite clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-12T08:34:06.870454",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Networking effect in Dubai",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-12T08:34:07.011221",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Geographic centrality for events",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-12T08:34:07.146311",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Knowledge society and environment",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-12T08:34:07.303719",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Environment determines success",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-12T08:34:07.441665",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 979,
-    "kept": 127,
-    "rejected": 838,
-    "last_scan": "2026-10-12T01:33:05.479917",
+    "scanned": 986,
+    "kept": 128,
+    "rejected": 844,
+    "last_scan": "2026-10-12T08:35:04.503263",
     "platforms": [
       "YouTube",
       "Google",

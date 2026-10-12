@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "General Population Clients",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-22T07:08:04.841529",
-      "status": "reject",
-      "reason": "Too vague and broad. Contains no specific data about fitness coaches' actual problems, pain points, or actionable insights—just a search query without findings or analysis.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Struggling to Get Clients for Your Online Fitness Coaching Business? Here’s What I’m Doing!",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-23T03:52:41.347811",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with promised specific tactics/strategies that online fitness coaches actively search for and struggle with",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "he was struggling with online fitness coaching for years until he did this",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-23T03:52:42.466660",
-      "status": "reject",
-      "reason": "Title is clickbait without specific problem or solution details; no actionable intelligence provided about actual pain points, struggles, or solutions for online fitness coaches.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "\\",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-07-23T06:27:46.172932",
-      "status": "reject",
-      "reason": "Generic search query with no substantive data about coach pain points, struggles, or solutions; lacks specific insights into actual problems or business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "From Teacher to $20K a Month Fitness Coach",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-10-12T08:32:57.882016",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 1 Build Your Email List",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-12T08:33:00.783868",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 2 Establish Your Online Footprint",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-12T08:33:00.930089",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step 3 Engage Your Audience",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-12T08:33:01.067571",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 736,
-    "kept": 264,
-    "rejected": 471,
-    "last_scan": "2026-10-12T01:32:01.656154",
+    "scanned": 740,
+    "kept": 265,
+    "rejected": 474,
+    "last_scan": "2026-10-12T08:34:00.652637",
     "platforms": [
       "Reddit",
       "YouTube",
