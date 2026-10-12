@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "From Teacher to $20K a Month Fitness Coach",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-25T18:28:03.860943",
-      "status": "keep",
-      "reason": "Directly addresses income potential and career transition pain point for fitness coaches; likely contains specific strategies for reaching $20K/month milestone that coaches aspire to achieve.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Online Fitness Coach Proved You Don't Need a Big Following to Make $8k/mo | NextGenCEO Testimonial",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2163,17 +2153,17 @@
   ],
   "stats": {
     "niche_kept": 265,
-    "niche_rejected": 474,
-    "niche_scanned": 740,
+    "niche_rejected": 475,
+    "niche_scanned": 741,
     "comp_kept": 128,
     "comp_rejected": 844,
     "comp_scanned": 986,
     "busi_kept": 279,
-    "busi_rejected": 869,
-    "busi_scanned": 1152,
-    "last_scan": "2026-10-12T08:36:09.021246",
+    "busi_rejected": 870,
+    "busi_scanned": 1153,
+    "last_scan": "2026-10-12T18:36:11.450791",
     "total_kept": 672,
-    "total_rejected": 2187,
+    "total_rejected": 2189,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

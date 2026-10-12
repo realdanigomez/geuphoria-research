@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "3 signs you're going to be a successful entrepreneur.",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-11T18:25:53.189973",
-      "status": "reject",
-      "reason": "Title is generic clickbait without actual content provided; search reference alone doesn't confirm the article contains Hormozi's specific frameworks, strategies, or actionable insights needed for business content inspiration.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Master Networking in 22 Minutes",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to work 12+ hrs a day like a millionaire",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-12T18:35:08.745306",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1152,
+    "scanned": 1153,
     "kept": 279,
-    "rejected": 869,
-    "last_scan": "2026-10-12T08:36:09.016600",
+    "rejected": 870,
+    "last_scan": "2026-10-12T18:36:11.142277",
     "platforms": [
       "YouTube",
       "Google",

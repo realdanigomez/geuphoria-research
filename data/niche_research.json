@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "From Teacher to $20K a Month Fitness Coach",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-07-25T18:28:03.860943",
-      "status": "keep",
-      "reason": "Directly addresses income potential and career transition pain point for fitness coaches; likely contains specific strategies for reaching $20K/month milestone that coaches aspire to achieve.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Start an Online Fitness Business (Full Blueprint)",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Your First 10 Online Fitness Coaching Clients (Starting From Zero)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-12T18:32:59.492316",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 740,
+    "scanned": 741,
     "kept": 265,
-    "rejected": 474,
-    "last_scan": "2026-10-12T08:34:00.652637",
+    "rejected": 475,
+    "last_scan": "2026-10-12T18:34:00.205317",
     "platforms": [
       "Reddit",
       "YouTube",
