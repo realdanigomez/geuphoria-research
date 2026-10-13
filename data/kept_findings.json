@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "HOW TO: $0 - $1,000,000 w/ Online Fitness Coaching (Full Case Study)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-07-30T22:02:50.137742",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition and revenue scaling—two core pain points for online fitness coaches—with concrete case study data showing the progression from $0 to $1M, providing actionable benchmarks and strategies.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why people choose who to buy coaching from",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1092,13 +1082,13 @@
     },
     {
       "source": "YouTube",
-      "title": "3 PROVEN Steps to Starting an Online Fitness Business (BIG PROFITS)",
-      "text": "Search: Vince Del Monte fitness coach",
+      "title": "Unfortunately, Online Fitness Coaching Just Changed FOREVER",
+      "text": "Search: online fitness coach struggling",
       "url": "",
-      "time": "2026-08-17T21:50:24.149831",
+      "time": "2026-10-13T16:13:16.247801",
       "status": "keep",
-      "reason": "Direct reference to Vince Del Monte (known fitness business coach) in context of online fitness business launch strategy, likely contains competitive positioning and profit model insights relevant to fitness coaching business builders.",
-      "track": "competitor"
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
     },
     {
       "source": "YouTube",
@@ -1476,6 +1466,36 @@
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
       "time": "2026-10-12T08:34:06.577497",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Explode Your Fitness Business With AI, Long-Form YouTube, and Paid Ads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-13T16:14:26.235164",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client case study videos",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-13T16:14:26.745348",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dubai hack and TikTok",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-13T16:14:27.354690",
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
@@ -2182,18 +2202,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 271,
+    "niche_kept": 272,
     "niche_rejected": 480,
-    "niche_scanned": 752,
-    "comp_kept": 128,
-    "comp_rejected": 844,
-    "comp_scanned": 986,
+    "niche_scanned": 753,
+    "comp_kept": 131,
+    "comp_rejected": 849,
+    "comp_scanned": 994,
     "busi_kept": 279,
     "busi_rejected": 878,
     "busi_scanned": 1161,
-    "last_scan": "2026-10-13T08:06:28.502690",
-    "total_kept": 678,
-    "total_rejected": 2202,
+    "last_scan": "2026-10-13T16:16:30.881542",
+    "total_kept": 682,
+    "total_rejected": 2207,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
