@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Master Networking in 22 Minutes",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-12T14:54:49.422580",
-      "status": "reject",
-      "reason": "Title promises networking guidance but finding only shows a search query for Dan Martell with no actual content, strategies, or actionable insights provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Make Rich Friends",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-12T17:57:31.212562",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provided; no actionable business intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Play To Win | Alex \\u0026 Leila Answer Your Questions Live",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-12T22:11:32.109780",
-      "status": "keep",
-      "reason": "Alex Hormozi Q&A format provides direct access to founder insights on business strategy, scaling, and entrepreneurship that can inform content positioning and business model decisions for fitness coaching operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The truth about making money",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-13T06:57:08.814665",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights provided. Cannot evaluate business value without the substance of what Charlie Morgan actually said or taught.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The path to real wealth",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-13T06:57:09.917941",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or specific business insights provided - cannot evaluate substantive value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Avoiding gambling and shortcuts",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-13T06:57:10.837307",
-      "status": "reject",
-      "reason": "No actual content provided - only a search query without insights, strategies, or substantive business lessons from Charlie Morgan",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The necessity of long-term commitment",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-13T06:57:11.767530",
-      "status": "reject",
-      "reason": "Search query about Charlie Morgan lacks actual content, insights, or specific business strategies to extract actionable intelligence from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The commitment analogy",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "1,000 Hours Of Studying The Best Webinar Funnels In 36 Minutes",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-13T01:07:37.234638",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I Asked Sam Ovens How to Scale My Business Without Hating My Life",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-13T01:07:37.399001",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I’m at Skool HQ (context \\u0026 setup)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-13T01:07:37.562301",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "HQ quick tour",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-13T01:07:37.737869",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Explaining the mood for this interview (authentic, unedited conversation)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-13T01:07:37.902491",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sam's Identity shifts: 2018 vs now",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-13T01:07:38.061870",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Marriage, authenticity, and ditching the “persona”",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-13T01:07:38.234217",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1153,
+    "scanned": 1160,
     "kept": 279,
-    "rejected": 870,
-    "last_scan": "2026-10-12T18:36:11.142277",
+    "rejected": 877,
+    "last_scan": "2026-10-13T01:08:33.377608",
     "platforms": [
       "YouTube",
       "Google",
