@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Trial by Fire: How To Do The Painful Work",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-16T11:45:51.867987",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or actionable strategies provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "You Can't Skip to Feeling Ready, Just Start.",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-16T13:29:54.426460",
-      "status": "reject",
-      "reason": "Title is motivational advice without specific business insights, strategies, or actionable intelligence. No substantive content from Dan Martell provided to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Big Rocks First",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-16T19:45:17.672509",
-      "status": "reject",
-      "reason": "Search query alone provides no specific insights, strategies, or actionable intelligence—just a name with no context, content, or teaching material to extract business value from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Alex Hormozi become a part of Skool | Sam Ovens",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Best AI Strategies by Income Level: $35K, $100K, $1M+",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-14T19:35:53.201031",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Here's My FULL Exact Hiring System In 13 Minutes",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-14T19:35:53.373752",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Might Be Too Smart To Get Rich, Here's How I Fix It",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-14T19:35:53.551812",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1179,
-    "kept": 287,
-    "rejected": 888,
-    "last_scan": "2026-10-14T15:23:17.294027",
+    "scanned": 1182,
+    "kept": 288,
+    "rejected": 890,
+    "last_scan": "2026-10-14T19:36:51.052306",
     "platforms": [
       "YouTube",
       "Google",
