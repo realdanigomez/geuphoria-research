@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The reality of online courses",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-13T06:57:14.591840",
-      "status": "reject",
-      "reason": "Search query without actual content or findings; no specific business insights, strategies, or actionable intelligence present to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "$100M Worth of Marketing Knowledge in 32 Minutes | Scale or Fail",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI Isn't A Tech Problem, It's A Leadership Problem",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-14T00:29:37.701852",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1162,
+    "scanned": 1163,
     "kept": 279,
-    "rejected": 879,
-    "last_scan": "2026-10-13T21:26:59.386478",
+    "rejected": 880,
+    "last_scan": "2026-10-14T00:30:35.459482",
     "platforms": [
       "YouTube",
       "Google",
