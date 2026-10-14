@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Select your learning",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-15T22:48:09.750484",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Dan Martell that could be applied to fitness coaching business model or creator economy",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "AI-powered curriculum",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-15T22:48:10.691256",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies provided - no actionable intelligence to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Study, don't read",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-15T22:48:11.876871",
-      "status": "reject",
-      "reason": "Search query alone without actual content, study methodology, or actionable insights from Dan Martell—no specific business intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Feed your mind",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-15T22:48:12.904764",
-      "status": "reject",
-      "reason": "Search query alone with no substantive content, article, or specific business insight provided to analyze",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Live it and teach it",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-15T22:48:14.028967",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insight from Dan Martell provides no actionable business intelligence or specific strategy to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Forge toward mastery",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-15T22:48:15.254274",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable insight, strategy, or specific business content—just a name without context or substantive information to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How \\",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-08-16T07:29:41.401025",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or substantive information provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Trial by Fire: How To Do The Painful Work",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The gap between laziness and ambition",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-14T10:27:30.065544",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 years of 12+ hour days",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-14T10:27:30.257119",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Work ethic is a habit you build tolerance for",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-14T10:27:30.425200",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Burnout is recovery: your work ethic is a muscle",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-14T10:27:30.601892",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Free AI marketing agency course",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-14T10:27:30.779715",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building the muscle through repeated burnout",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-14T10:27:30.974493",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Put your core needs first so you can work",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-14T10:27:31.167949",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1172,
+    "scanned": 1179,
     "kept": 287,
-    "rejected": 881,
-    "last_scan": "2026-10-14T05:16:19.609658",
+    "rejected": 888,
+    "last_scan": "2026-10-14T10:28:31.452914",
     "platforms": [
       "YouTube",
       "Google",
