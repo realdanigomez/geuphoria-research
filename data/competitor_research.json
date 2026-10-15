@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Blueprint to Stay Lean \\u0026 Jacked After 40 | The Bedros Keuilian Show E0148",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-03T00:29:40.093086",
-      "status": "reject",
-      "reason": "This is a fitness content episode about staying lean after 40, not business strategy or coaching intelligence for online fitness coaches. It lacks actionable business-building insights for fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Welcome",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-03T00:29:41.117096",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or intelligence about Bedros Keuilian's strategy, offers, or positioning that could inform business decisions.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Focus on your body mind",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-03T00:29:42.249197",
-      "status": "reject",
-      "reason": "Contains only a search query for Bedros Keuilian with no actual content, strategy, offers, or actionable intelligence about how he builds his business or coaches online fitness entrepreneurs.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "What works for me",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-03T00:29:43.229342",
-      "status": "reject",
-      "reason": "Finding only shows a search query without actual content, strategy, offers, or positioning information about Bedros Keuilian or how he helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Strip Fat FAST with Barbell Complexes (10x more superior than cardio)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-03T04:55:11.797041",
-      "status": "reject",
-      "reason": "Contains fitness training content (barbell complexes) rather than business intelligence for online fitness coaches. No information about business strategy, positioning, offers, or coaching programs targeting fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Barbell Complex",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-03T04:55:12.808707",
-      "status": "reject",
-      "reason": "Search result title only, no actual content about business strategy, coaching programs, or specific intelligence about how Vince Del Monte helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Romanian Deadlift",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give me 27 minutes and you'll have a $100K/month identity",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T16:16:30.158854",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The $100K/Month Coaching Blueprint",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T16:16:30.354384",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Coaches Get Stuck Scaling",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T16:16:30.555617",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Find the Constraint Killing Your Growth",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T16:16:30.756279",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Lead Generation System That Actually Scales",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T16:16:30.953406",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a Business That Doesn’t Depend on You",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T16:16:31.146735",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1033,
-    "kept": 146,
-    "rejected": 873,
-    "last_scan": "2026-10-15T11:54:58.686881",
+    "scanned": 1039,
+    "kept": 147,
+    "rejected": 878,
+    "last_scan": "2026-10-15T16:17:29.656298",
     "platforms": [
       "YouTube",
       "Google",
