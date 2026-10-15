@@ -2,146 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Spend and ROI breakdown",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-01T18:43:26.550667",
-      "status": "reject",
-      "reason": "Search query alone without actual findings, content, or data about Charlie Johnson's business strategy, offers, or positioning provides no actionable intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "LTV to CAC gap",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-01T18:43:27.666755",
-      "status": "reject",
-      "reason": "Search query alone without actual findings about Charlie Johnson's strategy, offers, positioning, or business model does not constitute actionable intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Pricing mechanics suggestion",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-01T18:43:28.703353",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or specific intelligence about pricing mechanics, strategy, or offers from Charlie Johnson's business coaching approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Selling the higher price",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-01T18:43:29.752768",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, positioning, or actionable intelligence about how fitness business coaches help online coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Price is a mindset issue",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-01T18:43:30.950012",
-      "status": "reject",
-      "reason": "No specific intelligence provided about business strategy, offers, positioning, or coaching methods—only a generic title with no substantive content about how Charlie Johnson or similar coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Exact Blueprint to Hit $100K as a Personal Trainer: Avoid These Mistakes and Scale Online",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:41.585797",
-      "status": "keep",
-      "reason": "Direct intelligence on scaling personal training to $100K+ online from Charlie Johnson, a recognized fitness business coach targeting trainers; likely contains specific strategies, common mistakes, and scaling methodology relevant to online fitness coaching business model.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I'd rebuild from scratch",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:42.570497",
-      "status": "reject",
-      "reason": "Title alone doesn't indicate the content addresses business-building strategies, offers, or positioning for online fitness coaches. Would need to review actual content to confirm relevance.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "My early failure as a PT",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:43.857507",
-      "status": "reject",
-      "reason": "Contains personal anecdote about failure but no specific, actionable intelligence about business strategy, offers, positioning, or methods used by fitness business coaches to help online coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Discovering corporate pain points",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:44.421699",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Listening to real client fears",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:45.109979",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Avoid burnout from overwork",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:45.869294",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Charge your true worth",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:47.077367",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Content as your retirement fund",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-02T12:31:48.005983",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning intelligence about fitness business coaches or their approaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Vince Del Monte Fitness",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-02T19:40:06.876562",
-      "status": "reject",
-      "reason": "Search query alone provides no specific intelligence about business strategy, offers, positioning, or actionable insights for online fitness coaches—only indicates a person exists in the fitness space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Blueprint to Stay Lean \\u0026 Jacked After 40 | The Bedros Keuilian Show E0148",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2859,153 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most Coaches Never Hit 50K (And How to Break Through): Instagram Content Strategy for Fitness Co",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:58.621039",
+      "status": "keep",
+      "reason": "Local score 4: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Video reviews and small tweaks",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:58.786784",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Marketing to women's pain points",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:58.948835",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Content strategy and lead magnets",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:59.109170",
+      "status": "keep",
+      "reason": "Local score 4: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client example nutrition focus",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:59.277950",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Organization and time blocking",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:59.443809",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Structuring your ideal week",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:59.604082",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Trial reels content hack",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-15T11:53:59.763549",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Is a Classic Fitness Academy Certificate worth it?",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-10-15T11:54:30.056861",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Is taking a data analytics course worth it for placement ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-10-15T11:54:30.229881",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "How can a beginner tell whether a digital marketing course ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-10-15T11:54:30.403320",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Has anyone found a chatbot that helps with dealing ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-10-15T11:54:30.548597",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "I'm Matt Rife and I'm single here searching for a good ...",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-10-15T11:54:30.755527",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "Quora",
+      "title": "Which are the most wanted digital products? Please reply.",
+      "text": "Search: online coaching program review site:quora.com",
+      "url": "",
+      "time": "2026-10-15T11:54:30.918792",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1019,
-    "kept": 141,
-    "rejected": 864,
-    "last_scan": "2026-10-15T06:11:48.575822",
+    "scanned": 1033,
+    "kept": 146,
+    "rejected": 873,
+    "last_scan": "2026-10-15T11:54:58.686881",
     "platforms": [
       "YouTube",
       "Google",

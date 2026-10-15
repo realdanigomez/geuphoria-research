@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "This Fitness Coach Stopped Chasing Clients and Grew Faster | John Bezerra",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-07T18:50:54.321276",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition strategy shift—reveals how coaches can improve growth by changing their approach, which is a primary pain point for fitness coaches scaling their business.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Most Online Fitness Coaches FAIL in Winter | How We Stayed Fully Booked All Year | Llew Gibson",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "unfortunately, online fitness coaching just changed forever...",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-10-15T11:52:49.852481",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 785,
-    "kept": 293,
+    "scanned": 786,
+    "kept": 294,
     "rejected": 491,
-    "last_scan": "2026-10-15T06:10:44.574509",
+    "last_scan": "2026-10-15T11:53:52.540807",
     "platforms": [
       "Reddit",
       "YouTube",
