@@ -1682,13 +1682,23 @@
     },
     {
       "source": "YouTube",
-      "title": "These AI Hacks Will Get You Ridiculously Ahead of Most People (Q\\u0026A)",
-      "text": "Search: Dan Martell",
+      "title": "The 4-part system: profile, content, conversations, clients",
+      "text": "Search: Brian Mark fitness coaching",
       "url": "",
-      "time": "2026-08-19T14:31:04.360863",
+      "time": "2026-10-15T22:57:43.617714",
       "status": "keep",
-      "reason": "Dan Martell Q&A on AI productivity hacks provides actionable strategies for business efficiency and competitive advantage that directly applies to scaling a fitness coaching business operations",
-      "track": "business"
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fix your Instagram profile (your storefront)",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-10-15T22:57:43.787827",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
     },
     {
       "source": "YouTube",
@@ -2429,21 +2439,81 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Couldn't Stay Disciplined, I'd Study This for 1 Hour",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-15T22:58:39.557763",
+      "status": "keep",
+      "reason": "Local score 3: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You're Not Behind: My System for Outworking Everyone",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-15T22:58:39.735348",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Can Have Everything You Want in 90 Days | Alex Hormozi Compilation",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-15T22:58:39.875461",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Answer to Organic Growth Is Disgusting Volume",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-15T22:58:40.044566",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How One Recording Session Can Make 150 Ads",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-15T22:58:40.197489",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Eye Opening 20 Minutes Of Your Life | Chris Williamson x Alex Hormozi Motivation",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-15T22:58:40.356675",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 295,
     "niche_rejected": 498,
     "niche_scanned": 794,
-    "comp_kept": 147,
-    "comp_rejected": 878,
-    "comp_scanned": 1039,
-    "busi_kept": 288,
+    "comp_kept": 149,
+    "comp_rejected": 888,
+    "comp_scanned": 1051,
+    "busi_kept": 294,
     "busi_rejected": 892,
-    "busi_scanned": 1184,
-    "last_scan": "2026-10-15T20:00:53.772507",
-    "total_kept": 730,
-    "total_rejected": 2268,
+    "busi_scanned": 1190,
+    "last_scan": "2026-10-15T22:59:43.395123",
+    "total_kept": 738,
+    "total_rejected": 2278,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
