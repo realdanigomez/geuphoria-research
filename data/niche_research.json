@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Most Coaches Fail During Winter",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-08T14:28:24.063855",
-      "status": "keep",
-      "reason": "Addresses seasonal client retention challenges and identifies a specific pain point (winter drop-off) that affects coach revenue and business stability",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How We Built PB Academy to 250+ Clients",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-08T14:28:25.272365",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition strategy and scaling systems for fitness coaches; provides concrete growth metrics and operational insights relevant to their core business challenge of building a sustainable client base.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Understanding the Natural Fitness Demand Curve",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-08T14:28:26.075564",
-      "status": "reject",
-      "reason": "Contains theoretical demand curve concept rather than specific pain points, struggles, or actionable intelligence about online fitness coaches' actual problems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Coaching Businesses Struggle in Winter",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-08T14:28:27.030300",
-      "status": "keep",
-      "reason": "Identifies seasonal revenue patterns and client retention challenges that directly impact coaching business income and client acquisition—critical pain points for scaling operations year-round.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Proof Behind Our Growth Strategy",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-08T14:28:28.083893",
-      "status": "reject",
-      "reason": "Title promises strategy insights but search query alone provides no specific data on fitness coaches' actual struggles, pain points, or actionable intelligence about their problems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The importance of traffic",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-08T22:24:24.829880",
-      "status": "reject",
-      "reason": "Generic topic about traffic with no specific insights into fitness coaches' client acquisition methods, conversion rates, or actual pain points they face",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The three business levers",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-08T22:24:25.970929",
-      "status": "reject",
-      "reason": "Generic business framework lacks specificity to fitness coaching industry; doesn't address actual pain points like client acquisition methods, pricing strategies, or fitness-specific marketing challenges that coaches face.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Focusing on your network",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction to coaching",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-15T19:57:46.178305",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The attract-convert-deliver",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-15T19:57:46.347663",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Picking your niche",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-15T19:57:46.532752",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Creating your offer",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-15T19:57:46.703952",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Using Instagram as a funnel",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-15T19:57:46.878333",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building results and content",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-15T19:57:47.058569",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Essential business systems",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-10-15T19:57:47.238082",
+      "status": "keep",
+      "reason": "Local score 2: 0 pain, 1 goal, 1 identity, 0 journey",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 787,
-    "kept": 294,
-    "rejected": 492,
-    "last_scan": "2026-10-15T16:16:23.511860",
+    "scanned": 794,
+    "kept": 295,
+    "rejected": 498,
+    "last_scan": "2026-10-15T19:58:44.813718",
     "platforms": [
       "Reddit",
       "YouTube",
