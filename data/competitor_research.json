@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "1 Your Circle Matters More Than Ever",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-07T18:05:46.214755",
-      "status": "reject",
-      "reason": "Finding mentions Bedros Keuilian but contains no actual intelligence about his strategy, offers, positioning, or business model—only a search query with no results or analysis provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fitness Model Interview On Fat Loss",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-08T08:34:53.055665",
-      "status": "reject",
-      "reason": "Contains only a generic fitness model interview about fat loss; no business strategy, positioning, or operational intelligence about how fitness coaches build their coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Confusing Clients With Too Many Offers: Fitness Business Scaling \\u0026 Upsell Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:30.968132",
-      "status": "keep",
-      "reason": "Contains specific upsell and scaling strategy from established fitness business coach (Charlie Johnson), directly applicable to online fitness coaching business model and offer structure",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Two ideas for recurring revenue",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:32.171343",
-      "status": "reject",
-      "reason": "Search query alone provides no actual content, strategy, offers, or positioning details about Charlie Johnson's business model or approach to help online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Upselling challenge participants",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:33.139177",
-      "status": "reject",
-      "reason": "Search query alone without findings, content details, strategy, offers, or positioning information does not constitute actionable competitive intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leverage proximity for high ticket",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:34.217101",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual intelligence about strategy, content, offers, or positioning. No substantive competitor data is provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Creating tiered offers",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:35.417718",
-      "status": "reject",
-      "reason": "Title alone indicates general offer structure; no evidence provided that content contains specific intelligence about fitness business coaching, coaches, programs, or their strategies targeting online fitness coaches as clients.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Tracking sales and fixing offer",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:36.425299",
-      "status": "reject",
-      "reason": "Search query alone provides no actual intelligence about offers, strategy, positioning, or business-building content — it's just a search term without findings or analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Presenting new offer tiers",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why 60% of Your Efforts Are Wasted: The 60/20/20 Rule to Scale Your Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:43.931858",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Optimize what's working first",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:44.108834",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Allocate resources wisely",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:44.277731",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Focus on current success",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:44.455559",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Balance new strategies",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:44.629053",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Solve the right problem",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:44.789932",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Key fitness business KPIs",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:44.959657",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Marketing spend guidelines",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T22:29:45.146069",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1059,
+    "scanned": 1067,
     "kept": 153,
-    "rejected": 892,
-    "last_scan": "2026-10-16T19:39:28.867207",
+    "rejected": 900,
+    "last_scan": "2026-10-16T22:30:42.525928",
     "platforms": [
       "YouTube",
       "Google",
