@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "getting rich as f*ck is actually really easy lol",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-19T17:53:27.487632",
-      "status": "reject",
-      "reason": "Title appears clickbait without substantive content; no actual business insights, strategies, or specific lessons provided in the finding itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "You're Leaving Money Behind by Doing THIS",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Story of Sam Ovens.",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-16T01:02:53.285086",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1190,
+    "scanned": 1191,
     "kept": 294,
-    "rejected": 892,
-    "last_scan": "2026-10-15T22:59:43.389047",
+    "rejected": 893,
+    "last_scan": "2026-10-16T01:03:48.025758",
     "platforms": [
       "YouTube",
       "Google",
