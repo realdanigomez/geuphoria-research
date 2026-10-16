@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "HOW TO POSITION THE OFFER",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-05T23:11:35.756957",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy details, or specific positioning intelligence provided. No actionable information about offers, positioning, or business-building strategies included.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "WHAT YOU'LL NEED...",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-05T23:11:36.830228",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, data, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching to analyze.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Ectomorph Workout - Vince Del Monte's 6 Weeks Effective Ectomorph Training Program",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-07T01:13:44.111328",
-      "status": "reject",
-      "reason": "This is about an ectomorph training program for end-users, not intelligence about how fitness coaches build their coaching business. No business strategy, positioning, or offer structure disclosed.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Vince DelMonte Worst of the Fitness Industry",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-07T01:13:45.050091",
-      "status": "reject",
-      "reason": "Contains opinion/criticism rather than specific, actionable intelligence about Vince Del Monte's business strategy, offers, positioning, or methods for coaching online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Vince Del Monte \\",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-07T01:13:46.198777",
-      "status": "reject",
-      "reason": "No specific intelligence provided - only a search query name without strategy, content, offers, positioning, or actionable business insights about how Vince Del Monte helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Broke Men Skip the Gym. Millionaires Don't. Here's Why",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-07T18:05:43.925745",
-      "status": "reject",
-      "reason": "Finding mentions Bedros Keuilian but contains no specific intelligence about his business strategies, offers, positioning, or methods for coaching online fitness coaches—only a generic headline about gym attendance and wealth.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Non Negotiables For Men in Their 40's | EP. 205",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-07T18:05:45.071996",
-      "status": "reject",
-      "reason": "This is a general fitness/health content episode for a consumer audience (men in their 40s), not business intelligence about fitness coaching business builders or their strategies.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "1 Your Circle Matters More Than Ever",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overcome Budget Objections with Case Studies \\u0026 Financing: High-Ticket Coaching Sales Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T19:38:30.374080",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Case study strategy overview",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-16T19:38:30.553740",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The AI coaching blueprint",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-10-16T19:38:33.601686",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Adapting to the AI era",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-10-16T19:38:33.778141",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "My growth journey",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-10-16T19:38:33.951737",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Defining the core strategy",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-10-16T19:38:34.122915",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hyper-specific messaging",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-10-16T19:38:34.293274",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1052,
-    "kept": 149,
-    "rejected": 889,
-    "last_scan": "2026-10-16T16:03:17.291235",
+    "scanned": 1059,
+    "kept": 153,
+    "rejected": 892,
+    "last_scan": "2026-10-16T19:39:28.867207",
     "platforms": [
       "YouTube",
       "Google",
