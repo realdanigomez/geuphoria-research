@@ -1702,16 +1702,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Make the Upsell the Down-Sell",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-19T19:05:47.559506",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist; \"Make the Upsell the Down-Sell\" is a counter-intuitive pricing/positioning strategy that could generate actionable content on sales psychology, product packaging, and customer value perception for coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Think Like The Top 1% | Sales Masterclass",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2509,11 +2499,11 @@
     "comp_rejected": 888,
     "comp_scanned": 1051,
     "busi_kept": 294,
-    "busi_rejected": 893,
-    "busi_scanned": 1191,
-    "last_scan": "2026-10-16T06:08:55.625394",
+    "busi_rejected": 895,
+    "busi_scanned": 1193,
+    "last_scan": "2026-10-16T11:47:09.998870",
     "total_kept": 738,
-    "total_rejected": 2279,
+    "total_rejected": 2281,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

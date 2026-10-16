@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "You're Leaving Money Behind by Doing THIS",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-19T18:31:21.825070",
-      "status": "reject",
-      "reason": "Title is clickbait without substance; no actual content provided to evaluate specific business insights or strategies from Dan Martell",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Make the Upsell the Down-Sell",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-19T19:05:47.559506",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business strategist; \"Make the Upsell the Down-Sell\" is a counter-intuitive pricing/positioning strategy that could generate actionable content on sales psychology, product packaging, and customer value perception for coaching businesses.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Think Like The Top 1% | Sales Masterclass",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Can't Keep Winning Without Knowing Why",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-16T11:46:12.451912",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You're Not Paid To Click, You're Paid To Decide. (How To Use AI)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-16T11:46:12.613978",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1191,
+    "scanned": 1193,
     "kept": 294,
-    "rejected": 893,
-    "last_scan": "2026-10-16T06:08:55.620928",
+    "rejected": 895,
+    "last_scan": "2026-10-16T11:47:09.994651",
     "platforms": [
       "YouTube",
       "Google",
