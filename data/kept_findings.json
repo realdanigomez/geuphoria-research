@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Burnout in Fitness: Recognition, Prevention, and Recovery for Coaches",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-08-11T16:24:26.962864",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout—a critical pain point affecting retention, client quality, and business sustainability; content on recognition and recovery provides actionable frameworks for coaches to implement.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Sell Long-Term Programs To Personal Training Clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-15T12:30:19.613397",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition and revenue optimization—two critical pain points for online fitness coaches seeking to increase lifetime client value and reduce churn through longer commitments.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Get Clients as an Online Coach (Without Paid Ads)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-16T09:50:50.189670",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point (organic growth strategy), a primary struggle for online fitness coaches trying to scale without ad spend",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Scale An Online Fitness Business to $100K A Month - Full Course",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-16T09:50:51.291049",
-      "status": "keep",
-      "reason": "Directly addresses scaling revenue to $100K/month, a primary income goal for online fitness coaches, and search intent confirms target audience actively seeking solutions to growth struggles.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Get Clients as an Online Coach (Without Paid Ads)",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1212,6 +1172,86 @@
     },
     {
       "source": "YouTube",
+      "title": "The Systems Every Online Coach Needs To Avoid Burnout (Week 2/100)",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:15.042936",
+      "status": "keep",
+      "reason": "Local score 3: 1 pain, 1 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Intro and why this conversation matters",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:15.198276",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stoicism, alignment, and emotional control",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:15.336926",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Injury, rehab, and doing what’s actually feasible",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:15.486811",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Redefining strength and anti-fragility",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:15.637549",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Coaching coaches and building CCU with integrity",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:15.811874",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Leadership, roles, and the solitude at the top",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:15.960620",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Failure, risk, and learning through mistakes",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-17T13:26:16.107431",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Vince Del Monte: Built Online Fitness Empire, Pioneered Affiliates, \\u0026 Still Leads the Coaching Game",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -1746,6 +1786,16 @@
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
       "time": "2026-10-16T19:38:34.122915",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How Vince Lost 25 Pounds While Living His BEST Life! | Client Testimonial",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-17T13:27:12.063723",
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
@@ -2502,18 +2552,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 302,
+    "niche_kept": 310,
     "niche_rejected": 501,
-    "niche_scanned": 804,
-    "comp_kept": 153,
-    "comp_rejected": 909,
-    "comp_scanned": 1076,
+    "niche_scanned": 812,
+    "comp_kept": 154,
+    "comp_rejected": 912,
+    "comp_scanned": 1080,
     "busi_kept": 295,
     "busi_rejected": 902,
     "busi_scanned": 1201,
-    "last_scan": "2026-10-17T09:37:16.307845",
-    "total_kept": 750,
-    "total_rejected": 2312,
+    "last_scan": "2026-10-17T13:29:20.821230",
+    "total_kept": 759,
+    "total_rejected": 2315,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
