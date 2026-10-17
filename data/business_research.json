@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Cómo hacer amigos ricos",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-21T11:54:32.553541",
-      "status": "reject",
-      "reason": "Title mentions making rich friends but contains no actual content, strategy, or insights—only a search term for Dan Martell with no substantive business lesson or actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "¿Cuánto tiempo deberías dedicar a la mentalidad y la visualización?",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Hiring Pipeline Breaks at One Step, Here's How to Find It",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-17T16:36:10.835657",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1201,
-    "kept": 295,
+    "scanned": 1202,
+    "kept": 296,
     "rejected": 902,
-    "last_scan": "2026-10-17T13:29:20.818380",
+    "last_scan": "2026-10-17T16:37:09.486727",
     "platforms": [
       "YouTube",
       "Google",

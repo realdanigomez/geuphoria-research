@@ -1252,16 +1252,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Vince Del Monte: Built Online Fitness Empire, Pioneered Affiliates, \\u0026 Still Leads the Coaching Game",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T07:46:49.563150",
-      "status": "keep",
-      "reason": "Vince Del Monte is a direct competitor in the fitness business coaching space with documented empire-building strategies, affiliate program models, and current market positioning that would provide actionable competitive intelligence for an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Scale A Coaching Program To 1000+ Clients In Under 1 Year (WITHOUT ADS!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2549,6 +2539,16 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Hiring Pipeline Breaks at One Step, Here's How to Find It",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-17T16:36:10.835657",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2556,14 +2556,14 @@
     "niche_rejected": 501,
     "niche_scanned": 812,
     "comp_kept": 154,
-    "comp_rejected": 912,
-    "comp_scanned": 1080,
-    "busi_kept": 295,
+    "comp_rejected": 916,
+    "comp_scanned": 1084,
+    "busi_kept": 296,
     "busi_rejected": 902,
-    "busi_scanned": 1201,
-    "last_scan": "2026-10-17T13:29:20.821230",
-    "total_kept": 759,
-    "total_rejected": 2315,
+    "busi_scanned": 1202,
+    "last_scan": "2026-10-17T16:37:09.489754",
+    "total_kept": 760,
+    "total_rejected": 2319,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
