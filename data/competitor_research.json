@@ -2,96 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Presenting new offer tiers",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:37.499387",
-      "status": "reject",
-      "reason": "Search query alone without actual content about offer structure, positioning, or business strategy details provides no actionable intelligence about competitor offerings or tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Simplify to one offer",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-08T13:18:38.670185",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy details, offers, or positioning information about Charlie Johnson's business coaching approach provides no actionable intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Best Weight Loss Exercises",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-08T20:03:45.386596",
-      "status": "reject",
-      "reason": "This is a generic weight loss exercise article with only a search mention of Vince Del Monte, containing no actionable business strategy, positioning, offer structure, or community intelligence about coaching business builders.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Market And Grow A Fitness Business (Trifecta Factor Webinar)",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-09T01:02:21.259824",
-      "status": "keep",
-      "reason": "Bedros Keuilian is a primary competitor in fitness business coaching; a webinar on marketing and growing a fitness business from this source would contain direct strategy and positioning intelligence applicable to online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Say you wanna make $250K in a year... what does that mean?",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-09T01:02:22.296640",
-      "status": "reject",
-      "reason": "Finding contains only a search query without actual content, strategy, positioning, or actionable intelligence about how fitness business coaches help online coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Are you willing to put the hard work in to get the business that you want?",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-09T01:02:23.281231",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning details about Bedros Keuilian or his business coaching approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Trifecta Factor",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-09T01:02:24.465793",
-      "status": "reject",
-      "reason": "Finding only contains a search query with no actual content, strategy, offer details, or intelligence about the competitor's business model or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Control Your Mindset",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-09T01:02:25.337130",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual intelligence about Bedros Keuilian's strategy, content, offers, or positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Failure only comes from two places...",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-09T01:02:26.343979",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about the competitor or their business approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Holy Hamstrings! The Best Technique to Build Your Hamstrings",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2909,103 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Check Me Out On Facebook!",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-17T09:35:09.813840",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Doing Your Own Laundry Keeps You Poor: The 50% Rule for Scaling Your Fitness Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:15.241613",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Get out of fulfillment and scale",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:15.378345",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "DM ads and hiring coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:15.523368",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales team and paid shout-outs",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:15.652748",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hire VA and editor",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:15.785813",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dubai tax and networking",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:15.916744",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Motivating environment",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:16.048522",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Efficient lifestyle",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T09:35:16.174259",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1067,
+    "scanned": 1076,
     "kept": 153,
-    "rejected": 900,
-    "last_scan": "2026-10-17T05:19:34.861349",
+    "rejected": 909,
+    "last_scan": "2026-10-17T09:36:13.040975",
     "platforms": [
       "YouTube",
       "Google",
