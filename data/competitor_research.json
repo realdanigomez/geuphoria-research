@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Introduction",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T07:46:50.405384",
-      "status": "reject",
-      "reason": "Search query alone provides no actual intelligence about strategy, content, offers, or positioning—it's just a search term without findings or data.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "From distance runner to personal trainer to top gym salesman",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T07:46:51.244195",
-      "status": "reject",
-      "reason": "Contains biographical information about Vince Del Monte but no specific intelligence about his business strategies, coaching programs, positioning, or offers for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Discovering internet marketing and ebooks",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T07:46:52.137051",
-      "status": "reject",
-      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The birth of No-Nonsense Muscle Building",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T07:46:53.064665",
-      "status": "reject",
-      "reason": "Contains only a title and search query with no actual content, strategy, offers, or positioning details about Vince Del Monte's business approach.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "His first years of internet marketing",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T07:46:53.908482",
-      "status": "reject",
-      "reason": "Finding only mentions a search query without providing actual content, strategy details, or actionable intelligence about how Vince Del Monte builds his fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How he scaled through customer feedback and product layering",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T07:46:54.913113",
-      "status": "reject",
-      "reason": "Title promises scaling strategy but no actual content provided to evaluate specifics on business model, offers, or positioning tactics that would be actionable for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "My diet",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-11T19:27:01.141493",
-      "status": "reject",
-      "reason": "Contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Scale A Coaching Program To 1000+ Clients In Under 1 Year (WITHOUT ADS!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-11T21:51:08.581727",
-      "status": "keep",
-      "reason": "Directly addresses scaling strategies for coaching programs without paid advertising, which is core business intelligence for online fitness coaches seeking growth methodologies from established mentors like Vince Del Monte.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Bet On Yourself",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The AI VSL Conversion Machine: How to Turn $1 Into $3 With Paid Ads for Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:00.657611",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction and overview",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:00.804485",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Follow-up funnel strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:00.953594",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spiderweb opt-in technique",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:01.095287",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI VSL conversion machine",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:01.231899",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Influence engine explained",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:01.379615",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Warm vs cold audiences",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:01.521581",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Key ad metrics setup",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-17T21:24:01.663518",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1084,
-    "kept": 154,
-    "rejected": 916,
-    "last_scan": "2026-10-17T19:02:14.536872",
+    "scanned": 1092,
+    "kept": 158,
+    "rejected": 920,
+    "last_scan": "2026-10-17T21:24:59.764771",
     "platforms": [
       "YouTube",
       "Google",
