@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Setting revenue goals",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-08T22:24:30.650552",
-      "status": "reject",
-      "reason": "Generic revenue goal-setting advice is not specific to fitness coaches' actual pain points; the search query \"fitness coach getting clients\" suggests content about client acquisition but the title doesn't indicate it addresses *how* coaches actually acquire clients or overcome their specific bottlenecks.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leveraging your warm network",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-08T22:24:31.688024",
-      "status": "reject",
-      "reason": "Generic networking advice without fitness-coach-specific insights, client acquisition methods, or conversion strategies that would address how coaches actually build their warm network",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Finding your dream 25",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get, Keep, and Multiply Personal Training or Gym Clients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-17T05:17:30.495765",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "intro, recap of the last episode, How to be Known for Something",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-17T05:17:30.670766",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 795,
+    "scanned": 797,
     "kept": 295,
-    "rejected": 499,
-    "last_scan": "2026-10-17T00:43:38.716521",
+    "rejected": 501,
+    "last_scan": "2026-10-17T05:18:30.944922",
     "platforms": [
       "Reddit",
       "YouTube",
