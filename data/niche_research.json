@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Get Clients as an Online Coach (Without Paid Ads)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-16T09:50:54.971474",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition—a primary pain point for online fitness coaches—with organic strategy alternatives to paid ads, offering cost-effective scaling methods relevant to bootstrapped coaches.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Built a 7-Figure Coaching Business Without Paid Ads",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-16T11:16:47.614589",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition (major pain point) with a proven business model; \"7-figure\" outcome signals scaling success that coaches aspire to replicate, likely contains systems/strategies beyond paid ads that are highly relevant to bootstrapped fitness coaches.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "LIVE: ASK ME ANYTHING — BODYBUILDING, TRAINING \\u0026 NUTRITION",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-16T19:18:43.360768",
-      "status": "reject",
-      "reason": "Generic Q&A content about bodybuilding/nutrition lacks specific intelligence about fitness coach business models, client acquisition, marketing systems, or scaling challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The end of personal training",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-19T06:37:46.754008",
-      "status": "reject",
-      "reason": "Generic article title lacks specific data about coach pain points, struggles, or business challenges; \"struggling\" search term alone doesn't indicate the content addresses concrete problems like client acquisition costs, retention rates, income metrics, or scalability issues that would inform business decisions.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Weight loss drugs threat",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-19T06:37:47.992831",
-      "status": "reject",
-      "reason": "Contains no specific data about fitness coaches' actual pain points, struggles, or challenges—only a vague title with no substantive content about their business, marketing, client acquisition, or operational issues.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "AI agents taking over",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-19T06:37:48.944416",
-      "status": "reject",
-      "reason": "Too vague and sensationalist; contains no specific data about fitness coaches' actual struggles, pain points, or actionable insights into their real problems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Industry saturation",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "keep",
       "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "ONLINE TRAINER: You ONLY Fail in your Fitness Business When",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-10-17T23:17:44.269446",
+      "status": "keep",
+      "reason": "Local score 4: 1 pain, 0 goal, 2 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "5 ways to maximise client retention",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-17T23:17:47.176230",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why client retention matters",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-17T23:17:47.339137",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Future pacing",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-17T23:17:47.490391",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Education",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-17T23:17:47.636133",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The result",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-17T23:17:47.776207",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 812,
-    "kept": 310,
-    "rejected": 501,
-    "last_scan": "2026-10-17T21:23:54.081801",
+    "scanned": 818,
+    "kept": 311,
+    "rejected": 506,
+    "last_scan": "2026-10-17T23:18:48.344588",
     "platforms": [
       "Reddit",
       "YouTube",
