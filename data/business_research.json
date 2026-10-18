@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Alex Hormozi Answers Your Questions.",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-27T10:08:39.836350",
-      "status": "reject",
-      "reason": "Search result page without actual content; no specific insights, strategies, or actionable intelligence provided to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How Gallo Went From $20k/mo to $130k/mo in 11 months! (Coaching Offer)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-27T20:41:42.499273",
-      "status": "keep",
-      "reason": "Documents proven revenue scaling methodology (6.5x growth in 11 months) from Charlie Morgan, influential business/coaching figure; provides specific case study for coaching offer optimization that directly applies to fitness coaching business model and pricing strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Most Productive Thing Is to Stop Doing It",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-08-27T20:41:46.360687",
-      "status": "reject",
-      "reason": "Search result only shows a title and creator name without actual content, strategy, or actionable insights to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Everything I Learned From Dolly Parton's Personal Brand",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-28T17:37:15.556970",
-      "status": "reject",
-      "reason": "Contains no specific business strategies, actionable insights, or frameworks; appears to be generic personal brand commentary rather than substantive business intelligence or creator economy guidance relevant to fitness coaching content.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Brutally Honest Advice On Life \\u0026 Death",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-28T17:37:16.962246",
-      "status": "reject",
-      "reason": "Title suggests life philosophy content, but no excerpt provided to verify it contains specific business strategies, entrepreneurship lessons, or actionable intelligence relevant to fitness coaching business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "I Live Streamed For 30 Days. Here's What I Learned.",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-29T01:27:54.676571",
-      "status": "reject",
-      "reason": "Title suggests personal experiment narrative without indication of specific business strategies, metrics, or actionable insights that would directly benefit fitness coaching business model or creator strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If I Started A Personal Brand In 2026, I'd Do This - Dolly Parton",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Step By Step How I'd Make $1,000,000 While Working 9-5",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-18T20:59:27.718004",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "it's time to finally expose Charlie Morgan",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-18T20:59:27.867390",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why most people fail",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-18T20:59:28.128610",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What happens after failure",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-18T20:59:28.266868",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Creating problems",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-18T20:59:28.407866",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Don't Need Hundreds of Meetings To Grow Your Business",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-18T20:59:31.328087",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1216,
+    "scanned": 1222,
     "kept": 300,
-    "rejected": 912,
-    "last_scan": "2026-10-18T18:17:47.686581",
+    "rejected": 918,
+    "last_scan": "2026-10-18T21:00:28.539534",
     "platforms": [
       "YouTube",
       "Google",
