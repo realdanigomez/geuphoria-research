@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Started A Personal Brand In 2026, I'd Do This - Dolly Parton",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-29T01:27:55.932503",
-      "status": "reject",
-      "reason": "Title mentions Dolly Parton personal branding advice, but the search query for Alex Hormozi suggests content mismatch; no specific business strategies, frameworks, or actionable intelligence from either source is described in the finding.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How I'm Finding Fulfillment in 2026",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Don't Need Meetings To Grow Your Business",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-19T22:49:42.915176",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1222,
+    "scanned": 1223,
     "kept": 300,
-    "rejected": 918,
-    "last_scan": "2026-10-19T18:50:19.247318",
+    "rejected": 919,
+    "last_scan": "2026-10-19T22:50:40.221532",
     "platforms": [
       "YouTube",
       "Google",
