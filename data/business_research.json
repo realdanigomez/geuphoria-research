@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How I'm Finding Fulfillment in 2026",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-29T01:27:57.139033",
-      "status": "reject",
-      "reason": "Title suggests personal reflection piece rather than business strategy; search term indicates user was looking for Hormozi content but finding doesn't confirm it contains his actual insights or actionable business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If You Have a Service Business, Here's How To Get Rich In 2026",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴Every Day Live 10 am Church | [ 20 - 10 - 2026 ] #Live |  Br. Sam Ovens  #brSamOvens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-20T07:09:19.026678",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1223,
+    "scanned": 1224,
     "kept": 300,
-    "rejected": 919,
-    "last_scan": "2026-10-20T01:35:38.824968",
+    "rejected": 920,
+    "last_scan": "2026-10-20T07:10:14.027229",
     "platforms": [
       "YouTube",
       "Google",

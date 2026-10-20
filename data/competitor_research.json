@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why Most Trainers Never Make Real Money: The 3-Step Blueprint To $100k/Month",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-12T17:47:47.367786",
-      "status": "keep",
-      "reason": "This is directly relevant competitor intelligence on Charlie Johnson, a known fitness business coach targeting online coaches, with a specific monetization framework ($100k/month blueprint) that reveals positioning and revenue model strategy.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Escape stuck and broke mindset",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-12T17:47:48.178468",
-      "status": "reject",
-      "reason": "Contains only a search query without actual content, findings, or actionable intelligence about business strategy, offers, or positioning",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "One person, one pain point",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-12T17:47:48.997527",
-      "status": "reject",
-      "reason": "Finding contains only a search query without any actual intelligence about strategy, content, offers, or positioning from Charlie Johnson or competitors.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Build an offer that sells",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-12T17:47:49.804488",
-      "status": "reject",
-      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's offer strategy, positioning, or business model prevents actionable analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Create a unique mechanism",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-12T17:47:50.893458",
-      "status": "reject",
-      "reason": "Search query alone without actual findings, strategy details, offers, or positioning information about Charlie Johnson or his business coaching approach. No actionable intelligence provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Price for premium clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-12T17:47:51.715558",
-      "status": "reject",
-      "reason": "Search query alone without findings, strategy details, pricing information, or business intelligence about Charlie Johnson's coaching approach or offers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Build authority with content",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-12T17:47:52.749346",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy details, or specific business intelligence about how Charlie Johnson builds authority or coaches fitness professionals",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Post more, get more traffic",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I Give Away 3 Months Free Coaching: Black Friday Offer Strategy That 2.5x'd My Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T07:08:11.089987",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building relatability and trust",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T07:08:11.284954",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Setting ambitious Black Friday goals",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T07:08:11.433473",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Creating a crazy scalable offer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T07:08:11.606606",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Giving away bonus coaching months",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T07:08:11.787814",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ensuring 80% profit margins",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T07:08:11.957844",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Adding VIP calls and transformations",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T07:08:12.140985",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1093,
-    "kept": 158,
-    "rejected": 921,
-    "last_scan": "2026-10-20T01:34:34.217768",
+    "scanned": 1100,
+    "kept": 161,
+    "rejected": 925,
+    "last_scan": "2026-10-20T07:09:09.750804",
     "platforms": [
       "YouTube",
       "Google",
