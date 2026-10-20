@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "As a fitness coach what shall i post to get clients?",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-19T16:57:13.726854",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with search intent showing coaches actively seeking posting strategies, revealing gap in content/marketing knowledge for this audience",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Shall i dm to get clients as a online fitness coach",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-19T17:51:12.587139",
-      "status": "keep",
-      "reason": "Direct evidence of a core pain point (client acquisition) that online fitness coaches actively seek solutions for, indicating high commercial intent and search demand around this specific problem.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why You’re Not Seeing Results (According to 10 Years as Online Coaches)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-19T23:19:09.688767",
-      "status": "keep",
-      "reason": "Directly addresses client results issues which impacts coach credibility, retention, and referrals—core revenue drivers for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Cómo ayudar a un entrenador de fitness online a conseguir clientes a través del contenido",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1822,13 +1792,13 @@
     },
     {
       "source": "YouTube",
-      "title": "If You Have a Service Business, Here's How To Get Rich In 2026",
-      "text": "Search: Alex Hormozi",
+      "title": "How a White Coach Tripled His Income Selling to South Asians: Content Strategy \\u0026 High-Ticket Pricing",
+      "text": "Search: Charlie Johnson fitness business",
       "url": "",
-      "time": "2026-08-29T13:57:27.538437",
+      "time": "2026-10-20T12:51:52.226716",
       "status": "keep",
-      "reason": "Alex Hormozi content on service business monetization strategies directly applies to fitness coaching business models and revenue scaling tactics",
-      "track": "business"
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
     },
     {
       "source": "YouTube",
@@ -2543,17 +2513,17 @@
   ],
   "stats": {
     "niche_kept": 311,
-    "niche_rejected": 508,
-    "niche_scanned": 820,
-    "comp_kept": 161,
-    "comp_rejected": 925,
-    "comp_scanned": 1100,
+    "niche_rejected": 514,
+    "niche_scanned": 826,
+    "comp_kept": 162,
+    "comp_rejected": 926,
+    "comp_scanned": 1102,
     "busi_kept": 300,
-    "busi_rejected": 920,
-    "busi_scanned": 1224,
-    "last_scan": "2026-10-20T07:10:14.031414",
-    "total_kept": 772,
-    "total_rejected": 2353,
+    "busi_rejected": 922,
+    "busi_scanned": 1226,
+    "last_scan": "2026-10-20T12:53:56.245389",
+    "total_kept": 773,
+    "total_rejected": 2362,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

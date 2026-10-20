@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If You Have a Service Business, Here's How To Get Rich In 2026",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-29T13:57:27.538437",
-      "status": "keep",
-      "reason": "Alex Hormozi content on service business monetization strategies directly applies to fitness coaching business models and revenue scaling tactics",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intro: Welcome to Scale or Fail",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-29T13:57:28.548662",
-      "status": "reject",
-      "reason": "Search query alone without actual content, transcript, or specific insights to extract. No actionable business intelligence present.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Kaleb's Roofing Company",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to make more money with AI (for every income level)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-20T12:52:57.511226",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "One Word Creates 200M+ Views On My Content",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-20T12:52:57.670124",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1224,
+    "scanned": 1226,
     "kept": 300,
-    "rejected": 920,
-    "last_scan": "2026-10-20T07:10:14.027229",
+    "rejected": 922,
+    "last_scan": "2026-10-20T12:53:56.242218",
     "platforms": [
       "YouTube",
       "Google",
