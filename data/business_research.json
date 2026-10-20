@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Kaleb's Roofing Company",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-29T13:57:29.477157",
-      "status": "reject",
-      "reason": "Contains only a company name and search term with no actual content, insights, strategies, or substantive business information to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Fix: Raising Average Ticket Sales",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-29T13:57:30.610992",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights provided—no actionable intelligence or specific business strategy to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Fix: Systematize with VSLs",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give me 16 mins, you'll never doomscroll again",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-20T21:14:36.276722",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "$100M CEO: Brutal Life Lessons I Wish I Knew Earlier",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-20T21:14:39.229391",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1226,
+    "scanned": 1228,
     "kept": 300,
-    "rejected": 922,
-    "last_scan": "2026-10-20T17:48:14.831157",
+    "rejected": 924,
+    "last_scan": "2026-10-20T21:15:36.975279",
     "platforms": [
       "YouTube",
       "Google",

@@ -1202,6 +1202,16 @@
     },
     {
       "source": "YouTube",
+      "title": "11 Years Of Online Fitness Coaching Knowledge In 29 Minutes",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-10-20T21:12:25.763919",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Instagram Trial Reels, Organic Growth \\u0026 Content Strategy",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2512,18 +2522,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 311,
+    "niche_kept": 312,
     "niche_rejected": 514,
-    "niche_scanned": 826,
+    "niche_scanned": 827,
     "comp_kept": 166,
     "comp_rejected": 929,
     "comp_scanned": 1109,
     "busi_kept": 300,
-    "busi_rejected": 922,
-    "busi_scanned": 1226,
-    "last_scan": "2026-10-20T17:48:14.833912",
-    "total_kept": 777,
-    "total_rejected": 2365,
+    "busi_rejected": 924,
+    "busi_scanned": 1228,
+    "last_scan": "2026-10-20T21:15:36.977968",
+    "total_kept": 778,
+    "total_rejected": 2367,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
