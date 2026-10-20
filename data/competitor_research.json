@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "State Of Mind",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-13T14:36:46.771564",
-      "status": "reject",
-      "reason": "Search query alone provides no actual intelligence about Bedros Keuilian's strategy, content, offers, or positioning—it's just a search term without findings or analysis.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Start an Online Fitness Coaching Business in 2024",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:50.628777",
-      "status": "reject",
-      "reason": "Title is generic how-to content about starting a fitness coaching business; no evidence it contains specific intelligence about business coaches, their strategies, offers, or positioning for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "This Viral Fitness Coach Asked Me How To Hit $100k/mo (Live Consult)",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:51.743207",
-      "status": "keep",
-      "reason": "Direct insight into high-level fitness business coaching strategies and monetization tactics from a recognized business coach in the space, likely containing specific frameworks or offers relevant to scaling online coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Scaling an Online Fitness Coaching Business to $100K/Month",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:53.012701",
-      "status": "keep",
-      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online fitness coaches scaling strategies; this search directly identifies a key competitor in the fitness coaching business education space with content on high-revenue business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building a High-Ticket Fitness Coaching Offer \\u0026 Pricing Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:53.959554",
-      "status": "keep",
-      "reason": "Charlie Johnson is a established fitness business coach who teaches high-ticket offer creation and pricing strategy—directly relevant competitive intelligence for online fitness coaches building their business model.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sales Calls, Lead Qualification \\u0026 Closing High-Ticket Clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:55.073180",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches high-ticket sales and lead qualification to online fitness coaches; this resource directly addresses business-building skills for that target market.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Using AI to Find Your Ideal Client \\u0026 Improve Instagram Marketing",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:55.980543",
-      "status": "reject",
-      "reason": "Title describes general Instagram marketing and AI tactics, not specific business-building strategies or offers from Charlie Johnson targeted at online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Instagram Trial Reels, Organic Growth \\u0026 Content Strategy",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Speedrunning a $10k/Month Online Coaching Business (LIVE)",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:09.488267",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building the Right Online Coaching Offer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:09.644054",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Your Content Isn’t Getting Attention",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:09.782314",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Instagram Strategy That Drives More Reach",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:09.944656",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Turning Followers Into High-Ticket Clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:10.097714",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 8-Week Plan to Scale the Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:10.262248",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Posting Generic Content: How To Build A Personal Brand That Attracts High-Paying Fitness Coache",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:10.426499",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1102,
-    "kept": 162,
-    "rejected": 926,
-    "last_scan": "2026-10-20T12:52:50.950435",
+    "scanned": 1109,
+    "kept": 166,
+    "rejected": 929,
+    "last_scan": "2026-10-20T17:47:08.734963",
     "platforms": [
       "YouTube",
       "Google",

@@ -1202,46 +1202,6 @@
     },
     {
       "source": "YouTube",
-      "title": "This Viral Fitness Coach Asked Me How To Hit $100k/mo (Live Consult)",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:51.743207",
-      "status": "keep",
-      "reason": "Direct insight into high-level fitness business coaching strategies and monetization tactics from a recognized business coach in the space, likely containing specific frameworks or offers relevant to scaling online coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Scaling an Online Fitness Coaching Business to $100K/Month",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:53.012701",
-      "status": "keep",
-      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online fitness coaches scaling strategies; this search directly identifies a key competitor in the fitness coaching business education space with content on high-revenue business models.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building a High-Ticket Fitness Coaching Offer \\u0026 Pricing Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:53.959554",
-      "status": "keep",
-      "reason": "Charlie Johnson is a established fitness business coach who teaches high-ticket offer creation and pricing strategy—directly relevant competitive intelligence for online fitness coaches building their business model.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sales Calls, Lead Qualification \\u0026 Closing High-Ticket Clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:55.073180",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches high-ticket sales and lead qualification to online fitness coaches; this resource directly addresses business-building skills for that target market.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Instagram Trial Reels, Organic Growth \\u0026 Content Strategy",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1798,6 +1758,46 @@
       "time": "2026-10-20T12:51:52.226716",
       "status": "keep",
       "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building the Right Online Coaching Offer",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:09.644054",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Your Content Isn’t Getting Attention",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:09.782314",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Instagram Strategy That Drives More Reach",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:09.944656",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Stop Posting Generic Content: How To Build A Personal Brand That Attracts High-Paying Fitness Coache",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-20T17:46:10.426499",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
     },
     {
@@ -2515,15 +2515,15 @@
     "niche_kept": 311,
     "niche_rejected": 514,
     "niche_scanned": 826,
-    "comp_kept": 162,
-    "comp_rejected": 926,
-    "comp_scanned": 1102,
+    "comp_kept": 166,
+    "comp_rejected": 929,
+    "comp_scanned": 1109,
     "busi_kept": 300,
     "busi_rejected": 922,
     "busi_scanned": 1226,
-    "last_scan": "2026-10-20T12:53:56.245389",
-    "total_kept": 773,
-    "total_rejected": 2362,
+    "last_scan": "2026-10-20T17:48:14.833912",
+    "total_kept": 777,
+    "total_rejected": 2365,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
