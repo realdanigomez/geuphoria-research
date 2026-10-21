@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Entrenamiento de hombros para DEFINIRTE (¡MINI RUTINA, MÁXIMOS RESULTADOS!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-16T09:03:39.564484",
-      "status": "reject",
-      "reason": "This is a Spanish-language shoulder workout video for fitness clients, not competitive intelligence about fitness business coaches or their strategies for building coaching businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Rutina para perder grasa y ganar músculo (¡DIFERENTE! ¡MÁS DIFÍCIL! ¡MEJOR!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-16T09:03:40.856856",
-      "status": "reject",
-      "reason": "Content is a Spanish-language workout routine for fat loss and muscle gain; no business strategy, coaching methods, or competitive intelligence about fitness business coaches present despite Vince Del Monte being mentioned in the search query.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "¡Los 5 MEJORES ejercicios para QUEMAR GRASA para HOMBRES! (¡PIERDE PESO RÁPIDO!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Sell A High Ticket Fitness Coaching Program Without Sales Calls In 2024 - Vince Del Monte",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-21T22:39:09.290402",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Rebuild Confidence After You've Hit Rock Bottom",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-21T22:39:09.474944",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1120,
-    "kept": 172,
-    "rejected": 934,
-    "last_scan": "2026-10-21T19:32:02.870623",
+    "scanned": 1122,
+    "kept": 173,
+    "rejected": 935,
+    "last_scan": "2026-10-21T22:40:12.502455",
     "platforms": [
       "YouTube",
       "Google",
