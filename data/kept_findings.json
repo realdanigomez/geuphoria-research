@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Cómo ayudar a un entrenador de fitness online a conseguir clientes a través del contenido",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-21T11:52:11.388239",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for online fitness coaches through content strategy, which is a primary revenue and scaling challenge for the niche",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Cómo conseguir clientes como entrenador personal online (¡Es fácil!)",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2563,17 +2553,17 @@
   ],
   "stats": {
     "niche_kept": 312,
-    "niche_rejected": 514,
-    "niche_scanned": 827,
+    "niche_rejected": 518,
+    "niche_scanned": 831,
     "comp_kept": 172,
-    "comp_rejected": 931,
-    "comp_scanned": 1117,
+    "comp_rejected": 932,
+    "comp_scanned": 1118,
     "busi_kept": 300,
-    "busi_rejected": 925,
-    "busi_scanned": 1229,
-    "last_scan": "2026-10-21T10:28:21.268991",
+    "busi_rejected": 928,
+    "busi_scanned": 1232,
+    "last_scan": "2026-10-21T15:31:21.378689",
     "total_kept": 784,
-    "total_rejected": 2370,
+    "total_rejected": 2378,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

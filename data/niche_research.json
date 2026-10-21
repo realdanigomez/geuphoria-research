@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Calorie tracking for fat loss and muscle gain",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-19T23:19:13.055152",
-      "status": "reject",
-      "reason": "Finding discusses calorie tracking mechanics rather than online coach pain points; the search query doesn't validate that results address coach-specific struggles like client retention, pricing strategy, or business scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Flexible dieting and sustainable nutrition",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-19T23:19:14.083039",
-      "status": "reject",
-      "reason": "Generic nutrition topic without specific insights into fitness coach pain points, business challenges, or operational struggles",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Become A Successful Personal Trainer In 2026",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-20T18:33:27.121292",
-      "status": "reject",
-      "reason": "Generic \"how to become\" advice lacks specific insights into online coaches' actual pain points (client acquisition strategies, pricing models, automation systems, scaling challenges) and appears to be surface-level content rather than deep intel on their struggles.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Cómo ayudar a un entrenador de fitness online a conseguir clientes a través del contenido",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-21T11:52:11.388239",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for online fitness coaches through content strategy, which is a primary revenue and scaling challenge for the niche",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Cómo conseguir clientes como entrenador personal online (¡Es fácil!)",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to get high-ticket coaching clients on LinkedIn",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-21T15:28:10.661421",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pricing Your Coaching Offers",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-21T15:28:10.867572",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Common Mistakes to Avoid on LinkedIn",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-21T15:28:11.267906",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Understanding LinkedIn's Unique Audience",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-21T15:28:11.447965",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 827,
+    "scanned": 831,
     "kept": 312,
-    "rejected": 514,
-    "last_scan": "2026-10-21T10:26:12.489510",
+    "rejected": 518,
+    "last_scan": "2026-10-21T15:29:11.728216",
     "platforms": [
       "Reddit",
       "YouTube",
