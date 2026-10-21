@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Instagram Trial Reels, Organic Growth \\u0026 Content Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:56.905534",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches content strategy and organic growth—directly relevant for understanding competitor positioning and tactics in the space.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Client Retention, Community \\u0026 Hiring Online Fitness Coaches",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T14:36:58.176998",
-      "status": "keep",
-      "reason": "Charlie Johnson is a recognized fitness business coach who teaches online coaches about client retention, community building, and hiring strategies—direct competitor intelligence on business model and tactics.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Being a Dancing Monkey: Why Authentic Content Beats Viral Gimmicks for Coaching",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T17:55:20.316038",
-      "status": "reject",
-      "reason": "Title suggests general content advice rather than specific intelligence about business strategy, offers, or positioning from fitness business coaches targeting online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Critique of high-ticket coaching",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T17:55:21.327303",
-      "status": "reject",
-      "reason": "Finding contains only a search query without actual content, strategy, offers, or positioning intelligence about how Charlie Johnson or others help online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Selling laziness vs real growth",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T17:55:22.563528",
-      "status": "reject",
-      "reason": "Title alone doesn't indicate specific business strategy, offers, or positioning details about Charlie Johnson's coaching approach; would need actual content analyzing his methods, pricing model, or business framework to be actionable.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Organic content and brand identity",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-13T17:55:23.516922",
-      "status": "reject",
-      "reason": "Search query alone with no actual findings, content, strategy details, or actionable intelligence about how Charlie Johnson or competitors build their fitness coaching business",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Paid traffic systems don't work",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Virtual Fitness Coaching: 4 Types, Costs, and How to Choose",
+      "text": "Search: online fitness coach program site:linkedin.com",
+      "url": "",
+      "time": "2026-10-21T00:01:45.846510",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Online Fitness Coaching Revolutionized by AI | James Smith ...",
+      "text": "Search: online fitness coach program site:linkedin.com",
+      "url": "",
+      "time": "2026-10-21T00:01:45.995751",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "AI Fitness Coaching Guide for Trainers and Apps",
+      "text": "Search: online fitness coach program site:linkedin.com",
+      "url": "",
+      "time": "2026-10-21T00:01:46.138551",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Personal Training Online with a Real Trainer",
+      "text": "Search: online fitness coach program site:linkedin.com",
+      "url": "",
+      "time": "2026-10-21T00:01:46.286362",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Why Online Coaching Trumps In-Person Training for Results",
+      "text": "Search: online fitness coach program site:linkedin.com",
+      "url": "",
+      "time": "2026-10-21T00:01:46.438900",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Daniel Nikolič's Post",
+      "text": "Search: online fitness coach program site:linkedin.com",
+      "url": "",
+      "time": "2026-10-21T00:01:46.602592",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1109,
-    "kept": 166,
+    "scanned": 1115,
+    "kept": 172,
     "rejected": 929,
-    "last_scan": "2026-10-20T21:14:32.305941",
+    "last_scan": "2026-10-21T00:02:26.652675",
     "platforms": [
       "YouTube",
       "Google",
