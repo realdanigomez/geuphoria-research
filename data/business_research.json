@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Watch this if you’re lost in life at 20, 21, 22, 23, 24, 25, 26, 27, 28, 29...",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-08-31T20:39:59.491084",
-      "status": "reject",
-      "reason": "Title is generic life advice clickbait targeting broad age range; no specific business insights, strategies, or creator economy content provided; merely a search query without substantive business intelligence or lessons from influential thinkers.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The Most Underrated Productivity Principles to Get More Done",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Copy This Strategy to 10X Your Business",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-22T12:15:46.073348",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1234,
+    "scanned": 1235,
     "kept": 300,
-    "rejected": 930,
-    "last_scan": "2026-10-22T06:24:30.795614",
+    "rejected": 931,
+    "last_scan": "2026-10-22T12:16:43.701986",
     "platforms": [
       "YouTube",
       "Google",
