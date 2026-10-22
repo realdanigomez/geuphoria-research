@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The Most Underrated Productivity Principles to Get More Done",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-01T21:36:28.620844",
-      "status": "reject",
-      "reason": "Title promises productivity principles but finding only shows a search query for Dan Martell with no actual content, strategies, or insights included to evaluate for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "I Asked AI to Prove My Idea Would Make Money",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-02T07:37:32.119898",
-      "status": "keep",
-      "reason": "Direct attribution to Dan Martell (influential business/SaaS strategist) suggests content on AI-validated business idea validation, which offers actionable methodology for entrepreneurs testing product-market fit and monetization assumptions.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Start a 1-Person Business That Actually Makes Money (with AI)",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Brutal Truths About Business From Alex \\u0026 Leila Hormozi",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-22T17:29:44.194652",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Copy This Strategy to 10X Your Business (Fast)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-22T17:29:50.091301",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1235,
-    "kept": 300,
-    "rejected": 931,
-    "last_scan": "2026-10-22T12:16:43.701986",
+    "scanned": 1237,
+    "kept": 301,
+    "rejected": 932,
+    "last_scan": "2026-10-22T17:30:47.678988",
     "platforms": [
       "YouTube",
       "Google",
