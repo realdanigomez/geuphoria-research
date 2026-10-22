@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How I'd Start a 1-Person Business With AI",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-02T19:41:19.575267",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business mentor and founder of Clarity.fm; content about starting a 1-person business with AI leverage aligns directly with creator economy trends and solopreneur business models relevant to fitness coaching operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How I Would Build a $10M Service Business (If I Had to Start Over)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Sold 20,000 Books in One Week",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-22T23:54:25.017865",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1239,
+    "scanned": 1240,
     "kept": 302,
-    "rejected": 933,
-    "last_scan": "2026-10-22T20:46:13.376080",
+    "rejected": 934,
+    "last_scan": "2026-10-22T23:55:22.663674",
     "platforms": [
       "YouTube",
       "Google",
