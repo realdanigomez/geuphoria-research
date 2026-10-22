@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "This Thing Doesn't Have Value. This Thing Does.",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-08-30T00:38:05.286666",
-      "status": "reject",
-      "reason": "Search result only shows title and author name without actual content, strategy, or specific business insights to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Watch this if you’re lost in life at 20, 21, 22, 23, 24, 25, 26, 27, 28, 29...",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Triggers",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-22T06:23:35.885297",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1233,
+    "scanned": 1234,
     "kept": 300,
-    "rejected": 929,
-    "last_scan": "2026-10-22T01:13:37.137524",
+    "rejected": 930,
+    "last_scan": "2026-10-22T06:24:30.795614",
     "platforms": [
       "YouTube",
       "Google",
