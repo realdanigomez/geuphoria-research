@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How I Would Build a $10M Service Business (If I Had to Start Over)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-03T00:30:45.729867",
-      "status": "keep",
-      "reason": "Direct business strategy from influential entrepreneur Alex Hormozi on scaling service businesses to $10M, providing actionable framework and lessons applicable to fitness coaching business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If You Think You're Using AI, Watch This",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-03T00:30:52.381542",
-      "status": "reject",
-      "reason": "Search result only shows Dan Martell's name without any actual content, insights, or specific intelligence about AI usage or business strategy to extract or act upon.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Ask Claude These 3 Questions, It Will Change Your Bank Account",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-03T00:30:53.659733",
-      "status": "reject",
-      "reason": "Title is clickbait without substantive business strategy; searching \"Dan Martell\" alone doesn't confirm the content actually contains his frameworks or specific, actionable business intelligence from influential thinkers.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Becoming a PT and growing fast as a fitness OG on Instagram",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-03T09:27:50.659229",
-      "status": "reject",
-      "reason": "Finding is a vague search query without actual content, insights, or strategies. No specific business intelligence, case study details, or actionable lessons are provided to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "The viral Dubai video and its polarising reactions",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To \\",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-23T08:46:59.709517",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "This Office Setup Grew My Agency To $195k/mo (How I Optimised It)",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-10-23T08:46:59.862219",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴Friday Fasting Prayer | [ 23 - 10 - 2026 ] #Live |  Br. Sam Ovens  #brSamOvens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-23T08:47:07.164256",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴 Picture Quiz | evening 7 pm [ 22-10-2026 ] #Live |  Br.Sam Ovens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-23T08:47:07.300644",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1240,
+    "scanned": 1244,
     "kept": 302,
-    "rejected": 934,
-    "last_scan": "2026-10-23T03:19:11.009968",
+    "rejected": 938,
+    "last_scan": "2026-10-23T08:48:02.818222",
     "platforms": [
       "YouTube",
       "Google",
