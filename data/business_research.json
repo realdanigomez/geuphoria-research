@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The viral Dubai video and its polarising reactions",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-03T09:27:51.840100",
-      "status": "reject",
-      "reason": "Contains no actionable business insights, strategies, or substantive content from Charlie Morgan—only references a viral video with polarizing reactions that lacks business value for fitness coaching content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "I’m a millionaire. If you want to be one too, watch this.",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-03T20:07:01.181884",
-      "status": "reject",
-      "reason": "Title is clickbait without demonstrated content; search query alone doesn't confirm actual business insights, strategies, or teachings from Charlie Morgan are present in the finding.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "how to get \\",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Don't Build An AI Company, Do This Instead",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-23T21:52:26.351341",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Being Busy Isn't The Problem, This Is",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-23T21:52:26.555031",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1244,
+    "scanned": 1246,
     "kept": 302,
-    "rejected": 938,
-    "last_scan": "2026-10-23T18:38:46.014645",
+    "rejected": 940,
+    "last_scan": "2026-10-23T21:53:25.622388",
     "platforms": [
       "YouTube",
       "Google",
