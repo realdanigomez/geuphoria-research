@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Lose Belly Fat  - 5 Reasons You Can't Burn Your Belly Fat",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-18T14:46:35.351175",
-      "status": "reject",
-      "reason": "Contains generic belly fat content with no business strategy, coaching methodology, or competitive intelligence about how fitness coaches build their business",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Learn This Lesson And You Will Be Successful",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-09-18T14:46:44.469742",
-      "status": "reject",
-      "reason": "Title is generic motivational content with no specific business strategy, offer details, or actionable intelligence about how Brian Mark helps online fitness coaches build their business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Do This to Make $75,000/Month as a Fitness Coach",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-19T20:01:03.537225",
-      "status": "keep",
-      "reason": "Charlie Johnson is a known fitness business coach who teaches online coaches monetization strategies; this search indicates content about scaling to $75k/month revenue, which is directly relevant to business model intelligence for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Built a $100K/Month Fitness Business: Traffic, Pricing, and Retention",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-21T10:57:48.902747",
-      "status": "keep",
-      "reason": "Direct case study from established fitness business coach showing monetization strategy ($100K/month), pricing models, and retention tactics—actionable intelligence for scaling an online fitness coaching business.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "First 100K and Golden Handcuffs",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-21T10:57:50.085329",
-      "status": "reject",
-      "reason": "No specific intelligence provided about business strategy, offers, positioning, or content—only a generic search query title without substantive details about Charlie Johnson's coaching approach or business methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leveraging Time and Profit",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-21T10:57:51.121937",
-      "status": "reject",
-      "reason": "No specific intelligence provided about business strategy, offers, positioning, or content from Charlie Johnson or competitors; only a search query without actual findings or data.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Profit Goal and Shed Origin",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-21T10:57:52.001716",
-      "status": "reject",
-      "reason": "Finding contains only a search query without actual content, data, or intelligence about competitor strategy, offers, or positioning.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Traffic and Platform Diversification",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-21T10:57:53.040553",
-      "status": "reject",
-      "reason": "Search query alone without actual content or findings about Charlie Johnson's strategy, offers, or business methods provides no actionable intelligence.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Conversions: Sales and Pricing",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Wanted To Make $100k/Mo Before Christmas 2026 This Is What I'd Do",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:34.051909",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 10-Week Sprint to $100K/Month",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:34.279343",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Reverse Engineering Your Revenue Goal",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:34.456904",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Fastest Ways to Make More Money",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:34.668775",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Black Friday Strategy That Actually Works",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:34.864525",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What NOT to Do Before Christmas",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:35.061671",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Most High Achievers Fail Alone: The Power of Community for Business and Fitness Success",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:35.306100",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Surround with people ahead",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-23T14:03:35.515759",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1144,
-    "kept": 176,
-    "rejected": 954,
-    "last_scan": "2026-10-23T08:46:54.440202",
+    "scanned": 1152,
+    "kept": 179,
+    "rejected": 959,
+    "last_scan": "2026-10-23T14:04:33.960787",
     "platforms": [
       "YouTube",
       "Google",
