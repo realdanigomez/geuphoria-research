@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Attract Convert and Deliver",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-08-22T14:46:27.836513",
-      "status": "reject",
-      "reason": "Generic business advice title with no specific insight into fitness coaches' unique pain points, systems, or challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Pick Your Promise",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-08-22T14:46:29.478711",
-      "status": "reject",
-      "reason": "Too generic and vague - \"coaching business tips\" lacks specificity about fitness coaches' actual pain points like client retention, pricing models, content systems, or scaling challenges that would inform their real struggles.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Create Your Offer",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "keep",
       "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Pitfalls of Low Ticket Offers",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-24T00:14:29.744898",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Selling the Destination, Not the Journey",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-24T00:14:29.904799",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 837,
+    "scanned": 839,
     "kept": 318,
-    "rejected": 518,
-    "last_scan": "2026-10-23T21:51:14.707355",
+    "rejected": 520,
+    "last_scan": "2026-10-24T00:15:30.192529",
     "platforms": [
       "Reddit",
       "YouTube",

@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Product Improvement and Retention",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-21T10:57:55.068310",
-      "status": "reject",
-      "reason": "Search query alone without actual content, intelligence, or specific details about Charlie Johnson's strategy, offers, or positioning provides no actionable information.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Investing in Mentors and Mindset",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-21T10:57:56.284441",
-      "status": "reject",
-      "reason": "Finding mentions Charlie Johnson but contains no actual intelligence about his strategy, offers, positioning, or business model—only a search query title with no substantive content to analyze.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Get Ripped 6 Pack Abs:  Advice To Get Ripped",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-21T16:49:50.903904",
-      "status": "reject",
-      "reason": "Search query alone without actual content, strategy, offers, or business positioning details from Vince Del Monte's program or approach. No actionable competitive intelligence provided.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Watch This If You're Stuck in Life | EP. 208",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-22T13:53:24.930237",
-      "status": "reject",
-      "reason": "Title and excerpt don't indicate specific business strategy, positioning, or actionable intelligence about how Bedros helps fitness coaches build their business - appears to be general motivational content.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Achieve Your Biggest Goals | EP. 0201",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-22T13:53:25.869403",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning intelligence about fitness business coaches or their methods.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "A Goal = Your Mission",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-22T13:53:26.810423",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning intelligence about Bedros Keuilian or fitness business coaching approaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Drifting \\u0026 Vices",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Non-Negotiable for WIDER Shoulders (BIGGER IMMEDIATELY!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-24T00:15:31.323388",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Reduce Momentum",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-24T00:15:31.471055",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Own The Weight",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-24T00:15:31.616850",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cycle Phases",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-24T00:15:31.755287",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Workout Recommendation",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-24T00:15:31.908595",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Biggest Mistake",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-10-24T00:15:32.069987",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1153,
+    "scanned": 1159,
     "kept": 179,
-    "rejected": 960,
-    "last_scan": "2026-10-23T21:52:19.788394",
+    "rejected": 966,
+    "last_scan": "2026-10-24T00:16:35.301146",
     "platforms": [
       "YouTube",
       "Google",
