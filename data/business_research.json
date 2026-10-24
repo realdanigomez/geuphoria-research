@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Wanted To Scale A Service Business In 2026, Here's What I'd Do",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-03T22:45:26.261186",
-      "status": "keep",
-      "reason": "Direct scaling strategy from influential business figure (Alex Hormozi) applicable to service business model, which is core to fitness coaching; offers actionable framework for 2026 business growth strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Alex Hormozi's Best Advice on Offers \\u0026 Pricing | 1 Hour Compilation",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-03T22:45:27.384748",
-      "status": "keep",
-      "reason": "Alex Hormozi is a highly influential business strategist whose offer and pricing frameworks are directly applicable to fitness coaching service design, packaging, and monetization strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Watch These 51 Minutes if You Want to Grow Your Business in 2026 (Dave Ramsey Interview)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-03T22:45:28.582375",
-      "status": "reject",
-      "reason": "Interview title lacks specificity about content covered; Dave Ramsey's general business advice doesn't align with fitness coaching business model needs; no indication of creator economy, AI/tech, or fitness industry insights relevant to this niche.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Truth About Alex Hormozi's Gym Launch From a Past Client",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-03T22:45:29.478456",
-      "status": "reject",
-      "reason": "Contains anecdotal claims about Alex Hormozi rather than verified business strategies, frameworks, or actionable insights applicable to fitness coaching content business",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "First Ad to First Signup",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-03T22:45:30.500777",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi—no specific actionable intelligence to extract for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Polarizing Messaging",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-03T22:45:31.541135",
-      "status": "reject",
-      "reason": "Search query alone without actual content, messaging examples, or strategies provided - no actionable intelligence to extract",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Step by step how i'd make $10k per month asap if starting again",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How do you get leads through content?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-24T04:54:57.732586",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The most expensive I've learned",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-24T04:54:57.881616",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building a business vs building a brand, which is more important?",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-24T04:54:58.041065",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You need to stop micromanaging your team and let them cook.",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-24T04:54:58.196371",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You need to build the people, so they can build the business",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-24T04:54:58.345990",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You can't grow a business if you penny pinch",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-24T04:54:58.517227",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1247,
+    "scanned": 1253,
     "kept": 302,
-    "rejected": 941,
-    "last_scan": "2026-10-24T00:17:39.966901",
+    "rejected": 947,
+    "last_scan": "2026-10-24T04:55:56.882192",
     "platforms": [
       "YouTube",
       "Google",
