@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Drifting \\u0026 Vices",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-22T13:53:27.725026",
-      "status": "reject",
-      "reason": "Search query only, no actual content about Bedros Keuilian's strategy, offers, positioning, or business model provided",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Do You Want It?",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-22T13:53:28.603184",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "My Why: Growing Up Broke",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-22T13:53:29.477409",
-      "status": "reject",
-      "reason": "Finding is a personal biography piece without specific intelligence about business strategy, offers, positioning, or coaching methodologies for online fitness coaches.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Two Timeframes",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-23T01:42:16.580700",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about fitness business coaching competitors.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Three Year Question",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-23T01:42:17.490423",
-      "status": "reject",
-      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning without actual findings or analysis included.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Shrink the Change",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-23T01:42:18.627710",
-      "status": "reject",
-      "reason": "Title alone provides no actionable intelligence about business strategy, offers, or positioning. Search query mentions a known competitor but finding contains no actual content analysis or business insights.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Learn More",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-23T01:42:19.650020",
-      "status": "reject",
-      "reason": "Search query alone provides no specific intelligence about strategy, content, offers, or positioning - would need actual content analysis of Vince Del Monte's offerings to be actionable",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building Muscle Mass Lifting Tip For Skinny Guys",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-09-23T17:42:01.645169",
-      "status": "reject",
-      "reason": "Contains only a generic muscle-building tip for clients; no intelligence about fitness business coaching, mentor strategies, programs, or how coaches build their businesses.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Mike Boyle's stat: only .05% of people train correctly",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Double Your Fitness Referrals: Ask at Signup and After a Big Win",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:53.983235",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Breaking down the equation",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:54.147087",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Importance of referrals",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:54.290895",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Free coaching for results",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:54.449484",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Selecting ideal clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:54.605575",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Offering discounts to leads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:54.756876",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Asking for referrals at signup",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:54.918917",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Asking after client wins",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-24T09:17:55.128975",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1159,
-    "kept": 179,
-    "rejected": 966,
-    "last_scan": "2026-10-24T04:54:50.901879",
+    "scanned": 1167,
+    "kept": 180,
+    "rejected": 973,
+    "last_scan": "2026-10-24T09:18:52.930159",
     "platforms": [
       "YouTube",
       "Google",
