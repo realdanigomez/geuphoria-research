@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Create Your Offer",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-08-22T14:46:30.657625",
-      "status": "reject",
-      "reason": "Too generic and broad; lacks specific insights into fitness coaches' actual pain points, struggles, or business challenges. \"Online coaching business tips\" is surface-level without actionable intelligence for this niche.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Use Instagram",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Good Coaches Aren’t Making Enough Money as an Online Fitness Coach",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-10-24T13:27:27.458794",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 839,
-    "kept": 318,
+    "scanned": 840,
+    "kept": 319,
     "rejected": 520,
-    "last_scan": "2026-10-24T09:17:47.271095",
+    "last_scan": "2026-10-24T13:28:31.364414",
     "platforms": [
       "Reddit",
       "YouTube",
