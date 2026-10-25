@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Two Types of People",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-29T14:13:38.797483",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Anyone Can Spot a Problem",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-29T14:13:39.029453",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Wellness Shot Origin Story",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-29T14:13:39.268270",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The 2008 Crash Built Fit Body Boot Camp",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-29T14:13:39.516038",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Leadership Is Not a Title",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-09-29T19:33:35.783875",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "I Failed as a Personal Trainer, Then Built a $11M Online Coaching Business: 3-Step Transition Guide",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T08:51:45.266253",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction to three-step process",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T08:51:45.429336",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Upsell existing PT clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T08:51:45.611659",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Message former clients",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Setter Accountability System That Adds 20k to Your Monthly Revenue: Fitness Business Scaling",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:09.130075",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Preliminary discussion and VPN",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:09.274546",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Addressing managing services",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:09.412792",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Daily meetings and team culture",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:09.568377",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "End of day loom reports",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:09.701868",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tracking setter show rates",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:09.840321",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Call quality and incentives",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:09.969288",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Online Coaching Demand Is Exploding: Fitness Industry Trends and Sales Team Scaling",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T13:50:10.118208",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1192,
-    "kept": 186,
-    "rejected": 992,
-    "last_scan": "2026-10-25T09:18:39.068779",
+    "scanned": 1200,
+    "kept": 187,
+    "rejected": 999,
+    "last_scan": "2026-10-25T13:51:07.512807",
     "platforms": [
       "YouTube",
       "Google",
