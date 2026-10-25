@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Stack Results",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-08-22T14:46:33.242086",
-      "status": "reject",
-      "reason": "Too generic and vague—\"online coaching business tips\" lacks specificity about fitness coaches' actual pain points, struggles, or solutions; could apply to any coaching niche without fitness-specific insights",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Set Up the Systems",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Easily Pick Up Personal Training Clients From The Gym Floor, Even If You Are Shy",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-25T04:04:33.798647",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 841,
+    "scanned": 842,
     "kept": 320,
-    "rejected": 520,
-    "last_scan": "2026-10-24T23:59:21.221856",
+    "rejected": 521,
+    "last_scan": "2026-10-25T04:05:33.487902",
     "platforms": [
       "Reddit",
       "YouTube",
