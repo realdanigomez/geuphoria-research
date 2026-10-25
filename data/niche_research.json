@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Set Up the Systems",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-08-22T14:46:34.356532",
-      "status": "reject",
-      "reason": "Too generic and broad; lacks specific insight into fitness coaches' actual pain points, systems challenges, or actionable solutions for their unique context",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Most Fitness Coaches Fail on Instagram",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-22T15:16:34.583454",
-      "status": "keep",
-      "reason": "Directly addresses a major pain point (client acquisition via social media) that impacts income and business sustainability for online fitness coaches, likely contains specific tactics or failure patterns they need to avoid.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Fitness Coaches: Views but No Clients? (How to fix it)",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 0: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a $1M Physical Therapy Clinic FULL COURSE",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-25T09:16:35.380622",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why a Million Is Five Patients",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-10-25T09:16:35.560024",
+      "status": "reject",
+      "reason": "Local score 0: below threshold",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 842,
+    "scanned": 844,
     "kept": 320,
-    "rejected": 521,
-    "last_scan": "2026-10-25T04:05:33.487902",
+    "rejected": 523,
+    "last_scan": "2026-10-25T09:17:35.700243",
     "platforms": [
       "Reddit",
       "YouTube",
