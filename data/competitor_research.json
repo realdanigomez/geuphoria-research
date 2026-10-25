@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Message former clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T08:51:45.793741",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Time management for transition",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T08:51:45.964915",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Essential tools and platforms",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T08:51:46.140542",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Focus on cash flow first",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T08:51:46.317408",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Almost All Fitness Business Models Fail: The Online Coaching Path to Wealth",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T15:36:08.745232",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why online coaching is amazing",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T15:36:08.918598",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Start as a side hustle",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-09-30T15:36:09.090210",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Identify your niche and story",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Resell Existing Coaching Clients For Immediate Revenue: Fitness Business Growth Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T17:23:55.783569",
+      "status": "keep",
+      "reason": "Local score 4: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction and client background",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T17:23:55.934946",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Niche and pain point discussion",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T17:23:56.089360",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Program offers and pricing",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T17:23:56.233412",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Program delivery and phase two",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T17:23:56.380302",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client retention and pricing changes",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T17:23:56.520650",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Upselling strategies and mindset",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-25T17:23:56.662741",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1200,
-    "kept": 187,
-    "rejected": 999,
-    "last_scan": "2026-10-25T13:51:07.512807",
+    "scanned": 1207,
+    "kept": 190,
+    "rejected": 1003,
+    "last_scan": "2026-10-25T17:24:54.959174",
     "platforms": [
       "YouTube",
       "Google",
