@@ -1992,16 +1992,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Helping a Stranger Build a $15,000,000/yr Business in 90 Days",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-04T22:06:25.106127",
-      "status": "keep",
-      "reason": "Alex Hormozi case study on rapid business scaling offers actionable strategies for business growth, pricing models, and revenue acceleration applicable to fitness coaching business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Accidentally Found a Way To Use AI Better Than 99% of People",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2699,6 +2689,66 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "52 Minutes of Business Advice You Can’t Afford to Ignore",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:45.537405",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Would Build a Personal Brand in 2027 (If I Had to Start Over)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:45.713253",
+      "status": "keep",
+      "reason": "Local score 3: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "At 21, He Makes $600K a Month. His Ads Are the Ceiling.",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:45.889309",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "200 Cold Calls, 2 Customers: That's Not Luck, That's Math",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:46.065184",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi Deleted His Tony Robbins Interview (AND I THINK I KNOW WHY…)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:46.241825",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Diary Of A CEO, Alex Hormozi \\u0026 Chris Williamson Won't Make You Rich",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:46.425606",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2708,12 +2758,12 @@
     "comp_kept": 191,
     "comp_rejected": 1010,
     "comp_scanned": 1215,
-    "busi_kept": 310,
-    "busi_rejected": 948,
-    "busi_scanned": 1262,
-    "last_scan": "2026-10-26T00:35:15.310648",
-    "total_kept": 822,
-    "total_rejected": 2482,
+    "busi_kept": 316,
+    "busi_rejected": 949,
+    "busi_scanned": 1269,
+    "last_scan": "2026-10-26T05:47:50.456778",
+    "total_kept": 828,
+    "total_rejected": 2483,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

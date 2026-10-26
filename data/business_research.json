@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "What makes a successful entrepreneur?",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-04T17:32:23.190954",
-      "status": "reject",
-      "reason": "Title is generic self-help question with no substantive content; search query alone doesn't constitute specific business insights or strategies that could inform your fitness coaching business model or content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Ask AI These 3 Questions, It Will Change Your Bank Account",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-04T17:32:24.153579",
-      "status": "reject",
-      "reason": "Title is clickbait without substantive content; no actual questions, AI strategies, or Dan Martell insights provided in the finding itself",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "SHIFT Your Money FREQUENCY From Lack To ABUNDANCE \\u0026 ATTRACT WEALTH (This Will FREE You!) Dan Martell",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-04T17:32:25.162540",
-      "status": "reject",
-      "reason": "Generic abundance mindset content without specific business strategies, frameworks, or actionable tactics applicable to fitness coaching or creator business models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Understanding the Value of your Time",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-04T17:32:26.276939",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or actionable strategies provided - no specific intelligence to extract for business or content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Overcoming Self-Sabotage and Money Beliefs",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-04T17:32:27.417959",
-      "status": "reject",
-      "reason": "Title mentions self-sabotage and money beliefs but no actual content, strategies, or insights provided—only a name search with no substantive business intelligence or entrepreneurship lessons to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "This Video Should Be Required Viewing for Business Owners",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-04T19:51:18.952823",
-      "status": "reject",
-      "reason": "Title is clickbait without actual content; no specific business insights, strategies, or actionable intelligence provided in the text itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Helping a Stranger Build a $15,000,000/yr Business in 90 Days",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-04T22:06:25.106127",
-      "status": "keep",
-      "reason": "Alex Hormozi case study on rapid business scaling offers actionable strategies for business growth, pricing models, and revenue acceleration applicable to fitness coaching business models",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to get your sh*t together like a millionaire",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "52 Minutes of Business Advice You Can’t Afford to Ignore",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:45.537405",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Would Build a Personal Brand in 2027 (If I Had to Start Over)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:45.713253",
+      "status": "keep",
+      "reason": "Local score 3: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "At 21, He Makes $600K a Month. His Ads Are the Ceiling.",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:45.889309",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "200 Cold Calls, 2 Customers: That's Not Luck, That's Math",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:46.065184",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi Deleted His Tony Robbins Interview (AND I THINK I KNOW WHY…)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:46.241825",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Diary Of A CEO, Alex Hormozi \\u0026 Chris Williamson Won't Make You Rich",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-26T05:46:46.425606",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "I LOVE doing stuff like this and I'm PUMPED to see more of you tomorrow!",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-26T05:46:51.995398",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1262,
-    "kept": 310,
-    "rejected": 948,
-    "last_scan": "2026-10-26T00:35:15.307905",
+    "scanned": 1269,
+    "kept": 316,
+    "rejected": 949,
+    "last_scan": "2026-10-26T05:47:50.452676",
     "platforms": [
       "YouTube",
       "Google",
