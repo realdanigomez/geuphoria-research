@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Time Management",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-08-28T17:34:57.065831",
-      "status": "reject",
-      "reason": "Too broad and generic; lacks specific insight into fitness coaches' actual pain points, systems, or business challenges beyond obvious time constraints",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Business Priorities",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "What to Do When You Feel Burned Out with Lifting \\u0026 Overstressed",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-27T23:27:03.052029",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 854,
-    "kept": 321,
+    "scanned": 855,
+    "kept": 322,
     "rejected": 532,
-    "last_scan": "2026-10-27T19:48:36.728467",
+    "last_scan": "2026-10-27T23:27:58.064042",
     "platforms": [
       "Reddit",
       "YouTube",

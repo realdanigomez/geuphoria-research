@@ -1152,6 +1152,16 @@
     },
     {
       "source": "YouTube",
+      "title": "What to Do When You Feel Burned Out with Lifting \\u0026 Overstressed",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-10-27T23:27:03.052029",
+      "status": "keep",
+      "reason": "Local score 2: 1 pain, 0 goal, 0 identity, 0 journey",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
       "title": "Viral content for niches",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2782,17 +2792,17 @@
     }
   ],
   "stats": {
-    "niche_kept": 321,
+    "niche_kept": 322,
     "niche_rejected": 532,
-    "niche_scanned": 854,
+    "niche_scanned": 855,
     "comp_kept": 196,
     "comp_rejected": 1013,
     "comp_scanned": 1223,
     "busi_kept": 322,
     "busi_rejected": 954,
     "busi_scanned": 1280,
-    "last_scan": "2026-10-27T19:50:48.273427",
-    "total_kept": 839,
+    "last_scan": "2026-10-27T23:30:07.693841",
+    "total_kept": 840,
     "total_rejected": 2499,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
