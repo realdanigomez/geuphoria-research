@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Boosting reels and retargeting ads",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-02T20:04:49.534799",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Cost per acquisition for paid ads",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-02T20:04:49.712711",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Training closers with recorded calls",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-02T20:04:49.900638",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Practicing on non-qualified leads",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-02T20:04:50.077132",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Ongoing feedback and improvement",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-02T20:04:50.250031",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Tight-knit feedback group motivation",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-02T20:04:50.520359",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Vince Del Monte",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-03T03:51:34.822649",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Incline Chest Press",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-03T03:51:34.961482",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Guys Arent Seeing Results",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Away Free Coaching to Land $2000 Clients: The Picasso Content Method for Personal Trainers",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:43.269187",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introducing the Picasso method",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:43.414814",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Quick daily time investment",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:43.601888",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Focus on this first",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:43.740765",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Authority content type",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:43.890469",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Education content type",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:44.035510",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Social proof content",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:44.190033",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Giveaway strategy for new",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-27T19:48:44.323134",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1215,
-    "kept": 191,
-    "rejected": 1010,
-    "last_scan": "2026-10-27T14:49:09.297027",
+    "scanned": 1223,
+    "kept": 196,
+    "rejected": 1013,
+    "last_scan": "2026-10-27T19:49:42.906184",
     "platforms": [
       "YouTube",
       "Google",
