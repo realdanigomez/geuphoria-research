@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Skool, Hormozi \\u0026 1 Billion Users",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-06T01:13:47.498061",
-      "status": "reject",
-      "reason": "Title mentions Skool and Hormozi but the actual content is just a search query for \"Sam Ovens\" with no substantive business insights, strategies, or intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Don't Wanna Be Broke Again in 2025? Watch This...",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-06T23:29:15.187532",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, transcript, or specific business insights provided—cannot evaluate actionable intelligence without the material itself.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Believe in yourself",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-06T23:29:16.224930",
-      "status": "reject",
-      "reason": "Title and content are generic motivational platitudes without specific business insights, strategies, or actionable intelligence from Charlie Morgan or other business thinkers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Manifest",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-06T23:29:17.296266",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights. No substantive business information to extract for content strategy or coaching business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Most People Argue With AI. Do This Instead.",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴Every Day Live 10 am Church | [ 27 - 10 - 2026 ] #Live |  Br. Sam Ovens  #brSamOvens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-27T08:13:24.829949",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Join us for Everyday Live |Be Blessed Spiritually |Br.Sam Ovens #viral #trending #hosannaministries ",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-27T08:13:24.968592",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴ఒకరికోసం ఒకరు ప్రార్థిద్దాం | ప్రతి సోమవారం evening 7 pm [ 26-10-2026 ] #Live | Br.Sam Ovens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-27T08:13:25.095125",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴Every Day Live 10 am Church | [ 26 - 10 - 2026 ] #Live |  Br. Sam Ovens  #brSamOvens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-10-27T08:13:25.239651",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1276,
+    "scanned": 1280,
     "kept": 322,
-    "rejected": 950,
-    "last_scan": "2026-10-27T02:19:44.306727",
+    "rejected": 954,
+    "last_scan": "2026-10-27T08:14:19.784620",
     "platforms": [
       "YouTube",
       "Google",
