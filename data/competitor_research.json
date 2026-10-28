@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Pricing and sales approach",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-03T21:58:50.836378",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sell the dream technique",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-03T21:58:50.972848",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why does he make $200 MILLION/year?",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-04T17:17:06.829628",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Scale An Online Fitness Business to $100K A Month - Full Course",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-10-05T18:44:05.745660",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Hiring The Wrong Setters: Fitness Business Sales Team Hiring Process",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-06T19:41:21.859210",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Hiring setters and closers",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-06T19:41:22.033461",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Key traits for setters",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-06T19:41:22.197873",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Tracking setter performance",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-06T19:41:22.360550",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Paying and managing closers",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Daily Team Accountability Meetings That Double Your Sales Calls: Fitness Business Management System",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:20.299851",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Slack channel for call recordings",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:20.479732",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Scheduling shifts for peak hours",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:20.659372",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Splitting setters across accounts",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:20.849340",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "DM ads and coverage needs",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:21.025226",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ownership and small teams",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:21.193344",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI versus human scripts",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:21.377881",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Hiring Eastern European setters",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-28T16:12:21.565312",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1231,
+    "scanned": 1239,
     "kept": 198,
-    "rejected": 1019,
-    "last_scan": "2026-10-28T09:18:07.664009",
+    "rejected": 1027,
+    "last_scan": "2026-10-28T16:13:18.991428",
     "platforms": [
       "YouTube",
       "Google",
