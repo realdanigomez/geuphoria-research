@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "You have to dream so big that you're embarrassed to share it",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-11T02:54:52.444070",
-      "status": "reject",
-      "reason": "Title is motivational philosophy without specific actionable business strategies, tactics, or insights relevant to fitness coaching content or business operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Copy This AI System and Watch Your Life Change",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Get To $100K a Month Without Burning Money on Ads",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-29T20:04:35.222258",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1288,
+    "scanned": 1289,
     "kept": 328,
-    "rejected": 956,
-    "last_scan": "2026-10-29T14:37:13.994421",
+    "rejected": 957,
+    "last_scan": "2026-10-29T20:05:32.614842",
     "platforms": [
       "YouTube",
       "Google",

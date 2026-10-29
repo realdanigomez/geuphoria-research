@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Building self-belief through emotion",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-08T21:48:58.326100",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Client transformation story",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-08T21:48:58.476144",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Marketing Personal Training To The Affluent",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-10T00:12:47.297214",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Bought 3 Dubai Properties Sight Unseen: Real Estate Investing Secrets",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:55.091200",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Buying apartments addiction",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:55.256400",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Intense chest workout",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:55.417833",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Hyper drive and financial stress",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:55.577254",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Meeting property agent James",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:55.721040",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Ramadan and community life",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Half Your Coaching Clients Should Be Dads: The Untapped Father Market Strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:30.360001",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Realizing the obvious",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:30.496410",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Modern masculinity defined",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:30.637484",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Structuring family and career",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:30.777558",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dad relatability in messaging",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:30.907005",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Controversial time management",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:31.041502",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Masculinity makeover concept",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:31.184824",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Targeting dad clients",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-29T20:03:31.317516",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1248,
-    "kept": 200,
-    "rejected": 1034,
-    "last_scan": "2026-10-29T14:36:09.558593",
+    "scanned": 1256,
+    "kept": 201,
+    "rejected": 1041,
+    "last_scan": "2026-10-29T20:04:28.680570",
     "platforms": [
       "YouTube",
       "Google",
