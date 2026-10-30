@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "3 ways to scale your online fitness business",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-08-29T19:57:35.623287",
-      "status": "keep",
-      "reason": "Directly addresses scaling challenges, a core pain point for online fitness coaches seeking to grow revenue and systems without increasing burnout",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How to get clients as an online fitness coach using Instagram and Tiktok",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1162,16 +1152,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Ramadan and community life",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:55.868244",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Tour of townhouse community",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1949,16 +1929,6 @@
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
       "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Most People Chase New, Winners Fix Old.",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-11T16:55:35.880222",
-      "status": "keep",
-      "reason": "Dan Martell strategy on optimization and retention over acquisition—directly applicable to fitness coaching retention, upsells, and maximizing existing customer value rather than constant new client chasing.",
-      "track": "business"
     },
     {
       "source": "YouTube",
@@ -2783,17 +2753,17 @@
   ],
   "stats": {
     "niche_kept": 322,
-    "niche_rejected": 532,
-    "niche_scanned": 855,
+    "niche_rejected": 534,
+    "niche_scanned": 857,
     "comp_kept": 201,
-    "comp_rejected": 1041,
-    "comp_scanned": 1256,
+    "comp_rejected": 1042,
+    "comp_scanned": 1257,
     "busi_kept": 328,
-    "busi_rejected": 957,
-    "busi_scanned": 1289,
-    "last_scan": "2026-10-30T00:06:50.430188",
+    "busi_rejected": 962,
+    "busi_scanned": 1294,
+    "last_scan": "2026-10-30T06:13:33.526538",
     "total_kept": 851,
-    "total_rejected": 2530,
+    "total_rejected": 2538,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
