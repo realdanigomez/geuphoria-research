@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Needed More Customers in 2026, I'd Study This for 1 Hour",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-11T19:28:08.034431",
-      "status": "reject",
-      "reason": "Title is clickbait without actual content provided; no specific strategies, frameworks, or actionable intelligence included to evaluate business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Starting New Things, Fix What's Broken",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-11T19:28:14.765443",
-      "status": "keep",
-      "reason": "Dan Martell content on focus and prioritization—directly applicable to fitness coaching businesses struggling with product proliferation and scaling inefficiencies",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "To Get Rich, You Have To Stay With Problems Long Enough",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-12T07:52:53.047423",
-      "status": "keep",
-      "reason": "Dan Martell content on problem-solving persistence is directly applicable to fitness coaching business strategy—addresses founder mindset, customer problem depth, and long-term business building beyond quick fixes",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Productivity Hack: Designing For \\",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-12T11:59:15.662097",
-      "status": "reject",
-      "reason": "Title is incomplete and text only contains a search term for Sam Ovens with no actual content, insights, or actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Masterminds",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-12T11:59:16.743098",
-      "status": "reject",
-      "reason": "Search result page with no substantive content, insights, or strategies—just a name search with no actual business lessons or actionable intelligence extracted.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Time Management",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-12T11:59:17.575555",
-      "status": "reject",
-      "reason": "Search term alone without actual content, insights, or strategies from Sam Ovens; no specific actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Define Your Goal",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-12T11:59:18.564934",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens—no actionable intelligence to extract for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Do It More Often",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-12T11:59:19.487446",
-      "status": "reject",
-      "reason": "Title and search term lack substantive content; no specific business insight, strategy, or actionable intelligence is provided to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If I Started a Business in 2025, I’d Do THIS",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Change My Mind, Win $10,000",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-30T22:47:49.980936",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You don’t need a weekend",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-30T22:47:50.121024",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Cut three B players, hire one A player",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-30T22:47:50.249169",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sell to the rich until you can sell to the poor",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-30T22:47:50.380686",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Options only have value when used",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-30T22:47:50.503386",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The game of business is overrated, the craft is underrated",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-30T22:47:50.624756",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You lack priorities, not information",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-30T22:47:50.810838",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The People That Can Beat Your Sales Team Cost You $0",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-30T22:47:56.555323",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1294,
-    "kept": 328,
-    "rejected": 962,
-    "last_scan": "2026-10-30T18:45:24.424771",
+    "scanned": 1302,
+    "kept": 335,
+    "rejected": 963,
+    "last_scan": "2026-10-30T22:48:53.662500",
     "platforms": [
       "YouTube",
       "Google",
