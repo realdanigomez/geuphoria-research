@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Tour of townhouse community",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:56.021880",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Apartment features and buying",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:56.181718",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "2018 Fitness Industry Trends and Predictions To Grow Your Business | Bedros Keuilian | Predictions",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-11T13:16:21.697713",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Review of 2017",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-11T13:16:21.877957",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Branding",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-11T13:16:22.072569",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Reviews",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-11T13:16:22.257856",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Selling Packages, Start Selling Results: Fitness Offer Pricing and Packaging Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-11T13:16:25.170462",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Discussing packaging and focus",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-11T13:16:25.350003",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Advice to focus on one",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How a Fitness Coach Made 240K a Month Using Only Instagram: The Exact Reel, Story, and Automation S",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:22.357431",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction to Instagram strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:22.561434",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client example and niche targeting",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:22.733095",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Importance of hooks in content",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:22.886802",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Instagram Reels and trial strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:23.071759",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Highlights and profile setup",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:23.249690",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Bio and link optimization",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:23.405114",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Carousel posts for conversion",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:23.575357",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1257,
-    "kept": 201,
-    "rejected": 1042,
-    "last_scan": "2026-10-30T06:12:28.407232",
+    "scanned": 1265,
+    "kept": 205,
+    "rejected": 1046,
+    "last_scan": "2026-10-30T13:19:21.725315",
     "platforms": [
       "YouTube",
       "Google",

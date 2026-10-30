@@ -1152,26 +1152,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Tour of townhouse community",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-10T21:07:56.021880",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Selling Packages, Start Selling Results: Fitness Offer Pricing and Packaging Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-11T13:16:25.170462",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Upsell from challenge",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1928,6 +1908,46 @@
       "time": "2026-10-29T20:03:30.360001",
       "status": "keep",
       "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How a Fitness Coach Made 240K a Month Using Only Instagram: The Exact Reel, Story, and Automation S",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:22.357431",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction to Instagram strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:22.561434",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Importance of hooks in content",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:22.886802",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Instagram Reels and trial strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-10-30T13:18:23.071759",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
       "track": "competitor"
     },
     {
@@ -2755,15 +2775,15 @@
     "niche_kept": 322,
     "niche_rejected": 534,
     "niche_scanned": 857,
-    "comp_kept": 201,
-    "comp_rejected": 1042,
-    "comp_scanned": 1257,
+    "comp_kept": 205,
+    "comp_rejected": 1046,
+    "comp_scanned": 1265,
     "busi_kept": 328,
     "busi_rejected": 962,
     "busi_scanned": 1294,
-    "last_scan": "2026-10-30T06:13:33.526538",
-    "total_kept": 851,
-    "total_rejected": 2538,
+    "last_scan": "2026-10-30T13:20:26.815362",
+    "total_kept": 855,
+    "total_rejected": 2542,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
