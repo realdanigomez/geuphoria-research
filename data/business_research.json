@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If I Started a Business in 2025, I’d Do THIS",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-12T20:10:56.331688",
-      "status": "keep",
-      "reason": "Charlie Morgan is an influential business thinker in the creator economy; a video titled \"If I Started a Business in 2025, I'd Do THIS\" likely contains current strategy frameworks and actionable lessons applicable to fitness coaching business model decisions.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Get Rich Online ASAP in 2025 (Full Guide)",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-12T20:10:57.196083",
-      "status": "reject",
-      "reason": "Title is generic clickbait without evidence of specific actionable strategies or substantive content from Charlie Morgan or other recognized business thinkers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sacrificing $1M in refunds to go all-in",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-14T05:47:04.540554",
-      "status": "keep",
-      "reason": "Sam Ovens is an influential business thinker in the creator economy; a case study on sacrificing refunds to commit fully to a business direction offers actionable lessons on decision-making, risk tolerance, and scaling strategy applicable to fitness coaching operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sam’s philosophy: simplify, focus, go deep",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-14T05:47:05.473136",
-      "status": "reject",
-      "reason": "Contains only a vague title referencing Sam Ovens without actual philosophy details, specific strategies, or actionable business insights to extract or apply.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Change Your Bank Account Asking AI These 3 Questions",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi vs 10 Entrepreneurs",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-31T02:00:38.201000",
+      "status": "keep",
+      "reason": "Local score 3: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Dan Martell is Ruining Businesses",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-31T02:00:44.217431",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Fastest Way to Grow a Business Without Working More",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-31T02:00:44.329690",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Dark Side of Dan Martell’s Success (No AI)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-10-31T02:00:44.442216",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1302,
-    "kept": 335,
-    "rejected": 963,
-    "last_scan": "2026-10-30T22:48:53.662500",
+    "scanned": 1306,
+    "kept": 336,
+    "rejected": 966,
+    "last_scan": "2026-10-31T02:01:43.218547",
     "platforms": [
       "YouTube",
       "Google",

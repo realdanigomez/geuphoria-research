@@ -1952,26 +1952,6 @@
     },
     {
       "source": "YouTube",
-      "title": "If I Started a Business in 2025, I’d Do THIS",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-12T20:10:56.331688",
-      "status": "keep",
-      "reason": "Charlie Morgan is an influential business thinker in the creator economy; a video titled \"If I Started a Business in 2025, I'd Do THIS\" likely contains current strategy frameworks and actionable lessons applicable to fitness coaching business model decisions.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sacrificing $1M in refunds to go all-in",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-14T05:47:04.540554",
-      "status": "keep",
-      "reason": "Sam Ovens is an influential business thinker in the creator economy; a case study on sacrificing refunds to commit fully to a business direction offers actionable lessons on decision-making, risk tolerance, and scaling strategy applicable to fitness coaching operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Your Job Isn't Running The Business, It's THIS",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2819,6 +2799,16 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Alex Hormozi vs 10 Entrepreneurs",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-10-31T02:00:38.201000",
+      "status": "keep",
+      "reason": "Local score 3: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2828,12 +2818,12 @@
     "comp_kept": 205,
     "comp_rejected": 1046,
     "comp_scanned": 1265,
-    "busi_kept": 335,
-    "busi_rejected": 963,
-    "busi_scanned": 1302,
-    "last_scan": "2026-10-30T22:48:53.665999",
-    "total_kept": 862,
-    "total_rejected": 2543,
+    "busi_kept": 336,
+    "busi_rejected": 966,
+    "busi_scanned": 1306,
+    "last_scan": "2026-10-31T02:01:43.221419",
+    "total_kept": 863,
+    "total_rejected": 2546,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
