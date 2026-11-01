@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "AI bot language support",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-11T22:15:53.526790",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Hidden Danger of Moving Your Fitness Business to Dubai: Brand Positioning \\u0026 Networking",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-12T08:34:06.577497",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Negative brand impact for average Joe",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Gateway Drug To An Awesome Life | The Bedros Keuilian Show E009",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-01T01:49:51.474984",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Launch Your Coaching Business In 2024 | Brian Mark",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-01T01:49:57.270620",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1278,
-    "kept": 205,
-    "rejected": 1059,
-    "last_scan": "2026-10-31T22:42:00.941795",
+    "scanned": 1280,
+    "kept": 206,
+    "rejected": 1060,
+    "last_scan": "2026-11-01T01:50:51.753163",
     "platforms": [
       "YouTube",
       "Google",
