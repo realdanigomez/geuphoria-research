@@ -2,96 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Three things to master",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-13T16:14:26.414547",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Long form opportunity",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-13T16:14:26.583522",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Client case study videos",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-13T16:14:26.745348",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Whiteboard and clickbait",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-13T16:14:26.902348",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Warm up via short form",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-13T16:14:27.047097",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Compound interest leverage",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-13T16:14:27.190293",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Dubai hack and TikTok",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-13T16:14:27.354690",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why 18-Year-Old Trainers Win With $105 Weekly Offers: Fitness Client Retention \\u0026 Pricing",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:32.143988",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Low-ticket offer and community",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:32.321611",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "High-ticket focus and leads",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2909,103 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "I haven't worked in a year... Here's what happened!! (Crazy!)",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-01T15:44:20.109200",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "10-Step VSL Script That Generated 200+ Calls in 8 Weeks: High-Ticket Coaching Funnel",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:25.918889",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "VSL strategy and results",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:26.072921",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "What is a VSL",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:26.234269",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Overview of 10 stages",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:26.385223",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introduction and disqualification",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:26.538484",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Client traits and dream",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:26.692910",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why you and authority",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:26.852181",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Unique mechanism and proof",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T15:44:27.008552",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1287,
-    "kept": 207,
-    "rejected": 1066,
-    "last_scan": "2026-11-01T08:41:23.500178",
+    "scanned": 1296,
+    "kept": 211,
+    "rejected": 1071,
+    "last_scan": "2026-11-01T15:45:25.510483",
     "platforms": [
       "YouTube",
       "Google",
