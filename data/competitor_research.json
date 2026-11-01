@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "High-ticket focus and leads",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:32.492091",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Instagram growth and male coaching",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:32.671306",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Consolidating offers",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:32.853955",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Setters and LinkedIn strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:33.029909",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Fitness content positioning",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:33.212791",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "VA training and sales framework",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-14T00:28:33.380316",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Conclusion",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-14T10:26:24.055976",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why I QUIT Fitness... (here's the TRUTH!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-15T01:18:00.966663",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Vince Del Monte Biceps Workout (THE ONLY BICEPS EXERCISES YOU'LL EVER NEED!)",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I Spent $100k on a Home Gym: Fitness Business Tax Advantage",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:31.403097",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Business unfair advantage",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:31.549902",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Towel pull-ups for grip",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:31.702276",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Shoulder press set",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:31.873806",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Rowing challenge",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:32.027775",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Walk and business talk",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:32.182408",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Exact 4-Step Plan To Scale Your Coaching Business From 60K To 100K Monthly: Fitness Coach Growth",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:32.332548",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Recap: doubling traffic to 100K",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-01T20:08:32.473994",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1296,
-    "kept": 211,
-    "rejected": 1071,
-    "last_scan": "2026-11-01T15:45:25.510483",
+    "scanned": 1304,
+    "kept": 213,
+    "rejected": 1077,
+    "last_scan": "2026-11-01T20:09:30.212199",
     "platforms": [
       "YouTube",
       "Google",
