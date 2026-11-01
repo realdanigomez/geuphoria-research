@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Be So Productive it Feels ILLEGAL",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-16T09:04:59.481865",
-      "status": "keep",
-      "reason": "Dan Martell is an influential business thinker known for productivity and entrepreneurship frameworks; this content likely contains actionable productivity strategies applicable to fitness coaching business operations and team scaling.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Make a NottoDo List",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "1 Centi-Millionaire vs 10 Millionaires",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-01T08:41:24.368408",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1312,
-    "kept": 336,
+    "scanned": 1313,
+    "kept": 337,
     "rejected": 972,
-    "last_scan": "2026-11-01T01:51:55.642551",
+    "last_scan": "2026-11-01T08:42:28.121409",
     "platforms": [
       "YouTube",
       "Google",
