@@ -2,36 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Make a NottoDo List",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-16T09:05:00.446690",
-      "status": "reject",
-      "reason": "Title alone doesn't indicate substantive business content; no specific strategy, framework, or actionable intelligence provided to evaluate relevance to fitness coaching business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Create Focus triggers",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-16T09:05:01.382223",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategy details provides no actionable intelligence for business strategy or content creation.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Start on Hard mode",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-16T09:05:02.363056",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Dan Martell makes it impossible to assess actionable business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Be Hard to Reach",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2969,43 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Answering Your Deepest Questions | Charlie Morgan",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-02T12:46:22.870989",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to switch from a scarcity mindset to an abundance mindset",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-02T12:46:23.017964",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Know When To Fire An Employee, And When It's On You",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-02T12:46:25.993173",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1313,
-    "kept": 337,
-    "rejected": 972,
-    "last_scan": "2026-11-02T04:18:26.939758",
+    "scanned": 1316,
+    "kept": 338,
+    "rejected": 974,
+    "last_scan": "2026-11-02T12:47:23.563978",
     "platforms": [
       "YouTube",
       "Google",

@@ -1912,6 +1912,16 @@
     },
     {
       "source": "YouTube",
+      "title": "YouTube channel split strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T12:45:21.825570",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
       "title": "The Most Valuable 64 Minutes You'll Spend This Year (Hormozi x Mylett)",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2749,21 +2759,31 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to switch from a scarcity mindset to an abundance mindset",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-02T12:46:23.017964",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 322,
     "niche_rejected": 534,
     "niche_scanned": 857,
-    "comp_kept": 213,
-    "comp_rejected": 1077,
-    "comp_scanned": 1304,
-    "busi_kept": 337,
-    "busi_rejected": 972,
-    "busi_scanned": 1313,
-    "last_scan": "2026-11-02T04:18:26.943904",
-    "total_kept": 872,
-    "total_rejected": 2583,
+    "comp_kept": 214,
+    "comp_rejected": 1078,
+    "comp_scanned": 1306,
+    "busi_kept": 338,
+    "busi_rejected": 974,
+    "busi_scanned": 1316,
+    "last_scan": "2026-11-02T12:47:23.567980",
+    "total_kept": 874,
+    "total_rejected": 2586,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

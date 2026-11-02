@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Vince Del Monte Biceps Workout (THE ONLY BICEPS EXERCISES YOU'LL EVER NEED!)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-15T01:18:01.105657",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Activation Set 1-Arm High Pulley Curls with Supination",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-15T01:18:01.246798",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "DB Curls With Supination",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "You Don't Have an Investing Problem, You Have an Income Problem: Wealth Building Tips",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T12:45:21.672549",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "YouTube channel split strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T12:45:21.825570",
+      "status": "keep",
+      "reason": "Local score 3: competitor strategy markers",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1304,
-    "kept": 213,
-    "rejected": 1077,
-    "last_scan": "2026-11-02T04:17:22.648127",
+    "scanned": 1306,
+    "kept": 214,
+    "rejected": 1078,
+    "last_scan": "2026-11-02T12:46:19.282731",
     "platforms": [
       "YouTube",
       "Google",
