@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "DB Curls With Supination",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-15T01:18:01.384096",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Strap Curls",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-15T01:18:01.520339",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "A Incline Curls with Bands",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-15T01:18:01.671095",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Exercise 3B Prone Curls with Bands",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-15T01:18:01.836309",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Overcome Obscurity: Best Social Media Platforms for Fitness Coaches | Instagram, LinkedIn, YouTube",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-15T01:18:07.502542",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction and obscurity problem",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-15T01:18:07.647646",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Marketing first and best known",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-15T01:18:07.783626",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Instagram platform overview",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-15T01:18:07.927501",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "LinkedIn for high-ticket clients",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "keep",
       "reason": "Local score 3: competitor strategy markers",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How I Built a $168K/Month Fitness Coaching Business: Team Structure, Ads Strategy, and Scaling Tips",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:09.067687",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building business around your life",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:09.228625",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Organic growth and paid ads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:09.408216",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Coach payment structure",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:09.571994",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Training process for coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:09.737302",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ads build audience and sales",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:09.938163",
+      "status": "keep",
+      "reason": "Local score 2: competitor strategy markers",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Top ad locations and frequency",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:10.122693",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Minimum client price and daily schedule",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-02T22:07:10.309092",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1306,
-    "kept": 214,
-    "rejected": 1078,
-    "last_scan": "2026-11-02T12:46:19.282731",
+    "scanned": 1314,
+    "kept": 217,
+    "rejected": 1083,
+    "last_scan": "2026-11-02T22:08:07.825953",
     "platforms": [
       "YouTube",
       "Google",
