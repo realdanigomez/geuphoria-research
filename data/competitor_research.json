@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "LinkedIn for high-ticket clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-15T01:18:08.065293",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "TikTok viral content strategy",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Trainer Who Said 36 Eggs a Day Worked Like Steroids",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-03T03:34:36.292256",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1314,
+    "scanned": 1315,
     "kept": 217,
-    "rejected": 1083,
-    "last_scan": "2026-11-02T22:08:07.825953",
+    "rejected": 1084,
+    "last_scan": "2026-11-03T03:35:40.192834",
     "platforms": [
       "YouTube",
       "Google",
