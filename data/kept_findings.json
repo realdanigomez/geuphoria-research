@@ -1131,36 +1131,6 @@
       "track": "niche"
     },
     {
-      "source": "YouTube",
-      "title": "Content strategy and lead magnets",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-15T11:53:59.109170",
-      "status": "keep",
-      "reason": "Local score 4: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Trial reels content hack",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-15T11:53:59.763549",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "Quora",
-      "title": "Is taking a data analytics course worth it for placement ...",
-      "text": "Search: online coaching program review site:quora.com",
-      "url": "",
-      "time": "2026-10-15T11:54:30.229881",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
       "source": "Quora",
       "title": "How can a beginner tell whether a digital marketing course ...",
       "text": "Search: online coaching program review site:quora.com",
@@ -1882,13 +1852,13 @@
     },
     {
       "source": "YouTube",
-      "title": "The Most Valuable 64 Minutes You'll Spend This Year (Hormozi x Mylett)",
-      "text": "Search: Alex Hormozi",
+      "title": "The $47/Month Trap That Kills Coaching Profits: High-Ticket Sales \\u0026 Objection Handling",
+      "text": "Search: Charlie Johnson fitness business",
       "url": "",
-      "time": "2026-09-16T18:19:46.036251",
+      "time": "2026-11-04T20:15:47.890828",
       "status": "keep",
-      "reason": "Alex Hormozi collaboration discussing high-ROI time investment principles applicable to fitness coaching business models, pricing strategy, and content monetization",
-      "track": "business"
+      "reason": "Contains specific intelligence on high-ticket sales strategy and objection handling tactics from Charlie Johnson, a known fitness business coach targeting online fitness coaches",
+      "track": "competitor"
     },
     {
       "source": "YouTube",
@@ -2735,15 +2705,15 @@
     "niche_kept": 324,
     "niche_rejected": 540,
     "niche_scanned": 865,
-    "comp_kept": 217,
-    "comp_rejected": 1089,
-    "comp_scanned": 1320,
+    "comp_kept": 218,
+    "comp_rejected": 1097,
+    "comp_scanned": 1329,
     "busi_kept": 338,
-    "busi_rejected": 975,
-    "busi_scanned": 1317,
-    "last_scan": "2026-11-04T12:50:10.072032",
-    "total_kept": 879,
-    "total_rejected": 2604,
+    "busi_rejected": 977,
+    "busi_scanned": 1319,
+    "last_scan": "2026-11-04T20:17:56.467875",
+    "total_kept": 880,
+    "total_rejected": 2614,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
