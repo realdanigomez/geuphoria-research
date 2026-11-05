@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Sell Personal Training on the Gym Floor (Without Being Pushy) | Create PT",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-01T00:21:22.221448",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for fitness coaches with specific sales technique that solves the \"pushy\" objection that prevents many coaches from selling their services",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Client App 3.0 - HubFit Coaching Platform",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-02T12:30:31.002103",
-      "status": "keep",
-      "reason": "Directly addresses client management pain point - a core system need for fitness coaches managing multiple clients, relevant to scaling and operational efficiency struggles",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Keep ALL Personal Training Clients | 5 Strategies For Personal Trainers To Master In 2025",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -1128,6 +1108,16 @@
       "time": "2026-11-04T12:46:53.330151",
       "status": "keep",
       "reason": "Directly addresses profit scaling and operational bottlenecks (likely systems/delegation issues), which is a core pain point for fitness coaches seeking to grow beyond personal delivery constraints.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Beyond Movement: Overcoming Burnout \\u0026 Building Global Community with Karen Gibson and Euan Mutch",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-11-05T07:47:56.134670",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout (key pain point) and community building (client retention/scaling strategy) - likely contains actionable insights on sustainable business models and retention systems for online fitness coaches.",
       "track": "niche"
     },
     {
@@ -2682,18 +2672,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 324,
-    "niche_rejected": 540,
-    "niche_scanned": 865,
+    "niche_kept": 325,
+    "niche_rejected": 541,
+    "niche_scanned": 867,
     "comp_kept": 218,
     "comp_rejected": 1105,
     "comp_scanned": 1337,
     "busi_kept": 338,
     "busi_rejected": 977,
     "busi_scanned": 1319,
-    "last_scan": "2026-11-05T01:01:20.160137",
-    "total_kept": 880,
-    "total_rejected": 2622,
+    "last_scan": "2026-11-05T07:50:57.777516",
+    "total_kept": 881,
+    "total_rejected": 2623,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
