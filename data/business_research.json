@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Welcome Back: Introducing Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-16T18:19:47.870401",
-      "status": "reject",
-      "reason": "Generic introduction with no specific business insights, strategies, or actionable intelligence provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "On Becoming a Father",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell content on opportunity cost of side projects provides actionable business strategy for entrepreneurs deciding resource allocation and focus—directly applicable to fitness coaching business scaling decisions.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴Every Day Live 10 am Church | [ 5 - 11 - 2026 ] #Live |  Br. Sam Ovens  #brSamOvens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-06T02:44:12.245961",
+      "status": "reject",
+      "reason": "Title suggests a church livestream event with no visible business content, strategy, or entrepreneurial insights despite Sam Ovens name mention; appears to be personal/religious content rather than business education material.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1320,
+    "scanned": 1321,
     "kept": 339,
-    "rejected": 977,
-    "last_scan": "2026-11-05T22:12:48.651882",
+    "rejected": 978,
+    "last_scan": "2026-11-06T02:45:08.146384",
     "platforms": [
       "YouTube",
       "Google",
