@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "On Becoming a Father",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-16T18:19:49.006719",
-      "status": "reject",
-      "reason": "Contains no business insights, strategies, or entrepreneurship lessons - appears to be personal/lifestyle content unrelated to business despite Alex Hormozi attribution in search",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Morning Routines \\u0026 Productivity",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-16T18:19:50.266795",
-      "status": "reject",
-      "reason": "Contains only a generic topic title with no actual content, insights, or strategies demonstrated. A mere search term for Alex Hormozi without substantive business intelligence, frameworks, or lessons cannot inform content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Unconditional Effort",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-16T18:19:51.228522",
-      "status": "reject",
-      "reason": "Search result contains only a title and author name with no actual content, strategies, or insights to extract for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Good Day Formula",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-16T18:19:51.991525",
-      "status": "reject",
-      "reason": "Search result contains only a title and creator name with no actual content, strategies, or insights to extract for actionable business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Grow an Audience if You Have 0 Followers",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T00:05:01.224828",
-      "status": "reject",
-      "reason": "Search result only, no actual content or insights provided to evaluate relevance to business strategy or audience growth tactics",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "What really matters at the end of life (life \\u0026 death discussion)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T00:05:02.251903",
-      "status": "reject",
-      "reason": "Title indicates philosophical life/death discussion unrelated to business, entrepreneurship, or creator economy despite Alex Hormozi search mention—likely clickbait or tangential reference without substantive business content.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Helping 4 Educational Business Owners Build a $1M Business in 25 Minutes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T00:05:03.319979",
-      "status": "keep",
-      "reason": "Alex Hormozi content on scaling educational businesses to $1M provides direct applicable strategies for positioning fitness coaching as an educational product and monetization frameworks relevant to the creator economy business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Blueprint for Making Money From Scratch! | Alex Hormozi",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T00:05:04.152680",
-      "status": "reject",
-      "reason": "Search query only with no actual content, insights, or strategies provided to evaluate for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Why Money Starts With Skills",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Title suggests a church livestream event with no visible business content, strategy, or entrepreneurial insights despite Sam Ovens name mention; appears to be personal/religious content rather than business education material.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Shaq \\u0026 Alex Hormozi Teach You How to ACTUALLY Get Rich",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-06T22:42:49.364178",
+      "status": "reject",
+      "reason": "Title only mentions Hormozi name without evidence of specific business insights, strategies, or actionable intelligence present in the actual content provided.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Valuable Productivity Training You’ll Ever Watch",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-06T22:42:52.962282",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies provided—no actionable intelligence to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why This Is Different",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-06T22:42:53.667399",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or substantive material to evaluate for business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "So Let's Talk About You",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-06T22:42:54.327669",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or business strategy information provided",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What We're Going To Cover",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-06T22:42:55.207120",
+      "status": "reject",
+      "reason": "Search query alone contains no actual content, insights, or strategies—just a reference to a business figure without substantive information to analyze or extract actionable intelligence from.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Take This",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-06T22:42:56.022127",
+      "status": "reject",
+      "reason": "No actual content provided - only a search query with incomplete title and no substantive business insights, strategies, or lessons to extract",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Wave",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-06T22:42:56.927826",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or specific business lessons; no substantive information to extract for content strategy or business intelligence.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Doing Problem",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-06T22:42:57.727683",
+      "status": "reject",
+      "reason": "Search query alone without actual content, article, or insights from Charlie Morgan—no specific, actionable business intelligence to extract",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1321,
+    "scanned": 1329,
     "kept": 339,
-    "rejected": 978,
-    "last_scan": "2026-11-06T17:40:24.874077",
+    "rejected": 986,
+    "last_scan": "2026-11-06T22:43:58.757453",
     "platforms": [
       "YouTube",
       "Google",

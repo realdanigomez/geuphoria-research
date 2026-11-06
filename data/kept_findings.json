@@ -1822,16 +1822,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Helping 4 Educational Business Owners Build a $1M Business in 25 Minutes",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T00:05:03.319979",
-      "status": "keep",
-      "reason": "Alex Hormozi content on scaling educational businesses to $1M provides direct applicable strategies for positioning fitness coaching as an educational product and monetization frameworks relevant to the creator economy business model.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "If It Scales, Give It Away Free",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2679,11 +2669,11 @@
     "comp_rejected": 1119,
     "comp_scanned": 1353,
     "busi_kept": 339,
-    "busi_rejected": 978,
-    "busi_scanned": 1321,
-    "last_scan": "2026-11-06T17:40:24.878599",
+    "busi_rejected": 986,
+    "busi_scanned": 1329,
+    "last_scan": "2026-11-06T22:43:58.760275",
     "total_kept": 884,
-    "total_rejected": 2638,
+    "total_rejected": 2646,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
