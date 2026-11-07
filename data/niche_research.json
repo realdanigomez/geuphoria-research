@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Keep ALL Personal Training Clients | 5 Strategies For Personal Trainers To Master In 2025",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-02T19:38:58.481383",
-      "status": "keep",
-      "reason": "Directly addresses client retention—a core pain point for fitness coaches affecting revenue stability and business scalability; retention strategies are fundamental to sustainable coaching income.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sales Advice for New Personal Trainers: (8 Tips + The #1 Rule of Sales)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-02T19:38:59.520036",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with actionable sales tactics specific to fitness coaches' primary revenue challenge",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Is PT Just a Sales Job?",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-02T19:39:00.501065",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point - reveals whether fitness coaches view their role as sales-dependent, indicating struggle with business development and potential barrier to scaling",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sell the Outcome",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-02T19:39:01.652530",
-      "status": "reject",
-      "reason": "Generic motivational advice about outcomes lacks specific insight into how fitness coaches actually acquire clients, their conversion challenges, pricing strategies, or marketing tactics.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Brand Priorities",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-03T09:25:33.529893",
-      "status": "reject",
-      "reason": "Generic search term with no insight into coaches' actual pain points, struggles, systems, or specific problems—lacks actionable intelligence about their real challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "#28 Pete Royle - Burnout, BS, And Building Better Clients",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:40.315707",
-      "status": "keep",
-      "reason": "Directly addresses burnout (major pain point) and client quality (client acquisition/retention challenge) - likely contains practitioner insights on preventing burnout and systematizing better client selection/outcomes.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Coach Burnout (Without Actually Making It Worse)",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Addresses athlete burnout, not coach burnout. No actionable intelligence for online fitness coaches' business operations, client management, or scaling challenges.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-07T23:46:48.933726",
+      "status": "reject",
+      "reason": "Too broad and generic; lacks specific insight into actual pain points, struggles, or actionable problems that coaches face—just a generic search term without data or findings about their real challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-07T23:46:49.618344",
+      "status": "reject",
+      "reason": "Generic search term with no insight into actual pain points, struggles, or solutions relevant to fitness coaches' specific challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-07T23:46:50.383141",
+      "status": "reject",
+      "reason": "Too vague and generic - \"getting clients\" is a broad topic without specific insights into actual pain points, strategies, or challenges fitness coaches face",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-07T23:46:51.266770",
+      "status": "reject",
+      "reason": "Too vague and generic - no specific pain point, strategy, or insight revealed; just a search term without data on actual coach struggles, solutions, or trends",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-07T23:46:52.053941",
+      "status": "reject",
+      "reason": "Generic content about subtitles/captions lacks specificity about fitness coach pain points, business challenges, or actionable strategies for client acquisition, marketing, or scaling.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical Videos",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-07T23:46:52.853718",
+      "status": "reject",
+      "reason": "Spherical videos are a technical format with no connection to fitness coaches' core pain points like client acquisition strategy, pricing, marketing systems, or business scaling.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 867,
+    "scanned": 873,
     "kept": 325,
-    "rejected": 541,
-    "last_scan": "2026-11-07T20:24:25.761987",
+    "rejected": 547,
+    "last_scan": "2026-11-07T23:47:53.620200",
     "platforms": [
       "Reddit",
       "YouTube",

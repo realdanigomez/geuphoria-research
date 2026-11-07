@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Keep ALL Personal Training Clients | 5 Strategies For Personal Trainers To Master In 2025",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-02T19:38:58.481383",
-      "status": "keep",
-      "reason": "Directly addresses client retention—a core pain point for fitness coaches affecting revenue stability and business scalability; retention strategies are fundamental to sustainable coaching income.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Sales Advice for New Personal Trainers: (8 Tips + The #1 Rule of Sales)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-02T19:38:59.520036",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with actionable sales tactics specific to fitness coaches' primary revenue challenge",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Is PT Just a Sales Job?",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-02T19:39:00.501065",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point - reveals whether fitness coaches view their role as sales-dependent, indicating struggle with business development and potential barrier to scaling",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "#28 Pete Royle - Burnout, BS, And Building Better Clients",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:40.315707",
-      "status": "keep",
-      "reason": "Directly addresses burnout (major pain point) and client quality (client acquisition/retention challenge) - likely contains practitioner insights on preventing burnout and systematizing better client selection/outcomes.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Coach Burnout (Without Actually Making It Worse)",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2643,17 +2603,17 @@
   ],
   "stats": {
     "niche_kept": 325,
-    "niche_rejected": 541,
-    "niche_scanned": 867,
+    "niche_rejected": 547,
+    "niche_scanned": 873,
     "comp_kept": 221,
-    "comp_rejected": 1126,
-    "comp_scanned": 1361,
+    "comp_rejected": 1134,
+    "comp_scanned": 1369,
     "busi_kept": 339,
-    "busi_rejected": 987,
-    "busi_scanned": 1330,
-    "last_scan": "2026-11-07T20:26:43.480743",
+    "busi_rejected": 988,
+    "busi_scanned": 1331,
+    "last_scan": "2026-11-07T23:50:10.547286",
     "total_kept": 885,
-    "total_rejected": 2654,
+    "total_rejected": 2669,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

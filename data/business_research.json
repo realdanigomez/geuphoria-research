@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Money Is Actually Made",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T00:05:06.047448",
-      "status": "reject",
-      "reason": "Search term only, no actual content provided to evaluate for business insights or strategies",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Modern Life is a Disease",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Title and search term alone provide no specific content, strategies, or actionable intelligence; actual video content needed to evaluate business value.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "When You Understand THIS Building Wealth Becomes Embarrassingly Simple",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-07T23:49:06.695570",
+      "status": "reject",
+      "reason": "Title is clickbait-heavy without demonstrating specific wealth-building strategies or actionable frameworks; appears to be a search result link rather than actual content with substantive business insights.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1330,
+    "scanned": 1331,
     "kept": 339,
-    "rejected": 987,
-    "last_scan": "2026-11-07T20:26:43.477668",
+    "rejected": 988,
+    "last_scan": "2026-11-07T23:50:10.544033",
     "platforms": [
       "YouTube",
       "Google",
