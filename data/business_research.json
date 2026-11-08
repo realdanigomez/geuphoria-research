@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "If It Scales, Give It Away Free",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T05:08:10.976900",
-      "status": "keep",
-      "reason": "Alex Hormozi is a highly influential business strategist known for counter-intuitive monetization and scaling tactics; \"give it away free\" likely contains specific frameworks on loss leaders, funnel optimization, or customer acquisition strategy applicable to fitness coaching business models.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "You'll Have Enough Money, Then What?",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Alex Hormozi content on startup strategy is directly relevant for business track - likely contains specific frameworks for business launch timing, market positioning, or operational decisions applicable to fitness coaching business model.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Make More Money Than You Deserve (My 2027 Framework)",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-08T17:12:36.138989",
+      "status": "keep",
+      "reason": "Alex Hormozi content on pricing/revenue strategy framework directly applicable to fitness coaching business model and pricing decisions",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1334,
-    "kept": 340,
+    "scanned": 1335,
+    "kept": 341,
     "rejected": 990,
-    "last_scan": "2026-11-08T11:28:56.103585",
+    "last_scan": "2026-11-08T17:13:40.381015",
     "platforms": [
       "YouTube",
       "Google",
