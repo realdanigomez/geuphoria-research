@@ -1082,16 +1082,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How Vince Lost 25 Pounds While Living His BEST Life! | Client Testimonial",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-17T13:27:12.063723",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The AI VSL Conversion Machine: How to Turn $1 Into $3 With Paid Ads for Coaches",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1758,6 +1748,16 @@
       "time": "2026-11-07T20:24:33.118709",
       "status": "keep",
       "reason": "Directly relevant competitor intelligence on Charlie Johnson's pricing strategy for 12-month coaching programs - specific tactical approach to positioning and monetization that online fitness coaches can learn from or benchmark against.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 'First Story' Rule That Gets 10x More Views: Instagram Stories for Fitness Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-08T11:26:48.175723",
+      "status": "keep",
+      "reason": "Direct mention of Charlie Johnson (established fitness business coach) with actionable Instagram Stories strategy that fitness coaches can apply to grow viewership and engagement",
       "track": "competitor"
     },
     {
@@ -2599,21 +2599,31 @@
       "status": "keep",
       "reason": "Dan Martell content on opportunity cost of side projects provides actionable business strategy for entrepreneurs deciding resource allocation and focus—directly applicable to fitness coaching business scaling decisions.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If I Started A Business in 2027, Here’s What I’d Do.",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-08T11:27:53.431365",
+      "status": "keep",
+      "reason": "Alex Hormozi content on startup strategy is directly relevant for business track - likely contains specific frameworks for business launch timing, market positioning, or operational decisions applicable to fitness coaching business model.",
+      "track": "business"
     }
   ],
   "stats": {
     "niche_kept": 325,
     "niche_rejected": 547,
     "niche_scanned": 873,
-    "comp_kept": 221,
-    "comp_rejected": 1134,
-    "comp_scanned": 1369,
-    "busi_kept": 339,
-    "busi_rejected": 989,
-    "busi_scanned": 1332,
-    "last_scan": "2026-11-08T04:20:33.828651",
-    "total_kept": 885,
-    "total_rejected": 2670,
+    "comp_kept": 222,
+    "comp_rejected": 1141,
+    "comp_scanned": 1377,
+    "busi_kept": 340,
+    "busi_rejected": 990,
+    "busi_scanned": 1334,
+    "last_scan": "2026-11-08T11:28:56.107007",
+    "total_kept": 887,
+    "total_rejected": 2678,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
