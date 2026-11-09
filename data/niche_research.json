@@ -2,96 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How To Coach Burnout (Without Actually Making It Worse)",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:41.319187",
-      "status": "keep",
-      "reason": "Directly addresses a primary pain point for online fitness coaches (burnout) with implied solutions, highly relevant to audience retention and sustainability in the business.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "27% of Personal Trainers Say Burnout Is Hurting Their Income. But Is Burnout Really the Problem?",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:42.550325",
-      "status": "keep",
-      "reason": "Directly addresses burnout's impact on income—a core pain point for online coaches—and questions the root cause, suggesting deeper systemic issues worth understanding for retention and scaling strategies.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Have You Actually Ever Done Hard Work?",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:43.455111",
-      "status": "reject",
-      "reason": "Contains motivational content about work ethic rather than specific intelligence about fitness coach burnout causes, symptoms, or solutions",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Welcome to Smittyville",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:44.396910",
-      "status": "reject",
-      "reason": "Generic title with no substantive content about fitness coach burnout; lacks specific data, insights, or actionable intelligence about pain points",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "NASM’s State of Personal Training Report",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:45.524234",
-      "status": "keep",
-      "reason": "Directly addresses coach burnout and likely contains industry-specific data on pain points, working conditions, income trends, and retention challenges that online fitness coaches face.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Is Burnout the Problem or the Symptom?",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-03T09:25:46.737243",
-      "status": "keep",
-      "reason": "Directly addresses burnout, a primary pain point for online fitness coaches; understanding whether burnout is a root cause or symptom is critical for developing targeted solutions around workload management, pricing, or business systems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Helping a Coaching Business Get More Customers",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-03T13:45:06.687840",
-      "status": "reject",
-      "reason": "Too generic and broad without specific tactics, data, or insights into fitness coaches' actual client acquisition challenges or solutions",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Deliver The Best Online Fitness Coaching For Your Clients",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-03T20:04:46.196933",
-      "status": "reject",
-      "reason": "Generic best practices content without specific insight into coaches' actual pain points, acquisition strategies, systems, or scalability challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Team and Technology",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-03T20:04:47.183114",
-      "status": "reject",
-      "reason": "Generic search term without data on actual pain points, solutions, or fitness coach-specific challenges; no actionable insights about their problems or how to solve them.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "What You Need",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2909,103 @@
       "status": "reject",
       "reason": "Spherical videos are a technical format with no connection to fitness coaches' core pain points like client acquisition strategy, pricing, marketing systems, or business scaling.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 2 Types of Fitness Coaches Stuck Right Now",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:30.533310",
+      "status": "keep",
+      "reason": "Directly addresses a segmentation of struggling online fitness coaches, likely revealing distinct pain points and solutions for different coach archetypes, enabling targeted messaging and product positioning.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The 2 types of coaches stuck right now",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:31.357996",
+      "status": "keep",
+      "reason": "Directly addresses pain point of struggling online fitness coaches; suggests segmentation of coach problems which enables targeted solutions for different struggle types",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Everyone read the same book",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:32.150337",
+      "status": "reject",
+      "reason": "Generic article title with no specifics about fitness coaching pain points, struggles, or business challenges; lacks actionable intelligence for the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Coach 1: Broke influencer syndrome",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:33.193150",
+      "status": "keep",
+      "reason": "Directly addresses psychological barrier (\"broke influencer syndrome\") that prevents fitness coaches from monetizing their audience—reveals mindset block affecting income generation and pricing confidence, which is core to their business sustainability struggles.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Coach 2: The busy-pros trap",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:34.001604",
+      "status": "keep",
+      "reason": "Directly addresses a specific pain point (busy professionals struggling) that fitness coaches face with client acquisition and retention, offering concrete insight into a target market challenge.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fix 1: Be the coach for a person you've actually been",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:35.123632",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition strategy by identifying a core positioning principle that solves the \"who to market to\" pain point—coaches can only authentically serve clients they've personally experienced being, reducing marketing friction and improving conversion.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fix 2: Build a mechanism from three P's",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:35.915585",
+      "status": "reject",
+      "reason": "Generic framework title lacks specific insight into fitness coach pain points; no actionable intelligence provided about actual struggles, systems, or solutions relevant to the niche.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fix 3: Proof, then the stack",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-09T18:59:36.859258",
+      "status": "reject",
+      "reason": "Contains only a vague framework (\"Proof, then the stack\") without specific data, actionable tactics, or documented struggles of online fitness coaches. No concrete pain points, solutions, or evidence presented.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "3 Ways to Fix Diet \\u0026 Exercise Burn Out Through Improving Alignment",
+      "text": "Search: fitness coach burnout",
+      "url": "",
+      "time": "2026-11-09T18:59:45.716956",
+      "status": "keep",
+      "reason": "Directly addresses coach burnout (a key pain point) and offers specific intervention angle (alignment) that could inform coaching systems and client retention strategies.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 873,
-    "kept": 325,
-    "rejected": 547,
-    "last_scan": "2026-11-09T08:23:48.423259",
+    "scanned": 882,
+    "kept": 331,
+    "rejected": 550,
+    "last_scan": "2026-11-09T19:00:40.256711",
     "platforms": [
       "Reddit",
       "YouTube",
