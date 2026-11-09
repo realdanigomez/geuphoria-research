@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Spiderweb opt-in technique",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:01.095287",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "AI VSL conversion machine",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:01.231899",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Influence engine explained",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:01.379615",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Warm vs cold audiences",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:01.521581",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Key ad metrics setup",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:01.663518",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Conquer your Mind and Win the Battle Within | The Bedros Keuilian Show E0180",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-18T01:22:29.063359",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why I Give Away 3 Months Free Coaching: Black Friday Offer Strategy That 2.5x'd My Business",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T07:08:11.089987",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building relatability and trust",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T07:08:11.284954",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Setting ambitious Black Friday goals",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Title is generic growth advice without evidence of specific competitive intelligence about fitness business coaches, their strategies, offers, or positioning. Need actual content details about Charlie Johnson's methods to qualify.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Do You Know How Much Money Your New Followers Actually Make? Tracking Ad Spend For Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:23:55.417774",
+      "status": "keep",
+      "reason": "Contains specific intelligence about ad spend tracking and ROI metrics that online fitness coaches need to understand for scaling their coaching business profitably.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Setting income goals",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:23:56.064243",
+      "status": "reject",
+      "reason": "Search term only, no actual content about Charlie Johnson's strategy, offers, positioning, or business model provided",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Program pricing and sales",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:23:56.853860",
+      "status": "reject",
+      "reason": "Search query alone without actual program details, pricing data, or business strategy information provides no actionable intelligence about Charlie Johnson's offerings or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Retention and churn rate",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:23:57.575197",
+      "status": "reject",
+      "reason": "Search query alone without actual findings about Charlie Johnson's retention strategies, churn rates, offers, or business positioning provides no actionable intelligence",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lead generation and calls",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:23:58.407263",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about strategy, content, offers, or positioning. Actual findings would need to detail what Charlie Johnson teaches, his business model, or specific tactics he uses.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Tracking ad performance",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:23:59.225623",
+      "status": "reject",
+      "reason": "Search query alone without any actual ad performance data, strategy details, positioning information, or business intelligence about Charlie Johnson's offers or methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pattern recognition in sales",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:24:00.040185",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy details, offers, or positioning information from Charlie Johnson's business provides no actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "DM setting issues",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:24:00.790562",
+      "status": "reject",
+      "reason": "Search query alone with no actual content about Charlie Johnson's strategy, offers, positioning, or business methods provides no actionable intelligence.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1387,
-    "kept": 224,
-    "rejected": 1149,
-    "last_scan": "2026-11-09T01:07:38.116470",
+    "scanned": 1395,
+    "kept": 225,
+    "rejected": 1156,
+    "last_scan": "2026-11-09T08:24:57.941624",
     "platforms": [
       "YouTube",
       "Google",

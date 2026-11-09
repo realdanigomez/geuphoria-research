@@ -1082,36 +1082,6 @@
     },
     {
       "source": "YouTube",
-      "title": "AI VSL conversion machine",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:01.231899",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Warm vs cold audiences",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:01.521581",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why I Give Away 3 Months Free Coaching: Black Friday Offer Strategy That 2.5x'd My Business",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T07:08:11.089987",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Creating a crazy scalable offer",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1758,6 +1728,16 @@
       "time": "2026-11-09T01:06:39.562836",
       "status": "keep",
       "reason": "Direct competitor intelligence on Charlie Johnson's $100k/mo business model and positioning strategy for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Do You Know How Much Money Your New Followers Actually Make? Tracking Ad Spend For Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T08:23:55.417774",
+      "status": "keep",
+      "reason": "Contains specific intelligence about ad spend tracking and ROI metrics that online fitness coaches need to understand for scaling their coaching business profitably.",
       "track": "competitor"
     },
     {
@@ -2615,15 +2595,15 @@
     "niche_kept": 325,
     "niche_rejected": 547,
     "niche_scanned": 873,
-    "comp_kept": 224,
-    "comp_rejected": 1149,
-    "comp_scanned": 1387,
+    "comp_kept": 225,
+    "comp_rejected": 1156,
+    "comp_scanned": 1395,
     "busi_kept": 341,
     "busi_rejected": 990,
     "busi_scanned": 1335,
-    "last_scan": "2026-11-09T01:08:42.344618",
-    "total_kept": 890,
-    "total_rejected": 2686,
+    "last_scan": "2026-11-09T08:26:01.277646",
+    "total_kept": 891,
+    "total_rejected": 2693,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
