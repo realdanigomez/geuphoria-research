@@ -1082,16 +1082,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Follow-up funnel strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-17T21:24:00.953594",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "AI VSL conversion machine",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1758,6 +1748,16 @@
       "time": "2026-11-08T17:11:30.290838",
       "status": "keep",
       "reason": "Direct case study from fitness business coach showing specific hybrid offer strategy that increased revenue 2x, provides actionable framework for scaling coaching businesses",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The EASIEST Way to make over $100k/mo in 2026 (Full Breakdown)",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-09T01:06:39.562836",
+      "status": "keep",
+      "reason": "Direct competitor intelligence on Charlie Johnson's $100k/mo business model and positioning strategy for online fitness coaches",
       "track": "competitor"
     },
     {
@@ -2615,15 +2615,15 @@
     "niche_kept": 325,
     "niche_rejected": 547,
     "niche_scanned": 873,
-    "comp_kept": 223,
-    "comp_rejected": 1148,
-    "comp_scanned": 1385,
+    "comp_kept": 224,
+    "comp_rejected": 1149,
+    "comp_scanned": 1387,
     "busi_kept": 341,
     "busi_rejected": 990,
     "busi_scanned": 1335,
-    "last_scan": "2026-11-08T21:20:23.439978",
-    "total_kept": 889,
-    "total_rejected": 2685,
+    "last_scan": "2026-11-09T01:08:42.344618",
+    "total_kept": 890,
+    "total_rejected": 2686,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
