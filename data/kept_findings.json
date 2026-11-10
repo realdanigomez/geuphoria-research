@@ -1101,66 +1101,6 @@
       "track": "niche"
     },
     {
-      "source": "YouTube",
-      "title": "Building the Right Online Coaching Offer",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:09.644054",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Your Content Isn’t Getting Attention",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:09.782314",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Instagram Strategy That Drives More Reach",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:09.944656",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Posting Generic Content: How To Build A Personal Brand That Attracts High-Paying Fitness Coache",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:10.426499",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Virtual Fitness Coaching: 4 Types, Costs, and How to Choose",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:45.846510",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Online Fitness Coaching Revolutionized by AI | James Smith ...",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:45.995751",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
       "source": "LinkedIn",
       "title": "AI Fitness Coaching Guide for Trainers and Apps",
       "text": "Search: online fitness coach program site:linkedin.com",
@@ -1748,6 +1688,16 @@
       "time": "2026-11-09T19:00:48.607206",
       "status": "keep",
       "reason": "Charlie Johnson Fitness is a known fitness business coach who teaches online coaches how to build their businesses; this search indicates potential funnel strategy insights during a high-conversion period (Black Friday) that could reveal offer structure, positioning, and customer acquisition tactics.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Away Free Coaching to Win? The Counterintuitive Strategy That Builds Your Fitness Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:18.132072",
+      "status": "keep",
+      "reason": "Contains strategy insights from Charlie Johnson (established fitness business coach) on using free coaching as a client acquisition tactic for online fitness coaches",
       "track": "competitor"
     },
     {
@@ -2623,17 +2573,17 @@
   ],
   "stats": {
     "niche_kept": 331,
-    "niche_rejected": 550,
-    "niche_scanned": 882,
-    "comp_kept": 227,
-    "comp_rejected": 1162,
-    "comp_scanned": 1403,
+    "niche_rejected": 551,
+    "niche_scanned": 883,
+    "comp_kept": 228,
+    "comp_rejected": 1169,
+    "comp_scanned": 1411,
     "busi_kept": 344,
     "busi_rejected": 991,
     "busi_scanned": 1339,
-    "last_scan": "2026-11-10T02:00:53.390910",
-    "total_kept": 902,
-    "total_rejected": 2703,
+    "last_scan": "2026-11-10T09:29:25.117663",
+    "total_kept": 903,
+    "total_rejected": 2711,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "source": "YouTube",
-      "title": "Building the Right Online Coaching Offer",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:09.644054",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why Your Content Isn’t Getting Attention",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:09.782314",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Instagram Strategy That Drives More Reach",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:09.944656",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Turning Followers Into High-Ticket Clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:10.097714",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The 8-Week Plan to Scale the Business",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:10.262248",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop Posting Generic Content: How To Build A Personal Brand That Attracts High-Paying Fitness Coache",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-20T17:46:10.426499",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Virtual Fitness Coaching: 4 Types, Costs, and How to Choose",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:45.846510",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Online Fitness Coaching Revolutionized by AI | James Smith ...",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:45.995751",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
       "source": "LinkedIn",
       "title": "AI Fitness Coaching Guide for Trainers and Apps",
       "text": "Search: online fitness coach program site:linkedin.com",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search query alone provides no actionable intelligence about business strategy, content, offers, or positioning. Actual finding content needed to assess value.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Away Free Coaching to Win? The Counterintuitive Strategy That Builds Your Fitness Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:18.132072",
+      "status": "keep",
+      "reason": "Contains strategy insights from Charlie Johnson (established fitness business coach) on using free coaching as a client acquisition tactic for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Giveaways for free coaching",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:19.021261",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, or business model provides no actionable information for competitive analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Promoting organically on stories",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:19.885903",
+      "status": "reject",
+      "reason": "Search term only, no actual content about business strategy, offers, positioning, or actionable intelligence about how Charlie Johnson helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Milking the referral strategy",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:20.809162",
+      "status": "reject",
+      "reason": "Finding contains only a search query without actual content, strategy details, offers, or positioning information about the competitor or their business coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Group classes and tagging",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:21.620340",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Charlie Johnson's business strategy, programs, or positioning provides no actionable intelligence for online fitness coaches building their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building community and trust",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:22.383071",
+      "status": "reject",
+      "reason": "Search query only, no actual content about Charlie Johnson's business strategy, offers, or methods provided",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Real Reason Your Sales Calls Are Full of Low-Quality Leads: Qualify With BANT and Premium Brand",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:23.709972",
+      "status": "reject",
+      "reason": "Title mentions BANT qualification framework (generic sales technique) and \"premium brand\" positioning, but the search query alone doesn't confirm this content actually covers Charlie Johnson's specific strategies, offers, or business model for fitness coaches—no details provided about the actual content substance.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "High volume vs quality leads",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T09:27:24.497238",
+      "status": "reject",
+      "reason": "Search query alone without actual findings about Charlie Johnson's strategy, content, offers, or positioning provides no actionable competitive intelligence",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1403,
-    "kept": 227,
-    "rejected": 1162,
-    "last_scan": "2026-11-10T01:59:44.711554",
+    "scanned": 1411,
+    "kept": 228,
+    "rejected": 1169,
+    "last_scan": "2026-11-10T09:28:21.615818",
     "platforms": [
       "YouTube",
       "Google",
