@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "source": "LinkedIn",
-      "title": "AI Fitness Coaching Guide for Trainers and Apps",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.138551",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Personal Training Online with a Real Trainer",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.286362",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Why Online Coaching Trumps In-Person Training for Results",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.438900",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Daniel Nikolič's Post",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.602592",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Visualization Technique That Gets Fitness Clients to Buy: Emotional Selling and Show Rate System",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-21T10:26:18.843082",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Need a real system",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-21T10:26:19.022481",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Unfortunately, Getting Lean Really Is This Simple",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-21T15:29:12.779675",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How We Grew Our Event 5x in 12 Months: The Compound Effect in Business",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-21T19:31:04.011020",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
       "source": "YouTube",
       "title": "Ferrari stuck in sand",
       "text": "Search: Charlie Johnson fitness business",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search query alone without actual findings about Charlie Johnson's strategy, content, offers, or positioning provides no actionable competitive intelligence",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personal Trainer Marketing Revealed by Bedros Keuilian and 7 Figure Sam Bakhtiar",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-10T17:13:16.405369",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a primary fitness business coach whose marketing strategies and positioning are directly relevant to understanding how online fitness coaches build their businesses; this resource likely contains specific tactics and offers from a recognized competitor in this space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Building Strong Men With Bedros",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-10T17:13:17.288393",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian's business model or coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Bedros Keuilian - HIIT (High Intensity Interval Training)  | Ontario Fit Body Bootcamp (CA)",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-10T17:13:18.150995",
+      "status": "reject",
+      "reason": "This is a landing page for a local bootcamp service, not intelligence about Bedros Keuilian's business coaching strategies, programs, or positioning for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personal Training Business, Online Fitness Coaching, and Attracting Clients",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-10T17:13:19.008362",
+      "status": "reject",
+      "reason": "Search query alone without actual content, strategy, offers, or positioning details from Bedros Keuilian makes this unsuitable for competitive intelligence analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "1 on 1 Training With Bedros Keuilian | Todd Getz",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-10T17:13:19.919758",
+      "status": "reject",
+      "reason": "Contains only a page title and search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian's coaching business or approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Posting a CTA Story on Sunday Books You a Week of Sales Calls: Fitness Business Instagram Story",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T17:13:23.585995",
+      "status": "keep",
+      "reason": "Contains specific tactical intelligence about Instagram Story CTAs on Sundays as a sales conversion strategy for fitness coaches, directly applicable to business growth for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Current booking and referral system",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T17:13:24.374324",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Charlie Johnson's booking/referral system, strategy, or business model provides no actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Shift From Broke to Millionaire Mindset in 43 Minutes",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-10T17:13:28.037695",
+      "status": "reject",
+      "reason": "Title is generic mindset content with no specific details about online fitness coaching business strategies, offers, or positioning. Search query alone doesn't confirm actual content relevance to fitness business coaching.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1411,
-    "kept": 228,
-    "rejected": 1169,
-    "last_scan": "2026-11-10T09:28:21.615818",
+    "scanned": 1419,
+    "kept": 230,
+    "rejected": 1175,
+    "last_scan": "2026-11-10T17:14:22.806217",
     "platforms": [
       "YouTube",
       "Google",

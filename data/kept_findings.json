@@ -1101,46 +1101,6 @@
       "track": "niche"
     },
     {
-      "source": "LinkedIn",
-      "title": "AI Fitness Coaching Guide for Trainers and Apps",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.138551",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Personal Training Online with a Real Trainer",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.286362",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Why Online Coaching Trumps In-Person Training for Results",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.438900",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Daniel Nikolič's Post",
-      "text": "Search: online fitness coach program site:linkedin.com",
-      "url": "",
-      "time": "2026-10-21T00:01:46.602592",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
       "source": "YouTube",
       "title": "How to Sell A High Ticket Fitness Coaching Program Without Sales Calls In 2024 - Vince Del Monte",
       "text": "Search: Vince Del Monte fitness coach",
@@ -1698,6 +1658,26 @@
       "time": "2026-11-10T09:27:18.132072",
       "status": "keep",
       "reason": "Contains strategy insights from Charlie Johnson (established fitness business coach) on using free coaching as a client acquisition tactic for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Personal Trainer Marketing Revealed by Bedros Keuilian and 7 Figure Sam Bakhtiar",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-10T17:13:16.405369",
+      "status": "keep",
+      "reason": "Bedros Keuilian is a primary fitness business coach whose marketing strategies and positioning are directly relevant to understanding how online fitness coaches build their businesses; this resource likely contains specific tactics and offers from a recognized competitor in this space.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why Posting a CTA Story on Sunday Books You a Week of Sales Calls: Fitness Business Instagram Story",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-10T17:13:23.585995",
+      "status": "keep",
+      "reason": "Contains specific tactical intelligence about Instagram Story CTAs on Sundays as a sales conversion strategy for fitness coaches, directly applicable to business growth for online fitness coaches.",
       "track": "competitor"
     },
     {
@@ -2575,15 +2555,15 @@
     "niche_kept": 331,
     "niche_rejected": 551,
     "niche_scanned": 883,
-    "comp_kept": 228,
-    "comp_rejected": 1169,
-    "comp_scanned": 1411,
+    "comp_kept": 230,
+    "comp_rejected": 1175,
+    "comp_scanned": 1419,
     "busi_kept": 344,
     "busi_rejected": 991,
     "busi_scanned": 1339,
-    "last_scan": "2026-11-10T09:29:25.117663",
-    "total_kept": 903,
-    "total_rejected": 2711,
+    "last_scan": "2026-11-10T17:15:27.104450",
+    "total_kept": 905,
+    "total_rejected": 2717,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
