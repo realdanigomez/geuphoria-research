@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "You'll Have Enough Money, Then What?",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T05:08:12.001697",
-      "status": "reject",
-      "reason": "Title alone suggests philosophical musing rather than specific business strategy or actionable intelligence; would need to verify actual content contains concrete frameworks or lessons from Hormozi's business methodology.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "You're Posting Once. I'm Posting 60 Times a Day.",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T05:08:13.153664",
-      "status": "reject",
-      "reason": "Title references posting frequency comparison but no actual content, strategies, or insights provided—just a search result for Alex Hormozi without substantive business intelligence or actionable lessons.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Nothing Returns More Than Investing in Your Ability to Earn",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T05:08:14.314830",
-      "status": "keep",
-      "reason": "Alex Hormozi content on income-producing skill development is directly applicable to positioning fitness coaching as a high-ROI service and can inform pricing/positioning strategy for the business model",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "“Do I Sacrifice Money For My Kids?”",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T05:08:15.491680",
-      "status": "reject",
-      "reason": "Title suggests personal finance/parenting content unrelated to fitness business strategy; search term alone (Alex Hormozi) doesn't indicate the content actually contains his insights or applicable business lessons for fitness coaching.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Memorize a Sales Script",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "keep",
       "reason": "Alex Hormozi content on pricing/revenue strategy framework directly applicable to fitness coaching business model and pricing decisions",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Service Is Worth More Than You Think, Here's How You Fix It",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-10T01:59:52.342645",
+      "status": "keep",
+      "reason": "Dan Martell content on service pricing strategy provides direct actionable intelligence for coaching business model optimization and value positioning—core to fitness coaching monetization strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your Business Doesn't Need More Of You, It Needs You To Do THIS",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-10T01:59:53.202257",
+      "status": "reject",
+      "reason": "Title is clickbait without actual content provided; no specific strategies, frameworks, or actionable intelligence present to evaluate relevance to fitness coaching business model.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "You're Doing Pricing Wrong, Charge For This First",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-10T01:59:53.895306",
+      "status": "keep",
+      "reason": "Dan Martell pricing strategy content offers actionable business model insights applicable to fitness coaching service pricing and packaging decisions.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Hire Great Talent With No Money",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-10T01:59:54.833782",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business thinker known for scaling companies; a piece on hiring without capital contains actionable strategies applicable to bootstrapped fitness coaching businesses and creator economy ventures.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1335,
-    "kept": 341,
-    "rejected": 990,
-    "last_scan": "2026-11-09T19:02:54.996494",
+    "scanned": 1339,
+    "kept": 344,
+    "rejected": 991,
+    "last_scan": "2026-11-10T02:00:53.386523",
     "platforms": [
       "YouTube",
       "Google",
