@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How to Memorize a Sales Script",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-17T05:08:16.558235",
-      "status": "reject",
-      "reason": "Contains only a generic title with no actual content, script examples, or specific sales methodology - lacks actionable intelligence despite the Hormozi search reference.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Encoding delayed gratification",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-17T10:17:01.361821",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Charlie Morgan. No specific business strategies, tactics, or actionable intelligence provided to evaluate.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "You're only 6 months away from living your dream life",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-17T10:17:05.141333",
-      "status": "reject",
-      "reason": "Title is clickbait motivation lacking specific business insights, strategies, or actionable intelligence relevant to fitness coaching content or business operations.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The \\",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-17T19:11:35.769496",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or information provided to analyze for business value",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Two Types Of Growth",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-17T19:11:36.858114",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights provided - cannot evaluate business value without the substance of what Sam Ovens teaches about growth types",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Amazons Flywheel",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-17T19:11:37.822716",
-      "status": "reject",
-      "reason": "Search query alone without actual content about Amazon's Flywheel mechanism or Sam Ovens' insights; no actionable business intelligence provided",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How Does It End",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker known for scaling companies; a piece on hiring without capital contains actionable strategies applicable to bootstrapped fitness coaching businesses and creator economy ventures.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Pursuit of True Happiness",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-11T17:42:45.429432",
+      "status": "reject",
+      "reason": "Title suggests self-help philosophy rather than business strategy; search term alone doesn't confirm it contains actionable business insights, strategies, or creator economy content from Dan Martell.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Introducing \\",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-11T17:42:49.041557",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, context, or insights provided - cannot evaluate business value without substantive material.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Live Calls V2 is here!",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-11T17:42:50.049984",
+      "status": "reject",
+      "reason": "Title and text provide no specific details about Live Calls V2 features, strategy, or insights—just a bare announcement with a name search, lacking actionable intelligence for content or business strategy.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Roadmap update: Save groups you want to join to a wishlist?",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-11T17:42:51.069737",
+      "status": "reject",
+      "reason": "Title describes a product feature update (wishlist functionality) with no business strategy, entrepreneurial lessons, or actionable intelligence; search term \"Sam Ovens\" appears disconnected from the actual content about a platform feature.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Algorithm update coming soon: It's all about retention!",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-11T17:42:52.059521",
+      "status": "reject",
+      "reason": "Title promises algorithm insights but contains no actual details, strategy, or actionable information—only a vague announcement paired with a name search.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Skool of the week: Mini pig hoof care ($500 MRR) + Growing dragon fruit ($1,607 MRR)",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-11T17:42:52.867224",
+      "status": "reject",
+      "reason": "Contains case studies of unrelated niches (pig care, dragon fruit farming) with no transferable business principles, strategies, or lessons applicable to fitness coaching or creator economy",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1339,
+    "scanned": 1345,
     "kept": 344,
-    "rejected": 991,
-    "last_scan": "2026-11-11T09:45:05.190076",
+    "rejected": 997,
+    "last_scan": "2026-11-11T17:43:47.559278",
     "platforms": [
       "YouTube",
       "Google",
