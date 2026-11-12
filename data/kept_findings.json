@@ -2539,6 +2539,16 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business thinker known for scaling companies; a piece on hiring without capital contains actionable strategies applicable to bootstrapped fitness coaching businesses and creator economy ventures.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "It took me 30 harsh years to learn what I’ll teach you in just 27 minutes",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-12T00:02:03.123504",
+      "status": "keep",
+      "reason": "Dan Martell content on accelerated learning curve reduction; potential insights on business lessons, scaling strategies, or founder advice applicable to coaching business model and content creation",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2546,14 +2556,14 @@
     "niche_rejected": 551,
     "niche_scanned": 884,
     "comp_kept": 231,
-    "comp_rejected": 1182,
-    "comp_scanned": 1427,
-    "busi_kept": 344,
+    "comp_rejected": 1183,
+    "comp_scanned": 1428,
+    "busi_kept": 345,
     "busi_rejected": 997,
-    "busi_scanned": 1345,
-    "last_scan": "2026-11-11T17:43:47.563875",
-    "total_kept": 907,
-    "total_rejected": 2730,
+    "busi_scanned": 1346,
+    "last_scan": "2026-11-12T00:03:00.537041",
+    "total_kept": 908,
+    "total_rejected": 2731,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
