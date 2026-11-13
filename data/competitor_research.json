@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Pricing and upfront programs",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-23T03:17:09.920319",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "If I Wanted To Make $100k/Mo Before Christmas 2026 This Is What I'd Do",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-23T14:03:34.051909",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The 10-Week Sprint to $100K/Month",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-23T14:03:34.279343",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Reverse Engineering Your Revenue Goal",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-23T14:03:34.456904",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Fastest Ways to Make More Money",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-23T14:03:34.668775",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Black Friday Strategy That Actually Works",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-23T14:03:34.864525",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "What NOT to Do Before Christmas",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Charlie Johnson or fitness business coaching",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-13T23:27:16.745536",
+      "status": "reject",
+      "reason": "Search query alone without actual content, results, or intelligence about Bedros Keuilian's strategy, offers, or positioning provides no actionable insights.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-13T23:27:17.527963",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning; requires actual content/resource to analyze.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-13T23:27:18.291600",
+      "status": "reject",
+      "reason": "Finding is only a search query with no actual content, analysis, or intelligence about Bedros Keuilian's strategy, offers, or positioning",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-13T23:27:18.909154",
+      "status": "reject",
+      "reason": "Search query alone without actual findings, content analysis, or competitive intelligence provided",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-13T23:27:19.681047",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or his business approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical Videos",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-13T23:27:20.485183",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, intelligence, strategy, or information about Bedros Keuilian's business approach, offers, or positioning.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1443,
+    "scanned": 1449,
     "kept": 232,
-    "rejected": 1197,
-    "last_scan": "2026-11-13T18:01:06.001320",
+    "rejected": 1203,
+    "last_scan": "2026-11-13T23:28:20.814301",
     "platforms": [
       "YouTube",
       "Google",

@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Search Example",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-17T19:11:40.565074",
-      "status": "reject",
-      "reason": "No substantive content provided. This is merely a search query for a business figure without actual insights, strategies, or learnings to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "a video to watch if you're ambitious and in your 20s or 30s",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-18T05:33:34.194484",
-      "status": "reject",
-      "reason": "Contains only a vague reference to Alex Hormozi without specific insights, strategies, or actionable intelligence that could inform business or content strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Hustle Culture vs. Rest",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-18T10:32:49.522657",
-      "status": "reject",
-      "reason": "Search term alone without actual content, quotes, or specific insights from Hormozi about hustle culture vs. rest. No actionable intelligence or strategy present.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If You Think This Way, Business Is Simple",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-19T01:28:39.276407",
-      "status": "reject",
-      "reason": "Title is generic clickbait without specific business insight; search result alone doesn't confirm content contains actionable strategies or lessons from Dan Martell",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "If You Changed Nothing, You Learned Nothing",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-19T06:21:19.674934",
-      "status": "reject",
-      "reason": "Title is motivational platitude without specific business insights, strategy, or actionable intelligence; search result alone doesn't confirm Alex Hormozi content or substantive business lessons.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "This Routine Took Me From $0 To $1.2M/YR",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-19T06:21:23.174514",
-      "status": "keep",
-      "reason": "Charlie Morgan is an influential business creator known for sharing scaling strategies and revenue-building frameworks that directly apply to online coaching business models and creator economy monetization.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "I Infiltrated Hamza's Brainwashed Cult!",
       "text": "Search: Charlie Morgan business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Title and content appear to be a religious/prayer livestream with no discernible business insights, strategies, or entrepreneurship lessons despite mentioning Sam Ovens' name in the title.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-13T23:28:25.075485",
+      "status": "reject",
+      "reason": "Search query alone contains no substantive business insights, strategies, or content; it's merely a search term without actual intelligence or lessons to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-13T23:28:26.015441",
+      "status": "reject",
+      "reason": "Search query alone contains no actual content, insights, or strategies—just a search term without substantive business information to extract or apply.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-13T23:28:26.960269",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, article, or insights provided. Cannot assess business value without the substance of what \"Playback\" or the search result contains.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-13T23:28:27.772745",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or information provided - requires the actual article/resource to evaluate for business value",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-13T23:28:28.437856",
+      "status": "reject",
+      "reason": "Search query only, no actual content or insights provided about Charlie Morgan's business strategies or lessons",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical Videos",
+      "text": "Search: Charlie Morgan business",
+      "url": "",
+      "time": "2026-11-13T23:28:29.160829",
+      "status": "reject",
+      "reason": "Search query alone with no actual content, insights, or specific business strategy provided to evaluate",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1347,
+    "scanned": 1353,
     "kept": 345,
-    "rejected": 998,
-    "last_scan": "2026-11-13T18:02:10.113845",
+    "rejected": 1004,
+    "last_scan": "2026-11-13T23:29:29.691621",
     "platforms": [
       "YouTube",
       "Google",
