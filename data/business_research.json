@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Yellow Pages Example",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-17T19:11:39.715878",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, context, or insights provided - cannot evaluate business value without the substantive material",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Search Example",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell content on accelerated learning curve reduction; potential insights on business lessons, scaling strategies, or founder advice applicable to coaching business model and content creation",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴Friday Fasting Prayer | [ 13 - 11 - 2026 ] #Live |  Br. Sam Ovens  #brSamOvens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-13T10:31:09.703223",
+      "status": "reject",
+      "reason": "Title and content appear to be a religious/prayer livestream with no discernible business insights, strategies, or entrepreneurship lessons despite mentioning Sam Ovens' name in the title.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1346,
+    "scanned": 1347,
     "kept": 345,
-    "rejected": 997,
-    "last_scan": "2026-11-13T02:48:33.717420",
+    "rejected": 998,
+    "last_scan": "2026-11-13T10:32:05.368247",
     "platforms": [
       "YouTube",
       "Google",
