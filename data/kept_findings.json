@@ -1072,16 +1072,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Why Most High Achievers Fail Alone: The Power of Community for Business and Fitness Success",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-23T14:03:35.306100",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Offering discounts to leads",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1608,6 +1598,16 @@
       "time": "2026-11-13T18:00:02.185915",
       "status": "keep",
       "reason": "Directly relevant to fitness coach business growth; addresses Instagram lead generation strategy and DM conversion optimization, which are core business-building tactics for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Build a Scalable Coaching Business That Can Be Sold: Personal Brand vs Systems \\u0026 High-Ticket",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T10:47:43.649602",
+      "status": "keep",
+      "reason": "Direct intelligence on Charlie Johnson's positioning regarding personal brand vs systems approach—relevant competitive positioning strategy for scalable coaching business models and exit strategy.",
       "track": "competitor"
     },
     {
@@ -2485,15 +2485,15 @@
     "niche_kept": 332,
     "niche_rejected": 558,
     "niche_scanned": 891,
-    "comp_kept": 232,
-    "comp_rejected": 1203,
-    "comp_scanned": 1449,
+    "comp_kept": 233,
+    "comp_rejected": 1211,
+    "comp_scanned": 1458,
     "busi_kept": 345,
     "busi_rejected": 1004,
     "busi_scanned": 1353,
-    "last_scan": "2026-11-14T03:29:40.590816",
-    "total_kept": 909,
-    "total_rejected": 2765,
+    "last_scan": "2026-11-14T10:49:49.279926",
+    "total_kept": 910,
+    "total_rejected": 2773,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
