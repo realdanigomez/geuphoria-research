@@ -1072,26 +1072,6 @@
     },
     {
       "source": "YouTube",
-      "title": "One Offer That Adds $10k Overnight: Cash Flow Strategy For Coaches",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T16:51:14.110092",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Offer early renewal with bonus",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T16:51:14.477389",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Twice-yearly offer timing",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -1608,6 +1588,16 @@
       "time": "2026-11-14T16:51:08.411023",
       "status": "keep",
       "reason": "Direct competitor intelligence on Charlie Johnson (fitness business coach) with specific scaling methodology framework that online fitness coaches can learn from or differentiate against",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Scale Your Fitness Business With Content Funnels: AI Content Hacks For Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T21:05:30.398044",
+      "status": "keep",
+      "reason": "Directly relevant to fitness business scaling; Charlie Johnson is a named fitness business coach; content funnels and AI content tactics are specific, actionable strategies for online fitness coaches to build their business.",
       "track": "competitor"
     },
     {
@@ -2485,15 +2475,15 @@
     "niche_kept": 332,
     "niche_rejected": 558,
     "niche_scanned": 891,
-    "comp_kept": 234,
-    "comp_rejected": 1218,
-    "comp_scanned": 1466,
+    "comp_kept": 235,
+    "comp_rejected": 1225,
+    "comp_scanned": 1474,
     "busi_kept": 345,
     "busi_rejected": 1004,
     "busi_scanned": 1353,
-    "last_scan": "2026-11-14T16:53:14.665461",
-    "total_kept": 911,
-    "total_rejected": 2780,
+    "last_scan": "2026-11-14T21:07:37.646841",
+    "total_kept": 912,
+    "total_rejected": 2787,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
