@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Biggest Mistake",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T00:15:32.069987",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Double Your Fitness Referrals: Ask at Signup and After a Big Win",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T09:17:53.983235",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Breaking down the equation",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T09:17:54.147087",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Importance of referrals",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T09:17:54.290895",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Free coaching for results",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T09:17:54.449484",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Selecting ideal clients",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T09:17:54.605575",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Offering discounts to leads",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T09:17:54.756876",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Asking for referrals at signup",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-24T09:17:54.918917",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Asking after client wins",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search query alone without actual content about Charlie Johnson's offers, strategies, or business methods provides no actionable intelligence about fitness coaching business building.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Build a Skill First, Then Use These 4 Types of Leverage: Fitness Business Scaling Blueprint",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:08.411023",
+      "status": "keep",
+      "reason": "Direct competitor intelligence on Charlie Johnson (fitness business coach) with specific scaling methodology framework that online fitness coaches can learn from or differentiate against",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Need a skill to coach",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:09.290422",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's business strategy, offers, or coaching approach provides no actionable competitor intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Next step is traffic",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:09.999242",
+      "status": "reject",
+      "reason": "Search query alone with no data about Charlie Johnson's actual strategy, content, offers, or positioning provides no actionable intelligence for building an online fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Best known beats best",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:10.783320",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual content, intelligence, or actionable information about business strategies, offers, or positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Showcase skill for traffic",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:11.501212",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual information about Charlie Johnson's strategy, content, offers, or business positioning.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Consistency is key",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:12.225829",
+      "status": "reject",
+      "reason": "Search term only, no actual content or intelligence about Charlie Johnson's strategy, offers, positioning, or business model provided",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Three parts to success",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:13.078270",
+      "status": "reject",
+      "reason": "Search query alone without actual content details provides no specific, actionable intelligence about competitor strategy, offers, positioning, or business model.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ask people to help",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-14T16:51:13.948037",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning. Actual findings about Charlie Johnson's business model, coaching approach, or offerings would be needed.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1458,
-    "kept": 233,
-    "rejected": 1211,
-    "last_scan": "2026-11-14T10:48:45.999882",
+    "scanned": 1466,
+    "kept": 234,
+    "rejected": 1218,
+    "last_scan": "2026-11-14T16:52:11.153402",
     "platforms": [
       "YouTube",
       "Google",
