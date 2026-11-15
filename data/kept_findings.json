@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "10 Lead Magnets for Online Health \\u0026 Fitness Coaches",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-04T22:04:18.315009",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches; lead magnets are a proven system for scaling client pipelines without paid ads.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Step 1 — Offer \\u0026 positioning",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -1068,6 +1058,26 @@
       "time": "2026-11-11T02:05:48.693936",
       "status": "keep",
       "reason": "Directly addresses current pain points and solutions for online fitness coaches, with search data indicating active struggle, suggesting actionable insights into what's working in the evolving market",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Automating client qualifying",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T01:10:09.384134",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point - automating qualification processes helps coaches scale without manual intake burden, improving conversion efficiency and time management",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Automating client onboarding",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T01:10:10.288877",
+      "status": "keep",
+      "reason": "Directly addresses a major pain point for online fitness coaches—automating client onboarding reduces manual work, improves client experience, and frees time for scaling, which directly impacts their ability to acquire and retain clients efficiently.",
       "track": "niche"
     },
     {
@@ -2472,18 +2482,18 @@
     }
   ],
   "stats": {
-    "niche_kept": 332,
-    "niche_rejected": 558,
-    "niche_scanned": 891,
+    "niche_kept": 334,
+    "niche_rejected": 563,
+    "niche_scanned": 898,
     "comp_kept": 235,
     "comp_rejected": 1225,
     "comp_scanned": 1474,
     "busi_kept": 345,
-    "busi_rejected": 1004,
-    "busi_scanned": 1353,
-    "last_scan": "2026-11-14T21:07:37.646841",
-    "total_kept": 912,
-    "total_rejected": 2787,
+    "busi_rejected": 1005,
+    "busi_scanned": 1354,
+    "last_scan": "2026-11-15T01:13:19.795693",
+    "total_kept": 914,
+    "total_rejected": 2793,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

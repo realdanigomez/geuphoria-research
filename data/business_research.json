@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I Infiltrated Hamza's Brainwashed Cult!",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-19T06:21:25.132822",
-      "status": "reject",
-      "reason": "Sensationalized clickbait title with no substantive business insights; \"infiltrated cult\" framing suggests entertainment content rather than legitimate business strategy or creator economy analysis, despite Charlie Morgan search tag.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "95% Of People Using AI Lose Money, Here's Why",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone with no actual content, insights, or specific business strategy provided to evaluate",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "If You Want To Scale Your Business, You Have To Do This",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-15T01:12:22.027542",
+      "status": "reject",
+      "reason": "Title is generic clickbait without specific actionable advice; no actual content provided to evaluate substance or relevance to fitness business strategy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1353,
+    "scanned": 1354,
     "kept": 345,
-    "rejected": 1004,
-    "last_scan": "2026-11-14T21:07:37.643969",
+    "rejected": 1005,
+    "last_scan": "2026-11-15T01:13:19.792487",
     "platforms": [
       "YouTube",
       "Google",
