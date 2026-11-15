@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Client Profile",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-07T12:53:21.712892",
-      "status": "reject",
-      "reason": "Generic search term without actual research data, findings, or insights - no specific pain points, solutions, or intelligence provided to act on",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Train Clients Online | 5 Steps to Becoming an Online Fitness Coach",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-07T21:41:09.493331",
-      "status": "reject",
-      "reason": "Contains generic how-to advice for becoming a coach rather than addressing specific pain points, struggles, or problems faced by existing online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Exactly How Many Clients You Need To Make $100K As A Personal Trainer",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-08T03:40:19.774164",
-      "status": "keep",
-      "reason": "Directly addresses income goals ($100K) and client acquisition metrics—core pain points for fitness coaches scaling their business",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Get Your First 5 Clients As A Fitness Coach (Simple Method)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-08T13:17:23.076319",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for new fitness coaches; likely contains tactical methods for solving early-stage business growth challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Start an LLC",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-10T16:52:39.596066",
-      "status": "reject",
-      "reason": "Generic business formation advice with no fitness coaching-specific context; doesn't address actual pain points like client acquisition, pricing strategy, or service delivery systems that online fitness coaches face",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Track Income Expenses",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-10T16:52:40.929269",
-      "status": "reject",
-      "reason": "Finding contains only a generic tool title with no actual research data, insights, or specific information about fitness coaches' actual pain points, struggles, or challenges. The search term alone doesn't constitute research evidence.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Fitness Coach Burnout: How I Fixed My Business (And My Life)",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Generic search term lacks specific insight into actual pain points, solutions, or actionable intelligence for fitness coaches—no data on what \"struggling\" means or how to address it.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T20:46:51.161671",
+      "status": "reject",
+      "reason": "Too broad and generic - \"online coaching business tips\" lacks specificity about fitness coaches' unique pain points, struggles, or actionable insights into their actual problems",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T20:46:51.927449",
+      "status": "reject",
+      "reason": "Generic productivity tips lack specificity to fitness coaching business pain points, client acquisition, marketing, or scaling challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T20:46:52.710715",
+      "status": "reject",
+      "reason": "Too vague and generic; \"online coaching business tips\" is a broad search term without specific pain points, struggles, or actionable insights relevant to fitness coaches' unique challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T20:46:53.508110",
+      "status": "reject",
+      "reason": "Too generic and broad; lacks specific insights into fitness coaches' actual pain points, struggles, or actionable solutions relevant to their niche challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T20:46:54.396325",
+      "status": "reject",
+      "reason": "Generic content about subtitles/captions lacks specificity to fitness coaching business challenges; no direct connection to fitness coach pain points, client acquisition, marketing strategy, or scaling operations.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical Videos",
+      "text": "Search: online coaching business tips",
+      "url": "",
+      "time": "2026-11-15T20:46:55.302653",
+      "status": "reject",
+      "reason": "Spherical videos are a production format with no connection to fitness coaches' core pain points like client acquisition, retention, systems, scaling, or business operations.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 903,
+    "scanned": 909,
     "kept": 336,
-    "rejected": 566,
-    "last_scan": "2026-11-15T15:46:36.586780",
+    "rejected": 572,
+    "last_scan": "2026-11-15T20:47:53.393205",
     "platforms": [
       "Reddit",
       "YouTube",
