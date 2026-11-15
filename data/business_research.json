@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "95% Of People Using AI Lose Money, Here's Why",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-19T11:21:23.443073",
-      "status": "reject",
-      "reason": "Title makes a bold claim but finding only shows a search reference to Dan Martell without the actual insight, strategy, or explanation of why people lose money—no actionable intelligence provided.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Give me 57 sec... I'll DELETE your need for perfection",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-19T14:39:19.292938",
-      "status": "reject",
-      "reason": "Title promises mindset content about perfectionism, but no actual business strategy, framework, or actionable intelligence is present—just a vague clickbait hook with a creator name attached.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Stop letting your AI be your Yes Man. Follow + Comment \\",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-19T17:46:56.323928",
-      "status": "reject",
-      "reason": "Title mentions Dan Martell but contains no actual content, strategy, or actionable insight—just a generic call-to-action without substantive business intelligence.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Simple trick to become ridiculously productive",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-19T22:19:53.934943",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Charlie Morgan - no substantive business intelligence present",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The dirty trick billionaires use to stay disciplined",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-19T22:19:54.908028",
-      "status": "reject",
-      "reason": "Title promises disciplinary insight but finding contains no actual content, strategy, or specific billionaire tactics to extract actionable business lessons from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "1 Habit That Got Me the Furthest in Life",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-20T09:58:47.840083",
-      "status": "reject",
-      "reason": "Title promises personal habit advice but finding only shows a search query for Alex Hormozi with no actual content, insights, strategies, or lessons to extract for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "These are the best AI tools for every task TODAY",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Title is generic clickbait without specific actionable advice; no actual content provided to evaluate substance or relevance to fitness business strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-15T08:10:14.097352",
+      "status": "reject",
+      "reason": "This is a bare search query with no actual content, insights, or strategic information provided—just a name search placeholder.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-15T08:10:14.948729",
+      "status": "reject",
+      "reason": "Contains only a search query with no actual content, insights, strategies, or substantive information about Sam Ovens or any business topic.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-15T08:10:15.814968",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens — no actionable intelligence to extract for business strategy or content creation.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-15T08:10:16.657639",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or specific information to extract for business strategy or content ideas",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-15T08:10:17.441841",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens. No actionable business intelligence present.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical videos",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-15T08:10:18.229376",
+      "status": "reject",
+      "reason": "Search mention alone without actual content, insights, or strategies from Sam Ovens provides no actionable business intelligence or strategic value.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1354,
+    "scanned": 1360,
     "kept": 345,
-    "rejected": 1005,
-    "last_scan": "2026-11-15T01:13:19.792487",
+    "rejected": 1011,
+    "last_scan": "2026-11-15T08:11:13.429869",
     "platforms": [
       "YouTube",
       "Google",
