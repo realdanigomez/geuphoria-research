@@ -2,126 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Why coaches get stuck",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-10-24T19:14:40.988468",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Solving the lead flow problem",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-10-24T19:14:41.131673",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Marriage Traps Driven Men Fall Into and How to Avoid Them",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T21:44:51.424353",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Identity lies men believe",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T21:44:51.558609",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Marriage killers men ignore",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T21:44:51.702633",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Rebuild or get bitter?",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T21:44:51.834764",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Rejection he couldn’t handle",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T21:44:51.974236",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Prayer that broke him",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T21:44:52.116357",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "4 a.m. with God",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-24T21:44:52.267461",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Setter Accountability System That Adds 20k to Your Monthly Revenue: Fitness Business Scaling",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-25T13:50:09.130075",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Preliminary discussion and VPN",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-25T13:50:09.274546",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Addressing managing services",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-25T13:50:09.412792",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Daily meetings and team culture",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2879,133 @@
       "status": "reject",
       "reason": "Title alone lacks specific intelligence about business strategy, offers, or positioning; would need actual content from Vince Del Monte's material to extract actionable competitor insights",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-16T17:54:16.150923",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about competitor strategy, content, offers, or positioning—only confirms a name exists.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-16T17:54:17.002721",
+      "status": "reject",
+      "reason": "Search query alone with no content, strategy, offer details, or business intelligence about how Vince Del Monte builds his coaching business",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-16T17:54:17.753498",
+      "status": "reject",
+      "reason": "Search term alone provides no actionable intelligence about competitor strategy, content, offers, or positioning without actual findings or analysis included.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-16T17:54:18.553149",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about strategy, content, offers, or positioning of fitness business coaches or their programs",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-16T17:54:19.440279",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about business strategies, offers, positioning, or content—just a name without any substantive information about coaching programs or business methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical Videos",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-16T17:54:20.324715",
+      "status": "reject",
+      "reason": "Search query alone provides no specific intelligence about business strategy, offers, positioning, or coaching programs - just a name search with no substantive content included.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "How an AI Chatbot Replaced My Sales Team: The Paid Ad System That Prints $1,000/Day",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-16T17:54:26.627773",
+      "status": "reject",
+      "reason": "Generic AI sales automation content without specific intelligence about fitness business coaching strategies, offers, or positioning relevant to online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Content to paid ads system",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-16T17:54:27.426413",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or specific intelligence about business strategies, offers, or positioning of Charlie Johnson or competitors.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Advanced lead capture automation",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-16T17:54:28.395106",
+      "status": "reject",
+      "reason": "No specific intelligence provided about Charlie Johnson's strategies, offers, positioning, or business methods - only a search query without substantive findings about how he helps online fitness coaches build their business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "AI chat bar introduction",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-16T17:54:29.342784",
+      "status": "reject",
+      "reason": "No specific intelligence provided; only a search query without findings, strategy details, content examples, offers, or positioning information about Charlie Johnson's business coaching approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Sales skills and conviction",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-16T17:54:30.244455",
+      "status": "reject",
+      "reason": "Search query alone provides no actual content, strategy, offer details, or business intelligence about Charlie Johnson's coaching methods, positioning, or programs for online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Summary and scaling opportunity",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-16T17:54:31.168590",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about Charlie Johnson's business strategy, content, offers, or positioning—only confirms he exists as a potential competitor to research further.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1483,
+    "scanned": 1495,
     "kept": 236,
-    "rejected": 1233,
-    "last_scan": "2026-11-16T07:38:54.889835",
+    "rejected": 1245,
+    "last_scan": "2026-11-16T17:55:29.409991",
     "platforms": [
       "YouTube",
       "Google",
