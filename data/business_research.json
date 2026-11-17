@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "These Are the Best AI Tools in 2026",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-23T21:04:35.592120",
-      "status": "reject",
-      "reason": "Title promises AI tools overview but finding only shows a search query for Dan Martell with no actual content, insights, or actionable intelligence about tools or business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Oil Was Surging — So Why Did I Short It?",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-23T23:52:32.989529",
-      "status": "reject",
-      "reason": "Title suggests financial trading strategy rather than business fundamentals, creator economy, or entrepreneurship lessons relevant to fitness coaching content business",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Why I Shorted Oil",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-23T23:52:33.971911",
-      "status": "reject",
-      "reason": "Title suggests financial/investment content unrelated to fitness business, creator economy, or entrepreneurship strategies. Search term \"Charlie Morgan business\" is vague and doesn't indicate the content delivers actionable business insights for a fitness coaching platform.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Bullish Oil Headlines",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-23T23:52:35.046452",
-      "status": "reject",
-      "reason": "Search query alone without actual content or insights; no substantive business intelligence, strategy, or creator economy lessons present to extract actionable value from.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "When Everyone Starts Looking the Same Way",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-23T23:52:36.102618",
-      "status": "reject",
-      "reason": "Search query alone without actual content, article, or insights from Charlie Morgan provided - cannot evaluate business value without substantive material to analyze.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Technical Setup",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-23T23:52:37.051012",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or findings provides no actionable intelligence or specific business strategies to extract.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "MACD Divergence",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-23T23:52:37.967313",
-      "status": "reject",
-      "reason": "Search query alone without actual content about Charlie Morgan's business strategies, lessons, or insights provides no actionable intelligence or substantive business information.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Managing the Trade",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-23T23:52:39.005286",
-      "status": "reject",
-      "reason": "Search query alone without actual content, articles, or insights from Charlie Morgan—no specific business intelligence to extract or actionable strategy present.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Routine maintenance",
       "text": "Search: Sam Ovens",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search result title only, no actual content from Alex Hormozi about business strategy, entrepreneurship, or actionable insights provided.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Valuable Sales Training You’ll Ever Watch [$100M Sales Team System]",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T10:09:20.883321",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "SECTION 1: Sales Strategy",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T10:09:21.086229",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "1a. The Top 0.01% Handbook",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T10:09:21.300261",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "1b. The Roadmap",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T10:09:21.491472",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "SECTION 2: Sales Recruitment",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T10:09:21.691029",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "2a. What You Need",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T10:09:21.901139",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "2b. Who to Look For",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T10:09:22.108850",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The biggest problem with people's mindset",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-17T10:09:30.430254",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1366,
-    "kept": 345,
+    "scanned": 1374,
+    "kept": 353,
     "rejected": 1017,
-    "last_scan": "2026-11-17T01:34:20.020246",
+    "last_scan": "2026-11-17T10:10:24.944072",
     "platforms": [
       "YouTube",
       "Google",
