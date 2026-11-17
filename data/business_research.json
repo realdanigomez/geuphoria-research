@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Routine maintenance",
-      "text": "Search: Sam Ovens",
-      "url": "",
-      "time": "2026-09-24T03:03:36.001881",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Sam Ovens—no specific intelligence to extract or apply to business strategy.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "How To Be Consistent Like a Millionaire",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-09-24T08:40:32.452620",
-      "status": "reject",
-      "reason": "Title alone lacks specificity; no actual content provided to verify if it contains actionable business strategies or insights from Charlie Morgan. Need full article text to assess value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "14 Life Lessons I Wish I Knew Earlier",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-24T14:01:35.117994",
-      "status": "reject",
-      "reason": "Title is generic life advice; no specific business strategies, frameworks, or actionable insights evident without viewing full content. Search term alone doesn't confirm Alex Hormozi content or substantive business lessons applicable to fitness coaching business.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The power of focus",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-24T14:01:35.949036",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or strategies from Alex Hormozi provided to evaluate",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Embracing hardship",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-24T14:01:36.840394",
-      "status": "reject",
-      "reason": "Search result only shows Alex Hormozi's name without any actual content, insights, strategies, or lessons that could be extracted for business strategy or content ideas.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Investing your time",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-24T14:01:37.607393",
-      "status": "reject",
-      "reason": "Search query alone with no actual content, insights, or strategies provided to analyze for business value.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Building confidence",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-09-24T14:01:38.492740",
-      "status": "reject",
-      "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi provides no actionable intelligence for business strategy or content creation.",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Equipping for the fight",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Valuable Sales Training You’ll Ever Watch - $100 Million Sales Team System",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-17T19:17:52.712217",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-17T19:17:58.497420",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-17T19:17:58.667540",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-17T19:17:58.844949",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-17T19:17:59.046239",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-17T19:17:59.244705",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical Videos",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-17T19:17:59.446079",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1374,
-    "kept": 353,
-    "rejected": 1017,
-    "last_scan": "2026-11-17T10:10:24.944072",
+    "scanned": 1381,
+    "kept": 354,
+    "rejected": 1023,
+    "last_scan": "2026-11-17T19:18:57.638267",
     "platforms": [
       "YouTube",
       "Google",
