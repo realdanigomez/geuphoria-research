@@ -1072,16 +1072,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Authority content type",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-27T19:48:43.890469",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Education content type",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2519,6 +2509,16 @@
       "status": "keep",
       "reason": "Local score 2: business insight markers",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Most Valuable Sales Training You’ll Ever Watch - $100 Million Sales Team",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-18T09:43:44.215391",
+      "status": "keep",
+      "reason": "Local score 2: business insight markers",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2526,14 +2526,14 @@
     "niche_rejected": 572,
     "niche_scanned": 909,
     "comp_kept": 241,
-    "comp_rejected": 1264,
-    "comp_scanned": 1519,
-    "busi_kept": 354,
+    "comp_rejected": 1265,
+    "comp_scanned": 1520,
+    "busi_kept": 355,
     "busi_rejected": 1023,
-    "busi_scanned": 1381,
-    "last_scan": "2026-11-18T01:48:58.169625",
-    "total_kept": 931,
-    "total_rejected": 2859,
+    "busi_scanned": 1382,
+    "last_scan": "2026-11-18T09:44:48.042447",
+    "total_kept": 932,
+    "total_rejected": 2860,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",

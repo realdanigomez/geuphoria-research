@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Authority content type",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-27T19:48:43.890469",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Education content type",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Reality of Self-Defense",
+      "text": "Search: Bedros Keuilian online fitness",
+      "url": "",
+      "time": "2026-11-18T09:42:42.325215",
+      "status": "reject",
+      "reason": "Local score 1: below threshold",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1519,
+    "scanned": 1520,
     "kept": 241,
-    "rejected": 1264,
-    "last_scan": "2026-11-18T01:47:54.075068",
+    "rejected": 1265,
+    "last_scan": "2026-11-18T09:43:42.954814",
     "platforms": [
       "YouTube",
       "Google",
