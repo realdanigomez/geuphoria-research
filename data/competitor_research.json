@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "DM ads and coverage needs",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-28T16:12:21.025226",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Ownership and small teams",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Best Weight Loss Program",
+      "text": "Search: Vince Del Monte fitness coach",
+      "url": "",
+      "time": "2026-11-20T07:37:35.984070",
+      "status": "reject",
+      "reason": "Search query alone without actual content about Vince Del Monte's business strategy, programs, offers, or positioning provides no actionable intelligence for competing fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1535,
+    "scanned": 1536,
     "kept": 242,
-    "rejected": 1279,
-    "last_scan": "2026-11-20T00:17:22.413686",
+    "rejected": 1280,
+    "last_scan": "2026-11-20T07:38:38.084309",
     "platforms": [
       "YouTube",
       "Google",

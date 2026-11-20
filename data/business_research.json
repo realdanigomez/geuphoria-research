@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "The modern life disease",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-09-26T19:00:05.239134",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Pillar 1: Defining mission",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Local score 1: below threshold",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "LIVE - 🔴Friday Fasting Prayer | [ 20 - 11 - 2026 ] #Live |  Br. Sam Ovens  #brSamOvens",
+      "text": "Search: Sam Ovens",
+      "url": "",
+      "time": "2026-11-20T07:38:48.088581",
+      "status": "reject",
+      "reason": "No actionable business content present. This appears to be a religious prayer stream with Sam Ovens' name only in the title/metadata, lacking any business insights, strategies, or entrepreneurship lessons relevant to fitness coaching or creator economy.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1386,
+    "scanned": 1387,
     "kept": 357,
-    "rejected": 1025,
-    "last_scan": "2026-11-20T00:18:25.841693",
+    "rejected": 1026,
+    "last_scan": "2026-11-20T07:39:42.216499",
     "platforms": [
       "YouTube",
       "Google",
