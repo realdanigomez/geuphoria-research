@@ -2,66 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Ownership and small teams",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-28T16:12:21.193344",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "AI versus human scripts",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-28T16:12:21.377881",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Hiring Eastern European setters",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-28T16:12:21.565312",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "You don’t need more motivation. Just do this. | EP. 213",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-10-29T14:35:07.563186",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Plan Your Day for Maximum Leverage: Daily Routine for Online Business Owners",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:10.602631",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Opening mindset and resilience",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:10.792012",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Payment cycles and client management",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2939,73 @@
       "status": "reject",
       "reason": "Search query alone without actual content about Vince Del Monte's business strategy, programs, offers, or positioning provides no actionable intelligence for competing fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Search filters",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-20T22:57:58.632936",
+      "status": "reject",
+      "reason": "Search query alone provides no actionable intelligence about Brian Mark's business strategy, offers, positioning, or coaching methods - it only shows a search was performed without results or details.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Keyboard shortcuts",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-20T22:57:59.390200",
+      "status": "reject",
+      "reason": "Search term alone with no actual content about Brian Mark's business strategy, offers, positioning, or coaching methods provides no actionable intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Playback",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-20T22:58:00.187483",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about Brian Mark's strategy, content, offers, or positioning—only confirmation he exists as a search result.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "General",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-20T22:58:01.034103",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Brian Mark's strategy, offers, positioning, or business approach provides no actionable competitive intelligence.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Subtitles and closed captions",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-20T22:58:01.872707",
+      "status": "reject",
+      "reason": "Search result page with no actual content about Brian Mark's strategy, offers, positioning, or business model - just a technical feature description about subtitles/captions.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Spherical Videos",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-20T22:58:02.661922",
+      "status": "reject",
+      "reason": "Search term only, no actual content about Brian Mark's strategy, offers, positioning, or business model provided",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1536,
+    "scanned": 1542,
     "kept": 242,
-    "rejected": 1280,
-    "last_scan": "2026-11-20T16:42:02.327598",
+    "rejected": 1286,
+    "last_scan": "2026-11-20T22:58:57.126294",
     "platforms": [
       "YouTube",
       "Google",

@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Business model and goals",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-13T17:54:03.155384",
-      "status": "reject",
-      "reason": "Too generic and broad; lacks specific insights into pain points, struggles, or actionable solutions that online fitness coaches face—merely indicates a search query without substantive content about their actual problems",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Analyzing conversion issues",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-13T17:54:04.086903",
-      "status": "reject",
-      "reason": "Too generic and surface-level; no specific conversion issues, pain points, or actionable intelligence about how fitness coaches actually acquire clients or what barriers they face.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Scaling and automation",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-13T17:54:05.184498",
-      "status": "reject",
-      "reason": "Too broad and generic; lacks specific insights into actual coach pain points, struggles, or actionable solutions—\"getting clients\" is a surface-level search term without depth or specificity.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Increasing ad volume",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-13T17:54:06.246291",
-      "status": "reject",
-      "reason": "Too vague and generic - \"increasing ad volume\" lacks specificity about fitness coaches' actual pain points, conversion strategies, or client acquisition mechanics; doesn't provide actionable intelligence for the niche.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Content strategy for buyers",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-13T17:54:07.070674",
-      "status": "reject",
-      "reason": "Generic content strategy advice without specific insights into fitness coach pain points, client acquisition mechanics, or industry-specific challenges",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Build an Online Coaching Business in 2026 (Full Course)",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-09-13T17:54:10.862369",
-      "status": "reject",
-      "reason": "Generic title without specificity; \"full course\" suggests promotional content rather than research insights into actual coach pain points, struggles, or business metrics",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "INTRO: The Most Valuable Coaching Video You’ll Watch",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-09-13T17:54:11.672129",
-      "status": "reject",
-      "reason": "Too generic and promotional; lacks specific insights into actual pain points, struggles, or actionable strategies for online fitness coaches",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "WEEKLY SCHEDULE: How to Build a Business in Just 10 Hours a Week",
-      "text": "Search: online coaching business tips",
-      "url": "",
-      "time": "2026-09-13T17:54:12.522387",
-      "status": "reject",
-      "reason": "Generic time management advice without specific strategies for fitness coaching business models, client acquisition, or scaling challenges unique to online fitness coaches.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "OFFERS \\u0026 FOUNDATIONS: Crafting a Grand Slam Offer",
       "text": "Search: online coaching business tips",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Lists generic app recommendations without addressing specific pain points, struggles, or challenges that online fitness coaches face. Lacks actionable intelligence about their actual problems.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "how i get fitness clients to stay for 2 years (and pay $10k)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:42.705047",
+      "status": "keep",
+      "reason": "Directly addresses client retention and high-ticket pricing strategy—core pain points for fitness coaches seeking sustainable income and reduced churn",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why most clients quit after 3 months",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:43.495877",
+      "status": "keep",
+      "reason": "Directly addresses client retention—a core business problem for fitness coaches affecting revenue, reputation, and scaling efficiency",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "My top clients by lifetime spend",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:44.434811",
+      "status": "reject",
+      "reason": "General title lacks specificity about coach pain points; no indication content addresses actual struggles like client acquisition strategies, retention systems, pricing models, or scaling challenges that online fitness coaches face.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lesson 1: Set expectations early",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:45.280646",
+      "status": "reject",
+      "reason": "Generic advice about setting expectations lacks specific insight into fitness coaches' actual client acquisition struggles, pain points, or systems; no actionable intelligence about their unique problems.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The mistake: \\",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:46.100246",
+      "status": "reject",
+      "reason": "Generic search query without specific insights into coach pain points, struggles, or solutions. No actionable intelligence about their actual problems or needs.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "My onboarding roadmap in 4 phases",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:47.023076",
+      "status": "reject",
+      "reason": "Lacks specificity about actual pain points or struggles; a generic \"roadmap\" framework without concrete data on what fitness coaches actually face during client onboarding or acquisition challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "A 3–6 month package is just the starting commitment",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:47.847679",
+      "status": "reject",
+      "reason": "Vague statement about package length lacks specific insight into actual pain points, client acquisition strategies, or coaches' struggles. No actionable intelligence provided.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Make clients feel seen (welcome shirts and trophies)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-20T22:56:48.816436",
+      "status": "reject",
+      "reason": "Generic motivational advice about client retention tactics lacks specific insight into actual pain points, acquisition challenges, or business systems that fitness coaches face. No actionable intelligence about the core problems mentioned in the track.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 930,
-    "kept": 356,
-    "rejected": 573,
-    "last_scan": "2026-11-20T16:40:58.170012",
+    "scanned": 938,
+    "kept": 358,
+    "rejected": 579,
+    "last_scan": "2026-11-20T22:57:48.643233",
     "platforms": [
       "Reddit",
       "YouTube",
