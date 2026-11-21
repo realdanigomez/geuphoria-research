@@ -1162,46 +1162,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How a Fitness Coach Made 240K a Month Using Only Instagram: The Exact Reel, Story, and Automation S",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-30T13:18:22.357431",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Introduction to Instagram strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-30T13:18:22.561434",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Importance of hooks in content",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-30T13:18:22.886802",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Instagram Reels and trial strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-30T13:18:23.071759",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "How To Launch Your Coaching Business In 2024 | Brian Mark",
       "text": "Search: Brian Mark fitness coaching",
       "url": "",
@@ -1578,6 +1538,16 @@
       "time": "2026-11-21T12:04:38.104767",
       "status": "keep",
       "reason": "Direct content from Charlie Johnson (named competitor) about scaling online business with specific methodology (weekly journaling habit), potentially revealing his coaching approach and business growth framework",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Exact Setter Numbers To Hit 100K A Month: Fitness Coach Sales Funnel Tracking",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T19:38:37.578540",
+      "status": "keep",
+      "reason": "Direct intelligence on fitness business coach (Charlie Johnson) with specific revenue target ($100K/month) and sales funnel methodology applicable to online fitness coaching business model.",
       "track": "competitor"
     },
     {
@@ -2525,15 +2495,15 @@
     "niche_kept": 358,
     "niche_rejected": 584,
     "niche_scanned": 943,
-    "comp_kept": 243,
-    "comp_rejected": 1293,
-    "comp_scanned": 1550,
+    "comp_kept": 244,
+    "comp_rejected": 1306,
+    "comp_scanned": 1564,
     "busi_kept": 358,
     "busi_rejected": 1043,
     "busi_scanned": 1405,
-    "last_scan": "2026-11-21T12:06:51.717434",
-    "total_kept": 959,
-    "total_rejected": 2920,
+    "last_scan": "2026-11-21T19:40:49.769912",
+    "total_kept": 960,
+    "total_rejected": 2933,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
