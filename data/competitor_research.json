@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Payment cycles and client management",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:10.976870",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Payment fees and processing hacks",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:11.172674",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Content strategy and boosted posts",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:11.356100",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Copywriting hooks and DM funnel",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:11.557304",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Price increases and payment processors",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:11.765227",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Close rate expectations and team",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T14:35:11.967157",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Half Your Coaching Clients Should Be Dads: The Untapped Father Market Strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T20:03:30.360001",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Realizing the obvious",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-29T20:03:30.496410",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Modern masculinity defined",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "reject",
       "reason": "Search term only, no actual content about Brian Mark's strategy, offers, positioning, or business model provided",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Weekly Journaling Habit That Unlocked My Growth: Hard Skills for Scaling an Online Business",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:38.104767",
+      "status": "keep",
+      "reason": "Direct content from Charlie Johnson (named competitor) about scaling online business with specific methodology (weekly journaling habit), potentially revealing his coaching approach and business growth framework",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Pattern interrupt and routine craving",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:38.837066",
+      "status": "reject",
+      "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, or positioning for fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Weekly journaling and reflection",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:39.770291",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about Charlie Johnson's business strategy, offerings, positioning, or methods - only indicates someone searched for him without any substantive findings captured.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Investing in mentors and skills",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:40.537034",
+      "status": "reject",
+      "reason": "Finding only mentions a search query without any actual content, strategy, offer details, or actionable intelligence about the competitor or their business approach.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Learning hard skills sooner",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:41.408555",
+      "status": "reject",
+      "reason": "Search query alone provides no actual intelligence about Charlie Johnson's business strategy, content, offers, or positioning—only confirmation he exists as a potential competitor to research further.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Specific skills for online success",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:42.437907",
+      "status": "reject",
+      "reason": "No specific intelligence provided. The finding only mentions a search query for Charlie Johnson without detailing any actual business strategy, content, offers, positioning, or actionable insights about how he helps online fitness coaches.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Ten-year journey and conclusion",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:43.291248",
+      "status": "reject",
+      "reason": "Title and search query suggest personal narrative rather than specific business strategy, offers, or positioning intelligence about fitness coaching business building.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why I Regret Not Leaving My Job Sooner: Business Growth And Mindset Lessons For Coaches",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-21T12:04:44.125382",
+      "status": "reject",
+      "reason": "Title suggests mindset/personal narrative rather than specific actionable business strategy, content tactics, offers, or positioning intelligence about how fitness business coaches build their coaching businesses.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1542,
-    "kept": 242,
-    "rejected": 1286,
-    "last_scan": "2026-11-21T03:49:52.980296",
+    "scanned": 1550,
+    "kept": 243,
+    "rejected": 1293,
+    "last_scan": "2026-11-21T12:05:41.707108",
     "platforms": [
       "YouTube",
       "Google",
