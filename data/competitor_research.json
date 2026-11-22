@@ -2,56 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Fulfillment and quick results",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-31T22:41:02.968857",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "CLOSER sales framework overview",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-31T22:41:03.137327",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Overcoming conversion issues",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-10-31T22:41:06.065887",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Hiring a support coach",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-10-31T22:41:06.230545",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Managing client experience",
-      "text": "Search: Brian Mark fitness coaching",
-      "url": "",
-      "time": "2026-10-31T22:41:06.422406",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The Gateway Drug To An Awesome Life | The Bedros Keuilian Show E009",
       "text": "Search: Bedros Keuilian online fitness",
       "url": "",
@@ -2999,13 +2949,63 @@
       "status": "reject",
       "reason": "No actual content provided, only a search query. The trailer contains no specific intelligence about strategy, offers, positioning, or business tactics from Brian Mark or any fitness business coach.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Viral Clippers and Failed SaaS: What I Learned From My 2025 Business Mistakes",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-22T15:32:14.471837",
+      "status": "reject",
+      "reason": "General business mistakes blog post lacks specific intelligence about fitness coaching business models, strategies, or offers that would be actionable for online fitness coaches",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Viral clippers strategy fail",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-22T15:32:15.428526",
+      "status": "reject",
+      "reason": "No specific intelligence provided about business strategy, offers, positioning, or programs—only a search query title indicating a strategy failed without details or analysis.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "SaaS launch waste and lesson",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-22T15:32:16.348175",
+      "status": "reject",
+      "reason": "Title indicates a generic SaaS launch lesson rather than specific intelligence about Charlie Johnson's fitness coaching business strategy, offers, or positioning. No actionable competitor insights evident from title alone.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Manpower and bodies importance",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-22T15:32:17.241174",
+      "status": "reject",
+      "reason": "Finding contains only a generic title with no actual content, strategy, offers, or positioning details about Charlie Johnson's fitness business coaching approach or methods.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Aggressive ad spend growth",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-22T15:32:18.084126",
+      "status": "reject",
+      "reason": "Finding contains only a search query with no actual intelligence about Charlie Johnson's strategy, content, offers, or positioning—no actionable details are provided.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1573,
+    "scanned": 1578,
     "kept": 247,
-    "rejected": 1312,
-    "last_scan": "2026-11-22T07:15:31.998975",
+    "rejected": 1317,
+    "last_scan": "2026-11-22T15:33:15.401147",
     "platforms": [
       "YouTube",
       "Google",
