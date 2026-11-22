@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Carousel posts for conversion",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-10-30T13:18:23.575357",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "5 UNIQUE Ways Online Coaches Can Stand Out \\u0026 Grow (FITNESS MARKETING 101)",
-      "text": "Search: Vince Del Monte fitness coach",
-      "url": "",
-      "time": "2026-10-31T14:39:49.857228",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "5 UNIQUE WAYS ONLINE FITNESS COACHES CAN STAND OUT \\u0026 GROW",
       "text": "Search: Vince Del Monte fitness coach",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search result title only references a scheduling tool feature, not actual intelligence about Brian Mark's coaching strategy, offers, positioning, or business model",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "From Rock Bottom to Million-Dollar Coach w/ Brian Mark",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-22T00:04:57.988065",
+      "status": "keep",
+      "reason": "Brian Mark is a recognized fitness business coach who teaches online coaches how to scale to seven figures; this finding likely contains actionable strategies on business model, pricing, client acquisition, or coaching systems relevant to building an online fitness coaching business.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Future of Fitness Is Here | AI-Powered Health Coaching + Real Accountability | iAM360",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-22T00:04:59.071150",
+      "status": "reject",
+      "reason": "iAM360 is an AI health coaching platform for end consumers, not a business coach/mentor program targeting online fitness coaches as clients. No intelligence about coaching business building, strategy, or offers relevant to fitness coaches.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1564,
-    "kept": 244,
-    "rejected": 1306,
-    "last_scan": "2026-11-21T19:39:46.072217",
+    "scanned": 1566,
+    "kept": 245,
+    "rejected": 1307,
+    "last_scan": "2026-11-22T00:05:53.477819",
     "platforms": [
       "YouTube",
       "Google",
