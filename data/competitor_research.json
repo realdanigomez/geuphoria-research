@@ -2,46 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Recap: doubling traffic to 100K",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-11-01T20:08:32.473994",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "You Don't Have an Investing Problem, You Have an Income Problem: Wealth Building Tips",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-11-02T12:45:21.672549",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "YouTube channel split strategy",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-11-02T12:45:21.825570",
-      "status": "keep",
-      "reason": "Local score 3: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "How I Built a $168K/Month Fitness Coaching Business: Team Structure, Ads Strategy, and Scaling Tips",
-      "text": "Search: Charlie Johnson fitness business",
-      "url": "",
-      "time": "2026-11-02T22:07:09.067687",
-      "status": "keep",
-      "reason": "Local score 2: competitor strategy markers",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "Building business around your life",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2959,53 @@
       "status": "reject",
       "reason": "This is a service offer for personal training clients, not business coaching for fitness coaches. Brian Mark's VIP 1-1 coaching appears to be fitness/physique coaching for end consumers, not business strategy/systems for online fitness coaches building their businesses.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "$50 Million of High Ticket Sales Advice in Under 31 Minutes",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-25T21:54:38.857572",
+      "status": "keep",
+      "reason": "Brian Mark is a recognized fitness business coach who teaches high-ticket sales strategies; this content likely contains specific sales tactics applicable to online fitness coaches scaling their offers.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "7 Steps to Optimize Your Instagram Profile to Make Money",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-25T21:54:39.548379",
+      "status": "reject",
+      "reason": "Title suggests general Instagram monetization tactics, not specific business-building intelligence for online fitness coaches or their mentors/programs.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Complete Guide To Creating Viral Content With Claude Projects",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-25T21:54:40.290194",
+      "status": "reject",
+      "reason": "Title discusses Claude AI tools for content creation, not fitness business coaching strategies or mentors serving online fitness coaches specifically.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "VIP 1-1 Coaching With PT Dom Recap",
+      "text": "Search: Brian Mark fitness coaching",
+      "url": "",
+      "time": "2026-11-25T21:54:41.131354",
+      "status": "reject",
+      "reason": "Contains only a recap title with no actual content, strategy details, offers, or positioning information about Brian Mark's coaching business or program specifics.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1603,
-    "kept": 248,
-    "rejected": 1341,
-    "last_scan": "2026-11-25T12:06:06.409788",
+    "scanned": 1607,
+    "kept": 249,
+    "rejected": 1344,
+    "last_scan": "2026-11-25T21:55:37.387127",
     "platforms": [
       "YouTube",
       "Google",

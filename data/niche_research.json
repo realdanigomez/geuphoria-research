@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Be Friendly",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-14T05:44:50.921338",
-      "status": "reject",
-      "reason": "Too vague and generic; lacks specific insights about fitness coaches' actual pain points, struggles, or actionable strategies for client acquisition.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Is Online Coaching a Scam? An Honest Answer",
       "text": "Search: online fitness coach struggling",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Directly addresses burnout—a primary pain point for online fitness coaches affecting retention, pricing power, and business sustainability. Understanding burnout triggers and solutions is core to coach longevity and scaling.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Online Fitness Coaching in 2027: Why Most Coaches Will Get Left Behind",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-25T21:53:26.225734",
+      "status": "keep",
+      "reason": "Addresses competitive positioning and market evolution—directly relevant to coach scalability concerns and business sustainability, which impacts client acquisition and income potential.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 952,
-    "kept": 362,
+    "scanned": 953,
+    "kept": 363,
     "rejected": 589,
-    "last_scan": "2026-11-25T12:04:55.156613",
+    "last_scan": "2026-11-25T21:54:29.362860",
     "platforms": [
       "Reddit",
       "YouTube",

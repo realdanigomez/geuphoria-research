@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "I Hire Hundreds Of People a Year, Here's How I Do It",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-10-06T00:36:11.690089",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "THIS Is The Exact Way I Hire Hundreds Of People Every Year",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "reject",
       "reason": "Search query alone without actual content, findings, or specific business insights provided; cannot evaluate substantive value",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "10 things that will dramatically improve the quality of your life (under $100)",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-25T21:55:44.893605",
+      "status": "reject",
+      "reason": "Generic self-help listicle lacks specific business insights, strategies, or entrepreneurship lessons; merely mentions Dan Martell in search context without substantive business content that would inform fitness coaching strategy or creator economy knowledge.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1417,
+    "scanned": 1418,
     "kept": 359,
-    "rejected": 1054,
-    "last_scan": "2026-11-25T12:07:10.069773",
+    "rejected": 1055,
+    "last_scan": "2026-11-25T21:56:42.946723",
     "platforms": [
       "YouTube",
       "Google",
