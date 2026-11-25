@@ -1582,56 +1582,6 @@
     },
     {
       "source": "YouTube",
-      "title": "Exposing Charlie Morgan's YouTube Strategy",
-      "text": "Search: Charlie Morgan business",
-      "url": "",
-      "time": "2026-10-02T08:50:25.036686",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "8 Entrepreneurs Compete For $100,000 (for real)",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-03T03:52:39.707783",
-      "status": "keep",
-      "reason": "Local score 3: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The MOST BRUTAL Business Competition Show",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-04T12:44:30.182741",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The Easiest Way To Grow Your Revenue Is To Ask THIS Question",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-10-04T12:44:35.791247",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "8 Entrepreneurs Compete For $100,000",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-04T23:28:07.256978",
-      "status": "keep",
-      "reason": "Local score 3: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "“My Team Can't Close Like Me”",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2539,11 +2489,11 @@
     "comp_rejected": 1332,
     "comp_scanned": 1594,
     "busi_kept": 359,
-    "busi_rejected": 1045,
-    "busi_scanned": 1408,
-    "last_scan": "2026-11-24T18:07:43.618124",
+    "busi_rejected": 1054,
+    "busi_scanned": 1417,
+    "last_scan": "2026-11-25T02:44:41.143301",
     "total_kept": 969,
-    "total_rejected": 2966,
+    "total_rejected": 2975,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
