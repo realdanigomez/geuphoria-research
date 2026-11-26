@@ -2,86 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Is Online Coaching a Scam? An Honest Answer",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-14T17:37:02.793493",
-      "status": "reject",
-      "reason": "The title suggests a skeptical/negative framing rather than providing specific, actionable intelligence about coaches' actual pain points, struggles, or solutions. This appears to be defensive content rather than research into their real challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "The truth about online fitness coaching...",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-15T03:39:38.755390",
-      "status": "reject",
-      "reason": "Title and search query suggest generic motivational content rather than specific pain points, struggles, or actionable intelligence for coaches' business problems.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Facebook Ads for Fitness \\u0026 Nutrition Coaches (2026 tutorial)",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-15T09:10:15.679427",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point with platform-specific strategy that online fitness coaches actively search for and struggle with implementing effectively.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Does it make sense?",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-15T09:10:16.678917",
-      "status": "reject",
-      "reason": "Too broad and generic; lacks specific insights into actual pain points, struggles, or solutions that online fitness coaches face. Doesn't provide actionable intelligence about their business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Ranking Every Client Acquisition Method For Online Coaches",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-15T23:56:36.455183",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition, a primary pain point for online fitness coaches seeking sustainable business growth and revenue scaling.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "How to Start/Scale An Online Fitness Coaching Business (Free Training)",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-16T03:40:30.486558",
-      "status": "keep",
-      "reason": "Directly addresses core pain points (starting/scaling) and search intent from fitness coaches actively seeking solutions, indicating high relevance to client acquisition, business growth, and operational challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Mindset",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-16T03:40:31.611820",
-      "status": "reject",
-      "reason": "Too vague and motivational - lacks specific data about actual pain points, struggles, or actionable insights for online fitness coaches. \"Mindset\" content without concrete problem details doesn't provide intelligence about their real business challenges.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Cómo ayudar a un entrenador de fitness online a conseguir clientes a través del contenido",
-      "text": "Search: online fitness coach struggling",
-      "url": "",
-      "time": "2026-09-16T09:02:22.496272",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition pain point for online fitness coaches through content strategy, which is a core struggle in the niche",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Cómo conservar a TODOS los clientes de entrenamiento personal | 5 estrategias que los entrenadore...",
       "text": "Search: fitness coach getting clients",
       "url": "",
@@ -2999,13 +2919,93 @@
       "status": "keep",
       "reason": "Addresses competitive positioning and market evolution—directly relevant to coach scalability concerns and business sustainability, which impacts client acquisition and income potential.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Start Online Fitness Coaching in 2027 (0 to $1M)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:22.279039",
+      "status": "reject",
+      "reason": "Generic how-to guide lacks specific pain point insights; \"0 to $1M\" is aspirational marketing without actionable detail on actual coach struggles like client acquisition channels, pricing strategy, or systems bottlenecks.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How to Get Coaching Clients in 2026 (Simple Strategy That Works)",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:23.203538",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches; title suggests concrete strategy rather than generic advice, valuable for understanding current acquisition methods in 2026.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why getting coaching clients feels so hard",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:24.053757",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition, a primary pain point for fitness coaches; likely contains insights into barriers and solutions for converting prospects into paying clients.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "The simple truth about how clients buy coaching",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:24.910187",
+      "status": "keep",
+      "reason": "Directly addresses client acquisition pain point with focus on buying psychology, which is core to fitness coaches' revenue and business growth challenges.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Using conversations to build trust",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:25.621498",
+      "status": "reject",
+      "reason": "Generic trust-building advice without specific application to fitness coach client acquisition, pricing, retention, or business challenges",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Leveraging your existing network",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:26.326107",
+      "status": "reject",
+      "reason": "Generic networking advice without specific tactics for fitness coaches' client acquisition challenges, conversion rates, or network monetization strategies",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Consistency vs. perfection",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:27.074319",
+      "status": "reject",
+      "reason": "Generic motivational concept without specific insights into fitness coaches' actual pain points, client acquisition strategies, or business operations",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Your simple action plan for this week",
+      "text": "Search: fitness coach getting clients",
+      "url": "",
+      "time": "2026-11-26T03:55:28.155913",
+      "status": "reject",
+      "reason": "Generic weekly planning content lacks specific insights into fitness coaches' actual pain points, client acquisition strategies, or business challenges; \"getting clients\" is mentioned only in search context, not addressed in the finding itself.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 953,
-    "kept": 363,
-    "rejected": 589,
-    "last_scan": "2026-11-25T21:54:29.362860",
+    "scanned": 961,
+    "kept": 366,
+    "rejected": 594,
+    "last_scan": "2026-11-26T03:56:28.133445",
     "platforms": [
       "Reddit",
       "YouTube",
