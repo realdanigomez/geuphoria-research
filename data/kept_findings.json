@@ -2429,6 +2429,16 @@
       "status": "keep",
       "reason": "Dan Martell content on behavioral psychology and productivity likely contains actionable frameworks for coaching content around motivation, habit formation, and client transformation—directly applicable to fitness coaching messaging and business strategy.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Give Me 8 Minutes And I'll Make You Dangerously Good At Sales",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-27T14:41:53.484115",
+      "status": "keep",
+      "reason": "Dan Martell is an influential business strategist and this title promises actionable sales fundamentals that could be adapted into fitness coaching sales funnels, client conversion strategies, or coaching program positioning content.",
+      "track": "business"
     }
   ],
   "stats": {
@@ -2438,11 +2448,11 @@
     "comp_kept": 250,
     "comp_rejected": 1355,
     "comp_scanned": 1619,
-    "busi_kept": 359,
+    "busi_kept": 360,
     "busi_rejected": 1059,
-    "busi_scanned": 1422,
-    "last_scan": "2026-11-27T04:48:24.115974",
-    "total_kept": 975,
+    "busi_scanned": 1423,
+    "last_scan": "2026-11-27T14:42:50.738154",
+    "total_kept": 976,
     "total_rejected": 3009,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
