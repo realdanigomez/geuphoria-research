@@ -2,16 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "“My Team Can't Close Like Me”",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:39.510062",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "How to Make $2M in 8 Months Before the Government Shuts You Down",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2999,13 +2989,23 @@
       "status": "keep",
       "reason": "Dan Martell is an influential business strategist and this title promises actionable sales fundamentals that could be adapted into fitness coaching sales funnels, client conversion strategies, or coaching program positioning content.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "It's Not Fun, But It Will Make You Rich",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-27T23:13:26.000603",
+      "status": "keep",
+      "reason": "Alex Hormozi is a highly influential business strategist whose content on monetization, scaling, and entrepreneurship directly applies to building a fitness coaching business; this title suggests actionable insights on wealth-building strategies relevant to creator economy and business model optimization.",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1423,
-    "kept": 360,
+    "scanned": 1424,
+    "kept": 361,
     "rejected": 1059,
-    "last_scan": "2026-11-27T14:42:50.734634",
+    "last_scan": "2026-11-27T23:14:29.420198",
     "platforms": [
       "YouTube",
       "Google",
