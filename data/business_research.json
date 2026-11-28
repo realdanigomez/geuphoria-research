@@ -2,76 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Starting a Business for Dummies",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:39.836653",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Prepare Like a Crazy Person",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:40.003290",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Spend $500 to Avoid a 5-Year Lease Mistake",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:40.171220",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "“Business Or Kids?”",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:40.346738",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "The First $100 Was the Richest I've Ever Felt",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:40.503761",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "You Have 300 Users and You've Talked to 3 of Them",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:40.665808",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
-      "title": "Brutal Life Lessons I Wish I Knew in My 20s",
-      "text": "Search: Dan Martell",
-      "url": "",
-      "time": "2026-10-07T17:55:46.394316",
-      "status": "reject",
-      "reason": "Local score 1: below threshold",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Stop Trying Every Marketing Channel at Once, Do THIS Instead",
       "text": "Search: Dan Martell",
       "url": "",
@@ -2999,13 +2929,83 @@
       "status": "reject",
       "reason": "Title and content appear to be a church live stream with no visible business insights, strategies, or entrepreneurship lessons. Sam Ovens name in title seems incidental to religious content, not actual business teaching material.",
       "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "It's Unsexy, But It Will Make You Rich",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-28T13:53:18.908534",
+      "status": "keep",
+      "reason": "Alex Hormozi content on counter-intuitive wealth-building principles could provide actionable business strategies and mindset lessons applicable to fitness coaching business models, pricing, and customer acquisition",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Section 1: Sales Strategy",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-28T13:53:19.816655",
+      "status": "reject",
+      "reason": "Search result page with no actual content, strategy, or insights from Alex Hormozi included - just a title and search query with no substantive business intelligence to extract.",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Top 0.01% Handbook",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-28T13:53:20.509341",
+      "status": "reject",
+      "reason": "Search result without actual content; no specific insights, strategies, or actionable intelligence provided to evaluate",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "The Roadmap",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-28T13:53:21.303669",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi—no specific business intelligence to extract or apply",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Section 2: Sales Recruitment",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-28T13:53:22.078759",
+      "status": "reject",
+      "reason": "Search result title only, no actual content from Alex Hormozi about sales recruitment strategies or actionable insights provided to analyze",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "What You Need",
+      "text": "Search: Alex Hormozi",
+      "url": "",
+      "time": "2026-11-28T13:53:22.915270",
+      "status": "reject",
+      "reason": "Search query alone without actual content, insights, or strategies from Alex Hormozi—no specific, actionable intelligence present to extract or apply",
+      "track": "business"
+    },
+    {
+      "source": "YouTube",
+      "title": "Why The Best Marketing Never Asks For Anything In Return",
+      "text": "Search: Dan Martell",
+      "url": "",
+      "time": "2026-11-28T13:53:28.994237",
+      "status": "keep",
+      "reason": "Direct reference to Dan Martell with counterintuitive marketing principle applicable to fitness coaching positioning and customer acquisition strategy",
+      "track": "business"
     }
   ],
   "stats": {
-    "scanned": 1425,
-    "kept": 361,
-    "rejected": 1060,
-    "last_scan": "2026-11-28T04:53:24.301751",
+    "scanned": 1432,
+    "kept": 363,
+    "rejected": 1065,
+    "last_scan": "2026-11-28T13:54:26.375400",
     "platforms": [
       "YouTube",
       "Google",

@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "Cómo conseguir, mantener y multiplicar tus clientes de entrenamiento personal o gimnasio",
-      "text": "Search: fitness coach getting clients",
-      "url": "",
-      "time": "2026-09-16T09:02:27.631563",
-      "status": "keep",
-      "reason": "Directly addresses client acquisition and retention strategies for fitness coaches, covering the full client lifecycle (getting, maintaining, scaling) which are core pain points for online fitness business growth.",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
-      "title": "Estrategias para superar el \\",
-      "text": "Search: fitness coach burnout",
-      "url": "",
-      "time": "2026-09-16T09:02:34.332578",
-      "status": "reject",
-      "reason": "Title appears incomplete/corrupted and content is only a search query term without findings, data, or actionable insights about fitness coach pain points",
-      "track": "niche"
-    },
-    {
-      "source": "YouTube",
       "title": "Introducción",
       "text": "Search: fitness coach burnout",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Generic advice about gym floor outreach lacks specifics on online coaching challenges; doesn't address digital client acquisition, systems, or scaling issues relevant to online fitness coaches.",
       "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "Fitness Influencers Are Going Broke (Here's Why)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-28T13:51:07.066659",
+      "status": "keep",
+      "reason": "Directly addresses income struggles of fitness professionals, revealing why coaches fail financially—essential for understanding client acquisition costs, pricing models, and business sustainability challenges that online coaches face.",
+      "track": "niche"
+    },
+    {
+      "source": "YouTube",
+      "title": "How To Start Online Fitness Coaching in 2027 (0 to $1M)",
+      "text": "Search: online fitness coach struggling",
+      "url": "",
+      "time": "2026-11-28T13:51:08.024788",
+      "status": "reject",
+      "reason": "Generic how-to guide lacks specific pain points, struggles, or actionable intelligence about the actual problems online fitness coaches face; \"0 to $1M\" is aspirational marketing rather than research into real coach challenges.",
+      "track": "niche"
     }
   ],
   "stats": {
-    "scanned": 962,
-    "kept": 366,
-    "rejected": 595,
-    "last_scan": "2026-11-28T04:51:16.641124",
+    "scanned": 964,
+    "kept": 367,
+    "rejected": 596,
+    "last_scan": "2026-11-28T13:52:10.418047",
     "platforms": [
       "Reddit",
       "YouTube",

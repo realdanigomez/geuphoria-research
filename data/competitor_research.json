@@ -2,26 +2,6 @@
   "entries": [
     {
       "source": "YouTube",
-      "title": "How Daily Habits Build Your Future",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-11-03T23:57:12.464797",
-      "status": "reject",
-      "reason": "No specific intelligence provided. Finding only mentions a search query without actual content, strategy, offers, or positioning details about Bedros Keuilian or his business model.",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
-      "title": "Health Is the Ultimate Foundation",
-      "text": "Search: Bedros Keuilian online fitness",
-      "url": "",
-      "time": "2026-11-04T20:15:44.467075",
-      "status": "reject",
-      "reason": "Finding contains only a search query with no actual content, strategy, offers, or positioning information about Bedros Keuilian or fitness business coaching",
-      "track": "competitor"
-    },
-    {
-      "source": "YouTube",
       "title": "The $47/Month Trap That Kills Coaching Profits: High-Ticket Sales \\u0026 Objection Handling",
       "text": "Search: Charlie Johnson fitness business",
       "url": "",
@@ -2999,13 +2979,33 @@
       "status": "reject",
       "reason": "Search query alone without actual content, findings, or intelligence about Charlie Johnson's strategy, offers, positioning, or methods for coaching online fitness coaches.",
       "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Box Smart: How AI Creative and Tracking Slashed Our Ad Costs 80% and Scaled to $300K",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-28T13:52:18.697488",
+      "status": "reject",
+      "reason": "Title discusses AI tools and ad optimization tactics, not business coaching or mentorship specific to online fitness coaches. No evidence this is from or about a fitness business coach targeting coaches as clients.",
+      "track": "competitor"
+    },
+    {
+      "source": "YouTube",
+      "title": "Lead Wizard CRM introduction",
+      "text": "Search: Charlie Johnson fitness business",
+      "url": "",
+      "time": "2026-11-28T13:52:19.614443",
+      "status": "reject",
+      "reason": "No specific intelligence provided about Lead Wizard CRM's strategy, positioning, offers, or how it helps online fitness coaches build their business. Title alone is insufficient without actual content details.",
+      "track": "competitor"
     }
   ],
   "stats": {
-    "scanned": 1619,
+    "scanned": 1621,
     "kept": 250,
-    "rejected": 1355,
-    "last_scan": "2026-11-28T04:52:19.776431",
+    "rejected": 1357,
+    "last_scan": "2026-11-28T13:53:16.917094",
     "platforms": [
       "YouTube",
       "Google",
