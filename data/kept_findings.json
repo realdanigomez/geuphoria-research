@@ -1532,16 +1532,6 @@
     },
     {
       "source": "YouTube",
-      "title": "How to Make $2M in 8 Months Before the Government Shuts You Down",
-      "text": "Search: Alex Hormozi",
-      "url": "",
-      "time": "2026-10-07T17:55:39.689770",
-      "status": "keep",
-      "reason": "Local score 2: business insight markers",
-      "track": "business"
-    },
-    {
-      "source": "YouTube",
       "title": "Starting a Business for Dummies",
       "text": "Search: Alex Hormozi",
       "url": "",
@@ -2449,11 +2439,11 @@
     "comp_rejected": 1355,
     "comp_scanned": 1619,
     "busi_kept": 361,
-    "busi_rejected": 1059,
-    "busi_scanned": 1424,
-    "last_scan": "2026-11-27T23:14:29.424001",
+    "busi_rejected": 1060,
+    "busi_scanned": 1425,
+    "last_scan": "2026-11-28T04:53:24.304813",
     "total_kept": 977,
-    "total_rejected": 3009,
+    "total_rejected": 3010,
     "ai_model": "claude-haiku-4-5",
     "niche_platforms": [
       "Reddit",
